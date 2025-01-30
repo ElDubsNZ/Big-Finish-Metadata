@@ -16,6 +16,12 @@ Please log any corrections needed under issues.
 
 I would love to include cover art, but I'm not certain of the copyright status and don't want to risk github taking the repository down, so you'll need to source this yourself.
 
+I highly recommend using the custom metadata provider at https://www.audiobookshelf.org/guides/custom-metadata-providers/.
+
+This collects the cover art for you. It will also do metadata as well, but the metadata is a little less refined than the manual work I've done on mine.
+
+Use both, just put OPF at the top of your Scanner priority list in audiobookshelf so it'll get the scraped metadata where you don't have an .opf yet.
+
 ## Folder Structure
 
 The collector I got the folder structure from kept audio files for a full season in the same folder, however audiobookshelf requires these to be separate.
