@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Unknown</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-425-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Diary of River Song - Series 2"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Anna Maxwell-Martin (Maddie Bower)</dc:creator>
+        <dc:creator opf:role="nrt">Gemma Saunders (Ellen Byrne)</dc:creator>
+        <dc:creator opf:role="nrt">Justin Avoth (Robert Murphy)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Computer)</dc:creator>
+        <dc:creator opf:role="nrt">Salome Haertel (Rachel)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A planetary anomaly. A scientific impossibility. A mystery to be solved. 
+
+Of course, River Song expects to be consulted. She expects her valuable knowledge and experience will help the crew of the Saturnius unlock the strange phenomenon that has appeared in Earth's solar system. 
+
+But what River doesn't expect is a stowaway. An infuriating little man, calling himself the Doctor.</dc:description>
+    </metadata>
+</package>

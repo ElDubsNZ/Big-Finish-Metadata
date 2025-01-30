@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Horror of Glam Rock</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2007-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-257-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Series 1"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Magrs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sheridan Smith (Lucie Miller)</dc:creator>
+        <dc:creator opf:role="nrt">Clare Buckfield (Trisha Tomorrow)</dc:creator>
+        <dc:creator opf:role="nrt">Bernard Cribbins (Arnold Korns)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Gately (Tommy Tomorrow)</dc:creator>
+        <dc:creator opf:role="nrt">Lynsey Hardwick (Pat)</dc:creator>
+        <dc:creator opf:role="nrt">Katarina Olsson (The Headhunter / The Only Ones)</dc:creator>
+        <dc:creator opf:role="nrt">Una Stubbs (Flo)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and Lucie go glam when the TARDIS makes an unexpected landing in 1974. Slade, The Sweet and Suzi Quatro are Top of the Pops - and brother-and-sister duo The Tomorrow Twins will soon be joining them, if the starmaking Svengali Arnold Korns has his way.
+
+But will their dreams turn to dust at a service station somewhere on the M62, besieged by a pack of alien monsters?</dc:description>
+    </metadata>
+</package>

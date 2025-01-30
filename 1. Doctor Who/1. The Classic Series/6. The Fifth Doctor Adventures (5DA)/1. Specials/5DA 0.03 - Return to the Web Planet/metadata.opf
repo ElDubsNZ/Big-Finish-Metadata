@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Return to the Web Planet</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-252-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fifth Doctor Adventures - Specials"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Daniel O'Mahony</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Julie Buckfield (Hedyla)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Kelly (Acheron)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Noble (Yanesh)</dc:creator>
+        <dc:creator opf:role="nrt">Claire Wyatt (Speaker)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>
+
+"It's an ancient name. From the dark time..."
+
+It's been hundreds of years and several regenerations since the Doctor last visited the insect world of Vortis. Much has changed during his absence, but not necessarily for the better.
+
+This now green and pleasant land isn't the paradise it first appears. Something malevolent is living out in The Desolation... And the Doctor and Nyssa must solve the mystery before the City of Light is overrun.
+
+Doctor Who Monthly Adventures subscribers whose subscription includes release #103, The Girl Who Never Was, will receive this Doctor Who audio drama absolutely free. Return to the Web Planet can also be bought separately.</dc:description>
+    </metadata>
+</package>

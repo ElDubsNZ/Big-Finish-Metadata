@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Office of Never Was</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-643-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="17"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Gareth David-Lloyd (Ianto Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Bethan Rose Young (Girl)</dc:creator>
+        <dc:creator opf:role="nrt">David Shields (Oliver)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>There's an empty office block in Cardiff. That's nothing special – plenty of businesses go under, clear out, cease to exist. All that's left behind is an empty building. But there's one office block that refuses to be forgotten about. 
+
+There have been stories about that building - strange lights, funny goings on, faces pressed up against the glass. Enough to get the locals worried. Enough to ask Torchwood to get involved. 
+
+It’s Friday night. Ianto Jones has better things to do with his time than look round a haunted building. But he goes anyway, and it turns out that The Office has been waiting for him.</dc:description>
+    </metadata>
+</package>

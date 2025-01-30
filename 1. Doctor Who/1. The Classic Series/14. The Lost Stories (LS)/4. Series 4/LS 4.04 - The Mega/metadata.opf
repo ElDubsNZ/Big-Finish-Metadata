@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Mega</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-098-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 4"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Bill Strutton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Katy Manning (Jo Grant (Jo Jones))</dc:creator>
+        <dc:creator opf:role="nrt">Richard Franklin (Yates)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Carlyle (Magee / Laurence / The Mega / Chap)</dc:creator>
+        <dc:creator opf:role="nrt">Bo Poraj (Wiley / Cassier / Prime Minister / Man)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"This is a warning. Your aggression cannot go unchecked. The West must disarm. We will make you disarm."
+
+When an assassination follows the first demonstration of a deadly new weapon, it appears that an alien race has fired the opening salvo in a new war - a war… for peace.
+
+But is that truly their intent? The Doctor is unsure. The answer lies deep in the heart of a distant country. A place where a man might be a hero or a traitor. Where a man has to face the menace… of the Mega.</dc:description>
+    </metadata>
+</package>

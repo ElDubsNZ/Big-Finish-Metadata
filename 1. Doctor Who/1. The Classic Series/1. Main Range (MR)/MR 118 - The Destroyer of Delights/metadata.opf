@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Key 2 Time - The Destroyer of Delights</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-364-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="118"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Clements</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Ciara Janson (Amy)</dc:creator>
+        <dc:creator opf:role="nrt">Will Barton (Djinni / Guard)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Chahidi (Hasan / Computer)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Longworth (Guard)</dc:creator>
+        <dc:creator opf:role="nrt">David Peart (The Vizier)</dc:creator>
+        <dc:creator opf:role="nrt">Bryan Pilkington (Prince Omar)</dc:creator>
+        <dc:creator opf:role="nrt">Jess Robinson (Nisrin)</dc:creator>
+        <dc:creator opf:role="nrt">David Troughton (The Black Guardian)</dc:creator>
+        <dc:creator opf:role="nrt">Jason Watkins (The Legate of the Caliph)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>“You will be always looking in the wrong place. I have searched through all of Time and I cannot find it.”
+
+The search for the Key to Time has stalled: the next segment does not appear to exist anywhere in the Universe. Forced into a temporary alliance with one of his greatest enemies, the Doctor suggests a course of action that is a validation of chaos itself.
+
+Thrown at random across Space and Time, the Doctor and Amy arrive in 9th Century Sudan, where the greedy Lord Cassim is hoarding gold from the Legate of the Caliph. But why does Cassim look so familiar? What is the mysterious Djinni that lives out in the desert? And why does it need so much treasure?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Peake Season</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-055-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 11"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizbeth Myles</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Alicia Ambrose-Bayly (Hanna Schumann / Nurse)</dc:creator>
+        <dc:creator opf:role="nrt">Ronni Ancona (Thana / Mayor of Glimmer)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Asbury (Doctor Sturm / German Colonel)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Dixon (Detective Inspector Alan Probert)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Elstob (Drones / Aide / Sergeant)</dc:creator>
+        <dc:creator opf:role="nrt">John Heffernan (The Nine)</dc:creator>
+        <dc:creator opf:role="nrt">David Holt (Mervyn Peake)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Hope (General Reinhardt)</dc:creator>
+        <dc:creator opf:role="nrt">Ava Merson-O'Brien (Queen Alexandrina LXVII)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (Captain Max Beck / Captain Starling / Private Müller)</dc:creator>
+        <dc:creator opf:role="nrt">Finlay Robertson (Lieutenant Hans Hoffman / Cockney Guard/British Sergeant)</dc:creator>
+        <dc:creator opf:role="nrt">Marc Silk (Mortimer Seepgood)</dc:creator>
+        <dc:creator opf:role="nrt">David Sterne (Lord Arthur Grayson / John)</dc:creator>
+        <dc:creator opf:role="nrt">Jules de Jongh (Lady Honor Valspierre)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>After an embarrassing encounter, the Doctor tries to make amends to Mervyn Peake by offering him a trip in the TARDIS. It’s a trip the famous author should never have accepted.
+
+Soon he and the Doctor find themselves trapped in a nameless city and working as newspaper cartoonists.
+
+Where are they? More importantly, where is the TARDIS? And more importantly than that - can they escape with their lives?</dc:description>
+    </metadata>
+</package>

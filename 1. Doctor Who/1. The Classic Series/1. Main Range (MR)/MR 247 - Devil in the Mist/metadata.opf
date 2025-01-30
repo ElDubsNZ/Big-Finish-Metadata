@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Devil in the Mist</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-843-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="247"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Cavan Scott</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Strickson (Vislor Turlough)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (Kamelion)</dc:creator>
+        <dc:creator opf:role="nrt">Anjella MacKintosh (Orna)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Slater (Nustanu)</dc:creator>
+        <dc:creator opf:role="nrt">John Voce (Rako)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS deposits the Doctor, Tegan, Turlough and their android ally Kamelion aboard a prison ship. A ship with just one prisoner: Nustanu, last warlord of the Zamglitti – monstrous, mind-bending mimics able to turn themselves into mist.
+
+A ship that's in trouble, and about to make a crash-landing...
+
+On a planet of mists.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Seven Keys to Doomsday</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-374-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Stageplays"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Terrance Dicks</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Trevor Martin (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Hayes (Jenny)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Thompson (Jimmy)</dc:creator>
+        <dc:creator opf:role="nrt">Christine Brennan (Tara)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Deal (Jedak)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Thornley (Computer / Macro)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (The Master of Karn / Garm)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A special audio adaptation of the Doctor Who stage-play from the 1970s.
+
+A newly-regenerated Doctor takes his young companions, Jenny and Jimmy, to the desolate world of Karn. There they must face terrifying monsters and brave fiendish traps to locate seven crystal keys.
+
+If they fail in their task, the Doctor’s arch enemies, the Daleks, will unleash their evil upon the entire universe!</dc:description>
+    </metadata>
+</package>

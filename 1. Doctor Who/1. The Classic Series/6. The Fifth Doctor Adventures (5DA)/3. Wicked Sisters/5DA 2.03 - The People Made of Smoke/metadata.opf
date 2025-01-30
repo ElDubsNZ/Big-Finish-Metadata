@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The People Made of Smoke</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-290-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fifth Doctor Adventures - Volume 2 - Wicked Sisters"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Ciara Janson (Abby)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Doddington (Zara)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Smoke Creatures)</dc:creator>
+        <dc:creator opf:role="nrt">Pandora Clifford (Zeeb / Zeet)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Courtenay Hyu (Wei)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Sixth Doctor[u])</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Abby and Zara strive to use their powers for good but it’s clear they are damaging reality - and allowing monstrous creatures to bleed through from beyond. The Doctor knows he can only save the universe by destroying his friends. But just how much might he be willing to sacrifice if there’s a chance to save them?</dc:description>
+    </metadata>
+</package>

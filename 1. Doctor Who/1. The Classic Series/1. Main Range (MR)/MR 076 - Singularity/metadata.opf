@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Singularity</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2005-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-173-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="76"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Swallow</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Strickson (Vislor Turlough)</dc:creator>
+        <dc:creator opf:role="nrt">Max Bollinger (Pavel Fedorin)</dc:creator>
+        <dc:creator opf:role="nrt">Dominika Boon (Natalia Pushkin)</dc:creator>
+        <dc:creator opf:role="nrt">Maitland Chandler (Seo)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Cuckson (Cord)</dc:creator>
+        <dc:creator opf:role="nrt">Marq English (Xen)</dc:creator>
+        <dc:creator opf:role="nrt">Billy Miller (Tev)</dc:creator>
+        <dc:creator opf:role="nrt">Oleg Mirochnikov (Alexi Korolev)</dc:creator>
+        <dc:creator opf:role="nrt">Eve Polycarpou (Qel)</dc:creator>
+        <dc:creator opf:role="nrt">Natasha Radiski (Lena Korolev)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Russia, the near future. The Somnus Foundation knows the fate of mankind; they promise a tomorrow where humanity will evolve into a godlike form of infinite power. They will lead us there, to a destiny that spans the stars. This is how the future will unfold.
+
+The Doctor knows the fate of mankind; the human race is destined to fight and struggle for their very existence, to survive disaster and war and carve an empire from an unforgiving universe. He has seen it with his own eyes. This is how the future will unfold.
+
+Beneath the towering headquarters of the Somnus in the streets of Moscow, a dark power is building, and a conspiracy that stretches across eternity is nearing completion.
+
+Time is fracturing and the Doctor and Turlough are at the heart of the chaos. History is about to change and the galaxy will burn in its wake...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>A Beginner's Guide to Monsters (and How to Slay Them)</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-458-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jenny - The Doctor's Daughter - Series 3 - Saving Time"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Rochana Patel</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Georgia Tennant (Jenny)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Biggerstaff (Noah)</dc:creator>
+        <dc:creator opf:role="nrt">David Cann (Albert)</dc:creator>
+        <dc:creator opf:role="nrt">Liam Lau-Fernandez (Thomas)</dc:creator>
+        <dc:creator opf:role="nrt">Sophia Nomvete (Manticore)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Escaping the 20th century, Jenny and Noah arrive in a medieval monastery under siege - from monsters lifted from the very pages of the Bestiary the monks are working to create.
+
+How can they possibly defeat creatures of myth and legend? With griffins, manticores, and unicorns on the loose, Jenny needs to learn fast...</dc:description>
+    </metadata>
+</package>

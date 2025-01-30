@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Vespertine</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-750-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Time War - Volume 5 - Cass"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lou Morgan</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Emma Campbell-Jones (Cass Fermazzi)</dc:creator>
+        <dc:creator opf:role="nrt">Sonny McGann (Alex Campbell)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Shepherd (Hudson Sage)</dc:creator>
+        <dc:creator opf:role="nrt">Indigo Griffiths (Rin Martolo)</dc:creator>
+        <dc:creator opf:role="nrt">Homer Todiwala (Ebus)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It’s Cass’s first trip in the TARDIS, and the Doctor is determined to make it one to remember. But when they arrive at a research base that shouldn’t exist, built above a missing explorer’s ship that should never have been found, it seems their visit’s going to be memorable for all the wrong reasons.
+
+Because deep beneath the ice, there’s more than just a long-lost ship waiting for them…</dc:description>
+    </metadata>
+</package>

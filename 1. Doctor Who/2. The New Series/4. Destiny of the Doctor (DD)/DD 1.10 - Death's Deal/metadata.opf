@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Death's Deal</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-47131-176-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Destiny of the Doctor"/>
+        <meta name="calibre:series_index" content="10"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Darren Jones</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Catherine Tate (Donna Noble)</dc:creator>
+        <dc:creator opf:role="nrt">Duncan Wisbey (Krux/Erskine)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Responding to multiple maydays, the TARDIS lands on the planet of Death’s Deal, but the distress calls are old, the final echoes of terrified lost souls. This is an exotic world of lethal creatures, nicknamed ‘The Deadliest Planet in the Galaxy’, and only the brave, foolhardy or greedy would ever dare to visit.
+
+Finding themselves stranded among a motley bunch of space-tourists, the Doctor and Donna must lead a struggle for survival against the frenzied wildlife, as they slowly realise that other members of the group have very different agendas.
+
+And soon the Doctor learns of an even bigger threat hiding on Death’s Deal. Somewhere deep below the surface, is something that must never be unearthed. Time is running out, and only an impossible survivor holds the key...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Here Lies Drax</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-754-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Connections"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Hattie Morahan (Helen Sinclair)</dc:creator>
+        <dc:creator opf:role="nrt">Shane Richie (Drax / Celebrant)</dc:creator>
+        <dc:creator opf:role="nrt">Jeff Rawle (Captain Miles Rozann / Valtrassi)</dc:creator>
+        <dc:creator opf:role="nrt">Nina Wadia (Mimi / Valtrassi)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Ross (Stern / Valtrassi)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor, Liv and Helen are surprised to get a letter delivered to the TARDIS from the Doctor’s old school friend, Drax.
+
+They’re even more surprised when it’s followed by a parcel also sent by the intergalactic con-man, asking them to keep its contents safe. Contents that seem to be a lot of worthless junk.
+
+And their surprise gets even bigger when this parcel is itself followed by an invitation... to Drax’s funeral.
+
+And that’s just where the surprises start.</dc:description>
+    </metadata>
+</package>

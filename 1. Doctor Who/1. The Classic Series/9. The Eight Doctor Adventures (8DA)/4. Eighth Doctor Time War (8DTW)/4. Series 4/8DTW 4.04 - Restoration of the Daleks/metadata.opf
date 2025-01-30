@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Restoration of the Daleks</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-387-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Time War - Volume 4"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Rakhee Thakrar (Bliss)</dc:creator>
+        <dc:creator opf:role="nrt">Terry Molloy (Davros)</dc:creator>
+        <dc:creator opf:role="nrt">Adèle Anderson (Major Tamasan)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Jarman (Cardinal Rasmus)</dc:creator>
+        <dc:creator opf:role="nrt">Jemima Rooper (Mithia / Warrior Mithia)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Daleks / Dalek Time Strategist / Dalek Emperor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Dalek Time Strategist restores the Dalek armies to the universe but wants to dispense with Davros.</dc:description>
+    </metadata>
+</package>

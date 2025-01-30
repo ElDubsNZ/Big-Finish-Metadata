@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Isos Network</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-356-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Early Adventures - Series 2"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Frazer Hines (Jamie McCrimmon / The Doctor / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Wendy Padbury (Zoe Heriot / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Rachel Bavidge (Seru)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Cybermen)</dc:creator>
+        <dc:creator opf:role="nrt">Kieran Hodgson (Alam / Hilsee)</dc:creator>
+        <dc:creator opf:role="nrt">Richard James (Enab)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor, Jamie and Zoe are leaving Earth after having successfully defeated a Cyberman invasion... The Cyber-fleet is still exploding... But something is escaping through the mass of vaporising debris.
+
+In hot pursuit, the Doctor and his friends find themselves drawn to a mysterious planet where strange beasts slither through the streets of a deserted city... And an old enemy lurks beneath the streets.
+
+As a force of heavily-armed aliens arrives, a battle to save the entire galaxy from invasion begins.</dc:description>
+    </metadata>
+</package>

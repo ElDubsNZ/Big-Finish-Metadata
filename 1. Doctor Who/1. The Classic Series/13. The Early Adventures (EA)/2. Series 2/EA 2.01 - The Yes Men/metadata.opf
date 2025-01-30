@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Yes Men</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-353-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Early Adventures - Series 2"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Anneke Wills (Polly Wright / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Frazer Hines (Jamie McCrimmon / The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Elliot Chapman (Ben Jackson)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Critchlow (The Yes Men)</dc:creator>
+        <dc:creator opf:role="nrt">Lizzie McInnerny (Harriet Quilp)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (The President)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Speyer (Nesca Bangate)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor, Jamie, Polly and Ben arrive on New Houston, an Earth colony in the Fourth Sector, which the Doctor previously saved from an alien invasion. He wishes to pay his respects to his late friend Meg Carvossa, but something is not quite right with New Houston’s subservient robots...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Fourth Wall</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-605-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="157"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Greenwood (Flip Jackson)</dc:creator>
+        <dc:creator opf:role="nrt">Yasmin Bannerman (Dr Helen Shepherd)</dc:creator>
+        <dc:creator opf:role="nrt">Henry Devas (Junior / Warmonger)</dc:creator>
+        <dc:creator opf:role="nrt">Tilly Gaunt (Olivia Sayle / Jancey)</dc:creator>
+        <dc:creator opf:role="nrt">Martin Hutson (Matthew Howland / Lord Krarn)</dc:creator>
+        <dc:creator opf:role="nrt">Hywel Morgan (Nick Kenton / Jack Laser)</dc:creator>
+        <dc:creator opf:role="nrt">Julian Wadham (Augustus Scullop)</dc:creator>
+        <dc:creator opf:role="nrt">Kim Wall (Chimbly / Head Warmonger / Newsreader)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Business is bad for intergalactic media mogul Augustus Scullop, whose Trans-Gal empire is on the rocks. But, having retreated to his own private planet, Transmission, Scullop is about to gamble his fortune on a new show, made with an entirely new technology. And the name of that show... is Laser.
+
+Back in the real world, far from the realms of small screen sci-fi fantasies about monsters and aliens, the Doctor is interested only in watching Test Match cricket… but finds himself drawn into Scullop’s world when his new travelling companion, Flip, is snatched from inside the TARDIS.
+
+So, while the Doctor uncovers the terrible secret of Trans-Gal’s new tech, Flip battles to survive in a barren wilderness ruled over by the indestructible Lord Krarn and his pig-like servants, the Warmongers. And the name of that wilderness... is ‘Stevenage’.</dc:description>
+    </metadata>
+</package>

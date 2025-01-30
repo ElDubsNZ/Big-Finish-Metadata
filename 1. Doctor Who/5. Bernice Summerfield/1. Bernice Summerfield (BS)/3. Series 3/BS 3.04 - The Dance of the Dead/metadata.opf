@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Dance of the Dead</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2002-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-479-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 3"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Stephen Cole</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Brenher (Grand Marshall Sstac)</dc:creator>
+        <dc:creator opf:role="nrt">Francis Magee (Karter)</dc:creator>
+        <dc:creator opf:role="nrt">Vivien Parry (General Azzar)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Illegally smuggled aboard a spaceship, hungover to the nth degree, all Benny Summerfield wants is to curl up in a ball and die. And it looks like she's going to get her chance.
+
+When disaster strikes the ship - human error, or deliberate sabotage? - Benny barely survives. Banding together with a party of Ice Warriors and a laconic steward, a hazardous, arduous race is on to find a way out of the wreck before it breaks up all together. But are her fellow escapees all they seem? Benny finds that's hard to tell when your own mind's being hijacked by the memories and emotions of a dead alien - while a Martian Grand Marshall becomes your better half...</dc:description>
+    </metadata>
+</package>

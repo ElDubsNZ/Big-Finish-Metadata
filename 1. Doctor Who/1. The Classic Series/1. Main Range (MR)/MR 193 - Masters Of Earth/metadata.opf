@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Masters of Earth</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-334-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="193"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mark Wright</dc:creator>
+        <dc:creator opf:role="aut">Cavan Scott</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Biggerstaff (Ross Nicolson)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks / Robomen)</dc:creator>
+        <dc:creator opf:role="nrt">Damian Lynch (Curbishly)</dc:creator>
+        <dc:creator opf:role="nrt">Brian McCardie (Alan Weir)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Ross (Kyle Inskip)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy Wiles (Moira Brody)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The year is 2163. Ten years since the Daleks invaded the Earth. One year until the Doctor, in his first incarnation, will help bring the occupation to an end. But for now, their reign of terror goes on.
+
+The TARDIS brings the Doctor and Peri to Scotland - enslaved, like everywhere else on the planet. But there are rumours of Dalek-free islands off its coast. Places where resistors and refuseniks are coming together, gathering arms and armour, preparing to strike back against the enemy.
+
+When the Doctor falls in with an unlikely group of freedom fighters making that dangerous journey to Orkney, he finds himself trapped - but not only by the Daleks, their robotised henchmen and their human collaborators.
+
+By history.
+
+Because history shows that for another year, resistance is useless...
+
+The rebellion must fail - and as a Time Lord, the Doctor can do nothing to help</dc:description>
+    </metadata>
+</package>

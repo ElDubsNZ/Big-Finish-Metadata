@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Flight to Calandra</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-724-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Twelfth Doctor Chronicles - Volume 2 - Timejacked!"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jacob Dudman (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bhavnisha Parmar (Keira Sanstrom)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Hamblett (Vetch / Confused Vetch)</dc:creator>
+        <dc:creator opf:role="nrt">Hannah Genesius (Milla / Confused Milla)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor wants a peaceful afternoon playing guitar in his study. Keira wants the Doctor to take her from Earth to the planet Calandra. Reluctantly, the Doctor agrees. But when they arrive, Calandra isn't how Keira remembers. Something's gone very wrong...</dc:description>
+    </metadata>
+</package>

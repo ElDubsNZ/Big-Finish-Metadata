@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Wanderer</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-621-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 6"/>
+        <meta name="calibre:series_index" content="10"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Richard Dinnick</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">William Russell (Ian Chesterton)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Chipping (Grigory)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Siberia at the end of the 19th Century, and the TARDIS arrives just as a shooting star hurtles to the ground.
+
+With it comes an illness that affects the Doctor and Susan, and knowledge that must not fall into the wrong hands.
+
+With his friends either dying or lost, Ian Chesterton must save the future and win the ultimate prize – a way home to 1963...</dc:description>
+    </metadata>
+</package>

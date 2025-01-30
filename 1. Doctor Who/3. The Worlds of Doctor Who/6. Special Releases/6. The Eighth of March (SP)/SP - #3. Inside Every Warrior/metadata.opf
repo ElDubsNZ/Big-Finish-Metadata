@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Inside Every Warrior</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-793-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth of March - Series 1"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Gemma Langford</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Neve McIntosh (Madame Vastra)</dc:creator>
+        <dc:creator opf:role="nrt">Catrin Stewart (Jenny Flint)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Strax)</dc:creator>
+        <dc:creator opf:role="nrt">Julie Atherton (Daisy Hodge)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Fairs (Cornelius Pinch)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Bell (Prog / Percy / Percy Beast)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Faulkner (Laeticia / Laeticia Beast)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Great Detective, Madame Vastra, aided by her resourceful spouse, Jenny Flint, and loyal valet, Strax, is looking into a series of mysterious break-ins. 
+
+An eccentric scientist and his put-upon assistant are the latest victims. Evidence mounts, with animal footprints and a trail of destruction.</dc:description>
+    </metadata>
+</package>

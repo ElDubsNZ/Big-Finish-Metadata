@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Time Flies</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-852-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - Brave New World - Series 1 - Seabird One"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alison Winter</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Angela Bruce (Brigadier Winifred Bambera)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Jordan (Sergeant Jean-Paul Savarin)</dc:creator>
+        <dc:creator opf:role="nrt">Yemisi Oyinloye (Dr Louise Rix)</dc:creator>
+        <dc:creator opf:role="nrt">Silas Carson (Dr Winston Grange)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Ludders (Dr Andrews)</dc:creator>
+        <dc:creator opf:role="nrt">Simone Lahbib (Sylvia Brooks)</dc:creator>
+        <dc:creator opf:role="nrt">George Watkins (Eyrie Six)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Bambera and Savarin are summoned to a secretive genetic research facility by Dr Louise Rix, UNIT's rebellious new scientific adviser. Two scientists have vanished in mysterious circumstances, and despite the assurances of the sinister Dr Grange, UNIT suspects there's something very wrong with the centre's caterpillar population. Can they survive the fruits of Dr Grange's experiments? And will Savarin survive Bambera and Rix's rocky new relationship?</dc:description>
+    </metadata>
+</package>

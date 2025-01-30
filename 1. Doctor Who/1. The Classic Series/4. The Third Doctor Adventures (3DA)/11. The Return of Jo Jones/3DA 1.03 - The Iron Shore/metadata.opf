@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Iron Shore</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-880-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Third Doctor Adventures - Volume 11 - The Return of Jo Jones"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizzie Hopley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tim Treloar (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Katy Manning (Jo Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Alexander (Callis)</dc:creator>
+        <dc:creator opf:role="nrt">Paksie Vernon (Merileen)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Clemens (Tamber / Solomun)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Landing on the troubled, sea-faring planet Mercator, the Doctor and Jo encounter Callis, a ‘cursed man’, the last surviving member of his family line - and the curse is keen to find new victims.
+
+Nearby, a condemned wet dock, a deep rectangle of unmoving water, is the source of mystifying rumours. As Jo lifts the lid on the tensions within the local community, the Doctor finds himself in deep trouble.</dc:description>
+    </metadata>
+</package>

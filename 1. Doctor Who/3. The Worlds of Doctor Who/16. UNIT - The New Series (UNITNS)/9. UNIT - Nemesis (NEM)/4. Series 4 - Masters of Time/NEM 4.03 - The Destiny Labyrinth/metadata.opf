@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Destiny Labyrinth</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-629-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - Nemesis - Series 4 - Masters of Time"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alison Winter</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jemma Redgrave (Kate Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Ingrid Oliver (Osgood)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Captain Josh Carter)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Lew Kum Hoi (Lieutenant Jimmy Tan)</dc:creator>
+        <dc:creator opf:role="nrt">Oscar Batterham (Michel de Nostredame)</dc:creator>
+        <dc:creator opf:role="nrt">Donna Berlin (Lorraine Forrester)</dc:creator>
+        <dc:creator opf:role="nrt">Fiona Hampton (Kini)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Naylor (Vulpreen)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The UNIT team find themselves traveling through various epochs in Earth’s history. The only guide they have is working for the enemy, and the Vulpreen are hot on their heels. Help comes from a new friend, a young healer who already has a curious relationship with time.</dc:description>
+    </metadata>
+</package>

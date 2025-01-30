@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Incherton Incident</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-876-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The First Doctor Adventures - Volume 7 - The Demon Song"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Stephen Noonan (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lauren Cornelius (Dodo Chaplet)</dc:creator>
+        <dc:creator opf:role="nrt">Genevieve Gaunt (Virginia Hancock / Professor Jennifer Dalton[u])</dc:creator>
+        <dc:creator opf:role="nrt">Paksie Vernon (Sanderson)</dc:creator>
+        <dc:creator opf:role="nrt">Thomas Michaelson (Captain John Andrews)</dc:creator>
+        <dc:creator opf:role="nrt">Rosie Baker (Dr Lia Halloran)</dc:creator>
+        <dc:creator opf:role="nrt">Richard James (Sergeant Ballard)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Something intercepts the TARDIS in space. Attempting to escape its grip, the Doctor inadvertently drags it through time to coastal England in 1947. As the nation recovers from World War Two, an alien force threatens total destruction.</dc:description>
+    </metadata>
+</package>

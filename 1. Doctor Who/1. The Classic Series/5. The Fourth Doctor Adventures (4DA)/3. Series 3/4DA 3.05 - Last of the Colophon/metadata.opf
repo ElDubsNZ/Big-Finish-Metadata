@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Last of the Colophon</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-294-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 3"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Goddard (Nurse Torvik / Computer)</dc:creator>
+        <dc:creator opf:role="nrt">Jessica Martin (Deputy Surveyor Sutton)</dc:creator>
+        <dc:creator opf:role="nrt">Blake Ritson (Pilot Kellaway)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth Thomas (Morax)</dc:creator>
+        <dc:creator opf:role="nrt">John Voce (Chief Surveyor Hardwick)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The planet Colophos is a dead world. Nothing but dust and rubble – and the ruins of a once-great civilisation. But is it really as dead as it appears?
+
+When the Doctor and Leela land, joined by the crew of the Oligarch survey ship, it’s not long before they receive a communication from one of the ruins. A communication from Astaroth Morax, the last of the Colophon. Attended by a sadistic robot nurse, Morax is in a wheelchair and bound in bandages to conceal his terrible injuries. But is he really as powerless as he seems? What became of the rest of his race – and why didn’t he die with them?
+
+Entering his lair, the Doctor uncovers a terrifying secret…</dc:description>
+    </metadata>
+</package>

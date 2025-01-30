@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Time-Burst</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-888-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Sixth Doctor Adventures - Purity Unleashed"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Ian Potter</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Mel)</dc:creator>
+        <dc:creator opf:role="nrt">Imogen Stubbs (Patricia McBride)</dc:creator>
+        <dc:creator opf:role="nrt">Luke R Francis (Patrick)</dc:creator>
+        <dc:creator opf:role="nrt">Billie Fulford-Brown (Mary)</dc:creator>
+        <dc:creator opf:role="nrt">Connor Williams (Colton)</dc:creator>
+        <dc:creator opf:role="nrt">George Bukhari (Security)</dc:creator>
+        <dc:creator opf:role="nrt">Ruth Madeley (Hebe Harrison)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Hadoke (Ron)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Tracking the anomaly that erased Hebe from history, the Doctor and Mel find an instability in Sheffield, 1864. Who is Mrs Virtue, the mysterious owner of the new steelworks? And can the Doctor untwist history before a natural disaster washes them all away...?</dc:description>
+    </metadata>
+</package>

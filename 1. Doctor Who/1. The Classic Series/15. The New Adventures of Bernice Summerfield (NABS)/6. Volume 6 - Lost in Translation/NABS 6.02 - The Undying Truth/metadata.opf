@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Undying Truth</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-244-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The New Adventures of Bernice Summerfield - Volume 6 - Lost in Translation"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">JA Prentice</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">David Warner (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lois Chimimba (Euphemia)</dc:creator>
+        <dc:creator opf:role="nrt">Rosie Day (Arn)</dc:creator>
+        <dc:creator opf:role="nrt">Raj Ghatak (Vikram)</dc:creator>
+        <dc:creator opf:role="nrt">Lawry Lewin (Executive Adlar)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A mysterious mission has discovered a body, one that should never be found. Can the Undying really be dead after all?</dc:description>
+    </metadata>
+</package>

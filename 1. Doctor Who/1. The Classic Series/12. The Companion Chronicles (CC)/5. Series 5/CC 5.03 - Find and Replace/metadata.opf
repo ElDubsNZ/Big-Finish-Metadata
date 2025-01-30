@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Find and Replace</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-485-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 5"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Magrs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Katy Manning (Jo Grant (Jo Jones) / Iris Wildthyme)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Lowe (Huxley)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Christmas 2010, and Jo Grant finds herself stuck in a department store elevator with an alien creature called Huxley.
+
+Huxley is a narrator from Verbatim Six, and he is here to let Jo revisit the best time of her life – when she was the plucky companion to that eccentric Space/Time traveller known only as... Iris Wildthyme.
+
+Confronted with memories she knew nothing about, Jo agrees to a meeting with Iris inside her transdimensional bus, and together the three of them take a trip back in time. Back to the 1970s, to UNIT HQ, and a meeting with the only person who knows the whole truth...</dc:description>
+    </metadata>
+</package>

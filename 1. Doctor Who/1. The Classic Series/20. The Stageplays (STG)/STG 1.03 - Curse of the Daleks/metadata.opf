@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Curse of the Daleks</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-375-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Stageplays"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Whitaker</dc:creator>
+        <dc:creator opf:role="aut">Terry Nation</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Michael Praed (Ladiver)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Carlyle (Harry Sline)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Marion Clements)</dc:creator>
+        <dc:creator opf:role="nrt">James George (Bob Slater)</dc:creator>
+        <dc:creator opf:role="nrt">Denise Hoey (Ijayna)</dc:creator>
+        <dc:creator opf:role="nrt">Patric Kearns (Captain Redway)</dc:creator>
+        <dc:creator opf:role="nrt">John Line (Professor Vanderlyn)</dc:creator>
+        <dc:creator opf:role="nrt">Glynn Sweet (Dexion)</dc:creator>
+        <dc:creator opf:role="nrt">Nick Wilton (“Rocket” Smith)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A special audio adaptation of the Doctor Who stageplay from the 1960s.
+
+The spaceship Starfinder is taking two dangerous criminals for trial on Earth. En route, they crash through a meteor storm and have to make an emergency landing on Skaro - the planet of the dreaded Daleks. But Captain Redway and his faithful crew don’t anticipate any trouble. After all, the Daleks were defeated fifty years ago and now they are completely inactive. But when a crate full of mysterious devices is discovered and the Daleks start to come back to life, it becomes clear that there is a traitor amongst the Starfinder’s crew… A traitor intent on reactivating the power of the Daleks!</dc:description>
+    </metadata>
+</package>

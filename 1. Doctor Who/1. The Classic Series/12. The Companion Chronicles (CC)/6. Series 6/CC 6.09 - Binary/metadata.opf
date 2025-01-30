@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Binary</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-620-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 6"/>
+        <meta name="calibre:series_index" content="9"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Caroline John (Liz Shaw)</dc:creator>
+        <dc:creator opf:role="nrt">Kyle Redmond-Jones (James Foster)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Cohen (Childs)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A damaged alien computer is being guarded by UNIT troops, but the soldiers simply vanish...
+
+Usually, the Brigadier would call in the Doctor - but on this occasion the Time Lord is being kept out of the loop. Instead, it’s up to Elizabeth Shaw to oversee the project to repair this alien technology, and recover the missing men.
+
+And then Liz vanishes too.
+
+Trapped inside the machine, Liz faces a battle for survival against a lethal defence system. And this time, she must save the day without the Doctor at her side...</dc:description>
+    </metadata>
+</package>

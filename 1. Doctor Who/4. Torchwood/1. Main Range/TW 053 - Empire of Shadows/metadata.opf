@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Empire of Shadows</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-529-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="53"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Shaun Parkes (Zachary Cross Flane)</dc:creator>
+        <dc:creator opf:role="nrt">Chandrika Chevli (The Empress)</dc:creator>
+        <dc:creator opf:role="nrt">Mateo Oxley (Emperor Merdiven)</dc:creator>
+        <dc:creator opf:role="nrt">Wilf Scolding (Courtier)</dc:creator>
+        <dc:creator opf:role="nrt">Amanda Shodeko (Chloe)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In the far future of the Earth Empire, Torchwood is forgotten. So it's a surprise when Zachary Cross Flane of the Torchwood Archive finds himself summoned to the opening of the late Empress' Library. 
+
+Her son believes that the conspiracy which deposed his mother is still active and that the key to it is hidden somewhere in the library. But does Zachary want to find it?</dc:description>
+    </metadata>
+</package>

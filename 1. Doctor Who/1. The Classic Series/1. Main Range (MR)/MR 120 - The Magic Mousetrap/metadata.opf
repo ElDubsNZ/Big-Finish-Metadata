@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Magic Mousetrap</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-408-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="120"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matthew Sweet</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Olivier (Hex)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Anthony-Barber (Ludovic Comfort)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Courtney (Sir Alistair Lethbridge-Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Dickens (Herbert Randall / Orderly)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Fettes (Harry Randall / Robot)</dc:creator>
+        <dc:creator opf:role="nrt">Nadine Lewington (Queenie Glasscock)</dc:creator>
+        <dc:creator opf:role="nrt">John Pickard (Thomas Brewster)</dc:creator>
+        <dc:creator opf:role="nrt">Nadim Sawalha (Swapnil Khan)</dc:creator>
+        <dc:creator opf:role="nrt">Joan Walker (Lola Luna)</dc:creator>
+        <dc:creator opf:role="nrt">Anneke Wills (Polly Wright)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Switzerland, 1926: the Doctor finds himself halfway up an Alpine mountainside, on his way to an exclusive sanatorium for the rich and famous run by the Viennese alienist Ludovic ‘Ludo’ Comfort. In between bouts of electric shock therapy, Ludo’s patients - including faded music hall turn Harry Randall, chess grandmaster Swapnil Khan and Lola Luna, darling of the Weimar cabaret scene - fill their time with endless rounds of Snap!, among other diversions.
+
+But the Doctor soon suspects that someone’s playing an altogether more sinister game. Someone with a score to settle…</dc:description>
+    </metadata>
+</package>

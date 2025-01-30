@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Memnos</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-113-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Doctor Begins - Series 5 - Comrades-in-Arms"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Phil Mulryne</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jonathon Carley (The War Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Ajjaz Awad (Case / Karina)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Khan Levy (Salvin / Vaia)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Amariah (Jarast / Borudan)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Memnos: a secret Time Lord project, recording everything lost to the Time War. A place where the War Doctor can admit his part in the conflict and seek solace - and perhaps where he can find salvation for Case.
+
+But the Dalek Time Strategist will not let slip her potential. She could be the Daleks’ greatest weapon. The battle for Case's soul will be won or lost in Memnos.</dc:description>
+    </metadata>
+</package>

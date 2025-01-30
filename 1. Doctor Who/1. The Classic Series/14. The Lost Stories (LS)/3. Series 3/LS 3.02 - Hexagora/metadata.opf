@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Hexagora</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-574-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 3"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Peter Ling</dc:creator>
+        <dc:creator opf:role="aut">Hazel Adair</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Brosnan (Astorius)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Hadoke (Mike Bretherton)</dc:creator>
+        <dc:creator opf:role="nrt">Caroline Keiff (Seamstress)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Mark (Lord Jezzavar)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline Pearce (Queen Zafira)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Lord Zellenger)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When a newspaper reporter goes missing, the Doctor, Tegan and Nyssa uncover a case of alien abduction. The trail leads them to the planet Luparis, and a city that appears to be a replica of Tudor London.
+
+ What are the monsters that lurk in the shadows? And what is the terrible secret at the heart of Luparis? To save a world, the Doctor must try to defeat the evil plans of Queen Zafira.
+
+ And one of her plans is to marry him…</dc:description>
+    </metadata>
+</package>

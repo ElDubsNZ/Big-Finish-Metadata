@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Blood of the Daleks Part 2</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2007-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-256-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Series 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Steve Lyons</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sheridan Smith (Lucie Miller)</dc:creator>
+        <dc:creator opf:role="nrt">Hayley Atwell (Asha Gryvern / Martez)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Kenneth Cranham (Tom Cardwell)</dc:creator>
+        <dc:creator opf:role="nrt">Anita Dobson (Eileen Klint)</dc:creator>
+        <dc:creator opf:role="nrt">Gerry O'Toole (Lowell)</dc:creator>
+        <dc:creator opf:role="nrt">Katarina Olsson (The Headhunter / Computer)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"The crashed ship. The one Tom Cardwell saw all those years ago. And you borrowed its technology, didn't you? Maybe even found a Dalek or two in the wreckage. Dead, but intact. And you began to turn human beings into creatures like them. You did that? I'm right, aren't I?"
+
+Note: This adventure continues from Doctor Who: Blood of the Daleks Part 1</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Order of the Daleks</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-897-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="218"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mike Tucker</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Miranda Raison (Constance Clarke)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Tanapal / The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Fletcher (Rosco / Gabber)</dc:creator>
+        <dc:creator opf:role="nrt">Olivia Hallinan (Asta)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Kloska (Habrild)</dc:creator>
+        <dc:creator opf:role="nrt">John Savident (Pendle)</dc:creator>
+        <dc:creator opf:role="nrt">Robbie Stevens (Boswyck / Raspak)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In the Galactic Census, idyllic Strellin is recorded as a Grade Three planet – its inhabitants possessing neither advanced technology, nor knowledge of other worlds. Accordingly, Strellin is protected: landings by off-worlders are strictly prohibited. Unless, of course, those off-worlders are officials of the Galactic Census itself, come to investigate the origin of a mysterious sub-space signal – a signal no native of Strellin should be able to send...
+
+Breaking all local by-laws, the time-travelling Doctor and his companion L/Wren Mrs Constance Clarke (AWOL) have only just landed on Strellin, too. But they and the Census officials aren't the only off-worlders to have come here. Inside a nearby monastery, the monks of the reclusive Brotherhood of the Black Petal are guarding a strange and terrible secret. Something that might bring disaster not just to Strellin, but to every civilised world in the galaxy!</dc:description>
+    </metadata>
+</package>

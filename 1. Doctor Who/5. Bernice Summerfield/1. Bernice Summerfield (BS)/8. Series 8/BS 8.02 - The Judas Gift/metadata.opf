@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Judas Gift</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2007-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-273-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 8"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nick Wallace</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Faulkner (Bev)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Fenner (Kothar)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Myers (Adrian)</dc:creator>
+        <dc:creator opf:role="nrt">Gary Russell (Reporter)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Stevens (Doggles)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Joseph)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Wolfe (Hass)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Braxiatel Collection. Once it was a home, a haven, one of the 800 Wonders of the Universe. Not any more.
+
+Draconia and the Mim are at war and the Collection is caught in the crossfire. Its future hangs in the balance as Bernice tries to fathom the motives of a new Draconian ambassador.
+
+Director Bev Tarrant must use every trick she knows if the Collection is to survive. She's been a smuggler, a killer and a thief, but all that's behind her now. Isn't it?
+
+Beware your sins will find you out. Especially when you accept the Judas Gift. They'll just have to do something impossible…
+
+**THIS IS NOW OUT OF PRINT ON CD**</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Outsiders</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-059-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Cyberman - Series 2"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Swallow</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Mark McDonnell (Liam Barnaby)</dc:creator>
+        <dc:creator opf:role="nrt">Hannah Smith (Samantha Thorn)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Paul Hunt)</dc:creator>
+        <dc:creator opf:role="nrt">Jo Castleton (Hazel Trahn)</dc:creator>
+        <dc:creator opf:role="nrt">Cal Jaggers (Becca Trahn)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Brooker (Yan)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Dickens (Milo Taggart)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Hadoke (Louis Richter)</dc:creator>
+        <dc:creator opf:role="nrt">Martin Trent (Merced)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Hallard (Chessman)</dc:creator>
+        <dc:creator opf:role="nrt">Jess Robinson (Janice Webb)</dc:creator>
+        <dc:creator opf:role="nrt">Stuart Crossman (The News)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Cybermen / The Cyber-Planner)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Earth Has Fallen to the Cybermen; 
+
+But the war has only just begun... 
+
+Across the planet, the silver legions stand impassive in every city; mankind has sacrificed its freedoms for the sake of a distant conflict against its android creations, and now the price must be paid. On the streets, in the depths of space, a web of lies and deceit draws ever tighter, and the lines between human and android, between enemy and ally, are blurred. Only one choice remains – resist or surrender...</dc:description>
+    </metadata>
+</package>

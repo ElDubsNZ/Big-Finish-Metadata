@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Silent City</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-916-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - Classic Doctors, New Monsters - Series 4 - Broken Memories"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David K Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Silence)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (Maynard Harker)</dc:creator>
+        <dc:creator opf:role="nrt">Genevieve Gaunt (Jessica Harker)</dc:creator>
+        <dc:creator opf:role="nrt">Mina Anwar (Kavita Aradhana)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Elstob (Bud Shacket)</dc:creator>
+        <dc:creator opf:role="nrt">Luyanda Unati Lewis-Nyawo (Nalah Massi)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Sunset City is thriving, the tourists are spending. But something about the place doesn't make sense - and the casino seems to be in the business of redistributing the wealth. 
+
+In the midst of it all, the Seventh Doctor faces the consequences of actions he has yet to take...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Dead and Breakfast</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-028-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The New Adventures of Bernice Summerfield - Volume 5 - Buried Memories"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">April McCaffrey</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">David Warner (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline King (Flor)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Hallion (Rylan)</dc:creator>
+        <dc:creator opf:role="nrt">Zaraah Abrahams (Daphne)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Aikman (Pastry Vendor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Bernice and the Doctor are trapped on a planet where people who are unusual have a habit of dying. They’re in trouble.</dc:description>
+    </metadata>
+</package>

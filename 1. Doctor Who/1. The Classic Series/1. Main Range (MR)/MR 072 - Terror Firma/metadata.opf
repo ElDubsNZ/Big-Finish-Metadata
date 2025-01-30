@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Terror Firma</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2005-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-137-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="72"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Joseph Lidster</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Westmaas (C'rizz)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Julia Deakin (Harriet)</dc:creator>
+        <dc:creator opf:role="nrt">Lizzie Hopley (Gemma)</dc:creator>
+        <dc:creator opf:role="nrt">Lee Ingleby (Samson)</dc:creator>
+        <dc:creator opf:role="nrt">Terry Molloy (Davros)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"Welcome back, Doctor..."
+
+Centuries ago on the war-torn planet Skaro a great scientist created the most evil creatures the Universe would ever know… Daleks. It was at their genesis that the scientist, Davros, first met and was defeated by the Doctor.
+
+Over the years and throughout space, they fought, a fight that ended with the Doctor’s destruction of Skaro and the Daleks. Except…
+
+Davros survived. Alone. In the dark. With only thoughts of revenge keeping him alive. The Doctor is back. Davros is waiting. Their destiny is now.</dc:description>
+    </metadata>
+</package>

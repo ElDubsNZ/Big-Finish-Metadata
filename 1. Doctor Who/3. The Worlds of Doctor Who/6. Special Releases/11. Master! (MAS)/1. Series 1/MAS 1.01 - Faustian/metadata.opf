@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Faustian</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-317-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Master! - Series 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Valentine</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Eric Roberts (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Aikman (Lila Kreeg)</dc:creator>
+        <dc:creator opf:role="nrt">Rachel Atkins (Cathrin Travers / Inga)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (Eddi Bhole)</dc:creator>
+        <dc:creator opf:role="nrt">Alistair Petrie (Magnus Drake)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Drake Enterprises is the most powerful company on Earth. Dr Lila Kreeg is its most valued asset. But her experiments open a doorway which allow an evil back into the universe. The Master can offer Lila the world, so long as she obeys him...</dc:description>
+    </metadata>
+</package>

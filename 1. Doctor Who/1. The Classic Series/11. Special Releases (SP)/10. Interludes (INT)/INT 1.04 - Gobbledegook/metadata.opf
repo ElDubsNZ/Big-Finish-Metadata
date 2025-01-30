@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Gobbledegook</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-04-05</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - Interludes"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Frazer Lee</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Dan Starkey (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Chief librarian Velar's beloved books are being returned with their text completely garbled at planet Batear's largest library. Batearian books are living things, organically linked via the ancient cave system where they are shelved. Unless Velar's old friend the Doctor can detect a pattern in the chaos, Batear's entire cultural history will become gobbledegook!</dc:description>
+    </metadata>
+</package>

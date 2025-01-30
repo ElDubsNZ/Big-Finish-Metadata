@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>How to Win Planets and Influence People</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 7"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Rufus Hound (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>How to Win Planets and Influence People is a Fourth Doctor, Harry and Sarah story.
+
+9AM: Registration
+
+10AM: Our Opening Guest Speaker discusses Strategic Invasion Plans, including things to look out for, Time Lords to avoid, and tips on crushing the lesser races
+
+11AM: Biscuits and Coffee
+
+12PM: Continuing on from his opening talk, our Guest Speaker discusses bringing the universe to its knees
+
+1PM: Lunch
+
+A dynamic talk with slides. The Meddling Monk has lectured widely for several centuries, and his wisdom is contained in the following bestsellers: The 7 Habits of Truly Terrible People, Who Moved My Sun?, Feel the Fear and Detonate It Anyway, The One Million Year Manager and Ice Men Are From Mars, Karate Is From Venus.</dc:description>
+    </metadata>
+</package>

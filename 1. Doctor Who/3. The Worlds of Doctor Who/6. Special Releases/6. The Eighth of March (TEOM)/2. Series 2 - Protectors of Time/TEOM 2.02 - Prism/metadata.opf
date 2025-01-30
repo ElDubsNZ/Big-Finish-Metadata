@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Prism</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-833-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth of March - Series 2 - Protectors of Time"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Abigail Burdess</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Michelle Ryan (Lady Christina de Souza)</dc:creator>
+        <dc:creator opf:role="nrt">Georgia Tennant (Jenny)</dc:creator>
+        <dc:creator opf:role="nrt">Graham Vick (Cal Norwood / The Return / Dan / Roman / Benedict)</dc:creator>
+        <dc:creator opf:role="nrt">Debbie Korley (Alethea / Computer Alethea / Sally)</dc:creator>
+        <dc:creator opf:role="nrt">Ffion Jolly (Flick / Prism)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Biggerstaff (Noah)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Lady Christina de Souza is crashing an exclusive party in search of a priceless diamond. Out in deep space, time travellers Jenny and Noah collide with a strange diamond-shaped vessel. What is Prism? And what does it want with the Earth?</dc:description>
+    </metadata>
+</package>

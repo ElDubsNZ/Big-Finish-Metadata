@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Firewall</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-728-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Diary of River Song - Series 10 - Two Rivers and a Firewall"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Barnaby Kay</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Peacock (Dave)</dc:creator>
+        <dc:creator opf:role="nrt">Merryn Dowley (Charlotte)</dc:creator>
+        <dc:creator opf:role="nrt">Jason Forbes (Alan / Mal)</dc:creator>
+        <dc:creator opf:role="nrt">Victoria Ekanoye (Anita / Iris)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>River is living her dream life with her dream husband. But every paradise has a serpent and this husband might not quite be up to the task.</dc:description>
+    </metadata>
+</package>

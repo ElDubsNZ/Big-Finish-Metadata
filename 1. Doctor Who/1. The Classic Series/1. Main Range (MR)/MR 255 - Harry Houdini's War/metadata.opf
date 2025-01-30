@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Harry Houdini's War</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-859-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="255"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Steve Lyons</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Fiona Bruce (Mrs Helen Smith / Hartmann)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Elstob (Oberst Brandt / Reynolds)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (Professor Winter)</dc:creator>
+        <dc:creator opf:role="nrt">John Schwab (Harry Houdini)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The world is at war, and Harry Houdini wants to fight for his adoptive country. He might get the chance, when an old friend crashes his New York show.
+
+The Doctor is on the trail of a Central Powers spy ring, which has somehow acquired unearthly technology. But he is also keeping a dangerous secret…
+
+Finding himself on the run behind enemy lines, the world’s greatest escape artist has to work out who he can trust – and fast.</dc:description>
+    </metadata>
+</package>

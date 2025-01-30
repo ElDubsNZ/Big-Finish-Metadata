@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Invaders from Mars</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2002-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-457-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="28"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mark Gatiss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">John Arthur (Cosmo Devine)</dc:creator>
+        <dc:creator opf:role="nrt">David Benson (Orson Welles)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Benton (Ellis)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Hallard (Mouse / Winkler)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Pegg (Don Chaney)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Putner (Bix Biro)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Rigby (John Houseman)</dc:creator>
+        <dc:creator opf:role="nrt">Jessica Stevenson (Glory Bee)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Hallowe'en 1938.
+
+A year after a mysterious meteorite lit up the skies of New York state, Martian invaders laid waste to the nation. At least, according to soon-to-be infamous Orson Welles they did. But what if some of the panicked listeners to the legendary War of the Worlds broadcast weren't just imagining things?
+
+Attempting to deliver Charley to her rendezvous in Singapore 1930, the Doctor overshoots a little, arriving in Manhattan just in time to find a dead private detective. Indulging his gumshoe fantasies, the Doctor is soon embroiled in the hunt for a missing Russian scientist whilst Charley finds herself at the mercy of a very dubious Fifth Columnist.
+
+With some genuinely out of this world 'merchandise' at stake, the TARDIS crew are forced into an alliance with a sultry dame called Glory Bee, Orson Welles himself and a mobster with half a nose known as 'The Phantom'.
+
+And slowly but surely, something is drawing plans against them. Just not very good ones...</dc:description>
+    </metadata>
+</package>

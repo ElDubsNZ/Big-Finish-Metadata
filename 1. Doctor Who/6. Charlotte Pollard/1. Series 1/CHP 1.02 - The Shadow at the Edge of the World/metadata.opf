@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Shadow at the Edge of the World</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-612-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Charlotte Pollard - Series 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">India Fisher (Charley Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Maloney (Viyran)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Slaverings)</dc:creator>
+        <dc:creator opf:role="nrt">Abigail McKern (Susan Broadstairs)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Weeks (Charity Savage)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy May Barker (Emmeline Leigh / Viyran)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline King (Mrs Turnerman)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Ever-and-Ever-Prolixity has granted Charlotte Pollard her dearest wish and set her loose once more in time and space. But where has it brought her? Waking amid the minatory darkness of a forest floor, she has no notion of where she is, or when. 
+
+Welcomed at gunpoint and beset by danger, Charley finds herself immediately embroiled in a frantic struggle for survival. For there are perilous shadows in this night-time forest. There are hungry, watchful eyes. And there is something ancient also, something tracking her, something implacable and ruthless which knows Miss Pollard of old...</dc:description>
+    </metadata>
+</package>

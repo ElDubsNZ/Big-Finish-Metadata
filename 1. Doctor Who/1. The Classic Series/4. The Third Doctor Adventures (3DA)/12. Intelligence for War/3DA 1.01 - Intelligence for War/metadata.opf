@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Intelligence for War</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-882-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Third Doctor Adventures - Volume 12 - Intelligence for War"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tim Treloar (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Daisy Ashford (Liz Shaw)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (Brigadier Lethbridge-Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">James Howard (Colonel Matthews)</dc:creator>
+        <dc:creator opf:role="nrt">Jason Forbes (Lincoln Hall)</dc:creator>
+        <dc:creator opf:role="nrt">Issey Walton (Glenda Symonds)</dc:creator>
+        <dc:creator opf:role="nrt">Georgina Hellier (Denise Morris)</dc:creator>
+        <dc:creator opf:role="nrt">Yasmin Mwanza (Sylvia)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Bell (Brian Sherborne)</dc:creator>
+        <dc:creator opf:role="nrt">Imogen Church (Bryony / Sabini / Florrie)</dc:creator>
+        <dc:creator opf:role="nrt">Keith Wickham (Ken Sharp / Professor Buchanan / Captain / Francis Teeling / Nazi / Computer / Minister)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and Liz Shaw investigate a disturbing incident in the quiet Norfolk village of Huncleath, involving a vanishing Nazi soldier. Is time travel technology to blame? And what is the link between the disappearance of the village’s wealthiest resident, Francis Teeling, and anti-war campaigners in Cambridge?
+
+As the Brigadier mobilises UNIT, a secret branch of the British military has serious concerns about UNIT’s scientific advisor Dr Elizabeth Shaw.
+
+In the ensuing struggle, Liz must make connections with her past, consider her future and fight against both incarceration and an unusual alien weapon. And try as he might, the Doctor may not be able to help her!</dc:description>
+    </metadata>
+</package>

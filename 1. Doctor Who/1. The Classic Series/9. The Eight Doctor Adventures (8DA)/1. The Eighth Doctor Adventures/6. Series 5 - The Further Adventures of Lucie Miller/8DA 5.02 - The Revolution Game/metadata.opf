@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Revolution Game</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-740-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Series 5 - The Further Adventures of Lucie Miller"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alice Cavender</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sheridan Smith (Lucie Miller)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Keeble (Clegg)</dc:creator>
+        <dc:creator opf:role="nrt">Madeline Duggan (Sash)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Alexander (George / Spartacus)</dc:creator>
+        <dc:creator opf:role="nrt">Alicia Ambrose-Bayly (Tallulah)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It’s Lucie’s birthday, and her birthday treat awaits. But whatever she’s expecting, it’s not what she’s getting on the colony world of Castus Sigma in the year 3025: ringside seats for the interplanetary Retro Roller Derby - sponsored by Heliacorp (“Turning sunlight into gold”!)
+
+It’s more than just a game, though. For the competitors, it’s a matter of life or death - a New Life with Heliacorp, or a living death on Castus Sigma.
+
+Or, on this fateful day, a very actual death. Because there are strange creatures living out on the plain, beyond the colony. Creatures with every reason to want to sabotage the games. Creatures with a grudge.</dc:description>
+    </metadata>
+</package>

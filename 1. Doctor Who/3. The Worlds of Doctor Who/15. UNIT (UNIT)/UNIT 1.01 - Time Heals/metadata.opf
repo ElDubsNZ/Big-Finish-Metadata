@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Time Heals</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2004-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-092-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - Series 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Iain McLaughlin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Nicholas Courtney (The Brigadier)</dc:creator>
+        <dc:creator opf:role="nrt">Siri O'Neal (Colonel Emily Chaudhry)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Deal (Colonel Robert Dalton)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Brenher (Captain Dodds)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Carlile (Kelly)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Curbishley (Lieutenant Hoffman)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Hobbs (Francis Currie)</dc:creator>
+        <dc:creator opf:role="nrt">Alfred Hoffman (Meade)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The UK branch of UNIT is under threat. The Government wants its own military investigative organisation, one under its sole control. The public want answers to the strange things that have been happening recently. 
+
+When the division's commanding officer goes missing whilst transporting a dangerous cargo, Colonel Emily Chaudhry, UNIT's political officer, is thrown in at the deep end. Things are not helped when a series of accidents show a bizarre pattern. 
+
+The Brigadier, meanwhile, is trying to enjoy his retirement — but it seems it is time again for him to come to the rescue.</dc:description>
+    </metadata>
+</package>

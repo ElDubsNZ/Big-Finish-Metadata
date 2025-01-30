@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Patience</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-169-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Stranded 3"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Hattie Morahan (Helen Sinclair)</dc:creator>
+        <dc:creator opf:role="nrt">Rebecca Root (Tania Bell)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Price (Sergeant Andy Davidson)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Kon Po / Go Tol)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Stafford (Baby Judoon)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor decides to investigate the limits of the paradoxical timeline in which he and his friends are stranded.
+
+But they find themselves hunted by a force of mercenary Judoon. It seems that Earth’s altered history has changed the whole universe…</dc:description>
+    </metadata>
+</package>

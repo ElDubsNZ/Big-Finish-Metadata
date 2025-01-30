@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Cadoc Point</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-539-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="58"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Llewellyn</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Price (Andy Davidson)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth Armstrong (Merl Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Aled Pugh (Darren Jenkins)</dc:creator>
+        <dc:creator opf:role="nrt">Hazel Ellerby (Cynthia Jenkins)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Andy's old art teacher is in trouble. The disappearance of three of his former pupils has brought him some unwelcome attention. The authorities think that there’s a secret in Merl's past. 
+
+Whatever Andy's suspicions, he discovers that something much older and stranger is hiding in Merl's past. Clues are scattered through his paintings, and all of them lead to a place called Cadoc Point.</dc:description>
+    </metadata>
+</package>

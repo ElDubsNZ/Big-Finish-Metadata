@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Sinestran Kill</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 8"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andrew Smith</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Ann Kelso)</dc:creator>
+        <dc:creator opf:role="nrt">Ewan Bailey (Hugo Blake)</dc:creator>
+        <dc:creator opf:role="nrt">Glynis Barber (Kathy Blake)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Khan (Jimmy Lynch)</dc:creator>
+        <dc:creator opf:role="nrt">Frank Skinner (DCI Scott Neilson)</dc:creator>
+        <dc:creator opf:role="nrt">Leon Williams (Tony Reynolds)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the Doctor decides to trace an anomalous energy signature on twentieth century Earth, he stumbles into an assassination attempt.
+
+Gangland thugs are trying to murder a seemingly innocent shopkeeper, and it’s only the intervention of the Doctor and Ann Kelso – a WPC who happens to be on the scene – that prevents a tragedy.
+
+But why do the gangsters want the shopkeeper dead? And what does this have to do with alien technology?
+
+The first stages of a grand conspiracy are about to be revealed. And finding the answers will take Ann Kelso on a journey like no other.</dc:description>
+    </metadata>
+</package>

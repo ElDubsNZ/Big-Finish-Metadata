@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Everybody Loves Irving</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-600-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 14 - Legion"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Miles Richardson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Ayesha Antoine (Ruth)</dc:creator>
+        <dc:creator opf:role="nrt">Thomas Grant (Peter Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">David Ames (Jack)</dc:creator>
+        <dc:creator opf:role="nrt">Cameron Blakeley (Galot)</dc:creator>
+        <dc:creator opf:role="nrt">Matt Butcher (Ikerian)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Female Surloid)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Franklin (The Collector)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Handcock (Julezand)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Hayden-Smith (Mortan Hardak)</dc:creator>
+        <dc:creator opf:role="nrt">Lizzie Hopley (Sheira Rynn / Female Autopilot)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Macklin (E.O.I.N)</dc:creator>
+        <dc:creator opf:role="nrt">Kai Owen (Rickard Karne)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Irving Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">Jennie Stoller (Vesuvius)</dc:creator>
+        <dc:creator opf:role="nrt">Alexander Vlahos (Gray)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Bernice and Braxiatel have never quite seen eye-to-eye… but now he wants to make amends. He’s taking her on a leisure drive across Legion’s deadly surface to an Ikerian settlement not far from Legion City. Their mission: shopping.
+
+The Ikerians are renowned traders, dealing in everything from the finest art to cut-price battlecruisers. They’re willing to do a good deal too. After all, they know Irving Braxiatel of old… and better than this Brax knows himself.
+
+Everywhere they go and everyone they deal with, Braxiatel’s reputation precedes him. He has good friends and even better enemies… but one thing’s for certain. Everybody loves Irving.</dc:description>
+    </metadata>
+</package>

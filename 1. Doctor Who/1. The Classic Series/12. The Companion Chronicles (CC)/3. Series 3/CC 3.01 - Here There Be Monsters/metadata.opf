@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Here There Be Monsters</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-350-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 3"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andy Lane</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Carole Ann Ford (Susan / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Hancock (The First Mate)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A new adventure with the First Doctor as told by his grand-daughter, Susan.
+
+“It was a terrible sound like someone had just stabbed the Universe and it was crying out in pain”
+
+The distant future. The TARDIS, with the Doctor, Susan, Ian and Barbara aboard, is drawn out of the Vortex and lands aboard the Earth Benchmarking Vessel Nevermore, where Captain Rostrum is navigating by punching holes in the very fabric of space. The Doctor is appalled by this act of vandalism, and fearful that it could unleash monsters from the dark dimensions.
+
+As the benchmarking holes begin to fray, the fate of the universe is at stake. And while the Doctor contemplates a terrible sacrifice, Susan befriends the Nevermore’s First Mate - someone she will remember for the rest of her life…</dc:description>
+    </metadata>
+</package>

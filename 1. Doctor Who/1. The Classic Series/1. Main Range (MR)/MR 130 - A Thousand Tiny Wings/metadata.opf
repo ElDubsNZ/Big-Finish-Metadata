@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>A Thousand Tiny Wings</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-433-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="130"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andy Lane</dc:creator>
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Tracey Childs (Elizabeth Klein)</dc:creator>
+        <dc:creator opf:role="nrt">Ann Bell (Sylvia O'Donnell)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Courtney (Sir Alistair Lethbridge-Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Russell Floyd (Gerry Lenz)</dc:creator>
+        <dc:creator opf:role="nrt">Chuk Iwuji (Joshua Sembeke)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Mallinson (Abraham)</dc:creator>
+        <dc:creator opf:role="nrt">Abigail McKern (Denise Waterford)</dc:creator>
+        <dc:creator opf:role="nrt">John Pickard (Thomas Brewster)</dc:creator>
+        <dc:creator opf:role="nrt">Joannah Tincey (Lucy Watts)</dc:creator>
+        <dc:creator opf:role="nrt">Anneke Wills (Polly Wright)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>1950s Kenya. The Mau Mau uprising. A disparate group of women lie low in a remote house in the jungle, waiting for a resolution or for rescue. Among these British imperialists is Elizabeth Klein, a refugee from a timeline that no longer exists… thanks to the Doctor.
+
+Reunited, the Doctor and Klein are forced to set aside their differences by terrifying circumstances. People are dying in this remote place. One by one. And there's something out there, in the jungle, accompanied only by the flutter of a thousand tiny wings…</dc:description>
+    </metadata>
+</package>

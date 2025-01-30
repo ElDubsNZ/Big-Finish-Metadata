@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Here Today</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-993-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Rani Takes on the World - Volume 1 - Beyond Bannerman Road"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Joseph Lidster</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Anjli Mohindra (Rani Chandra)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Anthony (Clyde Langer)</dc:creator>
+        <dc:creator opf:role="nrt">Mina Anwar (Gita Chandra)</dc:creator>
+        <dc:creator opf:role="nrt">Raghad Chaar (Samira Rustami)</dc:creator>
+        <dc:creator opf:role="nrt">Tiegan Byrne (Phoenix Laight)</dc:creator>
+        <dc:creator opf:role="nrt">Angus Dunican (Private Matthew Reeves / David)</dc:creator>
+        <dc:creator opf:role="nrt">Yvonne D’Alpra (Patricia Miller / Captain Caroline Byrne)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Years after her adventures with Sarah Jane Smith and friends, Rani Chandra is a successful journalist — she’s brought down a government, and her podcast is making waves. And she's about to be surprised by a visit from her best friend, Clyde Langer — who has an announcement of his own. 
+
+But tonight Clyde isn’t the only visitor to Ealing... In the skies above, a flying saucer approaches - and only one person on Earth can stop it destroying London!</dc:description>
+    </metadata>
+</package>

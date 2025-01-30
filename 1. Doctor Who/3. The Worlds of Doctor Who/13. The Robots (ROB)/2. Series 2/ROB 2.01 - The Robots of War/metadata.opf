@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Robots of War</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-040-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Robots - Series 2"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Roland Moore</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Claire Rushbrook (Tula Chenka / SV22)</dc:creator>
+        <dc:creator opf:role="nrt">Homer Todiwala (Rax Heron)</dc:creator>
+        <dc:creator opf:role="nrt">Harley Viveash (Frenton Cal / V90)</dc:creator>
+        <dc:creator opf:role="nrt">Silas Carson (Garlon Rosh)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A visit to an old flame goes badly wrong for Liv and Tula and soon they find themselves locked down in a military training base, surrounded by traitors and robots designed and built for war. As they attempt to get everyone out alive, is there a chance they’ve missed something important?</dc:description>
+    </metadata>
+</package>

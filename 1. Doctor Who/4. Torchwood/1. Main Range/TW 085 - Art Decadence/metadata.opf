@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Art Decadence</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-403-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="85"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Ash Darby</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Simon Kane (AC Forster)</dc:creator>
+        <dc:creator opf:role="nrt">Wilf Scolding (Sir Reginald Dellafield)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Blore (Peter Janks)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>London in the 1920s and Sir Reggie works for Torchwood, saving the world from alien invasions. Really, he relies on the services of his loyal butler while he paints the town red. 
+
+But there's a new sensation in high society - What is the secret of The Serpentine Club and can Forster save his master from it?</dc:description>
+    </metadata>
+</package>

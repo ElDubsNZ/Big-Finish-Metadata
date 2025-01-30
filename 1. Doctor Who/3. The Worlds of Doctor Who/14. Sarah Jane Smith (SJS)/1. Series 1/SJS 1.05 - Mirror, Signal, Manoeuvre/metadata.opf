@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Mirror, Signal, Manoeuvre</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2002-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-496-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Sarah Jane Smith - Series 1"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Peter Anghelides</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Elisabeth Sladen (Sarah Jane Smith)</dc:creator>
+        <dc:creator opf:role="nrt">Jeremy James (Josh Townsend)</dc:creator>
+        <dc:creator opf:role="nrt">Sadie Miller (Natalie Redfern)</dc:creator>
+        <dc:creator opf:role="nrt">Robin Bowerman (Harris)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Faulkner (Wendy Jennings)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Miles (Dr Brandt)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Longworth (Taxi Driver 1)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Donovan (Taxi Driver 2)</dc:creator>
+        <dc:creator opf:role="nrt">Patricia Maynard (Hilda Winters)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A bio-warfare scandal from the 1940s takes Sarah to a remote island in the Indian Ocean. She pursues the scoop with a fellow journalist from her former company, Planet 3. But why won't she contact her friends back in the UK? Josh and Natalie discover that Sarah has been searching for pursuers in the rear-view mirror for so long that she hasn't noticed who's now in the driver’s seat. A long way from home, and far from safe, will Sarah see the dangers in her present and the enemies from her past — before it's too late?</dc:description>
+    </metadata>
+</package>

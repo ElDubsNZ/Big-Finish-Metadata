@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Innocence</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2006-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-231-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="I, Davros"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Gary Hopkins</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Terry Molloy (Davros)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Franklin (Colonel Nasgard)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Connolly (Councillor Quested)</dc:creator>
+        <dc:creator opf:role="nrt">Rita Davies (Tashek)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Grieve (Major Brogan)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Handcock (Kaled Officer)</dc:creator>
+        <dc:creator opf:role="nrt">Lizzie Hopley (Yarvell)</dc:creator>
+        <dc:creator opf:role="nrt">Rory Jennings (Davros)</dc:creator>
+        <dc:creator opf:role="nrt">Carolyn Jones (Lady Calcula)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Sowerbutts (Tutor Margrantine)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"I find it fascinating that a living creature would subject itself to such dangerous experimentation. Knowing that it would die.." 
+
+The Kaled and Thal races are at war. No one really remembers why, or when it started, but generations of people on both sides have lost so very much.
+
+Born into an influential family is Davros. Now aged sixteen, he is being pulled in various directions his father wants him to follow tradition and go into the military. His sister has joined the Military Youth and his scheming, devoted mother wants him to pursue a life of science.
+
+But no one seems terribly interested in what Davros himself wants. So he must begin to assert himself, begin to take control over his own life, begin to work towards his destiny...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Wormery</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2003-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-033-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="51"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Stephen Cole</dc:creator>
+        <dc:creator opf:role="aut">Paul Magrs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Katy Manning (Iris Wildthyme)</dc:creator>
+        <dc:creator opf:role="nrt">James Campbell (Allis / Ballis)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Clayton (Henry)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Donovan (Sturmer)</dc:creator>
+        <dc:creator opf:role="nrt">Jason Loborik (Heinrich)</dc:creator>
+        <dc:creator opf:role="nrt">Jane MacFarlane (Mickey)</dc:creator>
+        <dc:creator opf:role="nrt">Maria McErlane (Bianca)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>There's one place in creation where the truth really can be found in the bottom of a glass: Bianca's, a very special and very exclusive little club.
+
+The Doctor, careworn and seeking quiet distraction, gains admission. But his rest and relaxation is soon shattered by the wobbly arrival of louche trans-temporal adventuress Iris Wildthyme. She claims she's on a secret mission of vital importance, the success of which hinges on her getting paralytic. When she's drunk, she can hear the whispering voices in her head!
+
+The Doctor soon learns that Bianca's airs and graces cover not just one malevolent power lurking in the shadows, but several. And a wriggling, writhing presence has designs on the clientele ­ just as Bianca herself has designs on the Doctor. At last, after so many centuries, the weary Time Lord is dragged by the heels into that darkest of undiscovered countries - love.</dc:description>
+    </metadata>
+</package>

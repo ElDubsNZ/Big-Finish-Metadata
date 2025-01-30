@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Shellshock</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 11"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Morris</dc:creator>
+        <dc:creator opf:role="aut">Simon Barnard</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Alicia Ambrose-Bayly (Hanna Schumann)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Asbury (Doctor Sturm)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Hope (General Reinhardt)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (Captain Max Beck / Captain Starling / Private Müller)</dc:creator>
+        <dc:creator opf:role="nrt">Finlay Robertson (Lieutenant Hans Hoffman)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the TARDIS lands behind German lines at the height of the First World War the Doctor finds himself inadvertently transported to a hospital full of traumatised soldiers. They’re suffering from shellshock but also something else. Something causing vivid nightmares that chill the blood. Something not of this place.
+
+Things are not quiet on the Western Front.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Doctor Who and the Iron Legion</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-670-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - The Comic Strip Adaptations"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Brian Protheroe (General Ironicus / Milkman)</dc:creator>
+        <dc:creator opf:role="nrt">Christine Kavanagh (Juno / Magog)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Kloska (Morris / Centurion)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Longworth (Vesuvius / Grubb / Overseer)</dc:creator>
+        <dc:creator opf:role="nrt">Luke Franks (Adolphus Caesar)</dc:creator>
+        <dc:creator opf:role="nrt">Alistair Lock (Babiyon)</dc:creator>
+        <dc:creator opf:role="nrt">Steve Hansell (Doug / Barbarius / Alien Guard)</dc:creator>
+        <dc:creator opf:role="nrt">Esther Hall (Viv / Commentator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>1979 AD! Led by the terrible General Ironicus, the mighty Iron Legion – robot veterans of the Eternal War – have come, seen and conquered the English village of Stockbridge! 
+
+Caught up in the mayhem, the Doctor pursues the Legion back through the great Dimension Duct to their place of origin – an alternative Earth where Rome never fell... 
+
+But can he survive the horrors of the gladiatorial Hyp-Arena long enough to uncover the terrifying secret at the heart of the Galactic Roman Empire?</dc:description>
+    </metadata>
+</package>

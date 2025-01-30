@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Dead Man's Switch</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-700-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="33"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Llewellyn</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Murray Melvin (Bilis Manger)</dc:creator>
+        <dc:creator opf:role="nrt">Maxine Evans (Rowena Protheroe)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Blore (Piers Meadows)</dc:creator>
+        <dc:creator opf:role="nrt">Mali Ann Rees (Zoe Blake)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A devious antiques dealer, a property developer and a heartbroken hairdresser. Three strangers sit on a train that's going nowhere. 
+
+They are joined by a mysterious figure. 
+
+Bilis Manger wants to tell them how they died.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Nowhere, Never</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-764-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Time War - Volume 6 - Uncharted - Series 1 - Reflections"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Katharine Armitage</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Emma Campbell-Jones (Cass Fermazzi)</dc:creator>
+        <dc:creator opf:role="nrt">Sonny McGann (Alex Campbell)</dc:creator>
+        <dc:creator opf:role="nrt">Hattie Morahan (Neighbour)</dc:creator>
+        <dc:creator opf:role="nrt">Helen Goldwyn (Matron)</dc:creator>
+        <dc:creator opf:role="nrt">Jon-Paul Rowden (Soldier)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Cass is lost. In her place, a suburban housewife counting the hours until her family returns. But terrifying air raids are ripping through her calm. 
+
+The Doctor and Alex are trapped - patients in a strange hospital run by a fearsome Matron. They've both been injured in a war, but neither remembers exactly which war... 
+
+They all soon realise that time is not on their side.</dc:description>
+    </metadata>
+</package>

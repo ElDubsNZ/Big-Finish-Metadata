@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Ark</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-819-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 7"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Lucarotti</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sadie Miller (Sarah Jane Smith)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (Harry Sullivan)</dc:creator>
+        <dc:creator opf:role="nrt">Cameron Johnson (Mek)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Khan (Vez / Kol)</dc:creator>
+        <dc:creator opf:role="nrt">Lara Lemon (Den)</dc:creator>
+        <dc:creator opf:role="nrt">Terry Molloy (Narib / Noah)</dc:creator>
+        <dc:creator opf:role="nrt">Yasmin Mwanza (Viva)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A space station orbiting Earth has lain dormant for 8,476 years. Its systems are clogged with dust, so the human crew kept frozen in cryogenic storage have never woken up.
+
+When the Doctor, Sarah and Harry arrive to resuscitate the sleepers, they discover something else on board. A small, golf-ball like object gives Harry an electric shock, and has a more sinister impact on the awakening crew. Soon, the Doctor and his friends are battling to save the space station - and Earth - from a ravenous puffball!</dc:description>
+    </metadata>
+</package>

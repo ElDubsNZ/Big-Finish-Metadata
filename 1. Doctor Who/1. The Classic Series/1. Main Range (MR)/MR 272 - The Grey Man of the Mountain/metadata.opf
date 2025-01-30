@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Grey Man of the Mountain</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-018-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="272"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizbeth Myles</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (Brigadier Lethbridge-Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Guy Adams (Andy / Grey Man)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Goldie (Kirsty)</dc:creator>
+        <dc:creator opf:role="nrt">Youssef Kerkour (Thaddeus Kanner / Tom)</dc:creator>
+        <dc:creator opf:role="nrt">Vivien Reid (Niamh Godec / Janet MacKenzie)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Something haunts the peak of Ben MacDui.
+
+Something with heavy footsteps, striking terror in the hearts of those who sense it. With climbers going missing, retired Brigadier Lethbridge-Stewart visits Scotland to investigate.
+
+But when some old friends join his ascent, he worries that they will make things even more dangerous. As the snows blow in, and mists surround them, the Doctor, Ace and the Brigadier will face the Grey Man of the Mountain...
+
+ 
+
+Brigadier Alistair Lethbridge-Stewart © Haisman & Lincoln and used under licence.
+With thanks to Hannah Haisman and Candy Jar</dc:description>
+    </metadata>
+</package>

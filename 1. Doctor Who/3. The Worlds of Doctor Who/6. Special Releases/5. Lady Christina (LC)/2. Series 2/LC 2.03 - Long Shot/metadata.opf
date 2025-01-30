@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Long Shot</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-234-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Lady Christina - Series 2"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Michelle Ryan (Lady Christina de Souza)</dc:creator>
+        <dc:creator opf:role="nrt">Warren Brown (Sam Bishop)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy Wiles (Jacqui McGee)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Kloska (Ivo Hislop-Cannon)</dc:creator>
+        <dc:creator opf:role="nrt">Clive Hayward (Steven / General / Announcer)</dc:creator>
+        <dc:creator opf:role="nrt">Delroy Atkinson (Mike / Messingham / UNIT Trooper)</dc:creator>
+        <dc:creator opf:role="nrt">William Gaminara (Lord Alfred de Souza)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Royal Northcote: highlight of the racing calendar. Lady Christina hopes for a win, as do Sam Bishop and Jacqui McGee, looking into some mysterious deaths. With secret agents and rogue family members on the scene, an assassin closes in on their target. But Lady Christina is at her best when the odds are stacked against her.</dc:description>
+    </metadata>
+</package>

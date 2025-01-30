@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Island of the Fendahl</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-740-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Series 5 - The Further Adventures of Lucie Miller"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sheridan Smith (Lucie Miller)</dc:creator>
+        <dc:creator opf:role="nrt">Carlyss Peer (Diane Howard)</dc:creator>
+        <dc:creator opf:role="nrt">Attila Akinci (Dieter Fendelman)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Panting (Freddie)</dc:creator>
+        <dc:creator opf:role="nrt">Lauren Cornelius (Maxine Mitchell)</dc:creator>
+        <dc:creator opf:role="nrt">Bethan Dixon Bate (The Landlady)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Fendahl is the death of evolution, the horror that lies in wait at the far end of the food chain.
+
+The Fendahl is death itself.
+
+And the Fendahl is dead. The Doctor destroyed it many years ago, in another incarnation, when he encountered it in a place called Fetchborough.
+
+But if the Fendahl is dead... how can it live again, on the remote island of Fandor?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Escape from Holy Island</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-175-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Sixth Doctor Adventures - The Quin Dilemma"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Chris Chapman</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Labey (Herbert G. Wells)</dc:creator>
+        <dc:creator opf:role="nrt">Rhys Jennings (Brother Gladstone)</dc:creator>
+        <dc:creator opf:role="nrt">Sanjeev Kohli (Brother Boyle)</dc:creator>
+        <dc:creator opf:role="nrt">David Monteith (Brother Marcus)</dc:creator>
+        <dc:creator opf:role="nrt">Jonnie Broadbent (Byron)</dc:creator>
+        <dc:creator opf:role="nrt">Lara Lemon (Quins' computers)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The history books tell us that on the 8th of June, 793 AD, the Holy Island of Lindisfarne was burnt to the ground by Viking raiders. But history also records that "fiery dragons were seen flying in the sky" - can that be true? With time running out, the Doctor, Peri and a young HG Wells mobilise the island’s monks as the real raiders of Lindisfarne thunder over the North Sea - and they don’t look like Vikings...</dc:description>
+    </metadata>
+</package>

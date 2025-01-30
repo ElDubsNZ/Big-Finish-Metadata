@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Instant Karma</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-469-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="23"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Llewellyn</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Naoko Mori (Toshiko Sato)</dc:creator>
+        <dc:creator opf:role="nrt">Jonny Dixon (Simon)</dc:creator>
+        <dc:creator opf:role="nrt">Sara McGaughey (Janet)</dc:creator>
+        <dc:creator opf:role="nrt">Duncan Wisbey (Dog Owner)</dc:creator>
+        <dc:creator opf:role="nrt">Liz Sutherland-Lim (Daphne)</dc:creator>
+        <dc:creator opf:role="nrt">Ross Ford (Chav)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Ludders (Bloke)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Imagine. All those people. The ones who make each day that little bit harder. That little bit more unbearable. 
+
+Imagine if you could silence them. Just by looking at them. 
+
+I mean, just imagine. If you could do that. To all the people who annoy you. Would you do it?</dc:description>
+    </metadata>
+</package>

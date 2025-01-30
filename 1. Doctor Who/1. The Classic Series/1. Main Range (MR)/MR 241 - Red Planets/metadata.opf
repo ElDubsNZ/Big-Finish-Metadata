@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Red Planets</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-831-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="241"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Una McCormack</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Melanie Bush)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Matt Barber (Tom Elliot)</dc:creator>
+        <dc:creator opf:role="nrt">Max Bollinger (Sokolov)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Dale (Mission Control / Voice of Map / George / Television Announcer)</dc:creator>
+        <dc:creator opf:role="nrt">Genevieve Gaunt (Anna / Commander of Phobos Mission)</dc:creator>
+        <dc:creator opf:role="nrt">Elliot Levey (Colonel Marsden)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>London, 2017. Except... it isn't. Berlin, 1961. But it isn't that either. Not really. Not in the timeline the Doctor knows. Something is very wrong.
+
+While Ace tries to save the life of a wounded British spy, Mel and the Doctor must get to grips with the modern day socialist Republic of Mokoshia. For Mel it feels strangely familiar and 'right', which makes the Doctor feel even more uneasy.
+
+Soon, a message from a dark and blood-soaked distant future is on its way... But the Doctor will have to act fast to stop this timeline becoming reality.
+
+And with Ace stranded in an alternate 1961, will saving the Earth end her existence?</dc:description>
+    </metadata>
+</package>

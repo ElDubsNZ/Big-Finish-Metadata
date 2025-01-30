@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Criss-Cross</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-547-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="204"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Miranda Raison (Constance Clarke)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Fraser (Dr Schwartzmann / Rider)</dc:creator>
+        <dc:creator opf:role="nrt">Alistair Petrie (Major Harris / German Lieutenant)</dc:creator>
+        <dc:creator opf:role="nrt">Charlotte Salt (Sylvia Wimpole / Waveform / Effy)</dc:creator>
+        <dc:creator opf:role="nrt">Robbie Stevens (Captain Unger / Dutch / British Captain / Chuadri)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Thornley (Robbie Flint / Cyril)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Bletchley Park. Britain's most secret weapon in the Second World War.
+
+Inside draughty huts, the earliest computers clatter day and night, decoding enemy transmissions and revealing intelligence crucial to the country's defence. Leading WREN Mrs Constance Clarke directs her charges to provide vital assistance to the boffins stationed in the Manor House. But a recent arrival among the code-breakers, the mysterious Dr Smith, has attracted the attention of MI5's spycatchers...
+
+Over in mainland Europe, Nazi agents are briefed, covert operations planned, and a German submarine embarks on a very secret mission.
+
+As encrypted radio waves criss-cross the planet, unearthly forces stir. And when certain ciphers are cracked, something will emerge to threaten all humanity, regardless of allegiance...</dc:description>
+    </metadata>
+</package>

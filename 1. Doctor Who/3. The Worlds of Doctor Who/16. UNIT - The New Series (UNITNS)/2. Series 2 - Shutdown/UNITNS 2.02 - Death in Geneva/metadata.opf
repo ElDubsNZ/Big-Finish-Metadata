@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Death in Geneva</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-614-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - The New Series - Series 2 - Shutdown"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andrew Smith</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jemma Redgrave (Kate Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Ingrid Oliver (Osgood)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Captain Josh Carter)</dc:creator>
+        <dc:creator opf:role="nrt">Warren Brown (Sam Bishop)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Carrington (Sir Peter Latcham)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Anna)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Ditson (General Grant Avery)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Li (Dokan)</dc:creator>
+        <dc:creator opf:role="nrt">Akira Koieyama (Chiso / Tengobushi Assassins)</dc:creator>
+        <dc:creator opf:role="nrt">Jot Davies (Sebastien)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>With few people left to trust, and with assassins on their tail, Kate and Osgood race to UNIT Command in Geneva. Will General Avery be able to help them? 
+
+But when death follows UNIT all the way from the English countryside to the snowy slopes of the Alps, Captain Carter finds himself in a race against time. 
+
+As the body count rises, Kate struggles to separate friend from foe, danger circles Osgood ever closer, and, high in the mountains, Josh comes face to face with the enemy...</dc:description>
+    </metadata>
+</package>

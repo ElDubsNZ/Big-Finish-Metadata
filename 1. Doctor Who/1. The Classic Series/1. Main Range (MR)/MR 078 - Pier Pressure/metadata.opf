@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Pier Pressure</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2006-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-166-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="78"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Ross</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Stables (Evelyn)</dc:creator>
+        <dc:creator opf:role="nrt">Doug Bradley (Professor Talbot)</dc:creator>
+        <dc:creator opf:role="nrt">Sally Ann Curran (Emily Bung)</dc:creator>
+        <dc:creator opf:role="nrt">Roy Hudd (Max Miller)</dc:creator>
+        <dc:creator opf:role="nrt">Martin Parsons (Billy)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Simmons (Albert Potter)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Brighton, Sussex; 1936
+
+ "Ere, listen listen, I've got one for you. There once was this bloke, you see. Good-looking sort of chap. Lovely, brightly coloured coat. No rubbish. Quality gear. Never bought a drink neither... or so they say. But his name wasn't Miller. Oh no, there'll never be another Cheeky Chappie, lady, there'll never be another. They broke the mould when they made me you know.
+
+No, this bloke called himself the Doctor. Doctor who you ask? And may well you. Don't know me self. No one ever knew. Funny that. He was a real strange one. Odd things happened when he arrived.
+
+Mind you, them were dark days. No one was laughing. And these were my people. My public. It was like playing first house at the Glasgow Empire. Just like the entire town was cursed it was. Cursed by something not of this world..."</dc:description>
+    </metadata>
+</package>

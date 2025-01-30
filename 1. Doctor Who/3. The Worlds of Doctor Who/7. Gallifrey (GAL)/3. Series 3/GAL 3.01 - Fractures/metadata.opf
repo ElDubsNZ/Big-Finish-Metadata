@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Fractures</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2006-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-204-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 3"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Stephen Cole</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (Ex-President Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela of the Sevateem)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9 Mk II)</dc:creator>
+        <dc:creator opf:role="nrt">Mary Tamm (Imperiatrix Pandora)</dc:creator>
+        <dc:creator opf:role="nrt">Lynda Bellingham (Inquisitor-Prime Darkel)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Aesino)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Coodinator Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Cuckson (Commander Hallan)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Grunert (Medic Elbon)</dc:creator>
+        <dc:creator opf:role="nrt">Charles Pemberton (Commentator Gerber)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Perring (Lord Matthias)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Ross (Captain Janartis)</dc:creator>
+        <dc:creator opf:role="nrt">Dickon Tolson (Captain Annos)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Chancellor Valyes)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It learns. It evolves. It wants. It hungers. And now Romana has delivered herself to its very door.' 
+
+Gallifrey is a world at war with itself. The Pandora entity, clothed in the body of President Romana's first incarnation, seeks to control the populace through mind control and manipulation. The real Romana has resorted to destroying key parts of the Capitol, hoping to weaken Pandora's power base.
+
+But when one such attack goes horribly wrong, Leela is left injured and Romana's base of operations is exposed. Hunted by their enemies, Leela must make for a medical outpost on the fringes of the fighting while Romana seeks a desperate solution in the planet's Anomaly Vaults. But what each discovers will alter their lives, and Gallifrey's future, forever.</dc:description>
+    </metadata>
+</package>

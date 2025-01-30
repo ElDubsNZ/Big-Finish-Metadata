@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The War Valeyard</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-385-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Time War - Volume 3"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Rakhee Thakrar (Bliss)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Jayston (The Doctor Valeyard / The Trial Valeyard)</dc:creator>
+        <dc:creator opf:role="nrt">Venice Van Someren (Nim)</dc:creator>
+        <dc:creator opf:role="nrt">Adèle Anderson (Major Tamasan)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks / Time Strategist)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Valeyard has returned to the universe amid the Time War - and the Time Lords see his potential to end the conflict for good.
+
+When the Doctor discovers that his twisted future self has been conscripted, he sets out with Bliss to find him, braving a planet ravaged by Daleks.
+
+But in a world where he can finally be a hero, will the Valeyard want to leave?</dc:description>
+    </metadata>
+</package>

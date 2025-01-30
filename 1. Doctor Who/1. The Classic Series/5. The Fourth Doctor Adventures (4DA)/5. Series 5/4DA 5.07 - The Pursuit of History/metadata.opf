@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Pursuit of History</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-739-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 5"/>
+        <meta name="calibre:series_index" content="7"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Conglom-Net Computer / Oceanic Airforce Pilot)</dc:creator>
+        <dc:creator opf:role="nrt">John Dorney (David Goddard / Oceanic Airforce Commander)</dc:creator>
+        <dc:creator opf:role="nrt">Jez Fielder (Neville Sanders / Drudger / Ecidien Cerebus Bird / Albert Chatterton / The White Guardian / Salonu Prime)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Hadoke (Mr Dorrick)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (The Laan / Salonu)</dc:creator>
+        <dc:creator opf:role="nrt">David Troughton (The Black Guardian)</dc:creator>
+        <dc:creator opf:role="nrt">David Warner (Cuthbert)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On a brisk winter’s morning in 1850s Yorkshire, Cuthbert, head of the intergalactic business known as 'The Conglomerate' prepares to hijack a very special train.
+
+In the far future, his assistant, Mr Dorrick is awoken by howling alarms. There is a problem with the Quantum Gateway.
+
+In the TARDIS, the Doctor, Romana and K9 detect strange distortions in the Vortex, an energy stream coming from a strange creature called a Laan.
+
+The threads of a plan centuries in the making are coming together. But who is behind this plan? And can anyone possibly escape when history is against them?</dc:description>
+    </metadata>
+</package>

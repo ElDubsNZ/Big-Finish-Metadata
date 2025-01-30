@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Death and the Queen</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-234-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Tenth Doctor Adventures - Series 1"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Tennant (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Catherine Tate (Donna Noble)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Hortense)</dc:creator>
+        <dc:creator opf:role="nrt">Alan Cox (Death)</dc:creator>
+        <dc:creator opf:role="nrt">Alice Krige (The Queen Mum)</dc:creator>
+        <dc:creator opf:role="nrt">Blake Ritson (Rudolph)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Donna Noble has never been lucky in love.
+
+So when, one day, her Prince does come, she is thrilled to have the wedding of all weddings to look forward to. Though the Doctor isn’t holding his breath for an invitation. And her future mother-in-law is certainly not amused.
+
+But on the big day itself, Donna finds her castle under siege from the darkest of forces, marching at the head of a skeleton army.
+
+When it looks like even the Doctor can’t save the day, what will Queen Donna do to save her people from Death itself?</dc:description>
+    </metadata>
+</package>

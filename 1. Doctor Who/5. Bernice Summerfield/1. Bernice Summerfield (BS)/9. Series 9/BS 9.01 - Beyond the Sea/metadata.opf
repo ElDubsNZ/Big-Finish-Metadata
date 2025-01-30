@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Beyond the Sea</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-326-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 9"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Thomas Grant (Peter Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Alice Barclay (Kerry Lyle)</dc:creator>
+        <dc:creator opf:role="nrt">Ralf Collie (Tate Booker)</dc:creator>
+        <dc:creator opf:role="nrt">Jeremy James (Rick Hertz)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A new adventure in the 27th Century for Bernice Summerfield.
+
+A new phase in the never-dull life of Bernice Summerfield opens as she arrives on the human colony world of Maximediras, with her son Peter in tow, to begin work on a much-needed freelance assignment. Relics from a hitherto unknown civilisation have been discovered on the sea bed and Bernice has been hired by the planet's tourist board to travel out on one of their cruises and undertake a survey.
+
+Bernice is suspicious of her employer's motives from the start, but becomes more uneasy as time goes on. Is she being taken advantage of? Is her reputation starting to cause trouble for her? More seriously, she starts to realise that she's travelling on a cruise ship with an unusually high suicide rate.
+
+What is causing this? Or who...?</dc:description>
+    </metadata>
+</package>

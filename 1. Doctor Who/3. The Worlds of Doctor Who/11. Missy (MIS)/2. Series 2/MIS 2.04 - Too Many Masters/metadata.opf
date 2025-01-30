@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Too Many Masters</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-228-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Missy - Series 2"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Michelle Gomez (Missy)</dc:creator>
+        <dc:creator opf:role="nrt">Rufus Hound (The Monk)</dc:creator>
+        <dc:creator opf:role="nrt">Ajjaz Awad (Lydia)</dc:creator>
+        <dc:creator opf:role="nrt">Helen Goldwyn (Empress Maule)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Whitelock (Grolk / Ogrons / Servant)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (Burnsbright / Librarian / Ogron 2)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Monk has captured Missy. And he will have his revenge... 
+
+But the Ogrons are also looking to settle an old debt. And when they call it in, they find themselves with too many Time Lords on their hands. 
+
+The Master owes them big – and the Ogrons know who the Master is. Don’t they?</dc:description>
+    </metadata>
+</package>

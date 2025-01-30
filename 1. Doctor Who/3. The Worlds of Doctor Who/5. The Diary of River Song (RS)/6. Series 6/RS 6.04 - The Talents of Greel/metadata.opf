@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Talents of Greel</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-507-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Diary of River Song - Series 6"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Goh (Li H'sen Chang / Mr Sin)</dc:creator>
+        <dc:creator opf:role="nrt">Angus Wright (Magnus Greel)</dc:creator>
+        <dc:creator opf:role="nrt">Milly Thomas (Celestine Sorbonne / Maisie Bunting)</dc:creator>
+        <dc:creator opf:role="nrt">John Paul Connolly (Casey)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>River visits Victorian London on the trail of anachronistic technology. But when young women are stolen from the streets, she takes a stand. River's investigation leads to theatre impresario Henry Gordon Jago, and his latest star act: Li H'Sen Chang and the unnerving Mr Sin. But if River's going undercover at the Palace Theatre, she needs to have a song...</dc:description>
+    </metadata>
+</package>

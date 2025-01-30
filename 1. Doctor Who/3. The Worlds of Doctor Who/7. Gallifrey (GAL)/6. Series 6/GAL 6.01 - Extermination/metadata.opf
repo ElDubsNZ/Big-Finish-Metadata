@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Extermination</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-959-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 6"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Scott Handcock</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (Supreme Leader Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Outcast Leader Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Chancellor Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Sheward (Castellan Slyne)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Arthur (Guard Commander Lukas / Outsider)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Ollerenshaw (Allora)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Councillor Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Andy Coleman (Andred)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Handcock (Jevon)</dc:creator>
+        <dc:creator opf:role="nrt">Marcus Harris (Councillor Rahvon)</dc:creator>
+        <dc:creator opf:role="nrt">Jack Baggs (Jamalan)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Gallifrey Fights... 
+
+Having infiltrated the Axis, the Daleks have secured access to a myriad alternative realities and, with them, countless Gallifreys... every one with secrets to be plundered. 
+
+As her new world falls to the might of the Dalek invasion force, Romana finds herself struggling to keep her friends alive as the Capitol collapses around her. 
+
+Against all odds, there may be a way out — back to the Axis and, potentially, back home. But desperate times call for desperate measures and, ultimately, sacrifices...</dc:description>
+    </metadata>
+</package>

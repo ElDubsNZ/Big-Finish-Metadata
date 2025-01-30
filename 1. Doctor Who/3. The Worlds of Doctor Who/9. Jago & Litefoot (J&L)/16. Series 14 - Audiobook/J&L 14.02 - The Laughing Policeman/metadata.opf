@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Laughing Policeman</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jago & Litefoot - Series 14 - Audiobook"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Duncan Wisbey (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Inspector Gilhooey is used to dealing with mundane crimes, but he's been given a new assignment, to root out enemies of the state. His investigations have led him to the Temperance Hall, where the Cotterill siblings are giving a seditious speech. However, Gilhooey discovers that the Cotterills aren't the only disloyal duo in attendance, there are two more traitors in the crowd: traitors called Jago and Litefoot!</dc:description>
+    </metadata>
+</package>

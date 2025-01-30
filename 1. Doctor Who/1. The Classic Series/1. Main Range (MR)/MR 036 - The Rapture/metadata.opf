@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Rapture</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2002-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-474-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="36"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Joseph Lidster</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Anne Bird (Caitriona)</dc:creator>
+        <dc:creator opf:role="nrt">Tony Blackburn (DJ)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Brenher (Jude)</dc:creator>
+        <dc:creator opf:role="nrt">Neil Henry (Gabriel)</dc:creator>
+        <dc:creator opf:role="nrt">Jeremy James (Bouncer)</dc:creator>
+        <dc:creator opf:role="nrt">David John (Liam)</dc:creator>
+        <dc:creator opf:role="nrt">Carlos Riera (Gustavo)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Wilson (Brian)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Ibiza, 1997, and thousands of young people are acting like mindless zombies.
+
+Which is to be expected. Ibiza, the island of dance music, sex, drugs and alcohol, is the ultimate hedonistic paradise.
+
+God has sent help from on high to save the sinners of Ibiza. He has sent His angels to save their souls.
+
+Which would be simple enough if these souls didn't include an alien time-traveller working in a bar, a woman who disappeared in 1987, a young man carrying a photograph of a girl he's never met and an Irish girl who doesn't even know who she is anymore.</dc:description>
+    </metadata>
+</package>

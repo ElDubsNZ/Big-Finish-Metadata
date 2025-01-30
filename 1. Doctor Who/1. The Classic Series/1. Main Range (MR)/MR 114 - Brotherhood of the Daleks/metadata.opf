@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Brotherhood of the Daleks</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-323-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="114"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Carlyle (Valion)</dc:creator>
+        <dc:creator opf:role="nrt">Jo Castleton (Nyaiad)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Cochrane (Murgat)</dc:creator>
+        <dc:creator opf:role="nrt">Steve Hansell (Septal)</dc:creator>
+        <dc:creator opf:role="nrt">Harriet Kershaw (Tamarus)</dc:creator>
+        <dc:creator opf:role="nrt">Alison Thea-Skot (Jesic)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS makes a return trip to the jungle planet of Spiridon, where the Doctor and Charley fall in with a lost platoon of shellshocked Thal soldiers - victims of a sneak attack by their blood enemies, the Daleks.
+
+Besieged by deadly flora, surrounded by invisible monsters, and with all hope of rescue gone, the Thals are the victims of a grim experiment in psychological warfare.
+
+With the very nature of reality under threat, the Doctor and Charley need each other more than ever. But dark forces are conspiring to tear them apart...</dc:description>
+    </metadata>
+</package>

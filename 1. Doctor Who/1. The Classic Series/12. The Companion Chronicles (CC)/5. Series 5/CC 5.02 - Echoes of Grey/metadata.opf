@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Echoes of Grey</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-484-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 5"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Wendy Padbury (Zoe Heriot)</dc:creator>
+        <dc:creator opf:role="nrt">Emily Pithon (Ali)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Zoe Heriot has a photographic memory. Total recall. But when it comes to the years she spent travelling in time and space, all she can remember is that she has forgotten.
+
+Years after she was returned to the Wheel in Space by the Time Lords, Zoe meets Ali, a young woman who claims to have met Zoe before, when she was with the Doctor and Jamie. Suddenly, part of the hidden past is exposed, as memories return of a visit to the Whitaker Institute in Central Australia. Secrets are uncovered. And the mystery of the Achromatics is about to be unleashed...</dc:description>
+    </metadata>
+</package>

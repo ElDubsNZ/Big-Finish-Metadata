@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Return of the Krotons</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-385-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Sixth Doctor Adventures - Specials"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Krotons)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Brooker (Romilly / The Krotons)</dc:creator>
+        <dc:creator opf:role="nrt">Susan Brown (Eleanor Harvey)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Burgess (Ned Gillespie)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Dickens (Security)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Madoc (Rag Cobden)</dc:creator>
+        <dc:creator opf:role="nrt">Glynn Sweet (Professor Lyle Woodruff)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The dead planet Onyakis is being plundered by the last survivors of the human race, and their leader, Commander Cobden, will stop at nothing to get what he wants. Already there are rumours of those who stand against him mysteriously disappearing. But when the Doctor and Charley find themselves on the side of those trying to expose Cobden, they discover something far more sinister.
+
+Deep in the mines of Onyakis, alien technology is reactivating. Power is flowing. Something is forming in the darkness...</dc:description>
+    </metadata>
+</package>

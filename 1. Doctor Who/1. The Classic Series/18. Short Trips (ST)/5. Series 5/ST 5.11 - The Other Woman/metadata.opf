@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Other Woman</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 5"/>
+        <meta name="calibre:series_index" content="11"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Philip Lawrence</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Katy Manning (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>UNIT is called in when an alien escape pod brings a woman to the Kent countryside. The Doctor offers to repair her stricken, dimension-hopping ship, seeing an opportunity to escape his exile. But while Callandra charms the Doctor and the other men of UNIT, Jo is less trusting. Are her suspicions well-founded or is there another green-eyed monster at work?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Devil in Ms. Wildthyme</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2005-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-165-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Iris Wildthyme - Series 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Stephen Cole</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Katy Manning (Iris Wildthyme)</dc:creator>
+        <dc:creator opf:role="nrt">Ortis Deley (Tom)</dc:creator>
+        <dc:creator opf:role="nrt">David Benson (Panda)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Hobbs (Doctor Marwick)</dc:creator>
+        <dc:creator opf:role="nrt">Lizzie Hopley (Alice Elbaum)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Guerrier (Spectres)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>So in this adventure, we meet Dr Zachariah Marwick. Dear Tom finds out that he has started a special clinic for people with mysterious lumps — but how come he knows exactly what they are before he's even examined them? And why is he so insistent that his patients join an exclusive speed-dating club? 
+
+Trans-temporal adventuress Iris Wildthyme, meanwhile, is not herself. She's scared of her own shadow, it seems. Indeed, she's even afraid to leave her wretched bus. I, naturally, am terribly worried about her — and about Tom as well. You see, he seems to have straw coming out of his head, like old stuffing. How can that be? And then they have the temerity to accuse me of getting all emotional about everything? Me! I ask you... 
+
+Anyway, together we three brave heroes must face demons from Iris's past, as an outrageous presence begins to assert itself over reality — one that seems to have been reading far more Dennis Wheatley than is strictly necessary. 
+
+- Panda (X)</dc:description>
+    </metadata>
+</package>

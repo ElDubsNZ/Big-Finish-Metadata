@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Tube Strike</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-034-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="81"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Gareth David-Lloyd</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Gareth David-Lloyd (Ianto Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Bentinck (Tommy Pierce)</dc:creator>
+        <dc:creator opf:role="nrt">Kay Bridgeman (Tia)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Elroy (Bill)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Rackstraw (The Weevils)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Building work on the London Underground has disturbed a nest of Weevils. The ravenous creatures are hunting for flesh. Can Torchwood One contain the feast?</dc:description>
+    </metadata>
+</package>

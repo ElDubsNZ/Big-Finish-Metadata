@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Worst Thing in the World</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2006-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-059-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 7"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Dave Stone</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Fewell (Jason Kane)</dc:creator>
+        <dc:creator opf:role="nrt">Karen Baldwin (Zombette)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Connolly (Zombette)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Guerrier (Zombette)</dc:creator>
+        <dc:creator opf:role="nrt">Bernard Holley (Marvin Glass)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Lidster (Zombette)</dc:creator>
+        <dc:creator opf:role="nrt">Jenny Livsey (Jane Peters)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Milligan (Hannah Glass)</dc:creator>
+        <dc:creator opf:role="nrt">Edward Salt (Zombette)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Drome was set up with the best - or at least the most blatantly venal - of intentions. A self-contained planetoid-community, wired with microcams, designed to pump out product to the GalNet media-stream twenty-six hours a Galactic Standard Day.
+
+But now the Medium is rotting minds and turning them to murder. The machine is turning out brain-dead zombies, setting them to stumble through the twists and turns of some inhuman and unguessable plan - and Professor Bernice Summerfield, and her ex-husband Jason, are caught in the middle of it!
+
+Now Benny finds herself in a desperate fight for her life. A fight so desperate that she will be forced to do something she has never done before, a horror that she never imagined she could bring herself to commit. The worst thing in the world.</dc:description>
+    </metadata>
+</package>

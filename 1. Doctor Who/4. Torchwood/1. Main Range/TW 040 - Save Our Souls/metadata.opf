@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Save Our Souls</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-104-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="40"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Scott Handcock</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Rowena Cooper (Queen Victoria)</dc:creator>
+        <dc:creator opf:role="nrt">Gwyneth Keyworth (Florence Driscoll)</dc:creator>
+        <dc:creator opf:role="nrt">Wayne Forester (Captain Henry Morgan)</dc:creator>
+        <dc:creator opf:role="nrt">Kingsley Amadi (Samuel Okonjo)</dc:creator>
+        <dc:creator opf:role="nrt">Gruffudd Glyn (Owain Pryce)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>An experimental radio mast has been set up on a remote island. It has been picking up signals – a voice that claims it knows the future. 
+
+Five people have come to the island to hear the voice. A scientist, a soldier, a medium, an alienist and the most powerful woman in the world. The voice has something to say to all of them. It starts by saying who will be the first to die.</dc:description>
+    </metadata>
+</package>

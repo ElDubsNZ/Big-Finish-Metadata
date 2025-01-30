@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Green Life</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-475-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="26"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Llewellyn</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Barrowman (Captain Jack Harkness)</dc:creator>
+        <dc:creator opf:role="nrt">Katy Manning (Jo Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Stewart Bevan (BOSS)</dc:creator>
+        <dc:creator opf:role="nrt">Stewart Bevan[1] (Burger Man)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Torchwood vs Monsters! 
+
+Many years ago Jo Grant met Professor Clifford Jones, fell in love and saved the world. It all happened in the idyllic Welsh community of Llanfairfach. 
+
+Josephine Jones has come back to Llanfairfach and she finds it a bustling place with a thriving economy. The little town is now at the spearhead of a healthy-eating revolution. And yet, something's missing. It feels like the heart has gone out of the place. 
+
+She falls in with a dashing stranger and realises that although the past was a lot simpler, not everything's changed. There's still something nasty in the mine, and it's been waiting for Jo for a very long time.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Death Collectors</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-318-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="109"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Stewart Sheargold</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Carlyle (Smith Ridley / Dar Traders / Colonel)</dc:creator>
+        <dc:creator opf:role="nrt">Alastair Cording (Professor Mors / Guard)</dc:creator>
+        <dc:creator opf:role="nrt">Carol Fitzpatrick (Louisa Keldafrian)</dc:creator>
+        <dc:creator opf:role="nrt">Kevin McNally (Henry)</dc:creator>
+        <dc:creator opf:role="nrt">Katarina Olsson (Nancy / Alison Keldafrian)</dc:creator>
+        <dc:creator opf:role="nrt">Katherine Parkinson (Danika Meanwhile)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Death Collectors (a 3 part story)
+
+A virulent disease that killed millions. A missing scientist. An ancient race of salvagers who collect and preserve the dead. The quarantined planet Antikon connects them all. When the Doctor arrives on a sky station above Antikon, a single accident has already set in motion a chain of events that will mean the death of every living thing. And the only way he can stop it is to die. Again.
+
+PLUS 
+
+Spider's Shadow (a 1 part story)
+
+It is the eve of battle and the Martial Princesses Louise and Alison are hosting a royal ball.  But there are unwelcome visitors in the garden and a sequence of events spiralling out of control.  And what's more, the Doctor doesn't even remember arriving.</dc:description>
+    </metadata>
+</package>

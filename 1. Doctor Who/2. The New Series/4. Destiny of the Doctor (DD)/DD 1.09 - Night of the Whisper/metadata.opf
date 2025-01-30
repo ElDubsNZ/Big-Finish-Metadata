@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Night of the Whisper</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-47131-175-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Destiny of the Doctor"/>
+        <meta name="calibre:series_index" content="9"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Cavan Scott</dc:creator>
+        <dc:creator opf:role="aut">Mark Wright</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">John Schwab (James McNeil)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>New Vegas, 23rd Century - a sprawling city huddling beneath an artificial atmospheric bubble on a distant moon. Pleasure seekers flock there from every corner of the galaxy, to take in the shows and play the tables in the huge casinos. But beneath the glitz and the glitter, organised crime rules the streets.
+
+Whilst Rose Tyler works as a waitress in the Full Moon nightclub, Jack Harkness poses as a reporter for the Daily Galaxy. Meanwhile, the Doctor is helping the police department with their investigation into The Whisper, a strange vigilante that has been terrorising the city’s underworld. But the Doctor is also on a mission of his own - to save Police Chief McNeil’s life at all costs.</dc:description>
+    </metadata>
+</package>

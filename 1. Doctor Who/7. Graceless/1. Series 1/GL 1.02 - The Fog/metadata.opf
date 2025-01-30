@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Fog</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-511-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Graceless - Series 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Ciara Janson (Abby)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Doddington (Zara)</dc:creator>
+        <dc:creator opf:role="nrt">Fraser James (Marek)</dc:creator>
+        <dc:creator opf:role="nrt">David Warner (Daniel)</dc:creator>
+        <dc:creator opf:role="nrt">Patricia Brake (Nan)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Mallinson (Nicholas Payne)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"There's no such thing as witches." 
+
+Abby and Zara find themselves in the small town of Compton in October 1912. In the local pub, they meet Nan, who offers them the local beer and then has them arrested. 
+
+Something is killing the town's children, something that hides in the fog, something that prevents Abby and Zara from leaving. But Abby knows something worse is coming to the town – something that will kill them all. 
+
+Can Abby and Zara prove their innocence and help solve the mystery? Or is it sometimes better not to know?</dc:description>
+    </metadata>
+</package>

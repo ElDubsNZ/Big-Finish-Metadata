@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Dark Convoy</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 5"/>
+        <meta name="calibre:series_index" content="7"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mark B Oliver</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sophie Aldred (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Materialising aboard the corvette HMS Thunder during the Second World War, the Doctor and Ace join Commander Fitzgerald and his crew as they track an allied submarine in trouble.
+
+While the Doctor advises the Captain on navigational matters, Ace joins in a daring mission to rescue sailors in the water. With German planes overhead, no-one’s survival is guaranteed…</dc:description>
+    </metadata>
+</package>

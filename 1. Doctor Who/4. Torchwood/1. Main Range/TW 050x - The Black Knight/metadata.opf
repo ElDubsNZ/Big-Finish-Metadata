@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Black Knight</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-792-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="50"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizbeth Myles</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Samuel Barnett (Norton Folgate)</dc:creator>
+        <dc:creator opf:role="nrt">Safiyya Ingar (Lynne Sharman)</dc:creator>
+        <dc:creator opf:role="nrt">Jacob Dudman (Freddie Talbot)</dc:creator>
+        <dc:creator opf:role="nrt">Russell Bentley (Sir Christopher Grey)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A brilliant scientist detects an asteroid destroying any craft entering the Earth's orbit. Is it protecting the human race or imprisoning it? 
+
+Only one person believes her. That person is from Torchwood. Norton Folgate is taking Lynne Sharman on the journey of her life.</dc:description>
+    </metadata>
+</package>

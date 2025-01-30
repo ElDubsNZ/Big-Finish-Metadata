@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Embrace the Darkness</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2002-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-460-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="31"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Boyce (Orliensa)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Brooker (ROSM)</dc:creator>
+        <dc:creator opf:role="nrt">Mark McDonnell (Hallard)</dc:creator>
+        <dc:creator opf:role="nrt">Lee Moone (Ferras)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and Charley travel to the remote Cimmerian System to unravel the mystery of its sun. But darkness has already embraced the scientific base on Cimmeria IV in more ways than one. In a fight for survival, the Doctor must use all his wits against a deadly artificial lifeform and an ancient race whose return to the Cimmerian System threatens suffering and death on an apocalyptic scale.</dc:description>
+    </metadata>
+</package>

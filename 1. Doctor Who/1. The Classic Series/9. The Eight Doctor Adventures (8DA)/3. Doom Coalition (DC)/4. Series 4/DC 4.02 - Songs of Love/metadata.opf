@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Songs of Love</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-623-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Doom Coalition 4"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Hattie Morahan (Helen Sinclair)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Bonnar (The Eleven)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Bathurst (Padrac)</dc:creator>
+        <dc:creator opf:role="nrt">Emma Cunniffe (The Sonomancer)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Veklin)</dc:creator>
+        <dc:creator opf:role="nrt">Olivia Poulet (Jerasta)</dc:creator>
+        <dc:creator opf:role="nrt">Vince Leigh (Volstrom / Matrix Keeper / Computer)</dc:creator>
+        <dc:creator opf:role="nrt">Sasha Behar (Presidential Aide)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Left to fend for herself against a bunch of power-hungry plotters hell-bent on destroying the universe, what choice does a girl have but to throw in her lot with the winning side? Using her past to her advantage, River Song returns to the ancestral seat of the Time Lords to make her last stand.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Day of the Comet</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 10"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Sophia Carr-Gomm (Corsha)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (Sullerman / Massey)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Henfrey (Verkuvia)</dc:creator>
+        <dc:creator opf:role="nrt">Joanna Hole (Tynax)</dc:creator>
+        <dc:creator opf:role="nrt">David Seddon (Lendrik)</dc:creator>
+        <dc:creator opf:role="nrt">Mandi Symonds (Vengis)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS brings the Doctor and Leela to the ruins of a once-great city racked by earthquakes, where they find a giant rocket on the side of a mountain. The planet is due to be destroyed by a comet in a year’s time and this ship is the only way off world.
+
+But is everything quite as it seems? At least one person in the city thinks the comet is going to come to obliterate the planet much sooner than people believe.
+
+Which would be bad enough - if there wasn’t a far worse secret hidden behind the scenes...</dc:description>
+    </metadata>
+</package>

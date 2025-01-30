@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Prisoner's Dilemma</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-357-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 3"/>
+        <meta name="calibre:series_index" content="8"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Doddington (Zara)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A new adventure with the Seventh Doctor as told by his companion, Ace.
+
+Two prisoners meet in a prison cell. Zara is searching for the segments of the Key to Time; she was only born yesterday but already she’s killed hundreds of people. Ace is more ambitious: she was going to kill everyone on the planet.
+
+What have they got against the people of Erratoon? They go peaceably about their simple assignments, beneath their artificial sky. They share their meals and leisure time and they never ask questions. Are they even real?
+
+Ace and Zara will only survive if they can trust each other. Or perhaps if they sell each other out... If not their awful punishment is to become just like everyone else.</dc:description>
+    </metadata>
+</package>

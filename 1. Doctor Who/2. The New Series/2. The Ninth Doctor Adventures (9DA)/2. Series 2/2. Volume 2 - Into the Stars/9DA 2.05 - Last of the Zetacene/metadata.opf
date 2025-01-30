@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Last of the Zetacene</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-758-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Ninth Doctor Adventures - Series 2 - Volume 2 - Into the Stars"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Kettle</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Eccleston (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicolas Colicos (Succeeding / Robot)</dc:creator>
+        <dc:creator opf:role="nrt">Alice Feetham (Nel)</dc:creator>
+        <dc:creator opf:role="nrt">Maureen O'Brien (Selo / First Gyra)</dc:creator>
+        <dc:creator opf:role="nrt">Joanne Pearce (Luton / Second Gyra)</dc:creator>
+        <dc:creator opf:role="nrt">Martyn Ellis (The Rotter / Delius)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The rich and the criminal rub shoulders on Stage Three spaceport - and play high-stakes games for valuable prizes.
+
+The Doctor is always interested in endangered species, and the Zetacene is more endangered than most…</dc:description>
+    </metadata>
+</package>

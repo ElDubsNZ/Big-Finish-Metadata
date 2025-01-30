@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Rings Of Ikiria</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-623-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 6"/>
+        <meta name="calibre:series_index" content="12"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Richard Dinnick</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Richard Franklin (Mike Yates)</dc:creator>
+        <dc:creator opf:role="nrt">Felicity Duncan (Ikiria)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>UNIT is accustomed to dealing with visitors from space, but nothing has prepared them for Ikiria, an alien artist bearing gifts. Could Ikiria’s designs be something more than aesthetic?
+
+ As the Brigadier turns against him, Mike Yates goes on the run. Can he save the world? Or will he just learn an important lesson in betrayal?</dc:description>
+    </metadata>
+</package>

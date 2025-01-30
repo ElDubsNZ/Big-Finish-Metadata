@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Foe from the Future</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-608-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 3"/>
+        <meta name="calibre:series_index" content="0.1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Banks Stewart</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Freeman (Jalnik)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Brealey (Charlotte Willis)</dc:creator>
+        <dc:creator opf:role="nrt">John Green (Butler)</dc:creator>
+        <dc:creator opf:role="nrt">Blake Ritson (Instructor Shibac)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Goldthorp (Constable Burrows)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Pope (Father Harpin)</dc:creator>
+        <dc:creator opf:role="nrt">Jaimi Barbakoff (Supreme Councillor Geflo)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Historiographer Osin)</dc:creator>
+        <dc:creator opf:role="nrt">Camilla Power (Councillor Kostal)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Grange is haunted, so they say. This stately home in the depths of Devon has been the site of many an apparition. And now people are turning up dead. The ghosts are wild in the forest. But the Doctor doesn't believe in ghosts. 
+
+The TARDIS follows a twist in the vortex to the village of Staffham in 1977 and discovers something is very wrong with time. But spectral highwaymen and cavaliers are the least of the Doctor's worries. 
+
+For the Grange is owned by the sinister Jalnik, and Jalnik has a scheme two thousand years in the making. Only the Doctor and Leela stand between him and the destruction of history itself. It's the biggest adventure of their lives – but do they have the time?</dc:description>
+    </metadata>
+</package>

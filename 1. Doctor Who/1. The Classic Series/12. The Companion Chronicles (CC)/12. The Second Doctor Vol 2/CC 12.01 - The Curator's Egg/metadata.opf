@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Curator's Egg</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-487-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - The Second Doctor - Volume 2"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Julian Richards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Anneke Wills (Polly Wright / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Elliot Chapman (Ben Jackson / Andrew Clarkson / Zoltan Clarkson)</dc:creator>
+        <dc:creator opf:role="nrt">Frazer Hines (The Doctor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Zoltan Clarkson (Eccentric Billionaire, Cybernetics Tycoon, Museum Curator) had a dream of a domestic dinosaur in every home. He bought the empty county of Dorset to work on this dream and develop cyborg dinosaur hybrids in a safe, contained environment. Now Clarkson lies insensate in the infirmary, his twin brother Andrew struggles to hold things together and dinosaurs walk the Earth. With the Doctor and Ben chasing monsters at sea, Polly has only a socially awkward scientist and the world's friendliest dog to help her prevent the rise of the ultimate predators...</dc:description>
+    </metadata>
+</package>

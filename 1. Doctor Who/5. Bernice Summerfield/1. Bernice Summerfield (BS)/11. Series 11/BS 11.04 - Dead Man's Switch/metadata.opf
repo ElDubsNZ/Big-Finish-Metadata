@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Dead Man's Switch</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-529-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 11"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Richard Dinnick</dc:creator>
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Mallinson (Robot)</dc:creator>
+        <dc:creator opf:role="nrt">Maria McErlane (Matka)</dc:creator>
+        <dc:creator opf:role="nrt">William Whymper (Otek)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>26 years ago, a team of scientists came to a moon to unearth the secrets of a long-dead civilisation. They were later found to have died in what the authorities called an anti-matter explosion. Alone and desperate, Bernice Summerfield will do anything to get back home. But where is home?
+
+The capital world of Zordin seems to offer the only chance of answers, but that’s a long way away. The offer of a job could be her best way of paying for the voyage but… archaeology is illegal… and there’s a quarantine… and she’ll have to leap from a spacecraft in orbit. But what does that matter?
+
+On a world guarded by armed satellites and patrolled by defence drones on the surface, Benny’s going to have to use all her knowledge, skill and wits. And that’s just to get there! Because it’s not the moon itself that’s the problem. It’s what happened there; what remains there; what might escape. What matters? Nothing.</dc:description>
+    </metadata>
+</package>

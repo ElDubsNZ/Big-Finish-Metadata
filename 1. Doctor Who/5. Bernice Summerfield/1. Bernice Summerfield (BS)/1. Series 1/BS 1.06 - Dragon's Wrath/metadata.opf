@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Dragons' Wrath</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2000-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-403-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 1"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Justin Richards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Franklin (Romolo Nusek)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Burke (Dr Truby Kamardrich)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Fairs (Dr Nicholas Clyde)</dc:creator>
+        <dc:creator opf:role="nrt">Jez Fielder (Librarian Reddick)</dc:creator>
+        <dc:creator opf:role="nrt">Gary Russell (Mappin Gilder)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Gamalian Dragon is ­ a jewel-encrusted statuette captured by the warlord Gamaliel from the legendary Knights of Jeneve after the Battle of Bocaro. It is now sought by Romolo Nusek, apparently Gamaliel's descendent, to prove his right to assume his ancestor's mantle as ruler of the Sector.
+
+When Benny joins a group seeking to find the legendary statuette, she has a secret. No one can possibly find one on Stanturus because she's already carrying it ­ left for her by a murdered colleague.
+
+The trouble is, the expedition does find one and, as a result, most of them are mysteriously slaughtered. Benny realises she and historian Nicholas Clyde must discern the traitor in their midst. Could it be Gilder, the obsequious administrator from Benny's own university? Could it be Truby Kamadrich, the famous archaeologist? Or might it be the bizarre librarian Reddick, who never leaves Nusek's vaults, protected by an inhospitable volcano?</dc:description>
+    </metadata>
+</package>

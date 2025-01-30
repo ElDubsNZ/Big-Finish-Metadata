@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Planet of the Rani</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-549-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="205"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Miranda Raison (Constance Clarke)</dc:creator>
+        <dc:creator opf:role="nrt">Siobhán Redmond (The Rani)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Bentinck (Chowdras / Governor)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Raj Kahnu / Guard)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Porter (Degoor / Montain)</dc:creator>
+        <dc:creator opf:role="nrt">Olivia Poulet (Pazmi)</dc:creator>
+        <dc:creator opf:role="nrt">Dominic Thorburn (Brejesh / Security Leader)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Miasimia Goria was a quiet planet, an ancient world of bucolic tranquillity… until the Rani arrived with ideas of her own.
+
+She planned to create a race of new gods… gods that she could keep on her leash, but those plans went horribly wrong.
+
+Now, she languishes in the high security of Teccaurora Penitentiary, consigned there by her arch enemy and old student colleague, the Doctor.
+
+But the Rani, always resourceful, ever calculating, knows things about the Doctor’s past that he would rather forget. She wants revenge, even if it takes a hundred years… and then she has other unfinished business.
+
+The ruins of Miasimia Goria await…</dc:description>
+    </metadata>
+</package>

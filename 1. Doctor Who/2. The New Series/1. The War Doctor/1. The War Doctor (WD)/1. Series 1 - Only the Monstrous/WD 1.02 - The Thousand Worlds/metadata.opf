@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Thousand Worlds</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-187-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Doctor - Series 1 - Only the Monstrous"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Hurt (The War Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline Pearce (Cardinal Ollistra)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Briggs-Owen (The Nursemaid)</dc:creator>
+        <dc:creator opf:role="nrt">Carolyn Seymour (The Slave)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Veklin)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Wyndham (Seratrix)</dc:creator>
+        <dc:creator opf:role="nrt">Kieran Hodgson (Bennus)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Arverton)</dc:creator>
+        <dc:creator opf:role="nrt">Mark McDonnell (Traanus)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Garv)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>With the high-ranking Time Lord Seratrix behind enemy lines, the War Doctor finds himself assigned to a rescue mission. But any room for manoeuvre is severely restricted by an area of space known as the Null Zone.
+
+Times have changed on Keska, and a countdown to destruction is beginning.
+
+But who are the Taalyens and what is their part in the great and terrifying Dalek plan?</dc:description>
+    </metadata>
+</package>

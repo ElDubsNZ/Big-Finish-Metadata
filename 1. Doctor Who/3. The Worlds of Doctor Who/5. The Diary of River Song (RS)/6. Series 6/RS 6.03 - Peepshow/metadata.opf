@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Peepshow</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-507-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Diary of River Song - Series 6"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Clive Wood (Dibbsworth)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Commander Strumm / Sontarans)</dc:creator>
+        <dc:creator opf:role="nrt">Guy Adams (Ogrons)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Treloar (The Doctor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Miniscope parts fetch quite a price on the open market — luckily, River knows where she can find one that's about to be decommissioned. Unfortunately, this particular miniscope is chock-full of aliens, as well as unsuspecting Earthlings. 
+
+River must face a carnival of monsters before she can claim her prize – across miniature habitats, Ogrons, Sontarans and Drashigs await!</dc:description>
+    </metadata>
+</package>

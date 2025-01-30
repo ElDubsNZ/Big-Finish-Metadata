@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Storm of the Sea Devils</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-457-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 13"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David K Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (Harry Sullivan)</dc:creator>
+        <dc:creator opf:role="nrt">Eleanor Crooks (Naomi Cross)</dc:creator>
+        <dc:creator opf:role="nrt">Silas Carson (Ramesh Kamal)</dc:creator>
+        <dc:creator opf:role="nrt">Amina Zia (Amita Kamal)</dc:creator>
+        <dc:creator opf:role="nrt">Satnam Bhogal (Arun Haldar)</dc:creator>
+        <dc:creator opf:role="nrt">Raj Ghatak (Professor Sanjay Billimoria / Captain Sharma)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy Wiles (Shorak)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Taurix)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Surgeon Lieutenant Harry Sullivan is supposed to be on holiday. But his arrival in Calcutta is intercepted by someone from the local branch of UNIT - a staff member called Naomi Cross.
+
+A businessman in the area has mysteriously cancelled the opening of his new hotel... and local villagers have reported sightings of 'devils' in the swamps. Devils that look very familiar from the UNIT files...
+
+The businessman requires medical aid so UNIT have decided to send him a doctor. Unfortunately, when Harry and Naomi arrive on site they find a different Doctor has got there ahead of them... And that's just the start of their troubles.</dc:description>
+    </metadata>
+</package>

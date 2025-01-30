@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Year of the Drex Olympics</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 9"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Ebbs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Frazer Hines (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>All the Doctor wanted to do on Venus was learn their aikido. But as ever, his plans have gone awry. The TARDIS has been stolen to be a prize in the Venusian Olympics. The Doctor is furious, not only at the theft but also that it is the third place prize! Now Jamie and Victoria must compete to get the TARDIS back, and soon find themselves winning every event.
+
+The TARDIS crew normally win, but this time it might cost them everything…</dc:description>
+    </metadata>
+</package>

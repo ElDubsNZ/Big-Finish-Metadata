@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Dinner for Yvonne</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-401-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood One - Series 5 - I Hate Mondays"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tracy-Ann Oberman (Yvonne Hartman)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth David-Lloyd (Ianto Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Bentinck (Tommy Pierce)</dc:creator>
+        <dc:creator opf:role="nrt">Ed White (Ken)</dc:creator>
+        <dc:creator opf:role="nrt">Anniwaa Buachie (Diane)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Abeysekera (Gerry)</dc:creator>
+        <dc:creator opf:role="nrt">Lesley Ewen (Kiki)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A cloud of psychic plasma is sweeping over Salisbury Plain towards London. Unfortunately, it's Yvonne's night off and she's throwing a dinner party. Will London perish before she can serve the artisanal cheese board?</dc:description>
+    </metadata>
+</package>

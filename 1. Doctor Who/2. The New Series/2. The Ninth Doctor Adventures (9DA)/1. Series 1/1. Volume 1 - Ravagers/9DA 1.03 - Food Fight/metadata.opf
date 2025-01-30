@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Food Fight</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-340-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Ninth Doctor Adventures - Series 1 - Volume 1  - Ravagers"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Eccleston (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Camilla Beeput (Nova)</dc:creator>
+        <dc:creator opf:role="nrt">Clare Corbett (Ravager)</dc:creator>
+        <dc:creator opf:role="nrt">Ben Lee (Farraday)</dc:creator>
+        <dc:creator opf:role="nrt">Anjella MacKintosh (Drones)</dc:creator>
+        <dc:creator opf:role="nrt">Jayne McKenna (Audrey)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS is starting to get a little crowded! Audrey finds herself haunted by a ghostly Doctor.</dc:description>
+    </metadata>
+</package>

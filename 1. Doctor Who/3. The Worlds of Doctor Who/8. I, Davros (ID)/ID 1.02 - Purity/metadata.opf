@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Purity</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2006-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-232-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="I, Davros"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Parsons</dc:creator>
+        <dc:creator opf:role="aut">Andrew Stirling-Brown</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Terry Molloy (Davros)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Jennifer Croxton (Tech-Ops Ludella)</dc:creator>
+        <dc:creator opf:role="nrt">Gary Hopkins (Radio Announcer)</dc:creator>
+        <dc:creator opf:role="nrt">Lizzie Hopley (Yarvell)</dc:creator>
+        <dc:creator opf:role="nrt">Carolyn Jones (Lady Calcula)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Lidster (Kaled Officer)</dc:creator>
+        <dc:creator opf:role="nrt">James Parsons (Major Brint)</dc:creator>
+        <dc:creator opf:role="nrt">Gary Russell (Thal Officer)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Sowerbutts (Tutor Margrantine)</dc:creator>
+        <dc:creator opf:role="nrt">John Stahl (The Supremo)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Wisher (Tech-Ops Reston)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"We are Kaleds. We are more than a match for weak, tattered, crippled relics of the war."
+
+Now approaching his 30th year, Davros is trying to get out of the Kaled Military and into the Scientific Corps, determined to use his mind to create new ways to let the Kaled race survive the never-ending war with the Thals. But first, he must undertake a mission into Thal territory. A mission that will introduce him to technology and hardware he could only dream of. And it just might teach him a few life lessons to.
+
+But however dangerous the Thal City might be, that is nothing compared to the scarred relics that inhabit the Wastelands... Wastelands he and his team have to cross twice.</dc:description>
+    </metadata>
+</package>

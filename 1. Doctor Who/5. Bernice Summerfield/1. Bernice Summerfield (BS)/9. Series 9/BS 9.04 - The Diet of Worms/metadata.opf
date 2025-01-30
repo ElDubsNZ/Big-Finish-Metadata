@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Diet of Worms</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-329-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 9"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matthew Sweet</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Thomas Grant (Peter Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Myrtle Bunnage / Mrs Tishpishti / Robots)</dc:creator>
+        <dc:creator opf:role="nrt">Ralf Collie (Robots)</dc:creator>
+        <dc:creator opf:role="nrt">Catherine Harvey (Panthea Vyse)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Sweet (Examiner)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Depository is a vast store of the literary remains of Earth’s cultural greats: Charles Darwin, Martin Luther, Wilkie Collins, Barbara Cartland.
+
+Benny’s heard that there’s a job going and thinks it might offer just the kind of stable environment her son requires. It has friendly bars, a reliable atmosphere shield, a fantastic patisserie run by a robot called Mrs Tishpishti - and no history of alien invasion.
+
+But you know where you are with an alien invasion. Or you do, at least, if you’re Bernice Summerfield. And even she has never encountered a monster whose main objective is to tell her that she doesn’t look very good in trousers.</dc:description>
+    </metadata>
+</package>

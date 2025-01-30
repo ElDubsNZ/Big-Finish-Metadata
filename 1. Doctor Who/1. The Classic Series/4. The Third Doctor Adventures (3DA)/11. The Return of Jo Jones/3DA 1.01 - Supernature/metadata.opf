@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Supernature</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-880-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Third Doctor Adventures - Volume 11 - The Return of Jo Jones"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tim Treloar (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Katy Manning (Jo Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Wanda Opalinska (Dr Lorna Holmes)</dc:creator>
+        <dc:creator opf:role="nrt">Corrinne Wicks (Ms Frost)</dc:creator>
+        <dc:creator opf:role="nrt">Viv May (Al Hunter)</dc:creator>
+        <dc:creator opf:role="nrt">Wayne Forester (Malcolm Hollings / Armstrong / The Innate)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>After a spate of terrifying bird attacks, Jo Jones is called to the Isle of Wight by an old friend. Something has thrown the natural order out of balance - but Jo’s own world has also changed forever.
+
+It turns out she is not the only one investigating. Soon it’s like old times, facing down arrogant scientific ambition, as danger grows. The Doctor and Jo have been reunited just when they need each other most.</dc:description>
+    </metadata>
+</package>

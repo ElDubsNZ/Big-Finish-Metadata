@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Ancient History</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-132-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Ninth Doctor Adventures - Series 3 - Volume 3 - Buried Threats"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Eccleston (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Eliza Shea (Finnda Twisk)</dc:creator>
+        <dc:creator opf:role="nrt">Gary Jordan (George)</dc:creator>
+        <dc:creator opf:role="nrt">Rosalyn Landor (Cantiple / Korravin Second)</dc:creator>
+        <dc:creator opf:role="nrt">Nabil Elouahabi (High Korravin / Lomaz)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Professor Bernice Summerfield is delving into the mystery of the Korravin, a mighty warrior horde, vanished overnight. But her expedition seems jinxed. And when a familiar blue box appears, Benny knows they’re in trouble.
+
+As ancient history resurfaces, the Doctor wants to keep some things buried - but Benny’s an expert at digging up the past.</dc:description>
+    </metadata>
+</package>

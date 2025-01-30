@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Medicinal Purposes</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2004-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-098-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="60"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Ross</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Stables (Evelyn)</dc:creator>
+        <dc:creator opf:role="nrt">Janie Booth (Old Woman)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Farrelly (Billy Hare)</dc:creator>
+        <dc:creator opf:role="nrt">Glenna Morrison (Mary Patterson)</dc:creator>
+        <dc:creator opf:role="nrt">Kevin O'Leary (William Burke)</dc:creator>
+        <dc:creator opf:role="nrt">Leslie Phillips (Doctor Robert Knox)</dc:creator>
+        <dc:creator opf:role="nrt">David Tennant (Daft Jamie)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Edinburgh, 1827.
+
+The infamous body-snatchers William Burke and William Hare are at large. The local prostitutes dull their fear with cheap whisky. The graveyard owls are hooting. Business is good.
+
+When accidental tourists the Doctor and Evelyn Smythe stumble upon one of Britain's most lurid, illuminating chapters in history, a simple case of interest in the work of a dedicated man of science Doctor Robert Knox, quickly turns sour.
+
+Just what is that time-bending Scots mist? Whatever it is may put the very fabric of the universe under threat.
+
+As always.</dc:description>
+    </metadata>
+</package>

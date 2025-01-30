@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Angel of Scutari</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-410-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="122"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Sutton</dc:creator>
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Olivier (Hex)</dc:creator>
+        <dc:creator opf:role="nrt">John Albasiny (Lev Tolstoy / Preston)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Bonneville (Tzar Nicholas I / Sir Sidney Herbert)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Brosnan (Sir Hamilton Seymour / Sebastapol Soldier)</dc:creator>
+        <dc:creator opf:role="nrt">John Paul Connolly (William Russell / Russian Dungeon Guard)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Courtney (Sir Alistair Lethbridge-Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Russell Floyd (Gerry Lenz)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Lowe (Brigadier-General Bartholomew 'Barty' Kitchen)</dc:creator>
+        <dc:creator opf:role="nrt">John Pickard (Thomas Brewster)</dc:creator>
+        <dc:creator opf:role="nrt">Jeany Spark (Florence Nightingale)</dc:creator>
+        <dc:creator opf:role="nrt">Anneke Wills (Polly Wright)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>October 1854: As the British Army charges into catastrophe in the Crimea, the Minister for War sends Miss Florence Nightingale to take charge of the field hospital at Scutari.
+
+But there's already an angel of mercy working with the wounded at Scutari. A first-rate fellow who's turned up out of the blue. Goes by the name of Schofield; Thomas Hector Schofield...
+
+With the Doctor and Ace lost in the siege of Sebastopol, Hex has rediscovered his calling. But there's cannon to the left of him, cannon to the right of him - and a deranged spycatcher-in-chief on his case.</dc:description>
+    </metadata>
+</package>

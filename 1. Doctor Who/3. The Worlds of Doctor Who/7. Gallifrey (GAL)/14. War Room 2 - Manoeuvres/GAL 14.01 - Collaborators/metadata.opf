@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Collaborators</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-837-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 14 - War Room 2 - Manoeuvres"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Katharine Armitage</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Ken Bones (The General)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Hawkins (Eris)</dc:creator>
+        <dc:creator opf:role="nrt">James Corrigan (Ferdi)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Veklin)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Jarman (Cardinal Rasmus)</dc:creator>
+        <dc:creator opf:role="nrt">Carolyn Pickles (Cardinal Ollistra)</dc:creator>
+        <dc:creator opf:role="nrt">Faith Omole (Cresta)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Amsden (Clemantia)</dc:creator>
+        <dc:creator opf:role="nrt">Becky Wright (Servant / Priest)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Gallifrey and the Resistance are in a race to secure a vital alliance. But playing politics means secrets, lies and betrayal...and Leela, caught in the middle, must try to rescue honour from chaos.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Nightshade</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-703-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Novel Adaptations"/>
+        <meta name="calibre:series_index" content="9"/>
+
+        <!--Writers-->
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">John Castle (Edmund Trevithick)</dc:creator>
+        <dc:creator opf:role="nrt">Samuel Barnett (Robin)</dc:creator>
+        <dc:creator opf:role="nrt">Katherine Jakeways (Jill)</dc:creator>
+        <dc:creator opf:role="nrt">Edward Harrison (Dr Hawthorne)</dc:creator>
+        <dc:creator opf:role="nrt">Jonny Magnanti (Lawrence)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Price (Sgt Barclay)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Mrs Hollins)</dc:creator>
+        <dc:creator opf:role="nrt">Carole Ann Ford (The Sentience/Susan)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Professor Nightshade - tea time terror for all the family, and the most loved show in Britain. But Professor Nightshade's days are long over, and Edmund Trevithick is now just an unemployed actor in a retirement home, fondly remembering his past. 
+
+It's the same through the entire village of Crook Marsham - people are falling prey to their memories. At first harmlessly, and then, the bodies begin to turn up. 
+
+The Doctor and Ace arrive on the scene - but, with the Doctor planning his retirement, it may be time for Professor Nightshade to solve one last case.</dc:description>
+    </metadata>
+</package>

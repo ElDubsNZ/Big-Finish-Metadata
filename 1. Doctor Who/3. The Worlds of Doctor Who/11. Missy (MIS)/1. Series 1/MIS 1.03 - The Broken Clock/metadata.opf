@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Broken Clock</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-672-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Missy - Series 1"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nev Fountain</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Michelle Gomez (Missy)</dc:creator>
+        <dc:creator opf:role="nrt">Kenneth Jay (Dick Zodiac)</dc:creator>
+        <dc:creator opf:role="nrt">Guy Paul (Joe Lynwood)</dc:creator>
+        <dc:creator opf:role="nrt">Ryan Forde Iosco (The Actor Playing Joe Lynwood)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Goode (Mark / Roy)</dc:creator>
+        <dc:creator opf:role="nrt">Rachel Verkuil (Frankie)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (The Actress Playing Missy)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Tonight, on Dick Zodiac's America's Most Impossible Killers, Detective Joe Lynwood hunts the most impossible killer of his career. 
+
+There's a trail of bodies. Impossible bodies. And Joe has one long night to solve the case. 
+
+Luckily, DI Missy Masters from Scotland Yard in England, London, England is here to help...</dc:description>
+    </metadata>
+</package>

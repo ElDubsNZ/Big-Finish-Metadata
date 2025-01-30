@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Situation Vacant</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-476-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Series 4"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">James Bachman (Hugh Bainbridge)</dc:creator>
+        <dc:creator opf:role="nrt">Shelley Conn (Asha Qureshi)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Rafshaw / Dr Gardener)</dc:creator>
+        <dc:creator opf:role="nrt">Sabina Franklyn (Wanda Rothman)</dc:creator>
+        <dc:creator opf:role="nrt">Joanna Kanska (Rachel)</dc:creator>
+        <dc:creator opf:role="nrt">Tony Millan (Leonard Pallister)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Thomas (Theo Lawson)</dc:creator>
+        <dc:creator opf:role="nrt">Niky Wardley (Juliet Walsh)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>TRAVELLER IN TIME AND SPACE seeks male or female companion with good sense of humour for adventures in the Fourth and Fifth Dimensions.
+ No experience necessary.
+ No time wasters, no space wasters please.</dc:description>
+    </metadata>
+</package>

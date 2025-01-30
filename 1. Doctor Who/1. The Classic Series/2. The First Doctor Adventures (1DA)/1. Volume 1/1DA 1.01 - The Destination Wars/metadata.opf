@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Destination Wars</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-452-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The First Doctor Adventures - Volume 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Bradley (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Claudia Grant (Susan)</dc:creator>
+        <dc:creator opf:role="nrt">Jemma Powell (Barbara Wright)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Glover (Ian Chesterton)</dc:creator>
+        <dc:creator opf:role="nrt">James Dreyfus (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Raymond Coulthard (Robac / Servers / Dalmari)</dc:creator>
+        <dc:creator opf:role="nrt">Sian Reeves (Tanna)</dc:creator>
+        <dc:creator opf:role="nrt">Deli Segal (Reena)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS arrives in a gleaming utopia in the Space Year 2003. Has the Doctor truly brought Ian and Barbara home, to glimpse their future?
+
+The world owes much to its legendary Inventor, and Susan finds herself face to face with the great benefactor. But soon, the time travellers are in a world at war and the Doctor must confront his past.</dc:description>
+    </metadata>
+</package>

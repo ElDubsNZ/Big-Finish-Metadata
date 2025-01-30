@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Spirit Trap</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-494-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jago & Litefoot - Series 1"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Baxter (George Litefoot)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Ellie Higson)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Henfrey (Mrs Vanguard)</dc:creator>
+        <dc:creator opf:role="nrt">Lex Shrapnel (Toby)</dc:creator>
+        <dc:creator opf:role="nrt">John Ainsworth (The Landlord)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Ellie Higson believes that spiritualist Mrs Vanguard can hear the voices of the dead, but Henry Gordon Jago thinks it's all superstition and theatrical trickery. But if Vanguard is a harmless fake, then why have some of those who have attended her seances disappeared so mysteriously? Jago and Litefoot investigate... And find themselves facing a deadly foe from the afterlife.</dc:description>
+    </metadata>
+</package>

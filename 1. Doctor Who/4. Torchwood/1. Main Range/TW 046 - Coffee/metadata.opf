@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Coffee</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-116-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="46"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Gareth David-Lloyd (Ianto Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Shaun Chambers (David)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Griffin (Kathy)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Baps has long been the best (and only) café in Cardiff Bay. But something's coming to the Bay – will it be posh coffee or aliens? 
+
+David thinks that Cardiff's under a curse, ever since his Mum went missing. One day, a young man called Ianto Jones walks into David's café. He's looking for something. Will he help David learn what's really going on in the city?</dc:description>
+    </metadata>
+</package>

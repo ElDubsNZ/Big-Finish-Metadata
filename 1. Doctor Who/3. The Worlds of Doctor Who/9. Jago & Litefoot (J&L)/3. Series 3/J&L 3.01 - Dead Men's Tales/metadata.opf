@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Dead Men's Tales</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-561-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jago & Litefoot - Series 3"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Justin Richards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Baxter (George Litefoot)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Ellie Higson)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Asquith (Sergeant Quick)</dc:creator>
+        <dc:creator opf:role="nrt">Warren Brown (Johnny Skipton)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Mallinson (The Wet Men)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A friend from the past returns to warn Jago and Litefoot of a threat to the future. Time breaks are appearing in Victorian London, but first Leela must help solve the mystery of the Wet Men — terrifying creatures that are rising from the River Thames...</dc:description>
+    </metadata>
+</package>

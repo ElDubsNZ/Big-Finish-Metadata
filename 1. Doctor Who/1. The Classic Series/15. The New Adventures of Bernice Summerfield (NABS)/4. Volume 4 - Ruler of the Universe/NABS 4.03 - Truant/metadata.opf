@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Truant</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-360-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The New Adventures of Bernice Summerfield - Volume 4 - Ruler of the Universe"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">David Warner (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Catrin Stewart (Killian)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Bailey (Lakis)</dc:creator>
+        <dc:creator opf:role="nrt">Rhys Jennings (Slaygar)</dc:creator>
+        <dc:creator opf:role="nrt">Oliver Mason (Sordo)</dc:creator>
+        <dc:creator opf:role="nrt">Hattie Hayridge (Ebbis / Morlick)</dc:creator>
+        <dc:creator opf:role="nrt">Rowena Cooper (Mother Superior)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The President of the Universe has run away. Bernice has to hunt him down, but he's too busy having fun. Evil warlords! Impossible escapes! Sinister plans! The Doctor's on an adventure.</dc:description>
+    </metadata>
+</package>

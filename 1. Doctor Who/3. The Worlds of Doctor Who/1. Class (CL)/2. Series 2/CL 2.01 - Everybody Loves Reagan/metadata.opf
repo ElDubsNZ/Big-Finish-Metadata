@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Everybody Loves Reagan</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-640-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Class - Series 2"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Fady Elsayed (Ram)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Hopkins (April)</dc:creator>
+        <dc:creator opf:role="nrt">Vivian Oparah (Tanya)</dc:creator>
+        <dc:creator opf:role="nrt">Taj Atwal (Reagan)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When Reagan Harper joins Coal Hill Academy, everybody instantly loves her – everybody except for April. Is there really more to Reagan than meets the eye? Or are there other forces at work in Coal Hill? </dc:description>
+    </metadata>
+</package>

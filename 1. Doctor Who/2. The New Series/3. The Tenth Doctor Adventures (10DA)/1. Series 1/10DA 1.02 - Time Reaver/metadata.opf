@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Time Reaver</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-232-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Tenth Doctor Adventures - Series 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jenny T Colgan</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Tennant (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Catherine Tate (Donna Noble)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Gully)</dc:creator>
+        <dc:creator opf:role="nrt">Sabrina Bartlett (Cora)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Lowe (Soren)</dc:creator>
+        <dc:creator opf:role="nrt">Terry Molloy (Rone)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Dorn)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Calibris. The spaceport planet where anything goes. Where anyone who doesn't want to be found can be lost, and where everything has its price. Where betentacled gangster Gully holds sway at the smugglers’ tavern, Vagabond’s Reach.
+
+The alien Vacintians are trying to impose some order on the chaos. Soon the Doctor and Donna discover why. An illegal weapon is loose on the streets. A weapon that destroys lives… Slowly and agonisingly.
+
+The Time Reaver.</dc:description>
+    </metadata>
+</package>

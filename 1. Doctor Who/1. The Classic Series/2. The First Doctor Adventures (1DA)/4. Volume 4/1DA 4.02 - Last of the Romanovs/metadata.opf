@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Last of the Romanovs</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-156-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The First Doctor Adventures - Volume 4"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Bradley (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Claudia Grant (Susan)</dc:creator>
+        <dc:creator opf:role="nrt">Jemma Powell (Barbara Wright)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Glover (Ian Chesterton)</dc:creator>
+        <dc:creator opf:role="nrt">Leighton Pugh (Nicholas Alexandrovich Romanov / Thomas Preston)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Yakov Yurovsky)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Tregear (Anastasia Romanov)</dc:creator>
+        <dc:creator opf:role="nrt">George Weightman (Grigory Nikulin)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS lands on Earth near to an eerie and familiar house... with the only witness a regal man watching from inside through a broken window.
+
+Leaving the ship the crew immediately find themselves in trouble - because they have landed in Ekaterinburg early in the twentieth century.
+
+The man inside the house is Nicholas, the last Tsar of Russia, imprisoned with his family... and one of the most notorious crimes in history is just about to happen.</dc:description>
+    </metadata>
+</package>

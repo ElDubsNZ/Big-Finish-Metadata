@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Thirst Trap</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-816-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="72"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tom Price</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Price (Andy Davidson)</dc:creator>
+        <dc:creator opf:role="nrt">Kai Owen (Rhys Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Rebecca Trehearn (Anna)</dc:creator>
+        <dc:creator opf:role="nrt">Sunjay Midda (Sunil)</dc:creator>
+        <dc:creator opf:role="nrt">Natalia Hinds (Phoebe / Becky)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>You have 20 minutes to find your perfect mate. Then you may never see them again. Now or Never has launched in Cardiff and something's clearly very wrong with the app. 
+
+Not only is everyone going on dates, but everyone's on the same date. The same meals. The same hobbies. The same small talk. 
+
+Andy Davidson would be investigating. But he's got a date.</dc:description>
+    </metadata>
+</package>

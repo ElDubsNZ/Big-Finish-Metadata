@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Ghost In The Machine</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-086-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 8"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Katy Manning (Jo Grant (Jo Jones))</dc:creator>
+        <dc:creator opf:role="nrt">Damian Lynch (Benjamin Chikoto)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Mary had a little lamb, its fleece was white as snow
+ And everywhere that Mary went, that lamb was sure to go.
+
+The TARDIS is empty. The Doctor has gone.
+
+Jo Grant steps outside into the darkness and finds the frozen body of her friend, and the ship's log recorder. On it is attached a simple message - 'Use Me'.
+
+As she explores this place, recording her every move, Jo discovers the horror that lies in the shadows.
+
+But by then it is too late.</dc:description>
+    </metadata>
+</package>

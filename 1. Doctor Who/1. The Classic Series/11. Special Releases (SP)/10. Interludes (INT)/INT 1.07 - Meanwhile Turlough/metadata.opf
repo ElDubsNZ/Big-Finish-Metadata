@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Meanwhile Turlough</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-04-09</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - Interludes"/>
+        <meta name="calibre:series_index" content="7"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Blum</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Dan Starkey (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>There's a crisis on Greysolon. And only the Doctor, Tegan and Turlough can stop it. Except one of them may be otherwise occupied. Turlough has managed to find a crisis of his own. A very personal one. While his friends are saving the planet...he's going to have to save himself.</dc:description>
+    </metadata>
+</package>

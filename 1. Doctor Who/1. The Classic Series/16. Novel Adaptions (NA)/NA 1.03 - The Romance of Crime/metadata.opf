@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Romance of Crime</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-342-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Novel Adaptations"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Gareth Roberts</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">John Dorney (Eddie Nisbett / Ogrons)</dc:creator>
+        <dc:creator opf:role="nrt">Marcus Garvey (Frank Spiggot)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Zy / Wilkin / Ogron 5 / Barman / Voltt)</dc:creator>
+        <dc:creator opf:role="nrt">Phil Mulryne (Shom / Hogan / Ogron 6 / Tannoy)</dc:creator>
+        <dc:creator opf:role="nrt">Miranda Raison (Margo / Xais)</dc:creator>
+        <dc:creator opf:role="nrt">Graham Seed (Pyerpoint)</dc:creator>
+        <dc:creator opf:role="nrt">Joshua Silver (Charlie Nisbett)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Blakemore / Bailiff / Librarian)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Troughton (Menlove Stokes)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Rock of Judgement. Court, prison and place of execution for the Uva Beta Uva system, hewn into the skin of a rocket-powered asteroid. Not a good place to be. Particularly not for two Time Lords and their dog.
+
+Upon arrival on the Rock, the Doctor, Romana and K9 find themselves embroiled in the plans of a maverick law-man, but that is just the beginning of their troubles. A highly-strung artist's gallery holds a deadly secret... and soon everyone's lives will be in danger.
+
+They struggle to know who's good and who's bad, a terrible scheme is being unleashed. With enemies old and new attacking both sides, can they possibly escape alive?</dc:description>
+    </metadata>
+</package>

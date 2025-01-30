@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Dream Nexus</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-05-17</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - Interludes"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Adam Christopher</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Toby Hadoke (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In the distant future, Earth's empire is held together by the Network, an AI interface that connects all its citizens. But the Network has collapsed, trapping millions in a dream with no way out. Could there be an answer in the fungus forests of Zoda-Kappa? While the Doctor and Hebe use their scientific training to help the research, Mel joins the research too – in a far less pleasant way...</dc:description>
+    </metadata>
+</package>

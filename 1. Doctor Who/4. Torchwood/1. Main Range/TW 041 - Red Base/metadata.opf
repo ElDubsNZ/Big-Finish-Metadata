@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Red Base</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-106-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="41"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Price (Andy Davidson)</dc:creator>
+        <dc:creator opf:role="nrt">Kae Alexander (Mina)</dc:creator>
+        <dc:creator opf:role="nrt">Jeremy Ang Jones (Dave)</dc:creator>
+        <dc:creator opf:role="nrt">Rakie Ayola (Emma)</dc:creator>
+        <dc:creator opf:role="nrt">Ronak Patani (Faisal)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Mars is the next giant leap for mankind. Starr Base is the first small step. A practice Mars base has been set up in a quarry in Neath, just off the A474. Its aim is to see if humanity can survive on the red planet. 
+
+The problem is that the crew are dying. The survivors are terrified, paranoid, and wondering if something alien has got inside Starr Base. Sgt Andy Davidson has come to find out what's gone wrong.</dc:description>
+    </metadata>
+</package>

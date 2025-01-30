@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Jago and Son</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-205-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jago & Litefoot - Series 11"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nigel Fairs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Baxter (Professor George Litefoot)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Ellie)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Asquith (Inspector Quick)</dc:creator>
+        <dc:creator opf:role="nrt">Geoffrey Beevers (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Henry Gordon Jago Jr)</dc:creator>
+        <dc:creator opf:role="nrt">Rowena Cooper (Jean Bazemore)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>With missing persons, dead bodies and a Satanist cult to deal with, both Litefoot and Jago need help. Professor Litefoot finds himself working with Jean Bazemore, an old archaeologist friend. Jago, however, finds he is assisted by someone he never even knew existed – his own son. Or is he? Can Jago be sure of anything?
+
+But there is more to events than the detectives know. An alien menace is stirring underground. Once again, Jago and Litefoot find themselves fighting for their lives...</dc:description>
+    </metadata>
+</package>

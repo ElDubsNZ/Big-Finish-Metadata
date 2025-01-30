@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The English Way of Death</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-343-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Novel Adaptations"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Gareth Roberts</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Bentinck (Colonel Radlett)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Bone (Woodrow)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Bonnar (Godfrey / Porteus)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Braine (Percy Closed)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Carlyle (Orlick)</dc:creator>
+        <dc:creator opf:role="nrt">Terrence Hardiman (Stackhouse)</dc:creator>
+        <dc:creator opf:role="nrt">Abigail McKern (Felicia Chater)</dc:creator>
+        <dc:creator opf:role="nrt">Annabel Mullion (Julia)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Harriet)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>London, in the summer heatwave of 1930. The Doctor is visiting with Romana and K9 in order to return some library books, but traces of time pollution may change his plans.
+
+A seaside hut holds a strange secret. A biscuit millionaire is hiring assassins. Deadly butlers and solicitors stalk the streets.
+
+There is an odd smell in the air. And it might just mean the death of everyone on the planet.</dc:description>
+    </metadata>
+</package>

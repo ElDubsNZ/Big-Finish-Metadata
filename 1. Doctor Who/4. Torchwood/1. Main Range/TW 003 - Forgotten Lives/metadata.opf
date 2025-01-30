@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Forgotten Lives</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-920-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Emma Reeves</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Eve Myles (Gwen Cooper)</dc:creator>
+        <dc:creator opf:role="nrt">Kai Owen (Rhys Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Bond (Griffith)</dc:creator>
+        <dc:creator opf:role="nrt">Valmai Jones (Elunedd)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Gary)</dc:creator>
+        <dc:creator opf:role="nrt">Emma Reeves (Ceri/Nurse Bevan)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It has been four years since the Miracle, and Gwen and Rhys's lives have gone back to normal, very normal. They're raising their daughter (they've got pictures they'd be only too happy to show you), they're living in a nice house, and they're almost on top of the laundry. 
+
+Captain Jack Harkness has been missing from the world and their lives for a long time. But late one night the phone rings, and they're summoned to an isolated part of North Wales. The Bryn Offa Nursing Home contains a dark secret, an alien threat, and someone who really shouldn't be there. 
+
+Gwen and Rhys are about to discover that Torchwood stays with you for the rest of your life.</dc:description>
+    </metadata>
+</package>

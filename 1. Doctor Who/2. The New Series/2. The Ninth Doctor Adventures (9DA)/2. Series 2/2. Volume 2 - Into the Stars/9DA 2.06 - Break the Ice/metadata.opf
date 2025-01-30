@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Break the Ice</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-758-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Ninth Doctor Adventures - Series 2 - Volume 2 - Into the Stars"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Eccleston (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Shepherd (Pal Andrews)</dc:creator>
+        <dc:creator opf:role="nrt">Thalissa Teixeira (Dr Lenni Fisk)</dc:creator>
+        <dc:creator opf:role="nrt">Pip Torrens (Kenton)</dc:creator>
+        <dc:creator opf:role="nrt">Amy Manson (Jeanie / System)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On a chilly space station, the Doctor meets a group of scientists experimenting with cryogenics.
+
+But when one subject returns from extreme sub-zero temperatures, he does not return alone. A creature awakens that can freeze the soul with icy fingers - Jack Frost</dc:description>
+    </metadata>
+</package>

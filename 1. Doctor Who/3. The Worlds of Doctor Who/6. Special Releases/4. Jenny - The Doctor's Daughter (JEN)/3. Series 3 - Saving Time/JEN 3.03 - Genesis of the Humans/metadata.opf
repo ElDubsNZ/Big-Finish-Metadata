@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Genesis of the Humans</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-458-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jenny - The Doctor's Daughter - Series 3 - Saving Time"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Adrian Poynton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Georgia Tennant (Jenny)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Biggerstaff (Noah)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Fisher-Becker (Dorium Maldovar)</dc:creator>
+        <dc:creator opf:role="nrt">Stuart Milligan (Garundel)</dc:creator>
+        <dc:creator opf:role="nrt">Emil Joo (Theo)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>After another manipulation by Dorium Maldovar, Jenny and Noah find themselves on a job for the conniving conman and his partner in crime, the equally slippery Garundel.
+
+This time, Jenny and Noah must venture inside a genetic treasure: one which holds the key to the future - and the past - of the human race. His name is Theo.</dc:description>
+    </metadata>
+</package>

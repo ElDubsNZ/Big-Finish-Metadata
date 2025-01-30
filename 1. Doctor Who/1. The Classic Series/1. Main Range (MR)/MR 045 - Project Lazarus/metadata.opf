@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Project Lazarus</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2003-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-027-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="45"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Cavan Scott</dc:creator>
+        <dc:creator opf:role="aut">Mark Wright</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Stables (Evelyn)</dc:creator>
+        <dc:creator opf:role="nrt">Rosie Cavaliero (Cassie)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Chance (Nimrod)</dc:creator>
+        <dc:creator opf:role="nrt">Emma Collier (Oracle)</dc:creator>
+        <dc:creator opf:role="nrt">Ingrid Evans (Doctor Crumpton)</dc:creator>
+        <dc:creator opf:role="nrt">Ann Jenkins (Huldran)</dc:creator>
+        <dc:creator opf:role="nrt">Vidar Magnussen (Professor Harker)</dc:creator>
+        <dc:creator opf:role="nrt">Adam Woodroffe (Sergeant Frith)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Wright (Soldier)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"I'll survive Doctor. I always do."
+
+Unfinished business.
+
+A frightened girl is stalked in a land of eternal night.
+
+A hunter longs for recognition and power.
+
+A traveller in time returns to correct the mistakes of the past and faces a danger that could rob him of his future. Unless his future intervenes.
+
+And in the shadows stands Nimrod. Waiting...
+
+Welcome to the Forge.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Havoc of Empires</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-531-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Third Doctor Adventures - Volume 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andy Lane</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tim Treloar (Narrator / The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Katy Manning (Jo Grant)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Franklin (Mike Yates)</dc:creator>
+        <dc:creator opf:role="nrt">Helen Goldwyn (May Zalrick / Harmony Station AI)</dc:creator>
+        <dc:creator opf:role="nrt">Hywel Morgan (Regent Tharlar / Alex Filton)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Briggs-Owen (Tina Andresson)</dc:creator>
+        <dc:creator opf:role="nrt">Joanna Bacon (Lady Gurlen)</dc:creator>
+        <dc:creator opf:role="nrt">George Layton (Louis Markell / Human Guard)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and Jo take Mike Yates on his first trip in the TARDIS, but instead of the historical cricket match they were aiming for they end up on a futuristic space station in the middle of a diplomatic crisis that might escalate into galactic war.
+
+The alien leader of the Chalnoth Hegemony is marrying the human Director of the Teklarn Incorporation, but there are forces that will stop at nothing to disrupt the ceremony. The Doctor is accused of murder while explosions occur across the station, and only Jo Grant, pretending to be a security consultant, can save the day.
+
+But then, there’s the Eels to consider…</dc:description>
+    </metadata>
+</package>

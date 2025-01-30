@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Council of Nicaea</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2005-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-134-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="71"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Caroline Symcox</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Caroline Morris (Erimem)</dc:creator>
+        <dc:creator opf:role="nrt">David Bamber (Emperor Constantine)</dc:creator>
+        <dc:creator opf:role="nrt">Stephan Bessant (Julius)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Centurion Gaius)</dc:creator>
+        <dc:creator opf:role="nrt">Claire Carroll (Fausta)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Garland (Clement)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Kynman (Arius)</dc:creator>
+        <dc:creator opf:role="nrt">Martin Parsons (Athanasius)</dc:creator>
+        <dc:creator opf:role="nrt">Jason Stevens (Clothing Stallholder)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The year is 325AD. In the city of Nicaea, the first great Church council, called by the Roman Emperor Constantine, is due to begin. Here theology, philosophy and politics will be brought together for millennia to come.
+
+The Doctor, Peri and Erimem are there simply to watch events unfold. Gaps remain in the history books, and the Doctor has come to satisfy his curiosity. But none of them are ready for what greets them in Nicaea. Intrigue within the Imperial Palace has become violence on the streets. Mobs roam the alleyways and blood is spilt in the name of faith. Even in the face of murder and injustice though, the time travellers must force themselves to stay aloof. This is history, after all.
+
+Yet what is history to one person is the future to another. Is it possible for history to be rewritten? And if it can, can the Doctor afford to let it?</dc:description>
+    </metadata>
+</package>

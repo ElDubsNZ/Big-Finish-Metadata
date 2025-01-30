@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Blind Summit</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-529-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood One - Series 2 - Machines"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Gareth David-Lloyd</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tracy-Ann Oberman (Yvonne Hartman)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth David-Lloyd (Ianto Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Bentinck (Tommy)</dc:creator>
+        <dc:creator opf:role="nrt">Paterson Joseph (Matthew)</dc:creator>
+        <dc:creator opf:role="nrt">James Wilby (Pascal)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Ianto Jones has just moved to London. He's broke, has no friends, no future. One day he loses the one thing he's been holding on to, and suddenly people around him are dying. Could a mysterious woman really offer him salvation?</dc:description>
+    </metadata>
+</package>

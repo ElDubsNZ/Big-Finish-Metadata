@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Nevernor</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-563-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 11 - Time War 3"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lou Morgan</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Reynolds (Agata)</dc:creator>
+        <dc:creator opf:role="nrt">Wilf Scolding (Ivar)</dc:creator>
+        <dc:creator opf:role="nrt">Suzanne Bertish (Aldis)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Narvin and Romana reach the distant, rural world of Njagilheim. But even here the Time War follows – and there are more things to fear in the Vortex than warships and weapons. The Orrovix have caught a scent and they are hunting...</dc:description>
+    </metadata>
+</package>

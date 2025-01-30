@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Seven to One</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-549-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 3"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Paul Miller</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">William Russell (Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Seven Doctors... one tricky situation. Will the First Doctor be able to save his future incarnations from a deadly trap?</dc:description>
+    </metadata>
+</package>

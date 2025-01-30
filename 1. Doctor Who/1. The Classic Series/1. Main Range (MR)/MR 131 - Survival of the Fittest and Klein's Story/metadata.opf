@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Survival of the Fittest</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-434-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="131"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Clements</dc:creator>
+        <dc:creator opf:role="aut">John Ainsworth</dc:creator>
+        <dc:creator opf:role="aut">Lee Mansfield</dc:creator>
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Tracey Childs (Elizabeth Klein)</dc:creator>
+        <dc:creator opf:role="nrt">Adrian Bower (Steffen / The Authority)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Courtney (Sir Alistair Lethbridge-Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Evie Dawnay (Lilly / The Vrill)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Donovan (Jackson / The Watcher)</dc:creator>
+        <dc:creator opf:role="nrt">Russell Floyd (Gerry Lenz)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Mallinson (The Carrion)</dc:creator>
+        <dc:creator opf:role="nrt">Paul McGann (Johann Schmidt)</dc:creator>
+        <dc:creator opf:role="nrt">John Pickard (Thomas Brewster)</dc:creator>
+        <dc:creator opf:role="nrt">Hannah Smith (Rose / The Vrill)</dc:creator>
+        <dc:creator opf:role="nrt">Rupert Wickham (Faber / Butterfly)</dc:creator>
+        <dc:creator opf:role="nrt">Anneke Wills (Polly Wright)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>1. Klein's Story by John Ainsworth and Lee Mansfield (1 part)
+ Elizabeth Klein is an anomaly. A renegade from an alternate future in which the Nazis won World War II. In an attempt to get to know his latest companion, the Doctor invites Klein to tell him how exactly she came to be in possession of his TARDIS and of the events that led to her trip into the past to Colditz Castle.
+
+2. Survival of the Fittest by Jonathan Clements (3 parts)
+ On a distant world, the Doctor and Klein discover that the insect-like race that they have come to know as the Vrill have been all but wiped out by the mysterious and terrifying Winterlack. Discovering the true nature of the Winterlack, Klein is cast out of the Vrill nest into the jungle beyond. There, she is forced to confront the Winterlack threat alone.
+
+In the Vrill nest, the Doctor desperately searches for a way to save the Vrill from extinction. But the odds are against him, and time is running out...</dc:description>
+    </metadata>
+</package>

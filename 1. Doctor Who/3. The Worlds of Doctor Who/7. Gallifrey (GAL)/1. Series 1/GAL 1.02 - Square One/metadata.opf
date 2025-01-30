@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Square One</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2004-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-089-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Stephen Cole</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (President Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Barzotti (V'rell of the Monan Host)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Campbell (Baano)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Coodinator Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Dick (Servitor)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Goddard (Liaison Officer Hossak)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Hogarth (Flinkstab of Nekkistan)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Lidster (Pule of Unvoss)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Cardinal Braxiatel)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"It's too late... time is coming for us!"
+
+In a climate of unease and mistrust, the great time-travelling powers of the universe are holding an historic temporal summit. The meeting will take place on a planetoid impervious to outside attack or internal subversion.
+
+But while President Romana walks a knife-sharp political tightrope into dangerous territory, Leela and K9 find themselves attending the summit in unexpected roles. They are hunting for evidence of Free Time activity, but find instead terrors of a different kind - time and time again...
+
+What impossibility stalks the planetoid? Who is manipulating time? Can Leela and Romana discover the truth - or will they find themselves sent back to square one for all eternity?</dc:description>
+    </metadata>
+</package>

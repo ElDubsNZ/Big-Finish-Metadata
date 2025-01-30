@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Eternal Summer</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-431-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="128"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Geoff)</dc:creator>
+        <dc:creator opf:role="nrt">Nick Brimble (Dudley Jackson / Dave)</dc:creator>
+        <dc:creator opf:role="nrt">Susan Brown (Alice Withers)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Vicar)</dc:creator>
+        <dc:creator opf:role="nrt">Pam Ferris (Lizzie Corrigan)</dc:creator>
+        <dc:creator opf:role="nrt">Russell Floyd (Gerry Lenz)</dc:creator>
+        <dc:creator opf:role="nrt">Roger Hammond (Harold Withers)</dc:creator>
+        <dc:creator opf:role="nrt">Abigail Hollick (Jane Potter)</dc:creator>
+        <dc:creator opf:role="nrt">John Pickard (Thomas Brewster)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Williams (Maxwell Edison)</dc:creator>
+        <dc:creator opf:role="nrt">Anneke Wills (Polly Wright)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It's been a long, hot summer in Stockbridge. Longer than the villagers can remember. Summer's lease is never-ending – and all thanks to the Lord and Lady of the Manor!
+
+One man alone knows that something's wrong: Maxwell Edison, Stockbridge's unofficial ambassador to the Universe. Or 'flying saucer nut', as the locals have it. He'll need help proving it: from the local postmistress Miss Nyssa, perhaps; or the village Doctor, the fellow that's been living at the Green Dragon Inn these last 30 years.
+
+They'd better hope that autumn never comes to Stockbridge. When autumn comes, the world is doomed...</dc:description>
+    </metadata>
+</package>

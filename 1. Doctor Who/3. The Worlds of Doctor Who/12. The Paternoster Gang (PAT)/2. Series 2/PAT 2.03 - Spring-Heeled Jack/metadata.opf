@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Spring-Heeled Jack</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-801-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Paternoster Gang - Heritage 2"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Gemma Arrowsmith</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Neve McIntosh (Madame Vastra)</dc:creator>
+        <dc:creator opf:role="nrt">Catrin Stewart (Jenny Flint)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Strax)</dc:creator>
+        <dc:creator opf:role="nrt">Isabella Inchbald (Elizabeth)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Easton (Jimmy)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Cotton (Gwendoline Platt)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Sims (Sergeant Grout / Spring-Heeled Jack / Arthur)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>People are being stolen from the streets by a monster. By all accounts, it has burning eyes, breathes blue flames, and can leap the height of a building at a bound. 
+
+While Vastra and Jenny fend off an over-eager member of the gutter press, Strax dives into dangerous waters. 
+
+Is this Spring-Heeled Jack of legend, returned to terrorise the capital? Or are there more sinister forces at work?</dc:description>
+    </metadata>
+</package>

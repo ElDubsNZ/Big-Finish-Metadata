@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Crystal of Cantus</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2006-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-132-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 6"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Joseph Lidster</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Fewell (Jason Kane)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Ronan McGinley)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Bryant (Parasiel)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Cuckson (Commander Hallan)</dc:creator>
+        <dc:creator opf:role="nrt">Thomas Grant (Peter Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Lidster (Cassius)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Longworth (Jack)</dc:creator>
+        <dc:creator opf:role="nrt">Katarina Olsson (Babs)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Irving Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">Gary Russell (Thesanius)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Joseph)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Fabled crystals from long-dead civilsations. Jason Kane blundering into situations out of his control. Entombed Cybermen waking from a century-long sleep. It's all in a day's work for Professor Bernice Summerfield.
+
+Armed with her endless supply of witty quips and penchant for lost causes, she'll find the Crystal, rescue Jason, destroy the Cybermen and be home in time for supper.
+
+Except, this time, it's different. This time, as the saying goes, it's personal.
+
+And, after this adventure, things will never be the same again.</dc:description>
+    </metadata>
+</package>

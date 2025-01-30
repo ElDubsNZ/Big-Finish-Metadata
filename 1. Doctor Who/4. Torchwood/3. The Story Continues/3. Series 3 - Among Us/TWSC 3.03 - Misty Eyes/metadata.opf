@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Misty Eyes</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-278-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - She Story Continues - Series 3 - Among Us - Part 1"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Eve Myles (Gwen Cooper)</dc:creator>
+        <dc:creator opf:role="nrt">Kai Owen (Rhys Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Alexandria Riley (Ng)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Gwen Cooper and Rhys Williams have made a new life for themselves in Iceland. Away from death and aliens and horror and Torchwood. Until there's a knock on the door from the last person they want to see.</dc:description>
+    </metadata>
+</package>

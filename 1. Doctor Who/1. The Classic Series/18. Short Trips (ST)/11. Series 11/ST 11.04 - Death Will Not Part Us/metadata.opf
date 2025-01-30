@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Death Will Not Part Us</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 11"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alfie Shaw</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Adèle Anderson (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On the 14th of August 3097, everything is fine on the world of Gernica. Except, on the same day, the planet is being destroyed. Also, on the 14th of August 3097, no one in the universe has heard of Gernica. The planet’s only chance to survive the horrors of the Time War lies with Viola Wintersmith. For Viola has a weapon that can destroy anything that stands in her way. A weapon that requires a unique form of ammunition. Her past.</dc:description>
+    </metadata>
+</package>

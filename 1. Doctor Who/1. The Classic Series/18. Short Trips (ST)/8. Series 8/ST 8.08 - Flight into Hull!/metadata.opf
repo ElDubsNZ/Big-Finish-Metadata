@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Flight Into Hull!</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 8"/>
+        <meta name="calibre:series_index" content="8"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Joseph Lidster</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Camille Coduri (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Jackie Tyler's lost a close friend, and this new Doctor is only a half-hearted replacement for him.
+
+But as she tries to put the events of Big Ben behind her and take a well-earned break, others have spotted an opportunity. A well-intentioned, far-reaching plan is underway. But Jackie Tyler isn't the woman she was...</dc:description>
+    </metadata>
+</package>

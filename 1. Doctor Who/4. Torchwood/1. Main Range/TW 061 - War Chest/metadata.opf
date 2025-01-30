@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>War Chest</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-794-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="61"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Rossa McPhillips</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Naoko Mori (Toshiko Sato)</dc:creator>
+        <dc:creator opf:role="nrt">Homer Todiwala (Ed)</dc:creator>
+        <dc:creator opf:role="nrt">Bahvini Sheth (Nisha)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Butcher (Vernon)</dc:creator>
+        <dc:creator opf:role="nrt">Samuel Clemens (Guard)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It's the largest depository of alien artefacts ever assembled, ready to wage war against the heavens. Of course, they called it the Antebellum. Of course, they forgot about it. 
+
+But the Dow Cohort have rediscovered it. And tonight, they're breaking in. They have one hour and Toshiko Sato as a reluctant hostage. Can they steal Torchwood’s greatest secret?</dc:description>
+    </metadata>
+</package>

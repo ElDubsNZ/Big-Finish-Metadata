@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Gathering</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2006-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-195-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="87"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Joseph Lidster</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Dait Abuchi (Michael Tanaka)</dc:creator>
+        <dc:creator opf:role="nrt">Janie Booth (Eve Morris)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Alan Fitzgerald)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Grieve (James Clarke)</dc:creator>
+        <dc:creator opf:role="nrt">Jef Higgins (Waiter)</dc:creator>
+        <dc:creator opf:role="nrt">Belinda Hoare (Rosemary Stark)</dc:creator>
+        <dc:creator opf:role="nrt">Zehra Naqvi (Jodi Boyd)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Perry (Katherine Chambers)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On the morning of 22 September 2006, Tegan woke up. She was expecting to spend the day relaxing at home and, that evening, tolerate a party thrown to celebrate her 46th birthday. But things don't always go as expected, ­it's been over twenty years since she chose to leave the Doctor. She's got a job, mates... a life.
+
+Meanwhile, her friend, Katherine Chambers, makes a decision that could change all their lives, and Tegan discovers that you can never really escape the past.</dc:description>
+    </metadata>
+</package>

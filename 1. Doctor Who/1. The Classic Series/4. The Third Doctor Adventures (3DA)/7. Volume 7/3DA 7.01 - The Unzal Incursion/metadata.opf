@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Unzal Incursion</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-567-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Third Doctor Adventures - Volume 7"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mark Wright</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tim Treloar (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Daisy Ashford (Liz Shaw)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (Brigadier Lethbridge-Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Misha Malcolm (Sergeant Nicola 'Nicki' Attah)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Benjamin (Private Robbins)</dc:creator>
+        <dc:creator opf:role="nrt">Clare Corbett (Cherilyn Dankworth)</dc:creator>
+        <dc:creator opf:role="nrt">Avita Jay (Harper)</dc:creator>
+        <dc:creator opf:role="nrt">Gary Martin (Unzal / Unzal 2)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Under the supervision of the Doctor, the Brigadier and Dr Liz Shaw, UNIT are getting ready to activate Hotspur: their new, advanced early warning system.
+
+But something goes wrong. Can it be that UNIT has been betrayed from within? Suddenly bases are falling across the globe, and only the Doctor and his friends are able to escape.
+
+Not knowing how far the conspiracy goes, the Doctor, Liz and the Brigadier become fugitives. Their investigations lead them to the Fulcrum military training facility. And something beyond the Earth.</dc:description>
+    </metadata>
+</package>

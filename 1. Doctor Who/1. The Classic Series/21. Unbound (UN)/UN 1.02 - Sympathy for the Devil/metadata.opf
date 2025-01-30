@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Sympathy for the Devil</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2003-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-013-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Unbound"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Clements</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Warner (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Courtney (Brigadier Lethbridge-Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">David Tennant (Colonel Brimmicombe-Wood)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Kisgart (Ke Le)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Griffiths (Captain Zerdin)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Littledale (The Abbot)</dc:creator>
+        <dc:creator opf:role="nrt">Stuart Piper (Adam)</dc:creator>
+        <dc:creator opf:role="nrt">Liz Sutherland (Ling)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Wright (Marcus)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>What if... the Doctor had not been UNIT's scientific advisor?
+
+1997… and a lone exile arrives on Earth, years later than planned.
+
+On the eve of the Handover, an advanced Chinese stealth bomber crashes in the hills above Hong Kong. The discredited UNIT has just 24 hours to steal the technology, rescue the passenger and flee to international waters.
+
+Down by the harbour, there's big trouble in Little England - a bar owned by an old soldier, who simply wants to forget the past. But an ancient evil is stirring in a place of peace.
+
+The Doctor finds a world on the brink of terror. A world that has lived without him for years. A world that is frighteningly like our own…</dc:description>
+    </metadata>
+</package>

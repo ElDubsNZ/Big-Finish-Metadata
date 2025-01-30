@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Queen of Clocks</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-916-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - Classic Doctors, New Monsters - Series 4 - Broken Memories"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jacqueline Rayner</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Melanie Bush)</dc:creator>
+        <dc:creator opf:role="nrt">Finty Williams (Queen Catherine)</dc:creator>
+        <dc:creator opf:role="nrt">Jennifer Saayeng (Annette)</dc:creator>
+        <dc:creator opf:role="nrt">Paterson Joseph (Harbolt)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Lew Kum Hoi (Droid / Guard / Phillippe / Old Phillippe)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Sixth Doctor and Mel come to the rescue when they find a castle under siege from Clockwork Droids. But in a kingdom run with painstaking precision, time is running out for the Queen of Guyenne...</dc:description>
+    </metadata>
+</package>

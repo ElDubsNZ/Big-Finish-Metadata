@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Infinite Today</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 10"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Sharon Bidwell</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Katy Manning (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Jo Jones is travelling. Setting out from London Gatwick to Mexico, she lands back at Gatwick.
+
+Jo Jones is travelling once again. Setting out from London Gatwick to Mexico, she lands back at Gatwick with the same crew and passengers.
+
+Jo Jones is travelling once again. Setting out from London Gatwick to Mexico, she lands back at Gatwick with precisely the same crew and passengers, again.
+
+Jo Jones is travelling once again…</dc:description>
+    </metadata>
+</package>

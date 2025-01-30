@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Five Companions</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-691-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - The Five Companions"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">William Russell (Ian Chesterton)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Purves (Steven Taylor)</dc:creator>
+        <dc:creator opf:role="nrt">Jean Marsh (Sara Kingdom)</dc:creator>
+        <dc:creator opf:role="nrt">Anneke Wills (Polly Wright)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (The Sontarans)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Inside a cluster of fused-together derelict spaceships, four of the Doctor's oldest friends — and one of his newest ones — are lost and confused. They don't know how they got there or what they're meant to be doing — but as the place is infested with Daleks, Sontarans and dinosaurs, their first priority is staying alive. 
+
+To their collective relief, the Doctor turns up and has a reasonable idea of what's going on. If the six of them work together, they can escape this place and get home. But, unexpectedly, others may be working together to ensure they all die here...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Brand Management</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-599-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 13 - Road Trip"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Christopher Cooper</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Ayesha Antoine (Ruth)</dc:creator>
+        <dc:creator opf:role="nrt">David Ames (Jack)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Arthur (Yukon 9)</dc:creator>
+        <dc:creator opf:role="nrt">Liam Cooper (CRS Commander)</dc:creator>
+        <dc:creator opf:role="nrt">Arthur Darvill (Jared Jones)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Doctor Carol Bauer)</dc:creator>
+        <dc:creator opf:role="nrt">Thomas Grant (Peter Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Roger Hammond (Harry Burtenshaw)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Handcock (Clive)</dc:creator>
+        <dc:creator opf:role="nrt">Marcus Harris (Brian)</dc:creator>
+        <dc:creator opf:role="nrt">Alice Ingham (Sister Hettie)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Jones (The DJ / Brother Mumford)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline King (Mother Aurelia)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Lambert (Bishop Synesius)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Langdell (Sister Marianne)</dc:creator>
+        <dc:creator opf:role="nrt">Robbie Lester (Federico Dominicci)</dc:creator>
+        <dc:creator opf:role="nrt">Anjli Mohindra (Gabriella Dominicci)</dc:creator>
+        <dc:creator opf:role="nrt">Charlotte Parkyn (Sister Ermintrude)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Irving Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">Alan Ruscoe (Ray)</dc:creator>
+        <dc:creator opf:role="nrt">Ian H Watkins (Professor Melville Trout)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>“You’re listening to Live Audio Stream G371, the only official source of government-approved easy listening entertainment, as sponsored by the Dominicci Corporation. It’s the thirteenth day of the thirteenth month, and that means just one thing, people - it’s time to PARTAYYY...!”
+
+Bernice Summerfield needs a job. Professor Harry Burtenshaw thinks she’s just the ticket. But with the people of Lyndyaz celebrating their most important festival, and the ruling Dominicci Corporation maintaining control with draconian glee, has Bernice turned up in the wrong place at the wrong time?</dc:description>
+    </metadata>
+</package>

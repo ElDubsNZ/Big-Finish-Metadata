@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Last Line</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-779-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Master - Series 7 - Self-Defence"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizzie Hopley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Derek Jacobi (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">David Tennant (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Abigail Thaw (Salaskin)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Flynn (Goriant)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Shad (Severine)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>At the mercy of an ancient and powerful race, the Master calls upon his oldest friend in his hour of need. The problem is he doesn't recognise this incarnation of the Doctor... while the Doctor knows this Master all too well.</dc:description>
+    </metadata>
+</package>

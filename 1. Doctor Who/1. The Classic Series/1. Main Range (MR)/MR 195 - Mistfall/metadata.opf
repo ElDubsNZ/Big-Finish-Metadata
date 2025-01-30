@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Mistfall</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-445-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="195"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andrew Smith</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Strickson (Vislor Turlough)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Carrington (Pik Solus)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Carter (Yan Fara)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Panting (Drell / Marshleader)</dc:creator>
+        <dc:creator opf:role="nrt">Jemma Redgrave (Decider Lana Merrion)</dc:creator>
+        <dc:creator opf:role="nrt">Emily Woodward (Fem / Citizen Arana)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Drawn off-course, the TARDIS passes through a CVE into a closed universe – a hugely improbable event with a tragically obvious cause. In order to escape inescapable E-Space, the Doctor, Nyssa, Tegan and Turlough are forced to venture in the wilds of planet Alzarius.
+
+ But they're not the only unwanted visitors to this strange world. A Starliner has landed, captained by Decider Merrion – but why would Merrion risk rousing the Planet that Slept, and the monsters in its marshes?
+
+ Mistfall is coming. The Marshmen are coming. But while Nyssa and Turlough find themselves caught in the open, in the hands of fanatics who model themselves on the legendary Outlers, the Doctor and Tegan discover that the supposedly secure Starliner affords them no protection from monsters both within and without...</dc:description>
+    </metadata>
+</package>

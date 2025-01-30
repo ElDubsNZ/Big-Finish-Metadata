@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Moonflesh</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-311-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="185"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mark Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Silver Crow)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Bentinck (Nathaniel Whitlock)</dc:creator>
+        <dc:creator opf:role="nrt">Geoffrey Breton (Hector Tremayne)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Fraser (Edwin Tremayne)</dc:creator>
+        <dc:creator opf:role="nrt">Francesca Hunt (Hannah Bartholomew)</dc:creator>
+        <dc:creator opf:role="nrt">Rosanna Miles (Phoebe Whitlock)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>One wouldn't normally expect to find elephants, gorillas and rhinoceroses roaming free in Suffolk in the year 1911. One wouldn't normally expect to find an extra-dimensional police box at the same time/space location either. Two aliens, named the Doctor and Nyssa, exit said box, only to find themselves pursued by a hungry lioness – for they've landed in the private hunting grounds of the famous explorer Nathaniel Whitlock, who's brought together a motley group of friends and acquaintances for a weekend's shooting.
+
+But one of Whitlock's guests isn't all they seem. One of them wants the secrets of the Moonflesh, the mystic mineral looked after by Whitlock's retainer, a Native American known as Silver Crow. Because the Moonflesh is reputed to have the power to call down spirits from another realm…
+
+…and soon, the hunters will become the hunted.</dc:description>
+    </metadata>
+</package>

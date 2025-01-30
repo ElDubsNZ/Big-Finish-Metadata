@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Seasons of Fear</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2002-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-459-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="30"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Cornell</dc:creator>
+        <dc:creator opf:role="aut">Caroline Symcox</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Curbishley (Marcus / Grayle's Masters' voices)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Fewell (Lucilius / Richard Martin)</dc:creator>
+        <dc:creator opf:role="nrt">Lennox Greaves (Edward)</dc:creator>
+        <dc:creator opf:role="nrt">Justine Mitchell (Lucy Martin)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Perring (Grayle)</dc:creator>
+        <dc:creator opf:role="nrt">Sue Wallace (Edith)</dc:creator>
+        <dc:creator opf:role="nrt">Don Warrington (The Auditor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On New Year's Eve, 1930, the Doctor lets Charley keep her appointment at the Raffles Hotel in Singapore. But his unease at what he's done to time by saving her life soon turns into fear. Sebastian Grayle: immortal, obsessed, ruthless, has come to the city to meet the Time Lord. To the Doctor, he's a complete stranger, but to Grayle, the Doctor is an old enemy.
+
+An enemy that, many years ago, he finally succeeded in killing. And this is his only chance to gloat.
+
+The Doctor and Charley desperately search human history for the secret of Grayle's power and immortality. Their quest takes in four different time periods, the Hellfire Club, the court of Edward the Confessor and the time vortex itself. And when the monsters arrive, the stakes are raised from the life of one Time Lord to the existence of all humanity.</dc:description>
+    </metadata>
+</package>

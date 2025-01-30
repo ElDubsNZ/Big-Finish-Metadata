@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Call to Arms</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-618-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - The New Series - Series 4 - Assembled"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jemma Redgrave (Kate Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Ingrid Oliver (Osgood)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Josh Carter)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Franklin (Mike Yates)</dc:creator>
+        <dc:creator opf:role="nrt">John Levene (John Benton)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Hope (Jastrok / Terry)</dc:creator>
+        <dc:creator opf:role="nrt">Annette Holland (Anne)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Asbury (Anthony Burmaster)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Mike Yates braves a stormy night in the Lakes to help celebrate a milestone for John Benton. An evening of fond reminiscences of old glories and friends awaits. But a long-buried past is about to catch up with them. 
+
+Meanwhile, on the rain-lashed moors, what begins as a routine mission for modern-day UNIT quickly becomes a fight for survival.</dc:description>
+    </metadata>
+</package>

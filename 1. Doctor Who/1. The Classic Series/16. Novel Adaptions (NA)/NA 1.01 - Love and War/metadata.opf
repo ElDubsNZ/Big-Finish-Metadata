@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Love and War</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-024-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Novel Adaptations"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Cornell</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Allen (Clive Aubrey)</dc:creator>
+        <dc:creator opf:role="nrt">Ela Gaworzewska (Christopher)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Handcock (Piers Gavenal)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Hayes (Death)</dc:creator>
+        <dc:creator opf:role="nrt">Bernard Holley (Brother Phaedrus)</dc:creator>
+        <dc:creator opf:role="nrt">Aysha Kala (Roisa McIlnery)</dc:creator>
+        <dc:creator opf:role="nrt">Riona O'Connor (Máire Mab Finn)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Ollerenshaw (Audrey McShane)</dc:creator>
+        <dc:creator opf:role="nrt">James Redmond (Jan Rydd)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Sheward (Eros)</dc:creator>
+        <dc:creator opf:role="nrt">James Unsworth (Julian Milton)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On a planet called Heaven, all hell is breaking loose.
+
+ Heaven is a cemetery for both humans and Draconians - a final place of rest for those lost during wartime. The Doctor arrives on a trivial mission - to find a book, or so he says - and Ace, wandering around Joycetown, becomes involved with a charismatic Traveller called Jan.
+
+ But the Doctor is strenuously opposed to the romance. What is he trying to prevent? Is he planning some more deadly game connected with the coffins revered by the mysterious Church of Vacuum and the unusual Arch that marks the location of a secret building below ground?
+
+ Archaeologist Bernice Summerfield thinks so. Her destiny is inextricably linked with that of the Doctor, but even she may not be able to save Ace from the Time Lord's plans.
+
+ This time, has the Doctor gone too far?
+
+ A new adaptation of the Virgin New Adventures novel which introduced Bernice Summerfield; also contains the prelude from Doctor Who Magazine and a behind-the-scenes documentary about the making of the story.</dc:description>
+    </metadata>
+</package>

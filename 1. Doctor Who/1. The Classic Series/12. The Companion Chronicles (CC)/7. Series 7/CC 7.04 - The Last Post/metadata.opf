@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Last Post</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-949-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 7"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Caroline John (Liz Shaw)</dc:creator>
+        <dc:creator opf:role="nrt">Rowena Cooper (Emily Shaw)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>People are dying. Just a few, over a period of months... but the strange thing is that each person received a letter predicting the date and time of their death.
+
+Throughout her time as the Doctor’s assistant, Liz Shaw has been documenting these passings.
+
+Her investigation ultimately uncovers a threat that could lead to the end of the world, but this time Liz has someone to help her.
+
+Her mother.</dc:description>
+    </metadata>
+</package>

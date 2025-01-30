@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Bad Day in Tinseltown</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-746-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Seventh Doctor Adventures - Silver and Ice"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Dan Starkey</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Mel)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Mungo Derek)</dc:creator>
+        <dc:creator opf:role="nrt">Jeany Spark (Carol Protraxus / General Polly Juno)</dc:creator>
+        <dc:creator opf:role="nrt">Jasmin Hinds (Mitzi Cinque)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Nelson / Cybermen / Big Gerald)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and Mel drop in on the frontier town of Brightedge - dubbed ‘Tinseltown’ after the curious by-products from its depleted mine. The Mayor thinks the future lies in entertainment, but as the locals start behaving oddly, a hidden force of Cybermen has other plans...</dc:description>
+    </metadata>
+</package>

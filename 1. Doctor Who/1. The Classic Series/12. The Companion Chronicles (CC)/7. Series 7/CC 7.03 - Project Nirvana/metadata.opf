@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Project Nirvana</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-948-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 7"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mark Wright</dc:creator>
+        <dc:creator opf:role="aut">Cavan Scott</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie O'Neill (Lysandra Aristedes)</dc:creator>
+        <dc:creator opf:role="nrt">Amy Pemberton (Sally Morgan)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The place is Eastern Europe. The year is 2015.
+
+The TARDIS lands in mid-air, and Captain Lysandra Aristedes is dropped into a daring mission in her own past. There are enemies and creatures out there in the night, and the Doctor is waiting at the rendezvous point.
+
+Because this is all part of his bigger picture. And Aristedes is going to learn something about herself...</dc:description>
+    </metadata>
+</package>

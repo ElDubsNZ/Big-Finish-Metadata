@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Private Enemy No. 1</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-598-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 12 - Epoch"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tony Lee</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Ayesha Antoine (Ruth)</dc:creator>
+        <dc:creator opf:role="nrt">Marcus Hutton (Leonidas)</dc:creator>
+        <dc:creator opf:role="nrt">David Ames (Jack)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Irving Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">John Ainsworth (Robot)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy Brabin (The Queen)</dc:creator>
+        <dc:creator opf:role="nrt">Prentis Hancock (Craisus)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Handcock (Guard Captain / Cavemen)</dc:creator>
+        <dc:creator opf:role="nrt">Graeme Henderson (Constable)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Johnson (Darion)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Mallinson (Driver)</dc:creator>
+        <dc:creator opf:role="nrt">John Montgomery (Acanthus / Heskith)</dc:creator>
+        <dc:creator opf:role="nrt">Rebecca Newman (Helena)</dc:creator>
+        <dc:creator opf:role="nrt">John Stahl (Poseidon)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Thompson (The Epoch)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Turner (Urchin)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Wright (Shopper)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Great Leader is dead... Long live the Great Leader!
+
+Atlantis is in disarray. The Historians are hiding Bernice, Leonidas and Ruth within their safe house – but the world is changing more than they could have ever imagined.
+
+People are being erased from existence, their memories wiped clean and replaced with those of others. Entire buildings are altering, times are changing... and the Hierophants are on the move.
+
+Can Bernice and her friends save Atlantis from the end of existence? Or will they too be assimilated?</dc:description>
+    </metadata>
+</package>

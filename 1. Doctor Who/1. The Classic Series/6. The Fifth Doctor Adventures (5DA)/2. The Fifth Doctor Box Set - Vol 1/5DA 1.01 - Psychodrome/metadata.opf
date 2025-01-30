@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Psychodrome</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-340-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fifth Doctor Adventures - Volume 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Waterhouse (Adric)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Whitelock (Professor Rickett / King Magus / Denyx)</dc:creator>
+        <dc:creator opf:role="nrt">Phil Mulryne (Magpie / Calcula / Prince Erdos)</dc:creator>
+        <dc:creator opf:role="nrt">Camilla Power (Perditia / Jenessa / Zaria)</dc:creator>
+        <dc:creator opf:role="nrt">Bethan Walker (Javon / Pyrrha / Queen Antigone)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Shortly after surviving the perils of Logopolis, Castrovalva and the machinations of the Master, the new Doctor and his new crew could be forgiven for wanting to take a breather from their tour of the galaxy. But when the TARDIS lands in a strange and unsettling environment, the urge to explore is irresistible... and trouble is only a few steps away. 
+
+The world they have found themselves in is populated by a wide variety of the strangest people imaginable - a crashed spacecraft here, a monastery there, even a regal court. And not everyone they meet has their best interests at heart. 
+
+With the TARDIS stolen, and the very environment itself out to get them, the travellers face an extremely personal threat. They'll have to work as a team if they want to get out alive... but can you really trust someone you barely know?</dc:description>
+    </metadata>
+</package>

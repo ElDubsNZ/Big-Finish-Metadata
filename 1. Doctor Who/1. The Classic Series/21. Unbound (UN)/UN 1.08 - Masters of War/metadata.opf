@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Masters of War</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-331-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Unbound"/>
+        <meta name="calibre:series_index" content="8"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Warner (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Courtney (Alistair Lethbridge-Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Terry Molloy (Davros)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks / Waylin)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Douglas (Gillen)</dc:creator>
+        <dc:creator opf:role="nrt">Jason Haigh-Ellery (The Quatch)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Heywood (Toloc)</dc:creator>
+        <dc:creator opf:role="nrt">Jeremy James (Delt /The Quatch)</dc:creator>
+        <dc:creator opf:role="nrt">Amy Pemberton (Nadel)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and his travelling companion, retired army officer Alistair Lethbridge-Stewart, take a random trip in the TARDIS - and land on the planet Skaro.
+
+The Doctor helped the Thals to defeat the Daleks years ago, so he is surprised to find the Thal city under Dalek occupation. He determines to help them again, but what is the Daleks' purpose in keeping the Thals alive?
+
+Does it have anything to do with the Daleks' mythical creator, named in their teachings as Davros?</dc:description>
+    </metadata>
+</package>

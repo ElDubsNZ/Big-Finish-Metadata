@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Oodunnit</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-026-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="77"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Shaun Parkes (Zachary Cross Flane)</dc:creator>
+        <dc:creator opf:role="nrt">Silas Carson (The Ood)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Panting (Mr Brakow)</dc:creator>
+        <dc:creator opf:role="nrt">Amanda Shodeko (Chloe)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Stafford (Worker)</dc:creator>
+        <dc:creator opf:role="nrt">Belinda Stewart-Wilson (Lady Drogba)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Who would murder an Ood? In the 43rd Century, all the Earth Empire's waste goes to the recycling world of Paraglas IV. But has something else been sent there? Something worth killing for? 
+
+The Torchwood Archive sends Zachary Cross Flane to investigate, and he uncovers a terrible secret. The Empire has a use for everyone, even after death.</dc:description>
+    </metadata>
+</package>

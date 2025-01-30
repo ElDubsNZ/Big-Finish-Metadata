@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>House of Cards</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-063-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 7"/>
+        <meta name="calibre:series_index" content="8"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Steve Lyons</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Anneke Wills (Polly Wright)</dc:creator>
+        <dc:creator opf:role="nrt">Frazer Hines (Jamie McCrimmon)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS has landed in a futuristic space casino, where the Doctor, Ben, Polly and Jamie find fun, games… and monsters everywhere. There are vicious robot dogs, snake-headed gangsters from the Sidewinder Syndicate and a mysterious masked woman called Hope.
+
+In this place, time travellers are to be tracked down and arrested. Yet, as events spiral out of control, time may be Polly's only ally…</dc:description>
+    </metadata>
+</package>

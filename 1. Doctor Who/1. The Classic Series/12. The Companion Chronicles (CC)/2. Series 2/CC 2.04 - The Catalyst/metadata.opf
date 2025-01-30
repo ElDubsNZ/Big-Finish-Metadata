@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Catalyst</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-293-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 2"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nigel Fairs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Louise Jameson (Leela / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Watson (The Z'Nai)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The pride of the Z'nai matches that of Leela of the Sevateem. Why would the Doctor imprison one in such an unlikely place, and what terrors will be brought about by letting it loose?</dc:description>
+    </metadata>
+</package>

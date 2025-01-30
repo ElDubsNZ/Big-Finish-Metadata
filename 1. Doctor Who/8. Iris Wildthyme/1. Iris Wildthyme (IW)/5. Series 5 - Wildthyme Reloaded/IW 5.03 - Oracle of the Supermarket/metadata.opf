@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Oracle of the Supermarket</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-778-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Iris Wildthyme - Series 5"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Roy Gill</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Katy Manning (Iris Wildthyme)</dc:creator>
+        <dc:creator opf:role="nrt">Geoffrey Breton (Captain Edwin Turner)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Hayes (Cassie Burdock)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Longworth (Rick)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Cassie Burdock works on the till in the local branch of Fergusons. She thinks she's nothing special, that she's just like everyone else...until one day, she finds that she can predict the future with unnerving accuracy.</dc:description>
+    </metadata>
+</package>

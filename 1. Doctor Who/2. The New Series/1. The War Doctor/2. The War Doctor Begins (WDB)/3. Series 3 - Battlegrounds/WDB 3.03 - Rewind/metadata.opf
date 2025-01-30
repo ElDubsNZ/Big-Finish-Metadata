@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Rewind</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-552-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Doctor Begins - Series 3 - Battlegrounds"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Timothy X Atack</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jonathon Carley (The War Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Julian Forsyth (Grei Potemic)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Moss (Ignis Abel)</dc:creator>
+        <dc:creator opf:role="nrt">Homer Todiwala (Regis Parenthis)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Jeneca Abel)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Lacuna is on the brink of destruction, attacked by a new breed of Dalek. But every day, it is pulled back from that brink, and everyone prepares to live through the end of their world once again.
+
+One strange man, alone in his castle, holds the key to Lacuna’s ultimate salvation - or its annihilation.</dc:description>
+    </metadata>
+</package>

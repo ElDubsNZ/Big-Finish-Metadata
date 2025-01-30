@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Palindrome - Part 2</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-387-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Time War - Volume 4"/>
+        <meta name="calibre:series_index" content="1.2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Rakhee Thakrar (Bliss)</dc:creator>
+        <dc:creator opf:role="nrt">Terry Molloy (Davros)</dc:creator>
+        <dc:creator opf:role="nrt">Isla Blair (Charn)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Daleks / Kaleds)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In an alternative universe, Davros lives in peace, until the Doctor and Bliss arrive, and the Daleks emerge in a new reality.</dc:description>
+    </metadata>
+</package>

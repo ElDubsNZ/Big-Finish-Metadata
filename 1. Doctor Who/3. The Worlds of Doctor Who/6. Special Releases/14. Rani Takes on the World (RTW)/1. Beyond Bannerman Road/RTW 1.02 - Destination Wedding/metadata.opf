@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Destination: Wedding</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-993-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Rani Takes on the World - Volume 1 - Beyond Bannerman Road"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Anjli Mohindra (Rani Chandra)</dc:creator>
+        <dc:creator opf:role="nrt">Mina Anwar (Gita Chandra)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Anthony (Clyde Langer)</dc:creator>
+        <dc:creator opf:role="nrt">Rachel Fenwick (Tiff)</dc:creator>
+        <dc:creator opf:role="nrt">Will Bishop (Kristoffay / Receptionist)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Rani and Gita Chandra have been invited to a dream wedding on a luxury island resort. But how did Tiff from school end up marrying a film star? And why has she asked all the worst people from her life alongside the Hollywood A-listers?
+
+While Gita samples the canapés and criticises the flower arrangements, Rani senses something amiss...The perfect wedding comes at a price - but who will be paying?</dc:description>
+    </metadata>
+</package>

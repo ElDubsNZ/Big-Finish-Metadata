@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Burning Prince</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-019-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="165"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Kirsty Besterman (Princess Aliona / Ludan)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Hutchinson (Altus)</dc:creator>
+        <dc:creator opf:role="nrt">Caroline Keiff (Riga)</dc:creator>
+        <dc:creator opf:role="nrt">Caroline Langrishe (Shira)</dc:creator>
+        <dc:creator opf:role="nrt">Clive Mantle (Ambassador Tuvold)</dc:creator>
+        <dc:creator opf:role="nrt">George Rainsford (Prince Kylo)</dc:creator>
+        <dc:creator opf:role="nrt">Dominic Rowan (Commander Corwyn)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Treloar (Tyron)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Drashani Empire - a galaxy-spanning civilisation, the glory of Rome set among the stars. But for decades now, the Royal Houses of Gadarel and Sorsha have been at war, each claiming the Imperial throne.
+
+The wedding of Prince Kylo and Princess Aliona was meant to change all that - a blessed union between the Houses, a new hope for the Empire. Until Aliona's wedding galley crash-landed on the planet Sharnax - and all contact was lost.
+
+The TARDIS lands aboard the ship carrying the fiery Kylo in search of his lost princess - but with a sabre-toothed monster roaming its corridors, the Doctor soon discovers he's not the only alien presence aboard.</dc:description>
+    </metadata>
+</package>

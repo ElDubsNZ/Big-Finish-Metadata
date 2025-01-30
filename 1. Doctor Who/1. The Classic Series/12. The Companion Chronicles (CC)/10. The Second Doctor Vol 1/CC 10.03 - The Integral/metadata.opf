@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Integral</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-014-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - The Second Doctor - Volume 1"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Bartlett</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Frazer Hines (The Doctor/Jamie)</dc:creator>
+        <dc:creator opf:role="nrt">Wendy Padbury (Zoe/Ash/Elm)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When tempers fray in the TARDIS, the Doctor struggles to help Jamie and Zoe resolve their differences. Arriving at Aspen Base proves a welcome distraction; but the isolated facility is under siege. Can Jamie's belief in right and wrong withstand the perspective changing power of the Integral?</dc:description>
+    </metadata>
+</package>

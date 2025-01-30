@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>In Memory Alone</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-616-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - The New Series - Series 3 - Silenced"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jemma Redgrave (Kate Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Ingrid Oliver (Osgood)</dc:creator>
+        <dc:creator opf:role="nrt">Ramon Tikaram (Colonel Vikram Shindi)</dc:creator>
+        <dc:creator opf:role="nrt">Warren Brown (Lieutenant Sam Bishop)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Captain Josh Carter)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy Wiles (Jacqui McGee)</dc:creator>
+        <dc:creator opf:role="nrt">Aaron Neil (David)</dc:creator>
+        <dc:creator opf:role="nrt">Nimmy March (Baroness Vance / Telokni)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Mission Control / Captain / Soldier)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Silence)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When Sam Bishop and Osgood visit an orbiting space station for a routine mission, they have no idea that they are part of an alien scheme, years in the planning. 
+
+As the global situation spins out of control, Kate seeks help from an unlikely source. 
+
+The Silents are not done with humanity yet – and they will have their revenge.</dc:description>
+    </metadata>
+</package>

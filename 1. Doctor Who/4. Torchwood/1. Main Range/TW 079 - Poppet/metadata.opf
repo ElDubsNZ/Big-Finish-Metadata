@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Poppet</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-030-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="79"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lauren Mooney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Kai Owen (Rhys Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Arthur (Alex)</dc:creator>
+        <dc:creator opf:role="nrt">Emily Burnett (Catherine)</dc:creator>
+        <dc:creator opf:role="nrt">Arbel Jones (Maia)</dc:creator>
+        <dc:creator opf:role="nrt">Sion Tudor Owens (Mr Collins)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A child goes missing in a small Welsh town. As Rhys grows closer to the traumatised Catherine and her husband, he discovers that something is badly wrong in their remote cottage. There are scratches in the plaster, little wooden figures hidden in the walls, and next-door neighbour Mr Collins isn't what he seems. 
+
+Will you join them at the festival of darkness?</dc:description>
+    </metadata>
+</package>

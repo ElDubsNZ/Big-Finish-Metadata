@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Temmosus</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-552-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Doctor Begins - Series 3 - Battlegrounds"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Rossa McPhillips</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jonathon Carley (The War Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">David Warwick (Dylon)</dc:creator>
+        <dc:creator opf:role="nrt">Rose Basista (Soolal)</dc:creator>
+        <dc:creator opf:role="nrt">Troy Alexander (Gilder)</dc:creator>
+        <dc:creator opf:role="nrt">Adèle Anderson (Tamasan)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Soldier)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Fighting alongside the Time Lords against their common enemy, some Thals have realised that this collaboration is not between equals.
+
+When his new battleship is stolen, the War Doctor must convince his old allies that they are on the same side.</dc:description>
+    </metadata>
+</package>

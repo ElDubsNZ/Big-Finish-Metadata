@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Evolution</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-958-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 5"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Una McCormack</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (Supreme Leader Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Outcast Leader Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (High Chancellor Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Sheward (Castellan Slyne)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Arthur (Guard Commander Lukas)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Fisher-Becker (Science Minister Kavil)</dc:creator>
+        <dc:creator opf:role="nrt">David Yip (Hector)</dc:creator>
+        <dc:creator opf:role="nrt">Alexander Gordon (Taine)</dc:creator>
+        <dc:creator opf:role="nrt">Anjli Mohindra (Maris)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Jones (Glower)</dc:creator>
+        <dc:creator opf:role="nrt">David Menkin (Assistant Analyst Jonias)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Before the fall of Project: Rassilon, the Regenerators of Gallifrey committed atrocities upon their slaves in the name of science. As Leela discovers the results of one such crucible, Romana and Narvin are pushing forward ways to discover the secrets of time travel, and jump-start their new Gallifrey's evolution. 
+
+However, science isn't always the way forward, and in a society built upon the foundations of amorality and fear, a backward step may be the only solution...</dc:description>
+    </metadata>
+</package>

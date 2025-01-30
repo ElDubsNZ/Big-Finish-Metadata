@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Visiting Hours</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-635-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="13"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Llewellyn</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Kai Owen (Rhys Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Nerys Hughes (Brenda Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Karl Theobald (Mr Tate)</dc:creator>
+        <dc:creator opf:role="nrt">Ryan Sampson (Mr Nichols)</dc:creator>
+        <dc:creator opf:role="nrt">Ruth Lloyd (Nurse Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Critchlow (Dr Fletcher)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Everyone's a little worried about St Helen's Hospital. In many ways it is a miracle of the modern NHS. It has plenty to offer its patients. The problem is that a lot of them keep dying of natural causes in the night. And no-one can find the bodies. 
+
+People are beginning to notice. Questions are being asked. And there are rumours — the strange whispering figures seen at the end of the corridors, the electrical buzzing, the screams. 
+
+Also, Rhys Williams has come to visit his mother. Brenda's had her hip done and is looking forward to a bit of rest and regular crumble. Rhys and his mam are in for a night they'll never forget.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Oracle</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-028-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="78"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Ash Darby</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Ronny Jhutti (Danny Bartock)</dc:creator>
+        <dc:creator opf:role="nrt">Silas Carson (The Ood)</dc:creator>
+        <dc:creator opf:role="nrt">Teresa Banham (Aletta Songul)</dc:creator>
+        <dc:creator opf:role="nrt">James Barriscale (Sergeant Belki Collins)</dc:creator>
+        <dc:creator opf:role="nrt">Georgina Beedle (Professor Felicity Martov)</dc:creator>
+        <dc:creator opf:role="nrt">Farshid Rokey (Achmet Eatock-Finch)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In the 43rd Century, the height of the Earth Empire. A ship from 1000 years in the future has crashed on a lava world and is calling for help. How dangerous is the knowledge it offers? 
+
+The Torchwood Archive sends Danny Bartock. Because only an ethicist can save humanity from the future.</dc:description>
+    </metadata>
+</package>

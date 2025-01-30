@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>A Heart on Both Sides</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 7"/>
+        <meta name="calibre:series_index" content="9"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Rob Nisbet</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sarah Sutton (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>After her medical work on Terminus, Nyssa is now the controller of a hospital ship, the Traken. As the universe burns in the crossfire of the Time War, she and her assistant travel to a planet close to Gallifrey where they are needed more than ever.
+
+A long time ago, Nyssa knew a Time Lord and understood his people. But it seems they can change...</dc:description>
+    </metadata>
+</package>

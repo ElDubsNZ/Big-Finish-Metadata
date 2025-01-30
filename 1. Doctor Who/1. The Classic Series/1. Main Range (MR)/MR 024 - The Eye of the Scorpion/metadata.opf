@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Eye of the Scorpion</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2001-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-449-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="24"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Iain McLaughlin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Brennan (Kishik)</dc:creator>
+        <dc:creator opf:role="nrt">Jack Galagher (Fayum)</dc:creator>
+        <dc:creator opf:role="nrt">Alistair Lock (Priest)</dc:creator>
+        <dc:creator opf:role="nrt">Caroline Morris (Erimem)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Myers (Yanis)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Owen (Antranak)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Perring (Horemshep)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Wright (Slave)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>1400 BC. Egypt is in mourning. Pharaoh, the great God-King, is dead. The future of the Two Kingdoms of Egypt is shrouded in uncertainty as the Council of Priests debates the claim to the throne of Pharaoh's only heir.
+
+Out in the deserts around Thebes, Egypt's capital, a warlord chief is assembling an army of mercenaries, waiting for just the right moment to strike at Egypt's heart.
+
+But not all of Egypt's enemies are outside the city. What is the secret of the strange box discovered in the desert?
+
+When the TARDIS arrives nearby, it has apparently been hijacked... by the Doctor?</dc:description>
+    </metadata>
+</package>

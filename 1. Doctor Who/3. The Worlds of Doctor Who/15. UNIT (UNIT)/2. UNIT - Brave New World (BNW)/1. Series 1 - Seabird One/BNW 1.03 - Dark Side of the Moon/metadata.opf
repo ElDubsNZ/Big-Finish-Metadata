@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Dark Side of the Moon</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-852-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - Brave New World - Series 1 - Seabird One"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alfie Shaw</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Angela Bruce (Brigadier Winifred Bambera)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Jordan (Sergeant Jean-Paul Savarin)</dc:creator>
+        <dc:creator opf:role="nrt">Yemisi Oyinloye (Dr Louise Rix)</dc:creator>
+        <dc:creator opf:role="nrt">Lorne MacFadyen (McManis)</dc:creator>
+        <dc:creator opf:role="nrt">Liz Sutherland-Lim (Dame Lydia Kingsley)</dc:creator>
+        <dc:creator opf:role="nrt">Wilf Scolding (Professor Ian Fenning)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Ludders (Colin Carter)</dc:creator>
+        <dc:creator opf:role="nrt">Simone Lahbib (DI Alison Lees)</dc:creator>
+        <dc:creator opf:role="nrt">Debra Michaels (Dr Megan Hollands)</dc:creator>
+        <dc:creator opf:role="nrt">Homer Todiwala (Trooper 1 / Astronaut 1 / UNIT Medic)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy Wiles (Trooper 2 / Astronaut 2 / Cleaner / Helena)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A new British space station, the Britannia, is due to be launched at the end of the week, but Bambera, Rix and Savarin fear that some kind of psychic entity is trying to sabotage it. Is it really the spirit of Helena McNamara, deceased astronaut and old friend of Rix? And does it speak the truth when it warns that something terrible is waiting for humanity on the dark side of the moon?</dc:description>
+    </metadata>
+</package>

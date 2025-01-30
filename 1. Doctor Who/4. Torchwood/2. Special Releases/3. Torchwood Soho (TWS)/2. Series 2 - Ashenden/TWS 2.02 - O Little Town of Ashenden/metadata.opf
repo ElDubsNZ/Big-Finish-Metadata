@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>O Little Town of Ashenden</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-775-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Soho - Series 2 - Ashenden"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Samuel Barnett (Norton Folgate)</dc:creator>
+        <dc:creator opf:role="nrt">Dervla Kirwan (Lizbeth Hayhoe)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Price (Sergeant Andrew Davidson)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Shire (Gideon Lyme)</dc:creator>
+        <dc:creator opf:role="nrt">Rachel Atkins (Matron)</dc:creator>
+        <dc:creator opf:role="nrt">Russell Bentley (Bowers)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Brocklebank (Ornadel)</dc:creator>
+        <dc:creator opf:role="nrt">Jacob Dudman (Fotheringay)</dc:creator>
+        <dc:creator opf:role="nrt">Raj Ghatak (Policeman)</dc:creator>
+        <dc:creator opf:role="nrt">Diveen Henry (Amanda)</dc:creator>
+        <dc:creator opf:role="nrt">Shvorne Marks (Nurse Bledsoe)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Riseborough (Miss Satterthwaite)</dc:creator>
+        <dc:creator opf:role="nrt">Russell Bentley (BFX: Ashenden) (Prime Minister / Commuter / Old Man)</dc:creator>
+        <dc:creator opf:role="nrt">Jacob Dudman (BFX: Ashenden) (Conductor / Commuter / Tramp)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Ashenden was once a listening station. It's become something far worse.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Taste of Death</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-225-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Tenth Doctor Chronicles - Volume 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Helen Goldwyn</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jacob Dudman (The Doctor / Narrator / Rose Tyler)</dc:creator>
+        <dc:creator opf:role="nrt">Arinzé Kene (Orentino)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and Rose sample the high-life on resort planet MXQ1, run by the famous Bluestone brothers. It has everything: exotic beaches, luxury accommodation and extravagant dining. Something’s cooking in the kitchen, and it’s to die for…</dc:description>
+    </metadata>
+</package>

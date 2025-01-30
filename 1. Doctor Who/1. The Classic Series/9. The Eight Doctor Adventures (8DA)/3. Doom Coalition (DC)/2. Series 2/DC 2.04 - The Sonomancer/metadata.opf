@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Sonomancer</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-621-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Doom Coalition 2"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Hattie Morahan (Helen Sinclair)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Bonnar (The Eleven)</dc:creator>
+        <dc:creator opf:role="nrt">Emma Cunniffe (Caleera)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Ezenagu (Ruslan / Ivo)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fullerlove (Yeva)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Harding (Mariam)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Mineworker / Galactic Heritage Officer / Shopkeeper)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On the other side of the galaxy, a mining company is exploiting the already unstable planet of Syra for every precious mineral it contains. River Song is attempting to save the native people. She needs the Doctor’s help, but she also knows he mustn't yet discover her true identity. The final confrontation sees the Doctor once again face his enemy the Eleven in an attempt to prevent the destruction of Syra and the genocide of its inhabitants.</dc:description>
+    </metadata>
+</package>

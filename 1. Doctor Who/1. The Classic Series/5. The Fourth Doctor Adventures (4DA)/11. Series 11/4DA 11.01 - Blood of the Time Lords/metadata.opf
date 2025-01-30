@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Blood of the Time Lords</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 11"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Timothy X Atack</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Annette Badland (Eminent Sedanya)</dc:creator>
+        <dc:creator opf:role="nrt">James Dreyfus (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Susan Kyd (Codal Thark)</dc:creator>
+        <dc:creator opf:role="nrt">Adrian Lukis (Ansillon)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (Honourable Loric)</dc:creator>
+        <dc:creator opf:role="nrt">Emma Noakes (Elanora)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Honourable Ailgen)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The book known as The Dischord Grimoire is an incredibly powerful tome, believed capable of altering the true passage of time itself. And the Doctor has it in the TARDIS.
+
+Wanting to look into this mysterious opus further, he decides to take it to an old friend in The Recusary - a monastery-like retreat on a moon of Gallifrey.
+
+But he’s chosen an inauspicious time to arrive. Something else is visiting the Recusary. And this something hasn’t brought a book with it... but death.</dc:description>
+    </metadata>
+</package>

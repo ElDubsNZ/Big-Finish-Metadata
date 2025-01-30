@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Maelstrom</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-742-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Sixth Doctor Adventures - Water Worlds"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Mel / Alef)</dc:creator>
+        <dc:creator opf:role="nrt">Ruth Madeley (Hebe)</dc:creator>
+        <dc:creator opf:role="nrt">Kim Durham (Vale)</dc:creator>
+        <dc:creator opf:role="nrt">Nimmy March (Mada / Saskar / Alef)</dc:creator>
+        <dc:creator opf:role="nrt">Amerjit Deu (Jom)</dc:creator>
+        <dc:creator opf:role="nrt">Cherylee Houston (Elise)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor, Mel and Hebe visit the archipelago world of Veludia, only to discover a planet beset by electromagnetic storms where three survivors traverse the seas in a ramshackle township. These survivors are 'corps' - bodies used as hosts for minds stored in the vessel’s ‘mind-drive’ - and the Doctor, Mel and Hebe are seen as welcome replacements. But there's something lurking in the waters below, something of rage and power that wishes to destroy them all: the Maelstrom!</dc:description>
+    </metadata>
+</package>

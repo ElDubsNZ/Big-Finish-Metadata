@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>All Hands on Deck</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 7"/>
+        <meta name="calibre:series_index" content="10"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Carole Ann Ford (Susan)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Everyone Susan Campbell cared about has gone. Most of them died in the second Dalek invasion, and her grandfather never visits. She's living in what used to be Coal Hill School, helping Earth rebuild again.
+
+Then, one night, she's called away to help with an emergency. A piece of appropriated Dalek technology is malfunctioning, and everyone's afraid of what it might do...
+
+This is just the first in a sequence of predicaments facing Susan - and the connection between them will shape the rest of her life.</dc:description>
+    </metadata>
+</package>

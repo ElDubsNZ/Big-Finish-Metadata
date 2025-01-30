@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Second Oldest Question</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 9"/>
+        <meta name="calibre:series_index" content="10"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Carrie Thompson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sarah Sutton (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The oldest question in the universe has haunted the Doctor ever since he left Gallifrey. A question that only a few know the answer to. A question that must never be answered.
+
+This isn’t the story of that question. This is the story of the second oldest question. A question that has plagued humanity for millennia. A question which determines whether someone can live or die. A question that must be answered.</dc:description>
+    </metadata>
+</package>

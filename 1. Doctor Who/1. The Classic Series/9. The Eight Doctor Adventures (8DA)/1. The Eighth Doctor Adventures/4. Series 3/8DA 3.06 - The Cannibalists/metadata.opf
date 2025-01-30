@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Cannibalists</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-398-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Series 3"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sheridan Smith (Lucie Miller)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Elevator Voice)</dc:creator>
+        <dc:creator opf:role="nrt">Phil Davis (Titus)</dc:creator>
+        <dc:creator opf:role="nrt">Charlotte Fields (Minerva)</dc:creator>
+        <dc:creator opf:role="nrt">Phill Jupitus (Servo)</dc:creator>
+        <dc:creator opf:role="nrt">Teddy Kempner (Macrinus / Crusher)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Lambert (Domitian / Diode)</dc:creator>
+        <dc:creator opf:role="nrt">Oliver Senton (Probus / Ripper)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Haven hangs in space. A vast star city, devoid of life. Organic life, that is.
+
+From their high spire, looking out over silent streets and empty plazas, the Assemblers are waiting for the day when the humans arrive. Waiting. Waiting. Waiting…
+
+When the TARDIS brings the Doctor and Lucie to the Haven, it seems like the Assemblers’ long wait might be over. Living beings! Without batteries! Protocol be praised!
+
+Except – they’re headed for the lower levels. They don’t want to do that. That’s where the Cannibalists live. And if the Cannibalists catch them – well, they won’t be living beings much longer…</dc:description>
+    </metadata>
+</package>

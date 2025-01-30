@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Operation Dusk</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-892-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Seventh Doctor Adventures - Far From Home"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alison Winter</dc:creator>
+        <dc:creator opf:role="aut">Alfie Shaw</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (Harry Sullivan)</dc:creator>
+        <dc:creator opf:role="nrt">Eleanor Crooks (Naomi Cross)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Rowe (Sebastian Hardcastle)</dc:creator>
+        <dc:creator opf:role="nrt">Emily Raymond (Marion Johnstone)</dc:creator>
+        <dc:creator opf:role="nrt">Pepter Lunkuse (Georgina Stevens / Harriet Thompson)</dc:creator>
+        <dc:creator opf:role="nrt">Leon Parris (Nathaniel Woodcote)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>London during the Blitz, a city covered in darkness. It keeps everyone safe - until the darkness gets hungry. As the questions and victims mount up, the Doctor, Harry and Naomi are called in to investigate.
+
+Why have the Vashta Nerada on Earth started eating people? And, perhaps more importantly, why didn’t they eat the cat?</dc:description>
+    </metadata>
+</package>

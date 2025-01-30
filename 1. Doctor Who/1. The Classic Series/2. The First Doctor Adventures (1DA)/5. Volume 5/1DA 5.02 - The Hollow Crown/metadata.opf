@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Hollow Crown</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-158-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The First Doctor Adventures - Volume 5"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Sarah Grochala</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Bradley (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Claudia Grant (Susan)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Glover (Ian Chesterton)</dc:creator>
+        <dc:creator opf:role="nrt">Jemma Powell (Barbara Wright)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Asbury (William Shakespeare)</dc:creator>
+        <dc:creator opf:role="nrt">Lauren Cornelius (Judith Shakespeare)</dc:creator>
+        <dc:creator opf:role="nrt">Wendy Craig (Elizabeth I)</dc:creator>
+        <dc:creator opf:role="nrt">Liane-Rose Bunce (Lady Penelope Rich / Hawker)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Conningham (Robert Devereaux, Earl of Essex / Lord Cecil)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the TARDIS lands in Shoreditch, 1601, the Doctor suggests going to see a play at the Globe Theatre and his friends readily agree.
+
+But this is a turbulent time. There is violence in the street, plots against the Queen, and rebellion is in the air. At the centre of it all stands the most famous playwright in British history - William Shakespeare - who is having troubles of his own.
+
+As tensions mount and wheels turn within wheels, the travellers are about to discover if the play really is the thing...</dc:description>
+    </metadata>
+</package>

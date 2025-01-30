@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Wasting</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2005-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-116-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - Series 1"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Iain McLaughlin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Nicholas Courtney (The Brigadier)</dc:creator>
+        <dc:creator opf:role="nrt">Siri O'Neal (Colonel Emily Chaudhry)</dc:creator>
+        <dc:creator opf:role="nrt">David Tennant (Colonel Ross Brimmicombe-Wood)</dc:creator>
+        <dc:creator opf:role="nrt">Nora Brande (Sergeant Willis)</dc:creator>
+        <dc:creator opf:role="nrt">Sara Carver (Andrea Winnington)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Hobbs (Francis Currie)</dc:creator>
+        <dc:creator opf:role="nrt">Adrian McLoughlin (George)</dc:creator>
+        <dc:creator opf:role="nrt">Steffan Rhodri (Prime Minister)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Zorbas (Corporal McLeish)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A deadly flu-like infection is sweeping the planet. Its first cases appeared in Britain, but now millions are infected worldwide and there is no sign of a cure. The emergency services can't cope with what the press have dubbed a plague... 
+
+Under attack from all sides, UNIT in Britain is in disarray. It faces a stark choice -- to close its doors and concede defeat, or to fight back, whatever the cost... and the injured Colonel Emily Chaudhry knows UNIT has never backed down from a battle. 
+
+If UNIT is to fight back, it's going to need the services of its missing commander, Colonel Brimmicombe-Wood, and the experience of the Brigadier, who can never refuse when duty calls...</dc:description>
+    </metadata>
+</package>

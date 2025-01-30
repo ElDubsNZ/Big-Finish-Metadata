@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Wink</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-380-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Tenth Doctor Adventures - Out of Time"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lisa McMullin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">David Tennant (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Ayesha Antoine (Padilla)</dc:creator>
+        <dc:creator opf:role="nrt">Clive Hayward (Dax)</dc:creator>
+        <dc:creator opf:role="nrt">Joanna Van Kampen (Estra)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the Sixth Doctor goes sight-seeing on Lucidus Silvara, he finds himself in a place where nothing is visible at all… only all-encompassing light! The Tenth Doctor is drawn in by a temporal anomaly, and the two Doctors meet a species with no sense of sight, living in a city surrounded by Weeping Angels.
+
+To save a civilisation, the Doctors must keep their eyes on the Angels. Don’t blink. Don’t even wink…</dc:description>
+    </metadata>
+</package>

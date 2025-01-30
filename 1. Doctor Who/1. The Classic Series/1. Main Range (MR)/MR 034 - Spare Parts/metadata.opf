@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Spare Parts</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2002-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-472-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="34"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Pamela Binns (Sisterman Constant)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Zheng)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Copley (Dad)</dc:creator>
+        <dc:creator opf:role="nrt">Kathryn Guck (Yvonne Hartley)</dc:creator>
+        <dc:creator opf:role="nrt">Jim Hartley (Frank Hartley)</dc:creator>
+        <dc:creator opf:role="nrt">Ann Jenkins (Mrs Ginsberg)</dc:creator>
+        <dc:creator opf:role="nrt">Sally Knyvette (Doctorman Allan)</dc:creator>
+        <dc:creator opf:role="nrt">Alistair Lock (Minister / TV Commentator)</dc:creator>
+        <dc:creator opf:role="nrt">Derren Nesbitt (Thomas Dodd)</dc:creator>
+        <dc:creator opf:role="nrt">Gary Russell (Philpott / Nurse)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On a dark frozen planet where no planet should be, in a doomed city with a sky of stone, the last denizens of Earth's long-lost twin will pay any price to survive, even if the laser scalpels cost them their love and hate and humanity.
+
+And in the mat-infested streets, around tea-time, the Doctor and Nyssa unearth a black market in second-hand body parts and run the gauntlet of augmented police and their augmented horses.
+
+And just between the tramstop and the picturehouse, their worst suspicions are confirmed: the Cybermen have only just begun, and the Doctor will be, just as he always has been, their saviour...
+
+The story of the genesis of the Cybermen. One of our listeners' favourite releases. Dark, moving and terrifying...</dc:description>
+    </metadata>
+</package>

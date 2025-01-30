@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Mind's Eye</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2007-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-182-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="102.1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Colin Brake</dc:creator>
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Caroline Morris (Erimem)</dc:creator>
+        <dc:creator opf:role="nrt">Thomas Brodie-Sangster (Kyle / Drone)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Childs (Chris)</dc:creator>
+        <dc:creator opf:role="nrt">Rebecca Front (Major Takol / Ally / Dr Carla Love)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Laing (Ukarme / Kharto / Mike / Guido)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Sowerbutts (Lawrence)</dc:creator>
+        <dc:creator opf:role="nrt">Owen Teale (Hayton / Malarou / Announcer)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Weeks (Andree / Anders / Aranda / Operator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Mind's Eye by Colin Brake  (3 parts)
+
+This is a warning to all space farers. You must keep away from this planet. It’s hostile, repeat, hostile.
+
+On a planet with no name, the Doctor finds himself confronted by a faulty memory and some killer plants.
+
+In a distant galaxy, Erimem leads a troubled empire.
+
+Back on Earth, Peri tells her son about the good old days when she used to travel with a man called The Doctor.
+
+PLUS:
+
+Mission of the Viyrans by Nicholas Briggs (1 part) 
+
+The Doctor and Peri take a holiday on the planet Gralista Social, but soon discover they aren't the only time-travelling aliens in town.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Sound of Fear</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-366-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Iris Wildthyme - Series 2"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mark Michalowski</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Katy Manning (Iris Wildthyme)</dc:creator>
+        <dc:creator opf:role="nrt">David Benson (Panda)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Sam Gold)</dc:creator>
+        <dc:creator opf:role="nrt">Helen Goldwyn (Leeza Lewis)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Goddard (Janice)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Handcock (Mohanalee)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>With her red London bus on course for the future, Iris runs slap-bang into the past! 
+
+Materialising aboard Radio Yesterday, a space station broadcasting golden oldies to Earth's colonies, Panda finds something sinister in the air-conditioning and Iris comes face to face with her long-lost husband... (no, really!) 
+
+As Iris, Panda and the crew of Radio Yesterday experience the true power of music, the evil Naxian hordes are poised to transmit a groovy message of death... to the entire galaxy!</dc:description>
+    </metadata>
+</package>

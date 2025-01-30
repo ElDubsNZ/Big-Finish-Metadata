@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Last Day 2</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-179-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Seventh Doctor Adventures - The Last Day"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace / President Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Lizzie Annis (Cassie Morgan-Schofield)</dc:creator>
+        <dc:creator opf:role="nrt">Yasmin Bannerman (Roz Forrester)</dc:creator>
+        <dc:creator opf:role="nrt">Geoffrey Beevers (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Richenda Carey (Mother)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Co-Ordinator)</dc:creator>
+        <dc:creator opf:role="nrt">Wayne Forester (Hob)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Hoskyns (News Announcer)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Jordan (OgronOgron 1 / Hemeran / Fabbi / Cleric / Guard / Time Lord)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Melanie Bush)</dc:creator>
+        <dc:creator opf:role="nrt">Chase Masterson (Vienna Salvatori)</dc:creator>
+        <dc:creator opf:role="nrt">Stuart Milligan (Garundel)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie O'Neill (Lysandra Aristedes)</dc:creator>
+        <dc:creator opf:role="nrt">Travis Oliver (Chris Cwej)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Olivier (Hex Schofield)</dc:creator>
+        <dc:creator opf:role="nrt">Edward Peel (Kane)</dc:creator>
+        <dc:creator opf:role="nrt">Amy Pemberton (Sally Morgan)</dc:creator>
+        <dc:creator opf:role="nrt">Lin Sagovsky (Dark Citizen / Krasi President / Miss Peters / Time Lord 2 / Computer Voice)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Marshal Stenn / Klant / Sontarans / Ogron 2)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>This title was released in June 2024. It will be exclusively available to buy from the Big Finish website until 31 July 2024, and on general sale after this date.
+
+There is always injustice to fight. There is always a new danger for the universe. But what if the Doctor found a way to put things right, once and for all? Would it really be so terrible to take a stand? Would the end justify the means? And would his friends agree? The Seventh Doctor's last day is coming...</dc:description>
+    </metadata>
+</package>

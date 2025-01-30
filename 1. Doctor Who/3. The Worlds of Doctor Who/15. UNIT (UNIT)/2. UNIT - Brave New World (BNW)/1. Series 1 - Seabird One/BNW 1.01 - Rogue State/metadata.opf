@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Rogue State</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-852-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - Brave New World - Series 1 - Seabird One"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Valentine</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Angela Bruce (Brigadier Winifred Bambera)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Jordan (Sergeant Jean-Paul Savarin)</dc:creator>
+        <dc:creator opf:role="nrt">Liz Sutherland-Lim (Dame Lydia Kingsley)</dc:creator>
+        <dc:creator opf:role="nrt">Wilf Scolding (Roman Krojac)</dc:creator>
+        <dc:creator opf:role="nrt">George Watkins (Eyrie Six)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Ludders (Control)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In the war-torn republic of Valge Maja, Brigadier Bambera is hot on the trail of arms-dealing terrorist, Roman Krojac, when she's ordered back to Geneva. Her old sponsor, Dame Lydia Kingsley, offers her a job as the new head of UNIT. Reluctant to accept, she nevertheless teams up with sarcastic UNIT officer Sergeant Jean-Paul Savarin to prevent a monstrous Soviet-era weapon from falling into Krojac’s hands.</dc:description>
+    </metadata>
+</package>

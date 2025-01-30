@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Ten Minutes in Hell</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-625-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - Nemesis - Series 2 - Angents of the Vulpreen"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jemma Redgrave (Kate Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Ingrid Oliver (Osgood)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Captain Josh Carter)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Lew Kum Hoi (Lt Jimmy Tan)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Bonnar (The Eleven)</dc:creator>
+        <dc:creator opf:role="nrt">Alisdair Simpson (Varliss)</dc:creator>
+        <dc:creator opf:role="nrt">Susie Emmett (Worrall)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (The Vulpreen)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy Wiles (Jacqui McGee)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On the alien world on the far side of the Arch, the Vulpreen put their human prisoner through an ordeal. Osgood must lead a desperate rescue attempt - and she's got ten minutes to do it.</dc:description>
+    </metadata>
+</package>

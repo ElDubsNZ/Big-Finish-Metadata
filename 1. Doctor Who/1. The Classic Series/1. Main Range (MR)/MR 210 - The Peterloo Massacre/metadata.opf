@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Peterloo Massacre</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-881-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="210"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Magrs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Wayne Forester (Walton / Roberts / Reverend Small)</dc:creator>
+        <dc:creator opf:role="nrt">Gerard Kearns (Wlliam)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Labey (Thomas Tyler)</dc:creator>
+        <dc:creator opf:role="nrt">Liz Morgan (Mrs Hurley / Sister)</dc:creator>
+        <dc:creator opf:role="nrt">Jayne Standing (Cathy Hayley)</dc:creator>
+        <dc:creator opf:role="nrt">Robbie Stevens (Hurley)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"They say there’ll be thousands pouring into Manchester tomorrow. From all over the county, north and south. It’ll be a piece of history. People will remember this!"
+
+Lost in the smog of the Industrial Revolution, the TARDIS crashes four miles south of Manchester, in the grounds of Hurley Hall – a grand mansion belonging to a local factory owner, a proudly self-made man. But while Hurley dreams of growing richer still on the wealth of secret knowledge locked up in the Doctor’s time and space machine, his servants hope only for a fair day’s pay for a fair day’s work. His young maid Cathy, for instance, whom Nyssa learns is looking forward to joining the working people’s march to St Peter’s Field, in the heart of the city. There’ll be speeches and banners and music. It’ll be like one big jamboree…
+
+Or so she thinks. For the city’s establishment have called in their own private militia, to control the crowd. One of the darkest days in Manchester’s history is about to unfold – and the Doctor, Nyssa and Tegan are right in the thick of it.</dc:description>
+    </metadata>
+</package>

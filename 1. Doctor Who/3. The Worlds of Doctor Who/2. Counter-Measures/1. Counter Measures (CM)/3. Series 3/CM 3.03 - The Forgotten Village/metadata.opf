@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Forgotten Village</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-322-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Counter Measures - Series 3"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Ken Bentley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Simon Williams (Group Captain Ian Gilmore)</dc:creator>
+        <dc:creator opf:role="nrt">Pamela Salem (Rachel Jensen)</dc:creator>
+        <dc:creator opf:role="nrt">Karen Gledhill (Allison Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Ross (Sir Toby Kinsella)</dc:creator>
+        <dc:creator opf:role="nrt">Rupert Evans (Jack Maddocks)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Bentinck (Mr Williams / Curtis / Comrade Kavurshkin)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Carlyle (Sam Caddock)</dc:creator>
+        <dc:creator opf:role="nrt">Graham Seed (Mr Bevan)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Troughton (Major General Beresford)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Henfrey (Woman)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A personal crisis for Allison turns into one of Counter-Measures' most dangerous assignments. </dc:description>
+    </metadata>
+</package>

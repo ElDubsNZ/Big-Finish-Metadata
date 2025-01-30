@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Deathworld</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-267-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Vienna - Series 1"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Chase Masterson (Vienna Salvatori)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Chance (Felman Shazarel)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Dickens (Canton Malrick)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Frost (Crevo Finn / Galaron Darvil)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The planet Mercator. Twenty trained assassins enter a game arena, armed only with their wits to compete against each other in a harsh environment. Twenty killers go in. One comes out. 
+
+Amongst the killers is Vienna Salvatori. This is the moment she has trained her whole life for, honing her skills as an assassin to become the best in the galaxy. 
+
+As the killers are wiped out one by one, Vienna fights on in the hope of finally learning the truth about her past. In the last battle, only one can be the last assassin standing.</dc:description>
+    </metadata>
+</package>

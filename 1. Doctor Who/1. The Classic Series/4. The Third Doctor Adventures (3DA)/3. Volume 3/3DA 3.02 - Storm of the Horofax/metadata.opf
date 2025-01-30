@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Storm of the Horofax</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-752-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Third Doctor Adventures - Volume 3"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andrew Smith</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tim Treloar (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Katy Manning (Jo Grant)</dc:creator>
+        <dc:creator opf:role="nrt">Robin Weaver (Arianda)</dc:creator>
+        <dc:creator opf:role="nrt">Iain Batchelor (Adam Rigg)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Hands (Major Hardy/Crewman)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Derrington (Commander Burton)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Conningham (Sinko/Ronson/Lieutenant)</dc:creator>
+        <dc:creator opf:role="nrt">Jake Dudman (UNIT Radio Operator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>During a North Sea military exercise, the crew of the destroyer HMS Nemesis detect what they suspect is a submarine following them. But it’s actually a futuristic ship with an alien occupant, Arianda.
+
+The Doctor and UNIT are called in, but things are already running out of control. The damaged craft is leaking particles and contaminating the Nemesis with time disruption.
+
+But that’s not the biggest problem. For Arianda is being followed by the warships of the Horofax, who have picked precisely this moment to invade. Soon the destruction of humanity’s future will begin.</dc:description>
+    </metadata>
+</package>

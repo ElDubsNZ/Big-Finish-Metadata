@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Running Out of Time</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-547-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 1"/>
+        <meta name="calibre:series_index" content="8"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Dorothy Koomson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">India Fisher (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A young man is on the run. But he can't remember why he is running - or who is following him…</dc:description>
+    </metadata>
+</package>

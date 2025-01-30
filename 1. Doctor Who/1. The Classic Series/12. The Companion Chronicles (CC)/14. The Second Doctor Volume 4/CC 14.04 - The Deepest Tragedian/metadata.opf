@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Deepest Tragedian</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-592-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - The Second Doctor - Volume 2"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Penelope Faith</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Wendy Padbury (Zoe Heriot)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Unwin (Tom Waugh)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Zoe is brilliant. Zoe loves to prove it, helping the Doctor and Jamie in their travels, coming to the rescue with a realisation or solving a puzzle. But she's about to meet a puzzle that's difficult to solve. A puzzle with a face. A puzzle with a heart. A puzzle that spells doom for the Doctor...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Church and the Crown</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2002-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-475-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="38"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Cavan Scott</dc:creator>
+        <dc:creator opf:role="aut">Mark Wright</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Wendy Albiston (De Chevreuse)</dc:creator>
+        <dc:creator opf:role="nrt">Andy Coleman (Rouffet)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Curbishley (Morand)</dc:creator>
+        <dc:creator opf:role="nrt">Marcus Hutton (Buckingham)</dc:creator>
+        <dc:creator opf:role="nrt">Peter John (Delmarre)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew MacKay (Louis)</dc:creator>
+        <dc:creator opf:role="nrt">Caroline Morris (Erimem)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Shallard (Richelieu)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A nation divided.
+A Queen's life at risk.
+A net of conspiracy closing in...
+Sometimes being a time travelling adventurer just isn't easy...
+
+For a start there's a temperamental TARDIS that lands a few thousand years off course in 17th Century Paris. But why shouldn't the Doctor, Peri and their travelling guest Erimem take a look around the city on the morning of King Louis's annual State Ball?
+
+As Peri becomes embroiled in a plot to kill Queen Anne and smash the unity of the Church and the Crown, the Doctor finds himself duelling Musketeers on the streets.
+
+With Peri missing, Erimem catching King Louis' eye and a Musketeer's sword at your throat, could things get any worse?
+
+Probably...</dc:description>
+    </metadata>
+</package>

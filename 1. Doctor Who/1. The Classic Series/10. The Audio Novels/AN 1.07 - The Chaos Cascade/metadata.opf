@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Chaos Cascade</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Audio Novels"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Colin Brake</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Dan Starkey (Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Rebecca Root (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Twelfth Doctor embarks on a desperate search for the three scattered parts of the Triskelia - the only means to contain a dangerous multi-dimensional breach in reality: the Chaos Cascade. But two warring races, the aggressive Myzen and the peace-loving Tollatee are also searching for this powerful device, as is a mysterious tech-enhanced part-human mercenary.
+
+Meanwhile, the Doctor's former housemate Tania Bell travels to Yorkshire to investigate reports of alien activity and is delighted to run into a previously unknown incarnation of the Time Lord: one that is female, dresses in purple and carries a parasol!
+
+Can the Doctor, Missy and Tania find a way to work together as a team? Or, once unleashed, will the Chaos Cascade wreak havoc across all space and time?</dc:description>
+    </metadata>
+</package>

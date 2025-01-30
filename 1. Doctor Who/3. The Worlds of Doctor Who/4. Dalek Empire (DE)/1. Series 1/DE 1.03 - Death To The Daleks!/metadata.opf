@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Death To The Daleks!</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2001-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-439-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Dalek Empire - Series 1"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sarah Mowat (Susan Mendes)</dc:creator>
+        <dc:creator opf:role="nrt">Mark McDonnell (Alby Brook)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth Thomas (Kalendorf)</dc:creator>
+        <dc:creator opf:role="nrt">Joyce Gibbs (Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Brooker (Espeelius / Karik / Admiral Elisonford)</dc:creator>
+        <dc:creator opf:role="nrt">Jeremy Fielder (Hive Leader Stralos / Barman)</dc:creator>
+        <dc:creator opf:role="nrt">David Sax (Ernst Tanlee)</dc:creator>
+        <dc:creator opf:role="nrt">Teresa Gallagher (Mirana / The President of Earth)</dc:creator>
+        <dc:creator opf:role="nrt">Alistair Lock (Dalek)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Allen (Dalek)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Dalek / The Dalek Emperor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Years have passed. The war goes on.
+
+For every Dalek defeat, the Earth Alliance has suffered ten. Could it be that the Daleks are finally on the brink of victory?
+
+Suz and Kalendorf have devised a secret plan to defeat the Daleks. But is it too late?
+
+The Dalek Emperor seems to have its own hidden agenda...</dc:description>
+    </metadata>
+</package>

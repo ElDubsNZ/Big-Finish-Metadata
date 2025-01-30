@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Rogue Planet</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-905-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Rose Tyler - The Dimension Cannon - Series 2 - Other Worlds"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Emily Cook</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Billie Piper (Rose Tyler / Rosie Tyler)</dc:creator>
+        <dc:creator opf:role="nrt">Camille Coduri (Jackie Tyler / Jackie Prentice)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Benton (Control Clive / Professor Finch)</dc:creator>
+        <dc:creator opf:role="nrt">Malcolm Jeffries (Giovanni Bianco / John White)</dc:creator>
+        <dc:creator opf:role="nrt">Indigo Griffiths (Brooke Robinson)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Priddy (Femi)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Rose finds herself closer to home than ever – but she's in for a shock. 
+
+Meanwhile, Jackie is a hit on daytime TV and Clive is a professor, but nobody seems to realise how much danger the world is in.</dc:description>
+    </metadata>
+</package>

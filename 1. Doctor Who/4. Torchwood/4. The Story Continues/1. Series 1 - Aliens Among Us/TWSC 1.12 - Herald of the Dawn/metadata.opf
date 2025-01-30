@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Herald of the Dawn</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-381-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - She Story Continues - Series 1 - Aliens Among Us - Part 3"/>
+        <meta name="calibre:series_index" content="12"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Barrowman (Captain Jack Harkness)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy-Ann Oberman (Yvonne Hartman)</dc:creator>
+        <dc:creator opf:role="nrt">Alexandria Riley (Ng)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Clayton (Mr Colchester)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Béart (Orr)</dc:creator>
+        <dc:creator opf:role="nrt">Jonny Green (Tyler Steele)</dc:creator>
+        <dc:creator opf:role="nrt">Kai Owen (Rhys Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Price (Sgt. Andy Davidson)</dc:creator>
+        <dc:creator opf:role="nrt">Eve Myles (Gwen Cooper)</dc:creator>
+        <dc:creator opf:role="nrt">Rachel Atkins (Ro-Jedda)</dc:creator>
+        <dc:creator opf:role="nrt">Garnon Davies (Rory)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Tweedale (Assassin)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Elfyn (Inspector Bernstein)</dc:creator>
+        <dc:creator opf:role="nrt">Aly Cruickshank (God Botherer)</dc:creator>
+        <dc:creator opf:role="nrt">Rick Yale (Darren)</dc:creator>
+        <dc:creator opf:role="nrt">Charlotte O'Leary (Reporter)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It starts normally enough: a car park full of ramblers is incinerated by a thunderbolt. But the next day it's clear there's something very wrong. Something's changed. Something's coming. It's the end of the world. And that's what Torchwood are best at...</dc:description>
+    </metadata>
+</package>

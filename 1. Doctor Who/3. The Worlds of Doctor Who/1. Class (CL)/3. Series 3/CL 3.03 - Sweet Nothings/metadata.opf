@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Sweet Nothings</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-184-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Class - Series 3"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Michael Dennis</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Dervla Kirwan (Miss Quill)</dc:creator>
+        <dc:creator opf:role="nrt">Greg Austin (Charlie)</dc:creator>
+        <dc:creator opf:role="nrt">Jordan Renzo (Matteusz)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Mylan (The Man)</dc:creator>
+        <dc:creator opf:role="nrt">Sion Pritchard (The Stranger)</dc:creator>
+        <dc:creator opf:role="nrt">Kate Morgan-Jones (Girl)</dc:creator>
+        <dc:creator opf:role="nrt">Ross Ford (Boy)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Living on Earth isn't easy when you're used to life as an alien freedom fighter. For Quill, it's a lonely existence – until she meets a Man outside Coal Hill Academy: the Man who can offer her everything she misses from her past... and more. </dc:description>
+    </metadata>
+</package>

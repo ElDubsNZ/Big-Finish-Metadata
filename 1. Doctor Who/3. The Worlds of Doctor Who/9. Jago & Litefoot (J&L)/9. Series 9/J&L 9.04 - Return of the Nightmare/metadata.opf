@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Return of the Nightmare</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-359-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jago & Litefoot - Series 9"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Justin Richards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Trevor Baxter (Professor George Litefoot)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Ellie Higson)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Asquith (Inspector Quick)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Newall (Aubrey)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Coy (Fowler)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Badel (Lady Isobelle Danvers)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>There is a murderer loose aboard the ship. If Jago and Litefoot can solve the mystery of the strange fog and return to London, will that make matters better, or far worse? The answers lie deep in the past, and they soon learn that not everyone is who — or what — they might seem.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Mind of the Hodiac</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-700-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Mind of the Hodiac"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Russell T Davies</dc:creator>
+        <dc:creator opf:role="aut">Scott Handcock</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Melanie Bush)</dc:creator>
+        <dc:creator opf:role="nrt">Annette Badland (Mrs Chinn)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Clifford (Jessop)</dc:creator>
+        <dc:creator opf:role="nrt">Lu Corfield (Matra Fennel)</dc:creator>
+        <dc:creator opf:role="nrt">Sutara Gayle (Nan)</dc:creator>
+        <dc:creator opf:role="nrt">Raj Ghatak (Jenfold / Tungsten Leader)</dc:creator>
+        <dc:creator opf:role="nrt">Loreece Harrison (Lisa)</dc:creator>
+        <dc:creator opf:role="nrt">Laurie Kynaston (The Hodiac)</dc:creator>
+        <dc:creator opf:role="nrt">Victoria Lambert (Matra Fiss)</dc:creator>
+        <dc:creator opf:role="nrt">Luyanda Unati Lewis-Nyawo (The Woman)</dc:creator>
+        <dc:creator opf:role="nrt">T’Nia Miller (Mrs Maitland)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Riseborough (Miss Fairfax)</dc:creator>
+        <dc:creator opf:role="nrt">Wilf Scolding (Jassic / Guard)</dc:creator>
+        <dc:creator opf:role="nrt">Alexander Vlahos (Jerring)</dc:creator>
+        <dc:creator opf:role="nrt">Darcey-Ella Whittington (Katy)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In the depths of space, the mysterious Hodiac is manipulating the Galactic Stock Exchange to raise money. His aim? To hire mercenaries for a deadly quest across the stars.
+
+Meanwhile, on Earth, an ordinary British family is plagued by a series of psychic events.
+
+The one thing connecting these events is a magnificent patchwork coat - which just so happens to belong to the Doctor!</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Meanwhile, Elsewhere</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-750-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Time War - Volume 5 - Cass"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Emma Campbell-Jones (Cass Fermazzi)</dc:creator>
+        <dc:creator opf:role="nrt">Sonny McGann (Alex Campbell)</dc:creator>
+        <dc:creator opf:role="nrt">Jaye Griffiths (Hieronyma Friend)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Boulton (Vice)</dc:creator>
+        <dc:creator opf:role="nrt">Greig Johnson (Mex)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and Alex arrive on a tropical beach where something’s amiss.
+Meanwhile, elsewhere… a desperate pilot runs for his life.
+Meanwhile, elsewhere… it’s Cass Fermazzi’s first day on an errand-class starship.
+Meanwhile, elsewhere… it’s the beginning of the end of everything.</dc:description>
+    </metadata>
+</package>

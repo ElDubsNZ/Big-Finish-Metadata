@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Other Side</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-223-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Ninth Doctor Chronicles"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Scott Handcock</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Bruno Langley (Adam Mitchell / Bygone Horde)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Narrator / Ninth Doctor / Kayla)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Rose has invited a new friend on board the TARDIS, against the Doctor’s better judgement. But when the Time Lord tries to take his unwelcome guest home, a temporal tsunami cuts the journey short. The travellers find the source of the disturbance inside an abandoned cinema. Will Adam Mitchell help or hinder when the Doctor and Rose discover what is lurking on the other side of the screen?</dc:description>
+    </metadata>
+</package>

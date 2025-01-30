@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Dark Planet</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-095-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 4"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Brian Hayles</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">William Russell (Ian Chesterton)</dc:creator>
+        <dc:creator opf:role="nrt">Maureen O'Brien (Vicki)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Teelss / Crogor 1 / Seeta / Light Guards)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Norfolk (Illees / General Steetss / Crogor 2)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Somewhere far back in the early days of the universe the TARDIS lands on a world lit by a dying sun. Missing from the Doctor's star maps and dotted with strange crystalline statues, it is a world ripe for exploration. But it is also a world of destruction.
+
+Venturing out onto its surface, the time travellers find themselves drawn into an age-old conflict between the two species residing on the planet - people of Light and Shadow. Proving a catalyst for the escalation of the conflict, the Doctor and his friends need either to create a peace or to pick a side.
+
+Because in times of war, nothing is ever black and white.</dc:description>
+    </metadata>
+</package>

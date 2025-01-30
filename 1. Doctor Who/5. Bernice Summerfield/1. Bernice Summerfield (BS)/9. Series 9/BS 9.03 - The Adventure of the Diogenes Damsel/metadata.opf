@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Adventure of the Diogenes Damsel</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-328-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 9"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jim Smith</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Thomas Grant (Peter Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">David Warner (Mycroft Holmes)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Kingsley (Septimus)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Miles (Straxus)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A new adventure in the 27th Century for Bernice Summerfield. 
+
+Diverted to Victorian London by persons or powers unknown, twenty seventh century archaeologist, adventureress and inadvertent absent mother Bernice Summerfield finds herself beset with problems of a kind that those unused to time-travel could barely even imagine.
+
+What are the plans of the mysterious Lord Straxus? Who is Ludvig Cooray and what has the number seven to do with all this? Can Bernice acquire the help of Mycroft Holmes, the cleverest man of the age, and more importantly how is she going to get home?</dc:description>
+    </metadata>
+</package>

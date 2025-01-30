@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Life Experience</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-638-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Class - Series 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jenny T Colgan</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Fady Elsayed (Ram)</dc:creator>
+        <dc:creator opf:role="nrt">Vivian Oparah (Tanya)</dc:creator>
+        <dc:creator opf:role="nrt">Lu Corfield (Marta)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Haran (Jason)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Shire (Aubrey)</dc:creator>
+        <dc:creator opf:role="nrt">Jasmine M Stewart (The Mayor)</dc:creator>
+        <dc:creator opf:role="nrt">Liz Sutherland-Lim (Alicia)</dc:creator>
+        <dc:creator opf:role="nrt">Gavin Swift (Boris)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>After signing up for work experience at Sevelin Laboratories, Tanya and Ram find themselves thrust into the world of medical research. But dark secrets lie at the heart of Sevelin Industries – and not everyone can make it out alive…</dc:description>
+    </metadata>
+</package>

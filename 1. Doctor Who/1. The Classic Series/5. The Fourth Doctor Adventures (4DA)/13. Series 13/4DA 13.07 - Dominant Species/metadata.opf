@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Dominant Species</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-461-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 13"/>
+        <meta name="calibre:series_index" content="7"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (Harry Sullivan)</dc:creator>
+        <dc:creator opf:role="nrt">Eleanor Crooks (Naomi Cross)</dc:creator>
+        <dc:creator opf:role="nrt">Clive Wood (Director Draaga)</dc:creator>
+        <dc:creator opf:role="nrt">Clive Hayward (Overseer Valtor / Trell)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Kloska (Corg)</dc:creator>
+        <dc:creator opf:role="nrt">Emily Woodward (Nala / Quarks)</dc:creator>
+        <dc:creator opf:role="nrt">Indra Ové (Bryarly / Quarks)</dc:creator>
+        <dc:creator opf:role="nrt">Polly Kemp (Calo / Quarks)</dc:creator>
+        <dc:creator opf:role="nrt">Rosalyn Landor (Morin / Quarks)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It has been a long time since the invasion of Taleeria. The population is enslaved and subject entirely to the will of the conquerors - the Dominators and their deadly robot servants, the Quarks. 
+
+The Doctor, Harry and Naomi stumble into this perilous scenario and are soon separated...but freeing the people of Taleeria should be business as usual, shouldn't it? 
+
+Where the Dominators are concerned, things may not be so simple...</dc:description>
+    </metadata>
+</package>

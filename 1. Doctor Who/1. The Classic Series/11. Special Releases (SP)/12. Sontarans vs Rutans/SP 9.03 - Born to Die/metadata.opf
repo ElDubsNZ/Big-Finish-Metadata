@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Born to Die</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-372-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - Sontarans vs Rutans"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tiegan Byrne</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (Skein)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Ryan (Trax)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Skole)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The war between the Sontarans and the Rutans has been going on for Millennia. And is likely to continue for millennia more. 
+
+Its reach can encompass ancient Ireland and a forest world in the far future. Encounters with UNIT and a Doctor no more. 
+
+From the outside these battles may seem disconnected. But sometimes there is a common thread. And unpicking that could destroy everything. When a trip to the planet Taxodon goes wrong the Doctor finds himself with mere hours to prove himself innocent of murdering a Sontaran. As more die, the Doctor and Charley need to uncover the cause and why the Sontarans are even on this planet...if they have time.</dc:description>
+    </metadata>
+</package>

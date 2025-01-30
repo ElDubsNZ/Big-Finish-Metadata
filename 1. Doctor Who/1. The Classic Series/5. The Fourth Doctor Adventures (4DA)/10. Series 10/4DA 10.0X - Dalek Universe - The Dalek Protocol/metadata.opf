@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Dalek Universe - The Dalek Protocol</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-435-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 10"/>
+        <meta name="calibre:series_index" content="0"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Anya Kingdom)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Sims (Mark Seven)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Barnard / Bellal / The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Jez Fielder (Gislen)</dc:creator>
+        <dc:creator opf:role="nrt">Anna Mitcham (Ellasi Craig)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Earth mission to Exxilon is nearing completion after many long years. Enough parrinium has been mined to stop the spread of the deadly space plague. But suddenly, the power-draining beacon from the Exxilon city is inexplicably reactivated, stranding the humans.
+
+The Doctor, Leela and K9 are stuck too, right on top of the remains of the city – under attack!
+
+Somewhere nearby, the android agent Mark Seven is enacting his secret orders while the Doctor’s estranged future companion, Anya Kingdom, is hoping for redemption.
+
+And heading inexorably towards them all… the Daleks!</dc:description>
+    </metadata>
+</package>

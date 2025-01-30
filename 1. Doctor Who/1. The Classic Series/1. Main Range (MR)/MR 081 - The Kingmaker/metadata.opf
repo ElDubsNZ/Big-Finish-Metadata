@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Kingmaker</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2006-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-161-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="81"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nev Fountain</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Caroline Morris (Erimem)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Beckett (Richard)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (Earl Rivers)</dc:creator>
+        <dc:creator opf:role="nrt">Marcus Hutton (Henry)</dc:creator>
+        <dc:creator opf:role="nrt">Linzi Matthews (Judith)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Neill (Sir James Tyrell)</dc:creator>
+        <dc:creator opf:role="nrt">Arthur Smith (Clarrie)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Fenton Stevens (Mr Seyton)</dc:creator>
+        <dc:creator opf:role="nrt">Katie Wimpenny (Susan)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Doctor Who encounters one of the most notorious characters from the past, as he journeys through time to solve the great Historical Mysteries...
+
+Not surprisingly the Doctor becomes mixed up with Richard the third himself, as he tries to unravel the perplexing problem of who exactly killed the Princes in the Tower.
+
+Peri and Erimem also encounter a suspicious time traveller. Someone from the Doctor's own past. Someone who shouldn't really be there at all.
+
+So who did murder the Princes in the Tower? Perhaps it's best not to ask a question like that. You might not like the answer...</dc:description>
+    </metadata>
+</package>

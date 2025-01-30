@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Deimos</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-479-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Series 4"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Niky Wardley (Tamsin Drew)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Lord Slaadek / Ice Warriors / Guard Captain)</dc:creator>
+        <dc:creator opf:role="nrt">Jack Brown (Pilot / Curious Tourist)</dc:creator>
+        <dc:creator opf:role="nrt">Susan Brown (Margaret)</dc:creator>
+        <dc:creator opf:role="nrt">Nicky Henson (Gregson Grenville)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy-Ann Oberman (Temperance Finch / Maxine / Computer)</dc:creator>
+        <dc:creator opf:role="nrt">David Warner (Professor Boston Schooner)</dc:creator>
+        <dc:creator opf:role="nrt">Nick Wilton (Harold)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Millions of years ago, the noble Ice Warriors fled to Deimos, moon of Mars, hoping to sit out the radioactive death throes of their home planet. When the TARDIS lands on Deimos, the Doctor discovers that the Warriors' ancient catacombs are now a popular stop for space tourists.
+
+But the Martian dynasties are more than history, and the Warriors are far from extinct. It's not for nothing that 'Deimos' is the ancient word for 'dread'…
+
+Note: The adventure continues in Doctor Who: The Resurrection of Mars</dc:description>
+    </metadata>
+</package>

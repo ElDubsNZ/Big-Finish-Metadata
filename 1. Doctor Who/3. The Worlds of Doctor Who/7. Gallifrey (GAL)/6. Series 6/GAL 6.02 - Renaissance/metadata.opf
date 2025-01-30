@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Renaissance</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-959-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 6"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (Lady President Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Juliet Landau (Lady President Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Coordinator Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Mark B. Oliver (Kolspen of Unvoss)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Gallifrey Lies... 
+
+Returning to her original homeworld, Romana finds Gallifrey to be cold and empty... the corridors of the Capitol lie silent and the wastelands are populated only by a handful of primitive monsters. 
+
+Her only hope lies with the appearance of a strange young woman: a woman with a masterplan so devious it makes Romana's own masterplans look decidedly not-devious-at-all... 
+
+How far would Romana go to save her world? Would she risk the Web of Time? And who is the mysterious stranger watching from the shadows...?</dc:description>
+    </metadata>
+</package>

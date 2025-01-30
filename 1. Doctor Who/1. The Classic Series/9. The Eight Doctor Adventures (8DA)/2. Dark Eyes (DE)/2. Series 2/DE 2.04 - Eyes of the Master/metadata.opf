@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Eyes of the Master</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-304-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Dark Eyes 2"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Ruth Bradley (Molly O'Sullivan)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Macqueen (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Natalie Burt (Dr Sally Armstrong)</dc:creator>
+        <dc:creator opf:role="nrt">David Shaw-Parker (David Walker)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline King (Mrs Gantry)</dc:creator>
+        <dc:creator opf:role="nrt">Frank Skinner (Soldier)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor, Liv and Molly arrive back on Earth in the 1970s to investigate the Ides Institute. The timelines have shifted since the Doctor and Molly first travelled here and all is not as it was. Dr Sally Armstrong is still working for the Ides, but her associate has a devastating plan in mind.
+
+Soon, Molly's 'dark eyes' prove to be at the centre of a plot to seize control of all life in the universe.</dc:description>
+    </metadata>
+</package>

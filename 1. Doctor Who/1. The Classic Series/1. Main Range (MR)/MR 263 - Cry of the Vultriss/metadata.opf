@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Cry of the Vultriss</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-000-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="263"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Darren Jones</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Greenwood (Flip Jackson)</dc:creator>
+        <dc:creator opf:role="nrt">Miranda Raison (Constance Clarke)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Ice Warriors)</dc:creator>
+        <dc:creator opf:role="nrt">Jo Burke (Helia / Chela)</dc:creator>
+        <dc:creator opf:role="nrt">Natasha Cowley (Queen Skye)</dc:creator>
+        <dc:creator opf:role="nrt">Caroline Lawrie (Jabule)</dc:creator>
+        <dc:creator opf:role="nrt">Adele Lynch (Vextyr / Ospri)</dc:creator>
+        <dc:creator opf:role="nrt">Vincenzo Nicoli (Pagus)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Norford (Tyto / Vultriss Captain)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Violently ejected from the Space-Time Vortex, the TARDIS crash lands on the remote planet of Cygia-Rema, a mountainous world ruled by the bird-like Vultriss. Their newly-crowned Queen Skye is expecting first contact with alien ambassadors – Ice Warriors - and the sudden arrival of the Doctor, Flip and Mrs Constance Clarke causes confusion.
+
+However, Skye is no ordinary ruler, she is the Fabled One gifted with the deadly power of ‘The Cry’. The queen who will enable the Vultriss to fly once again – at any cost.
+
+But as the Doctor investigates why the TARDIS crashed, he discovers that the Vultriss are hiding a deadly secret. An ancient legacy that if left unchecked will plunge half the galaxy into an eternal living end.</dc:description>
+    </metadata>
+</package>

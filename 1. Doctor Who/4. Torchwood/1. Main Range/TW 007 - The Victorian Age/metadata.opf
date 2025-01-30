@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Victorian Age</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-207-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="7"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">AK Benedict</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Barrowman (Captain Jack Harkness)</dc:creator>
+        <dc:creator opf:role="nrt">Rowena Cooper (Queen Victoria)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Emily)</dc:creator>
+        <dc:creator opf:role="nrt">Youssef Kerkour (Royalist)</dc:creator>
+        <dc:creator opf:role="nrt">Guy Adams (Archie)</dc:creator>
+        <dc:creator opf:role="nrt">Aaron Neil (Tube Driver)</dc:creator>
+        <dc:creator opf:role="nrt">AK Benedict (Josephine)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>London, England, the 1890s. Queen Victoria, ruler of Great Britain and Ireland and Empress of India, has arrived for her annual inspection of the Torchwood Institute. This year, everyone is quite determined, nothing will go wrong. 
+
+Several minutes later a terrible creature is unleashed on the streets of London. No one knows where it comes from, what it is, or even why it's on Earth. It's ruthless, has no morals, and is quite unstoppable. Captain Jack Harkness is on the loose, and Queen Victoria is along for the ride of her life.</dc:description>
+    </metadata>
+</package>

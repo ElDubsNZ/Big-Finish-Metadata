@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Genocide Machine</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2000-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-069-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="7"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mike Tucker</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks / Cataloguer Prink)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Faulkner (Bev Tarrant)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Gabriele (Rappell / Phantom Voices)</dc:creator>
+        <dc:creator opf:role="nrt">Alistair Lock (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Bruce Montague (Chief Librarian Elgin)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The library on Kar-Charrat is one of the wonders of the Universe. It is also hidden from all but a few select species. The Doctor and Ace discover that the librarians have found a new way of storing data - a wetworks facility - but the machine has attracted unwanted attention, and the Doctor soon finds himself pitted against his oldest and deadliest enemies - the Daleks!</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>How to Make a Killing in Time Travel</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-550-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Ravenous 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Judith Roddy (Stralla Cushing)</dc:creator>
+        <dc:creator opf:role="nrt">Roger May (Cornelius Morningstar / Verdarn)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Lambie (Gorl)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Booker (Dron / Yetana)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Ryan (Macy)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A disturbance in the vortex causes the TARDIS to land on the Scapegrace space station, where Cornelius Morningstar experiments in time-travel for nefarious purposes. But the Doctor’s plan to stop him winds dangerously out of control as the different agendas of criminals, murderers and alien dynasties conspire against him.</dc:description>
+    </metadata>
+</package>

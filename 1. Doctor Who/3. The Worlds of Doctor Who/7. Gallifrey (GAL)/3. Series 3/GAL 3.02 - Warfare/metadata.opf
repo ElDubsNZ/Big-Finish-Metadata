@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Warfare</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2006-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-205-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 3"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Stewart Sheargold</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (Ex-President Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela of the Sevateem)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9 Mk II)</dc:creator>
+        <dc:creator opf:role="nrt">Mary Tamm (Imperiatrix Pandora)</dc:creator>
+        <dc:creator opf:role="nrt">Lynda Bellingham (Inquisitor-Prime Darkel)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (The Sentience)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Coodinator Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Cuckson (Commander Hallan)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Grunert (Surgeon-Master Elbon)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Perring (Lord Matthias)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Ross (Captain Janartis)</dc:creator>
+        <dc:creator opf:role="nrt">Dickon Tolson (Captain Annos)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Chancellor Valyes)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>You shouldn't even exist. You're an anomaly. And we Time Lords stamp them out.' 
+
+The dark days have come again. It's the end for Gallifrey. The most learned civilisation in the universe has come to war. The Capitol is in ruins; pitched battles are an everyday occurrence, futures are being changed. The first Imperiatrix, back from the dead, has stolen power and nothing will stop her ambition.
+
+Except, perhaps, for a small band of opposition who believe that it is time to stop running and fight back. But war demands sacrifice, and to rid Gallifrey of Pandora, Romana's will sacrifice will be great indeed. That is, if she can remember which Romana she actually is. For there is some warfare that is more pervasive than others...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Night Thoughts</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2006-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-167-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="79"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Edward Young</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Olivier (Hex)</dc:creator>
+        <dc:creator opf:role="nrt">Ann Curran (The Deacon)</dc:creator>
+        <dc:creator opf:role="nrt">Lizzie Hopley (Sue)</dc:creator>
+        <dc:creator opf:role="nrt">Duncan Hudd (Joe Hartley)</dc:creator>
+        <dc:creator opf:role="nrt">Bernard Kay (Major Dickens)</dc:creator>
+        <dc:creator opf:role="nrt">Joanna McCallum (The Bursar)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Parsons (Doctor O'Neill)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>I warn you, things could get very nasty here before they get better.' 
+
+A remote Scottish mansion. Five bickering academics are haunted by ghosts from their past. Reluctantly they offer shelter to the Doctor and his companions Ace and Hex.
+
+Hex, already troubled by a vivid nightmare, is further disturbed by the nighttime appearance of a whistling, hooded apparition.
+
+Ace tries to befriend the young housemaid, Sue. Sue knows secrets. She knows why the academics have assembled here, and she knows why they are all so afraid. But Sue's lips are sealed, preferring to communicate through her disturbing toy, Happy the Rabbit.
+
+And then the killing begins. Gruesome deaths that lead the Doctor and his friends to discover the grisly truth behind the academics' plans, and ­ as the ghosts of the past become ghosts of the present ­ to recognise that sometimes death can be preferable to life.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Prints of Denmark</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-592-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - The Second Doctor - Volume 2"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Wendy Padbury (Zoe Heriot)</dc:creator>
+        <dc:creator opf:role="nrt">Rufus Hound (The Monk)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Fairs (The Announcer)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The man Zoe travels through time and space with is a comical little man, eager to make a difference. To make things better. He's a man who loves the Earth, its history, its potential, and is happy to help things along when he can. And now Zoe is the only one standing between him and changing Earth unrecognisably: for The Monk, the play's the thing...</dc:description>
+    </metadata>
+</package>

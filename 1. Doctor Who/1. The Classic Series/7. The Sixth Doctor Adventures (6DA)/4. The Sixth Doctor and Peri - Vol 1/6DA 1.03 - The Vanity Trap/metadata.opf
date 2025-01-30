@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Vanity Trap</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-088-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Sixth Doctor Adventures - Series 1 - The Sixth Doctor and Peri"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Stuart Manning</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Douglas (Myrna Kendal)</dc:creator>
+        <dc:creator opf:role="nrt">Rosie Baker (Carolyn Sue)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Critchlow (Jimmy Garfield)</dc:creator>
+        <dc:creator opf:role="nrt">Ryan Forde Iosco (Dr Karp)</dc:creator>
+        <dc:creator opf:role="nrt">David Sibley (Newsreel Journalist)</dc:creator>
+        <dc:creator opf:role="nrt">George Naylor (Chip)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Myrna Kendal used to be a Hollywood film star. Now she spends her life reminiscing on chat shows but there is always one unfinished film she refuses to talk about... at least until the TARDIS interrupts a TV interview, and the Doctor and Peri’s appearance stirs up long-forgotten memories.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Waters of Amsterdam</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-877-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="208"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Delap (Kyle)</dc:creator>
+        <dc:creator opf:role="nrt">Wayne Forester (Glauber)</dc:creator>
+        <dc:creator opf:role="nrt">Richard James (Rembrandt Van Rijn)</dc:creator>
+        <dc:creator opf:role="nrt">Elizabeth Morton (Teldak)</dc:creator>
+        <dc:creator opf:role="nrt">Robbie Stevens (Polsbrook / Nix)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Reunited with the Doctor and Nyssa, Tegan joins them on a trip to Amsterdam's Rijkmuseum to see a new exhibition of the work of Rembrandt van Rijn, featuring his drawings of “Vessels of the Stars”. The Doctor is astonished to discover that they are designs for spaceships that would actually work, and decides to pop back to the Dutch Golden Age for a quiet word with Rembrandt – but the world-weary artist is no mood to help.
+
+Meanwhile, strange forces are swirling in the canals, creatures from ancient myth, the watery, goblin-like Nix. What is their connection to the mysterious Countess Mach-Teldak – and to the events of Tegan’s life during her year away from the Doctor?</dc:description>
+    </metadata>
+</package>

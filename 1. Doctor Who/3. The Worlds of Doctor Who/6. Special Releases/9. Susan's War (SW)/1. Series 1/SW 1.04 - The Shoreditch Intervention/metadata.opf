@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Shoreditch Intervention</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-223-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Susan's War - Series 1"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Carole Ann Ford (Susan)</dc:creator>
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Becky Wright (Alex / Lehena)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Mahy (JP / Rocker 2)</dc:creator>
+        <dc:creator opf:role="nrt">Louis Davison (Franko / Policeman)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks / Fyodor / Rocker 1)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When Susan's TARDIS is intercepted, she is given a highly classified mission. 
+
+Earth, 1963 is a nexus point in the Time War, but the timelines must be negotiated carefully. Mods and rockers are not the only dangers on the streets of Shoreditch. 
+
+In Susan's past, the Daleks are waiting. But so is the Doctor!</dc:description>
+    </metadata>
+</package>

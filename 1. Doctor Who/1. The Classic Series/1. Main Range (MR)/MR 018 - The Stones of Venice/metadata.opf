@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Stones of Venice</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2001-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-425-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="18"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Magrs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Pietro)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Gatiss (Vincenzo)</dc:creator>
+        <dc:creator opf:role="nrt">Elaine Ives-Cameron (Ms Lavish / Estella)</dc:creator>
+        <dc:creator opf:role="nrt">Nick Scovell (Churchwell)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Sheard (Orsino)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and Charley decide to take a well-deserved break from the monotony of being chased, shot at and generally suffering anti-social behaviour at the hands of others. And so they end up in Venice, well into Charley's future, as the great city prepares to sink beneath the water for the last time...
+
+Which would be a momentous, if rather dispiriting, event to witness in itself. However, the machinations of a love-sick aristocrat, a proud art historian and a rabid High Priest of a really quite dodgy cult combine to make Venice's swansong a night to remember. And then there's the rebellion by the web-footed amphibious underclass, the mystery of a disappearing corpse and the truth behind a curse going back further than curses usually do. The Doctor and Charley are forced to wonder just what they have got themselves involved with this time...</dc:description>
+    </metadata>
+</package>

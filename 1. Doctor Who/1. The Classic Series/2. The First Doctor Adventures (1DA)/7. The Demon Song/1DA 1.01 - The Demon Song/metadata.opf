@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Demon Song</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-876-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The First Doctor Adventures - Volume 7 - The Demon Song"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Bob Ayres</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Stephen Noonan (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lauren Cornelius (Dodo Chaplet)</dc:creator>
+        <dc:creator opf:role="nrt">Henry Nott (Daniel De'ath)</dc:creator>
+        <dc:creator opf:role="nrt">Bhavnisha Parmar (Archana Pawar)</dc:creator>
+        <dc:creator opf:role="nrt">George Fletcher (Paul Carter)</dc:creator>
+        <dc:creator opf:role="nrt">Antoinette Tagoe (Grace Adichie)</dc:creator>
+        <dc:creator opf:role="nrt">Rosie Baker (Helen Fletcher / Station Announcer / Passerby)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Managing to land the TARDIS in Dodo’s far flung future, the 2020s, the Doctor detects a haunting melody on the streets of Camden. People are going missing, and one of them is Dodo!</dc:description>
+    </metadata>
+</package>

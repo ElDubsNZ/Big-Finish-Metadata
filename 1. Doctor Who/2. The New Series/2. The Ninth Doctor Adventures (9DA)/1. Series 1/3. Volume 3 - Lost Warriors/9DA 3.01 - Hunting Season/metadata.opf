@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Hunting Season</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-344-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Ninth Doctor Adventures - Series 1 - Volume 3 - Lost Warriors"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Kettle</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Eccleston (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Jennings (Lord Hawthorn)</dc:creator>
+        <dc:creator opf:role="nrt">Allegra Marland (Isabel Hawthorn)</dc:creator>
+        <dc:creator opf:role="nrt">Don Gilet (Streatham / Fleshkin 2)</dc:creator>
+        <dc:creator opf:role="nrt">Annette Badland (Mrs Goose / Fleshkin 3)</dc:creator>
+        <dc:creator opf:role="nrt">Tilly Steele (Alice / Fleshkin 1)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Duberry Hall is under siege, as aliens maraud through the estate. It’s a frightful business, and as Lord Hawthorn battles the Fleshkin, the Doctor finds new friends below stairs. Can he convince the household to unite to save itself?</dc:description>
+    </metadata>
+</package>

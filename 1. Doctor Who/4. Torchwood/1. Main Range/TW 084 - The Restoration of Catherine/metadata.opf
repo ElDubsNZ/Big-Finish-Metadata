@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Restoration of Catherine</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-040-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="84"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Price (Andy Davidson)</dc:creator>
+        <dc:creator opf:role="nrt">Samuel Barnett (Norton Folgate)</dc:creator>
+        <dc:creator opf:role="nrt">Ebony Jonelle (Catherine de Winter)</dc:creator>
+        <dc:creator opf:role="nrt">Shai Matheson (Sir Reginald Hardgoing)</dc:creator>
+        <dc:creator opf:role="nrt">George Naylor (Squire Edmund Dashington)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Sergeant Andy and duplicitous 1950s Torchwood agent Norton Folgate find themselves trapped inside a house in the seventeenth century. 
+
+Can they arrange a wedding before all of time collapses?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Love Vampires</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-754-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Connections"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Kettle</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Hattie Morahan (Helen Sinclair)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Zubairi (Three / Petko)</dc:creator>
+        <dc:creator opf:role="nrt">Holly Jackson Walters (Fifteen / Jean)</dc:creator>
+        <dc:creator opf:role="nrt">Daon Broni (Twenty-One / State)</dc:creator>
+        <dc:creator opf:role="nrt">Paksie Vernon (The Realist / Rica)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Regret can follow people everywhere - even out into deep space, in the shadow of a dying star.
+
+When the Doctor, Liv and Helen meet the terrified crew of a space station, all are haunted by faces from the past. But these lost loves are more than mere memories - and they want to feed...</dc:description>
+    </metadata>
+</package>

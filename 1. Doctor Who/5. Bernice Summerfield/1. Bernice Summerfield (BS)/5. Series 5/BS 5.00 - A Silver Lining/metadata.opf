@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Silver Lining</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2004-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">n/a</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 5"/>
+        <meta name="calibre:series_index" content="0"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Colin Brake</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Lynton Jellis / The Cybermen)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Bernice Summerfield, archaeologist, adventurer and all-round trouble-magnet is asked to investigate the remains of an ancient civilisation.
+
+As she digs deeper into the mystery, Benny discovers that Tysir IV is not quite as dead as she'd been told...</dc:description>
+    </metadata>
+</package>

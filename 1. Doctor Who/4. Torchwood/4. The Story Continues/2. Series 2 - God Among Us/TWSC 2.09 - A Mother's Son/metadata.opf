@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>A Mother's Son</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-646-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - She Story Continues - Series 2 - God Among Us - Part 3"/>
+        <meta name="calibre:series_index" content="9"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alexandria Riley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Barrowman (Captain Jack Harkness)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy-Ann Oberman (Yvonne Hartman)</dc:creator>
+        <dc:creator opf:role="nrt">Samantha Béart (Orr)</dc:creator>
+        <dc:creator opf:role="nrt">Jonny Green (Tyler Steele)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Price (Andy Davidson)</dc:creator>
+        <dc:creator opf:role="nrt">Ramon Tikaram (Colin Colchester-Price)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline King (God)</dc:creator>
+        <dc:creator opf:role="nrt">Mina Anwar (Bethan Foster)</dc:creator>
+        <dc:creator opf:role="nrt">Tariq Ali (Lead Counsel)</dc:creator>
+        <dc:creator opf:role="nrt">Elian West (Louise)</dc:creator>
+        <dc:creator opf:role="nrt">Aaron Anthony (Anthony)</dc:creator>
+        <dc:creator opf:role="nrt">Francois Pandolfo (News Researcher)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Cardiff has suffered a catastrophic flood. Dozens are still missing. Survivors fill camps across the city. An inquiry has been set up to find out what happened. Bethan's come to the city looking for answers. Her son is among the missing, and no-one seems to want to help her find him. It's starting to look like there's a cover-up. What is Torchwood? Can it really be behind it?</dc:description>
+    </metadata>
+</package>

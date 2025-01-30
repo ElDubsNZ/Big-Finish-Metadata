@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Harvest of the Sycorax</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-946-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - Classic Doctors, New Monsters - Series 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nisha Nayar (Zanzibar)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Firth (Cadwallader)</dc:creator>
+        <dc:creator opf:role="nrt">Rebecca Callard (Shadrak)</dc:creator>
+        <dc:creator opf:role="nrt">Giles Watling (The Sycorax Chief)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Deacon (Eshak)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In the far future, humanity has a remedy for everything. Whatever the problem, Pharma Corps has the answer and a designer disease tailored to every human's blood-type. Zanzibar Hashtag has no need to be sad, scared, stressed, or depressed ever again. 
+
+That is, until vicious aliens arrive on her space station intent on opening its Vault. What will it mean for the human race if the Sycorax take control of what's inside? 
+
+And when the Seventh Doctor arrives on the scene, can he convince Zanzibar to care about her life long enough to help him?</dc:description>
+    </metadata>
+</package>

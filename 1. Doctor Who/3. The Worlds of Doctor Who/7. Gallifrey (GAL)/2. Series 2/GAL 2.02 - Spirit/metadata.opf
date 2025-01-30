@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Spirit</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2005-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-122-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 2"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Stephen Cole</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (President Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Lynda Bellingham (Inquistor Prime Darkel)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Coodinator Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Cuckson (Commander Hallan)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Cardinal Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">Heather Tracy (Melyin)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Leela is tired. Tired of the backbiting politics and intrigues in the sterile society of Time Lords. With the fate of her husband now known, she feels lonely and out of place on Gallifrey.
+
+Romana is tired. Tired of justifying herself and her policies to a hostile council. With the line between allies and enemies beginning to blur, she persuades Leela to go with her to the presidential retreat of Davidia, a protected paradise.
+
+Then an anomalous time ship arrives, carrying a single passenger. His hands are crushed, his tongue torn out, his mind destroyed. Is this broken man a victim of some terrible crime or part of a trap now primed and ready to spring? After this strange encounter, Romana and Leela may never be the same again.</dc:description>
+    </metadata>
+</package>

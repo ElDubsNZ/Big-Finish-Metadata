@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Cryptobiosis</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2006-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-164-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Sixth Doctor Adventures - Specials"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Elliot Thorpe</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Tony Beck (Chief Mate De Requin)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Cuckson (Captain Callany)</dc:creator>
+        <dc:creator opf:role="nrt">Billy Miller (Nerus)</dc:creator>
+        <dc:creator opf:role="nrt">Naomi Paxton (Amy)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>There's a ship out there, on the ocean.
+
+She's called Lankester and, every year, she sails from Madagascar to New Orleans and back again. Every year. Without exception. Regular as clockwork.
+  
+Her schedule is never behind. Her cargo is always fresh.
+  
+This trip, she has passengers. The passengers have baggage.
+  
+And the baggage might just be enough to sink her...</dc:description>
+    </metadata>
+</package>

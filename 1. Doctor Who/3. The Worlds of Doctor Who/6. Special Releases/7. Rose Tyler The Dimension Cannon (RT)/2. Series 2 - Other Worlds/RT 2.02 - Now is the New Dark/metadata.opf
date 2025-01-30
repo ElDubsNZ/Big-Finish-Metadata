@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Now is the New Dark</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-905-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Rose Tyler - The Dimension Cannon - Series 2 - Other Worlds"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">AK Benedict</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Billie Piper (Rose Tyler)</dc:creator>
+        <dc:creator opf:role="nrt">Camille Coduri (Jackie Tyler / Alternate Jackie)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Benton (Clive Finch)</dc:creator>
+        <dc:creator opf:role="nrt">Hywel Morgan (Dr Richard Acres)</dc:creator>
+        <dc:creator opf:role="nrt">Victoria Jeffrey (Assessor / Mistress Spinner)</dc:creator>
+        <dc:creator opf:role="nrt">John Rayment (Archibald / Town Crier)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On an Earth where science never advanced from the Dark Ages, Rose and Clive find themselves under suspicion. 
+
+Someone is killing the Melancholics, but apparently there's a Doctor here who can help...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Two Irises</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-368-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Iris Wildthyme - Series 2"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Katy Manning (Iris Wildthyme)</dc:creator>
+        <dc:creator opf:role="nrt">David Benson (Panda)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Hogarth (Iris Wildthyme)</dc:creator>
+        <dc:creator opf:role="nrt">John Dorney (Roger the Naxian)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Handcock (Barry)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Iris is dead: to begin with. There is no doubt whatever about that. She sacrificed herself to save her best friend, Panda, then exploded inside her time-travelling bus. 
+
+On Earth in the year 2108, the North Bloc and the South Bloc teeter on the edge of terrible nuclear war. The fate of the whole world rests on a not-very-good disco in Spain. One run by the dastardly alien Naxians... 
+
+Iris Wildthyme is as dead as a doornail. But her new incarnation is going to have to get stuck in. Poor bloke doesn't stand a chance.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Bellova Devil</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-494-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jago & Litefoot - Series 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Baxter (George Litefoot)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Ellie Higson / Mrs Sofia)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Asquith (Sergeant Quick)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Longworth (Doctor Tulp)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Thorne (The Club Secretary)</dc:creator>
+        <dc:creator opf:role="nrt">Duncan Wisbey (Dr. Ormond Sacker / Bulgar)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Silverleaf (Reginald Colville / Resurrection Joe)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Mallinson (The Manchester Mangler)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A body is found on the Circle Line, wearing full dress uniform. It as identified as Reginald Colville — a man who was certified dead some six weeks ago! In an attempt to solve the mystery Jago and Litefoot become unwilling bodysnatchers... And thus begins a chain of events that will pit them against killer Bulgars and the mysterious machinations of The Far-Off Travellers Club...</dc:description>
+    </metadata>
+</package>

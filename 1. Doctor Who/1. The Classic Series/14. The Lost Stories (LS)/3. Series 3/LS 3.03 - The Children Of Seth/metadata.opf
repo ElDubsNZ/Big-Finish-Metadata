@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Children Of Seth</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-575-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 3"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Christopher Bailey</dc:creator>
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Matt Addis (Albis)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Radulf Varidi)</dc:creator>
+        <dc:creator opf:role="nrt">Honor Blackman (Anahita)</dc:creator>
+        <dc:creator opf:role="nrt">Vernon Dobtcheff (Shamur)</dc:creator>
+        <dc:creator opf:role="nrt">Adrian Lukis (Byzan)</dc:creator>
+        <dc:creator opf:role="nrt">Emerald O'Hanrahan (Mira)</dc:creator>
+        <dc:creator opf:role="nrt">David Warner (Siris)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>During one of Nyssa’s experiments, the TARDIS’s temporal scanner picks up a message: ‘Idra’. Just one word, but enough to draw the Doctor to the Archipelago of Sirius.
+
+ There, the Autarch is about to announce a new crusade. A mighty war against Seth, Prince of the Dark...
+
+ But who is Seth? What is the secret of Queen Anahita, Mistress of the Poisons? And what terror awaits on Level 14?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Sword of the Chevalier</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-371-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Tenth Doctor Adventures - Series 2"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Tennant (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Billie Piper (Rose Tyler)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Briggs-Owen (Hempel / Dancer / Duchess)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Elstob (Joxer / Butler)</dc:creator>
+        <dc:creator opf:role="nrt">Nickolas Grace (Chevalier D'Eon)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Darcy / Groom)</dc:creator>
+        <dc:creator opf:role="nrt">Tam Williams (Christopher Dalliard)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>1791 and the Doctor and Rose get to meet one of the most enigmatic, thrilling and important people in history: The Chevalier d’Eon. She used to be known as a spy, but then she used to be known as a lot of things. If there’s one thing the Doctor knows it’s that identity is what you make it. Choose a life for yourself and be proud. Mind you, if the Consortium of the Obsidian Asp get their way, all lives may soon be over...</dc:description>
+    </metadata>
+</package>

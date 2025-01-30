@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Passenger</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-835-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 12 - War Room 1 - Allegiance"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Llewellyn</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Carolyn Pickles (Cardinal Ollistra)</dc:creator>
+        <dc:creator opf:role="nrt">Ken Bones (The General)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Jarman (Cardinal Rasmus)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Rowe (Cato Kelgoth)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Commander Veklin)</dc:creator>
+        <dc:creator opf:role="nrt">Corrinne Wicks (Lady Vibax / Gilla)</dc:creator>
+        <dc:creator opf:role="nrt">Charlotte Harris (Guard / Archivist / Phaedra)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Cardinal Rasmus arrives in the War Room and vies for control with Ollistra. But first, they have a mystery to solve: a sole survivor from a Dalek attack has returned home - but is he a hero, or a threat?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Battle</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-104-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Graceless - Series 3"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Ciara Janson (Abby)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Doddington (Zara)</dc:creator>
+        <dc:creator opf:role="nrt">Geraldine James (Chi)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Chipping (Burtnoth)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Coen (Olaf)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Archive)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"What is it — history? What are you looking at when you study it?" 
+
+Ninth of August, 991 AD. Abby and Zara are on the Essex coast in the rain, searching for a man they loved and lost. 
+
+The local people are terrified of the savage pirates waiting just across the water. The bold and brave local earl is ready to wage battle to free his people from such fear. 
+
+After all they've been through, Abby and Zara only want to help. But future history has already been written. They're about to find out how much more they can still lose...</dc:description>
+    </metadata>
+</package>

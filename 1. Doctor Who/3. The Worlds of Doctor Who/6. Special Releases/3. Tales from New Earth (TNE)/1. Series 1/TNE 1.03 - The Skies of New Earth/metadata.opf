@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Skies of New Earth</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-395-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Tales from New Earth"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Kieran Hodgson (Devon Pryce)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Hadoke (Oscar McLeod)</dc:creator>
+        <dc:creator opf:role="nrt">Nina Toussaint-White (Loba Christata)</dc:creator>
+        <dc:creator opf:role="nrt">Julian Rhind-Tutt (Berkhoff)</dc:creator>
+        <dc:creator opf:role="nrt">Suzy Bloom (Katya)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Devon's work takes him into the skies of New Earth and the great floating city of New Caelum. 
+
+Here, a new energy project is exploited by alien powers, and a terrible catastrophe looms. Helped once again by the Doctor, Devon calls on the Bird People of Nest City, as well as the great Solar Bears on their Ice Clouds to stop disaster. 
+
+But can the people of the skies put aside their rivalries long enough to make a difference?</dc:description>
+    </metadata>
+</package>

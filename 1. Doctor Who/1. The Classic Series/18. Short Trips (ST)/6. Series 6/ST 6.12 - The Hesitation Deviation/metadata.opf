@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Hesitation Deviation</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 6"/>
+        <meta name="calibre:series_index" content="12"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor brings Bernice Summerfield to a planet where they get Christmas just right. But this year, something's gone very wrong. An ancient force has been hunting the Doctor for a long time, and finally, it has found him. As it closes in on the Time Lord, Bernice must make a truly terrible decision. One that she'll immediately forget.</dc:description>
+    </metadata>
+</package>

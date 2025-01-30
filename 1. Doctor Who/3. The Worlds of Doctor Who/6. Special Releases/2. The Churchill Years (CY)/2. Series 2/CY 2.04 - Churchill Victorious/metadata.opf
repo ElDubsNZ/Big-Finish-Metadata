@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Churchill Victorious</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-429-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Churchill Years - Volume 2"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Khan</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Ian McNeice (Winston Churchill)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Asbury (Visguard/Captain Morgan/Special Branch Officer)</dc:creator>
+        <dc:creator opf:role="nrt">Alisdair Simpson (Sidney Wheeler/Field Marshal Brooke)</dc:creator>
+        <dc:creator opf:role="nrt">Susan Tracy (Diane Wheeler/Miss Cunningham)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Chandler (Corporal Arthur Dimes)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>VE Day, 1945. The war is over. The PM has seen the crowds and made his speech. Now he wishes to soak up the atmosphere, moving incognito among his fellow countrymen. But an alien interloper lurks in a backstreet tavern, and 'William Churchyard' must lead a few plucky Londoners into one more fight. The Doctor is in trouble, and at the time of his greatest victory, Churchill also faces his greatest danger...</dc:description>
+    </metadata>
+</package>

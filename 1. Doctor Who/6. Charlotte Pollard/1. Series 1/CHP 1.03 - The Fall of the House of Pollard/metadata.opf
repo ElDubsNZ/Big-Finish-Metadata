@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Fall of the House of Pollard</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-612-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Charlotte Pollard - Series 1"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Terrence Hardiman (Lord Richard Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Anneke Wills (Lady Louisa Pollard/Viyran)</dc:creator>
+        <dc:creator opf:role="nrt">David Dobson (Michael Dee)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Norfolk (Violet Warren/Viyran)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On the night the R101 airship went down, Louisa Pollard lost a husband as well as a daughter. Lord Richard Pollard has been a reclusive shadow of his former self ever since, unable to face the loss of his dear Charlotte. 
+
+With their fortunes in a downward spiral and the country estate up for sale, the Pollards retreat to their London townhouse, cared for by their one remaining servant, Mrs Warren. When psychic medium Michael Dee claims to bring a message from Charlotte, a desperate Louisa overcomes her scepticism in the hopes it will bring closure for Richard. 
+
+But as they try to make contact with Charlotte, no one can imagine what is about to cross over into their world from beyond the veil...</dc:description>
+    </metadata>
+</package>

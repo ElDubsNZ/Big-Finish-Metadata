@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Last Beacon</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-247-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="20"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Gareth David-Lloyd</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Gareth David-Lloyd (Ianto Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Burn Gorman (Owen Harper)</dc:creator>
+        <dc:creator opf:role="nrt">Ellie Darvill (Pat)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Hawksford (Bryn)</dc:creator>
+        <dc:creator opf:role="nrt">Rick Yale (Bashy)</dc:creator>
+        <dc:creator opf:role="nrt">Luke Williams (Brogan)</dc:creator>
+        <dc:creator opf:role="nrt">Charlotte O'Leary (Kerys)</dc:creator>
+        <dc:creator opf:role="nrt">Kristy Philipps (Jemma)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Dalgleish (Receptionist)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Elfyn (Ryan)</dc:creator>
+        <dc:creator opf:role="nrt">Marilyn Le Conte (Ianto's Nan)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A signal in a Welsh mountain is calling an ancient battlefleet to Earth. Owen Harper and Ianto Jones head up into the Brecons to stop it. 
+
+The problem is - Ianto really loves camping.</dc:description>
+    </metadata>
+</package>

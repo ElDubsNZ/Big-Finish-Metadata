@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Renaissance Man</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-613-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Justin Richards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Ian McNeice (Harcourt)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth Armstrong (Jephson)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Howell (Christopher Manners)</dc:creator>
+        <dc:creator opf:role="nrt">Daisy Ashford (Lizzie Harcourt)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Molyneux (Beryl / Professor Hilda Lutterthwaite)</dc:creator>
+        <dc:creator opf:role="nrt">John Dorney (Dr. Henry Carnforth)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>To continue Leela’s education, the Doctor promises to take her to the famous Morovanian Museum. But the TARDIS lands instead in a quiet English village, where they meet the enigmatic collector Harcourt and his family.
+
+When people start to die, reality doesn’t appear quite what it was. There’s something sinister going on within the walls of Harcourt’s manor, and the stakes are higher than they can imagine.
+
+The Doctor is about to discover that a little knowledge can be a dangerous thing.</dc:description>
+    </metadata>
+</package>

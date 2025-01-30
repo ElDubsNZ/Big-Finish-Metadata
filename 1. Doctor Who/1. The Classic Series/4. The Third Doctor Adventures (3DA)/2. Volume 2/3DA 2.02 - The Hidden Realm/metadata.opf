@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Hidden Realm</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-750-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Third Doctor Adventures - Volume 2"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Llewellyn</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tim Treloar (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Katy Manning (Jo Grant)</dc:creator>
+        <dc:creator opf:role="nrt">Clare Buckfield (Stephanie Andrews)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Whitelock (Peter Andrews)</dc:creator>
+        <dc:creator opf:role="nrt">Sandra Voe (Barnett)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Earl (DCI Finch)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Lanipekun (DS Joseph)</dc:creator>
+        <dc:creator opf:role="nrt">George Asprey (Overseer Zim)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and Jo journey to Bramfield New Town when the husband of Jo’s cousin vanishes mysteriously. As magpies circle overheard, the Doctor discovers a terrifying alien plot…</dc:description>
+    </metadata>
+</package>

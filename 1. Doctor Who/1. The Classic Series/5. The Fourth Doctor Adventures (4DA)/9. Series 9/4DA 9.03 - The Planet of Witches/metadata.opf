@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Planet of Witches</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 9"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Waterhouse (Adric)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">Samuel Blenkin (Tanhar)</dc:creator>
+        <dc:creator opf:role="nrt">Samuel Clemens (Yggra / Tiresias / Familiars)</dc:creator>
+        <dc:creator opf:role="nrt">Lauren Cornelius (Anjlis)</dc:creator>
+        <dc:creator opf:role="nrt">Abigail McKern (Crone / Moirai)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Simkins (Raxxil)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Whilst attempting a detailed scan of E-Space, K9 detects the trail of a large spacecraft. Seeking a lead for their escape, the Doctor sets out on its trail towards a misty yellow planet.
+
+Arriving just in time to witness a crash-landing in the planet’s swamps, the Doctor and his crew discover a number of escaping prisoners fleeing from someone claiming to be a Witchfinder... whilst terrifying ‘familiars’ float around them.
+
+For this is the planet of the witches... and the witches may just know the way home.</dc:description>
+    </metadata>
+</package>

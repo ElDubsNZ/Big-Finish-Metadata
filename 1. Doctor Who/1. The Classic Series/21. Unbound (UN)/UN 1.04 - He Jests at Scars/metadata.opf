@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>He Jests at Scars...</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2003-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-016-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Unbound"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Gary Russell</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Michael Jayston (The Valeyard)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Melanie Bush)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Donovan (Gerrof)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Keetch (Vansell)</dc:creator>
+        <dc:creator opf:role="nrt">Jane MacFarlane (Nula)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Preece (The President)</dc:creator>
+        <dc:creator opf:role="nrt">Juliet Warner (Ellie Martin)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>What if... the Valeyard had won?
+
+The thing about meddling with time is that one moment something is real, the next, it's been erased. Probability becomes just a possibility. Established truth becomes a theoretical falsehood. Like dominoes, as one timeline falls, the others come cascading down around it. You can engineer new timelines, new possibilities but before long, the distinction between what is, what was, what might be and what never can be becomes blurred.
+
+Out of this grow myths, lies and legends. The Doctor was one such legend, but no one knows whether he truly ever existed. Well, not now they don't. The Mighty One, ruling the multiverses from the eternal city of Chronopolis has made sure of that.</dc:description>
+    </metadata>
+</package>

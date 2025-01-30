@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Muse of Fire</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-839-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="245"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Magrs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Olivier (Hex)</dc:creator>
+        <dc:creator opf:role="nrt">Katy Manning (Iris Wildthyme)</dc:creator>
+        <dc:creator opf:role="nrt">Gethin Anthony (Kevin Archer / Dali)</dc:creator>
+        <dc:creator opf:role="nrt">David Benson (Panda)</dc:creator>
+        <dc:creator opf:role="nrt">Christine Kavanagh (Dora Muse)</dc:creator>
+        <dc:creator opf:role="nrt">Rebecca La Chance (Isabel Archer)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Oooh la la! It's been a long time coming, but the Doctor is about to be reunited with Iris Wildthyme! They're both in 1920s Paris and everyone's flocking to Iris's salon.
+
+But wait...! What's that noise..? Thud thud thud...! It's the soft, approaching feet of a small and acerbic Art Critic Panda...!</dc:description>
+    </metadata>
+</package>

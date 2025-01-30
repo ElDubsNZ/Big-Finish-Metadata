@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Who Am I?</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-845-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Doctor of War - Series 2 - Destiny"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nigel Fairs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Warrior / Xoanon 1)</dc:creator>
+        <dc:creator opf:role="nrt">Geoffrey Beevers (The Master / Xoanon 3)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Hurd-Wood (Jabel / Sole)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Jason Forbes (Gentek / Tomas / Captain)</dc:creator>
+        <dc:creator opf:role="nrt">Deeivya Meir (Xoanon 2 / Parama / Targra)</dc:creator>
+        <dc:creator opf:role="nrt">Alisdair Simpson (Andor / Mannig)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Tesh and the Sevateem are at war, obeying the orders of their God Xoanon. But they cannot know their battle has a higher purpose, one led by the Time Lord responsible for Xoanon's condition. A Time Lord called... the Master. </dc:description>
+    </metadata>
+</package>

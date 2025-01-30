@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Another Man's Shoes</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-644-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - She Story Continues - Series 2 - God Among Us - Part 2"/>
+        <meta name="calibre:series_index" content="7"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Barrowman (Captain Jack Harkness)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy-Ann Oberman (Yvonne Hartman)</dc:creator>
+        <dc:creator opf:role="nrt">Alexandria Riley (Ng)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Clayton (Mr Colchester)</dc:creator>
+        <dc:creator opf:role="nrt">Jonny Green (Tyler Steele)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Price (Andy Davidson)</dc:creator>
+        <dc:creator opf:role="nrt">Samuel Barnett (Norton Folgate)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline King (God)</dc:creator>
+        <dc:creator opf:role="nrt">David Warner (The Committee)</dc:creator>
+        <dc:creator opf:role="nrt">Ramon Tikaram (Colin Colchester-Price)</dc:creator>
+        <dc:creator opf:role="nrt">Ché Francis (Jay)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Henderson (Waiter)</dc:creator>
+        <dc:creator opf:role="nrt">Rakie Ayola (Andrea Davenport)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Yvonne wakes up in Andy's body - and both have difficult days ahead of them. 
+
+Meanwhile, Norton's making himself very much at home in Tyler's body, much to Tyler's alarm, and Ng is worried she knows what's going on. 
+
+Someone's playing a terrible trick on Torchwood. But who will win?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Silver Medal</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-242-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Year of Martha Jones"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Freema Agyeman (Martha Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Adjoa Andoh (Francine Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Serin Ibrahim (Holly)</dc:creator>
+        <dc:creator opf:role="nrt">Lorelei King (Jessie)</dc:creator>
+        <dc:creator opf:role="nrt">Judith Chandler (Marion)</dc:creator>
+        <dc:creator opf:role="nrt">Ronan Summers (Dustin / Jimmy)</dc:creator>
+        <dc:creator opf:role="nrt">Ellie Darvill (Baby Lizzie)</dc:creator>
+        <dc:creator opf:role="nrt">Lizzie Hopley (Camper)</dc:creator>
+        <dc:creator opf:role="nrt">Clare Louise Connolly (Toclafane)</dc:creator>
+        <dc:creator opf:role="nrt">Julie Graham (Miss Beecham)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Martha journeys to a forest camp, hidden from Toclafane patrols. It's somewhere she's been before with the Doctor, more than a century ago - where the silver mines held a deadly secret. 
+
+The resistance are ready to risk everything, but there'll be no prize for second place.</dc:description>
+    </metadata>
+</package>

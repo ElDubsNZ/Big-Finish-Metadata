@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Vardan Invasion of Mirth</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-590-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - The First Doctor - Volume 3"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Purves (Steven / The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Critchlow (Teddy Baxter / Michael Hart)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and Steven think they've arrived in London 1956, but the TARDIS disagrees. When both the Doctor and his craft are lost, it's down to Steven to solve a mystery that holds his fate in its grasp. With the help of comic Teddy Baxter, Steven's going to have to find a way into Television...</dc:description>
+    </metadata>
+</package>

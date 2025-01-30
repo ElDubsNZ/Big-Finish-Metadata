@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Crime of the Century</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-491-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 2"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andrew Cartmel</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Raine)</dc:creator>
+        <dc:creator opf:role="nrt">Ricky Groves (Markus Creevy)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Carlyle (Nikitin)</dc:creator>
+        <dc:creator opf:role="nrt">John Albasiny (Colonel Felnikov)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Metatraxi)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Porter (Prince Sayf Udeen)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The year is 1989. In London, safe cracker Raine Creevy breaks into a house — and finds more than the family jewels. 
+
+In the Middle East, the kingdom of Sayf Udeen is being terrorised by Soviet invaders and alien monsters. 
+
+And on the Scottish border, a highly guarded facility contains an advanced alien weapon. 
+
+These are all part of the Doctor's masterplan. But masterplans can go awry...</dc:description>
+    </metadata>
+</package>

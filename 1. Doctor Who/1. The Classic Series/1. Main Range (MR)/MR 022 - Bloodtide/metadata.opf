@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Bloodtide</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2001-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-432-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="22"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Stables (Evelyn Smythe)</dc:creator>
+        <dc:creator opf:role="nrt">Jez Fielder (Emilio / Lokan)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Goddard (Greta)</dc:creator>
+        <dc:creator opf:role="nrt">Helen Goldwyn (Sh'vak)</dc:creator>
+        <dc:creator opf:role="nrt">Julian Harries (Governor Lawson)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Hogarth (Tulok)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Charles Darwin)</dc:creator>
+        <dc:creator opf:role="nrt">George Telfer (Captain Fitzroy)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The prehistoric Earth is dying. Thunderclouds roll across the skies, cloaking the land in darkness. The seas crash and boil as the rain turns to acid. The remnants of the Silurian race place themselves in suspended animation, deep below the surface.
+
+One day they will awaken and reclaim their world…
+
+The TARDIS has landed on the Galapagos Islands, a desolate outcrop of rocks shrouded in mist and fear. In the settlement of Baquerizo Moreno, there are rumours that prisoners have been mysteriously disappearing from the gaolhouse. A fisherman has been driven insane by something he saw in the caves. And the Doctor and Evelyn are not the only new arrivals; there is also a young natural philosopher by the name of Charles Darwin…</dc:description>
+    </metadata>
+</package>

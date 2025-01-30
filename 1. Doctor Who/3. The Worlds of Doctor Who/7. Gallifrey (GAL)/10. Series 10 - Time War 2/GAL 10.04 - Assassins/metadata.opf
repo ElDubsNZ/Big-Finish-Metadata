@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Assassins</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-561-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 10 - Time War 2"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Terrence Hardiman (Rassilon)</dc:creator>
+        <dc:creator opf:role="nrt">Pippa Bennett-Warner (Livia)</dc:creator>
+        <dc:creator opf:role="nrt">Samuel Clemens (Mantus)</dc:creator>
+        <dc:creator opf:role="nrt">Rebecca Root (Cantico)</dc:creator>
+        <dc:creator opf:role="nrt">Silas Carson (The Sicari)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Pushed to the brink by Rassilon's actions, Romana is thinking the unthinkable. 
+
+A new threat has breached Gallifrey's defences. And its target is clear. A race of assassins has evolved at the heart of the Time War, dedicated to one purpose. The Sicari are coming for Rassilon...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>A Storm of Angels</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2005-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-093-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Unbound"/>
+        <meta name="calibre:series_index" content="7"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Geoffrey Bayldon (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Carole Ann Ford (Susan)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Brooker (Shewstone / Bosun)</dc:creator>
+        <dc:creator opf:role="nrt">Kate Brown (Queen Elizabeth)</dc:creator>
+        <dc:creator opf:role="nrt">Ivor Danvers (Doctor John Dee)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Deal (Anthony Fettiplace)</dc:creator>
+        <dc:creator opf:role="nrt">Shiv Grewal (Mr Raju)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Hallard (Zeuro)</dc:creator>
+        <dc:creator opf:role="nrt">Cameron Stewart (Francis Drake)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>What if... the Doctor really had changed History, even just the tiniest bit?
+
+1480: Leonardo da Vinci visits the stars.
+ 1508: Vasco da Gama sets foot on Mars.
+ 1585: Francis Drake begins charting the Asteroid Belt.
+ 1588: Earth is destroyed by a storm of angels.
+
+The Doctor was really enjoying his freedom. But now there’s a Temporal Agent on his tail. Gloriana and the President of Gallifrey are not amused. And Susan’s none too well either.
+
+Possibilities, like the Doctor, have a habit of running away with themselves. But who cares, when the jewels are so dazzling…</dc:description>
+    </metadata>
+</package>

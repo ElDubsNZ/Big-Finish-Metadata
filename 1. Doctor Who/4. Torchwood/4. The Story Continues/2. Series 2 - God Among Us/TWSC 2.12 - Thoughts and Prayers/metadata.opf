@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Thoughts and Prayers</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-646-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - She Story Continues - Series 2 - God Among Us - Part 3"/>
+        <meta name="calibre:series_index" content="12"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Barrowman (Captain Jack Harkness)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy-Ann Oberman (Yvonne Hartman)</dc:creator>
+        <dc:creator opf:role="nrt">Alexandria Riley (Ng)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Clayton (Mr Colchester)</dc:creator>
+        <dc:creator opf:role="nrt">Samantha Béart (Orr)</dc:creator>
+        <dc:creator opf:role="nrt">Jonny Green (Tyler Steele)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Price (Andy Davidson)</dc:creator>
+        <dc:creator opf:role="nrt">Ramon Tikaram (Colin Colchester-Price)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline King (God)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Cardiff lies broken. Torchwood's leaders are either arrested or dead. In a storage unit something forgotten has been reborn. And underneath the city, a terrible impossibility has been built. 
+
+The streets are filled with the prayers of the desperate. Because everyone knows - The end of the world is nigh.</dc:description>
+    </metadata>
+</package>

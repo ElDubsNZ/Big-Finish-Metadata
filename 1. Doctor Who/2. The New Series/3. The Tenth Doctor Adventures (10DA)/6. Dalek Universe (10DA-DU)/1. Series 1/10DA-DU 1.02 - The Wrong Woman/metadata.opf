@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Wrong Woman</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-356-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Tenth Doctor Adventures - Dalek Universe 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Tennant (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Anya Kingdom)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Sims (Mark Seven)</dc:creator>
+        <dc:creator opf:role="nrt">Juliet Aubrey (Esther Malkin)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Gatiss (George Sheldrake)</dc:creator>
+        <dc:creator opf:role="nrt">Gemma Whelan (The Newcomer)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Jarman (The Pastor / Gorlan)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Dalek)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The team’s investigations have taken an unexpected turn - but the signs all still point to Sheldrake. With the clock ticking down to the launch of the time tunnels, the Doctor, Anya and Mark split up... but soon discover how hard it is to fight a foe who can always keep one step ahead of you.
+
+But stopping him is only half the battle. The Doctor says that time can be rewritten - and Anya is searching for redemption. Can she put history back on track? Or is the Doctor’s future never going to be the same again?</dc:description>
+    </metadata>
+</package>

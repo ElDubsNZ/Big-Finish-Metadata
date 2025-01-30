@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Tabula Rasa</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-267-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Vienna - Series 2"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Chase Masterson (Vienna Salvatori)</dc:creator>
+        <dc:creator opf:role="nrt">Samantha Béart (Jexie Reagan)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Ditson (Doran Curtis)</dc:creator>
+        <dc:creator opf:role="nrt">John Schwab (Anders)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Beckmann (Concierge)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Ever woken up and can't remember where you are? What if you couldn’t remember who you are? Or why there’s a dead body outside your door? 
+
+Vienna Salvatori is hunting for a killer – but can she be sure it’s not herself?</dc:description>
+    </metadata>
+</package>

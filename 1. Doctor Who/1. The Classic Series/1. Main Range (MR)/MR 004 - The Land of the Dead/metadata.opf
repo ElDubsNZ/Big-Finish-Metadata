@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Land of the Dead</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2000-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-064-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Stephen Cole</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Campbell (Monica Lewis)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Fettes (Gaborik)</dc:creator>
+        <dc:creator opf:role="nrt">Alistair Lock (Supplier)</dc:creator>
+        <dc:creator opf:role="nrt">Neil Roberts (Tulung)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Scott (Shaun Brett)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Landing in Alaska, the Doctor and Nyssa encounter a group of people in a most unusual house, cut off not only by the harsh climate but by their individual secrets and obsessions.
+
+Millionaire Shaun Brett is utilising chunks of the local area to construct a shrine to his dead father. But when deadly creatures start roaming outside, and a terrifying discovery is made inside the house, the Doctor realises that Brett has unleashed an unimaginably ancient force.</dc:description>
+    </metadata>
+</package>

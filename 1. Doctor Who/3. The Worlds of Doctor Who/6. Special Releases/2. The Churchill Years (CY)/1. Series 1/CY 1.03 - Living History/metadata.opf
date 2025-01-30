@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Living History</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-944-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Churchill Years - Volume 1"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Justin Richards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Ian McNeice (Winston Churchill)</dc:creator>
+        <dc:creator opf:role="nrt">Danny Horn (Kazran Sardick)</dc:creator>
+        <dc:creator opf:role="nrt">Alistair Petrie (Julius Caesar)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Rogers (Queen Tristahna)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Dalek)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Finally given the chance to travel in the TARDIS, Winston Churchill cannot resist the opportunity of meeting Julius Caesar. But the trip does not go quite as planned. With the TARDIS gone, and Churchill stranded in ancient Britain with a young man he barely knows and who comes from the future, it seems things can hardly get any worse. 
+
+Until he is captured by the invading Romans. 
+
+Still, at least that means Churchill will meet Julius Caesar after all. But then Churchill learns of the Bronze God, feared and worshipped by the Ancient Britons. A god that he recognises as anything but divine when he meets it.</dc:description>
+    </metadata>
+</package>

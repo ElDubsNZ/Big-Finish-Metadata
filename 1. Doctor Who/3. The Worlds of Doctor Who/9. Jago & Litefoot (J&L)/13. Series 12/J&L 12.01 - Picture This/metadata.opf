@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Picture This</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-362-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jago & Litefoot - Series 12"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Justin Richards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Baxter (Professor George Litefoot)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Ellie)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Asquith (Inspector Quick)</dc:creator>
+        <dc:creator opf:role="nrt">Ronald Pickup (The Old One)</dc:creator>
+        <dc:creator opf:role="nrt">Ronan Vibert (Mr Ravener)</dc:creator>
+        <dc:creator opf:role="nrt">Robbie Stevens (Melchester)</dc:creator>
+        <dc:creator opf:role="nrt">Forbes Masson (Kindred)</dc:creator>
+        <dc:creator opf:role="nrt">David John (Sir James Royston)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Whitmey (Hardwick)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>An art gallery is robbed, and the curator killed. That might not seem of interest to Jago and Litefoot. But this is the fabled Scarlet Gallery – where the paintings are said to be haunted. And the curator has been drained of blood, as if killed by a vampire. 
+
+Bizarrely, the only painting that has been stolen is in itself quite unremarkable compared with the others in the gallery. But even so, Jago and Litefoot soon find themselves caught up in events that could end in their deaths – or worse…</dc:description>
+    </metadata>
+</package>

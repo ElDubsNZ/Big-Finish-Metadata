@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Veiled Leopard</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2006-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - The Veiled Leopard"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Iain McLaughlin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Caroline Morris (Erimem)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Olivier (Hex)</dc:creator>
+        <dc:creator opf:role="nrt">Lizzie Hopley (Lady Lillian Hawthorne)</dc:creator>
+        <dc:creator opf:role="nrt">Alan Ruscoe (Peter Mathis)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Gavin Walker)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Mansfield (Jean, the Commissionaire)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Monte Carlo, 1966: 
+
+Four time travellers. Two missions. One costumed ball. The Doctor has sent Peri and Erimem to prevent the fabulous Veiled Leopard diamond from being stolen. Which is odd, seeing as the Doctor has sent Ace and Hex to steal the diamond. How will the two teams cope with this contradictory task? Will Peri's asp slip? Why does Ace have to pretend to be a French maid? How will Erimem cope with Pharaoh Rammalamadingdong? And can Hex really "do posh"?</dc:description>
+    </metadata>
+</package>

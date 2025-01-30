@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Big Blue Book</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-793-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth of March - Series 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizzie Hopley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Orlando Gibbs (Harvey / The Judge)</dc:creator>
+        <dc:creator opf:role="nrt">Rosemary Ashe (Vassa)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Gill (Lycurgus)</dc:creator>
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>With the Doctor AWOL, Benny and Ace are left to their own devices, going native in a Liverpool university. 
+
+Benny accepts an invitation she really shouldn't, and Ace meets a very strange collector. 
+
+An alien library is about to gain a big, blue book... but where's the TARDIS?</dc:description>
+    </metadata>
+</package>

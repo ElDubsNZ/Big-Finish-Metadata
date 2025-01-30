@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Macros</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-451-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 1"/>
+        <meta name="calibre:series_index" content="8"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Ingrid Pitt</dc:creator>
+        <dc:creator opf:role="aut">Tony Rudlin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Matt Addis (Bundth / 2nd Rigger / Captain / Guard Captain / Tannoy)</dc:creator>
+        <dc:creator opf:role="nrt">Stewart Alexander (Bosun / Guard)</dc:creator>
+        <dc:creator opf:role="nrt">Paul David-Gough (Mers / First Rigger / Calloway)</dc:creator>
+        <dc:creator opf:role="nrt">Rachael Elizabeth (Yka / Receptionist)</dc:creator>
+        <dc:creator opf:role="nrt">Jack Galagher (Ezz / Steward)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Mallinson (Second Officer / Guard 2 / Cooper)</dc:creator>
+        <dc:creator opf:role="nrt">Linda Marlowe (Osloo / Ann Tessler)</dc:creator>
+        <dc:creator opf:role="nrt">Vincent Pirillo (Professor Tessler)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Lost Stories: Adventures that were originally written for the Doctor Who television series but never made. Now available to hear for the first time…
+
+The TARDIS materialises on the USS Eldridge, after the Philadelphia Experiment has gone disastrously wrong. Most of the crew are dead, the ship is disintegrating, and the Doctor soon realizes that the problem comes from another dimension…
+
+As they attempt to find a way to get the ship home, the Doctor and Peri visit the distant planet Capron and meet its tyrannical ruler Osloo. But the search for a possible solution only creates increasingly dire problems. Osloo's horizons have been widened - and Space and Time are hers for the taking…</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Outback</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-234-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Lady Christina - Series 2"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Sarah Grochala</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Michelle Ryan (Lady Christina de Souza)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy Wiles (Jacqui McGee)</dc:creator>
+        <dc:creator opf:role="nrt">Warren Brown (Sam Bishop)</dc:creator>
+        <dc:creator opf:role="nrt">Siân Phillips (Lady Eugenia de Souza)</dc:creator>
+        <dc:creator opf:role="nrt">James Smillie (John Flint)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Blackstone (Maisie Flint)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In need of respite, Christina seeks out her Great Aunt Eugenia, and finds herself looking for answers in the Australian outback. Has her aunt really been abducted by aliens? What secrets lie within the Jajutuma crater? And why are Sam Bishop and Jacqui McGee of UNIT on Christina's trail?</dc:description>
+    </metadata>
+</package>

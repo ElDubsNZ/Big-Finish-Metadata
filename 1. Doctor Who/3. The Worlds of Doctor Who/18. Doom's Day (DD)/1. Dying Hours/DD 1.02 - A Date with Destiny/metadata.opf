@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>A Date with Destiny</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-137-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Doom's Day - Dying Hours"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Valentine</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sooz Kempner (Doom)</dc:creator>
+        <dc:creator opf:role="nrt">Camille Coduri (Jackie Tyler)</dc:creator>
+        <dc:creator opf:role="nrt">Yasmin Bannerman (Destiny)</dc:creator>
+        <dc:creator opf:role="nrt">Becky Wright (Terri / Peggy)</dc:creator>
+        <dc:creator opf:role="nrt">Ben Arogundade (Dennis / Diamante Roxx)</dc:creator>
+        <dc:creator opf:role="nrt">Frog Stone (PO / The Waitress)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A romantic dinner turns life-threatening for an unsuspecting human in 2007. But this time, Doom has competition. And if she loses, then her last chance to find the Doctor could be snatched away. Cue an action-packed chase through the streets of London. But has Doom met her match?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Madam, I'm</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-527-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="52"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Samuel Barnett (Norton Folgate)</dc:creator>
+        <dc:creator opf:role="nrt">Dervla Kirwan (Lizbeth Hayhoe)</dc:creator>
+        <dc:creator opf:role="nrt">Bryan Dick (Adam)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Torchwood, Soho, the 1950s. Disgraced agent Norton Folgate has a new boyfriend, the very lovely Adam. Brilliant scientist Lizbeth Hayhoe meets a charming stranger on the underground, the very lovely Adam. Very soon, Torchwood has a new leader – the very lovely Adam. 
+
+With people losing their lives and their souls, Lizbeth and Norton must work out what's happening to Torchwood. And why is Torchwood preparing to go to war?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Forbidden Time</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-507-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 5"/>
+        <meta name="calibre:series_index" content="9"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Lock</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Anneke Wills (Polly Wright)</dc:creator>
+        <dc:creator opf:role="nrt">Frazer Hines (Jamie McCrimmon)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Time Walkers have descended upon the Earth. This alien race, known as The Vist, has claimed an area of time for itself – any species entering into the immediate future will pay the most terrible forfeit.
+
+The human race is in a state of panic, but one woman knows the truth. Her name is Polly Wright, and she visited that future many years ago, with the Doctor, Jamie and Ben. 
+
+She has stepped into the Forbidden Time – and this is her story...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Swipe Right</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-134-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Ninth Doctor Adventures - Series 3 - Volume 4 - Star-Crossed"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Eccleston (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Francesca Mills (Bethany)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Neenan (Julien)</dc:creator>
+        <dc:creator opf:role="nrt">David Holt (Barclay / The Matchmaker / Robot)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Natalie / Jessica / Robot)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>There are strange rumours about the planet Crell. People have been vanishing. The mysterious Matchmaker is keen to get the populace paired up via his special dating app… but rejecting too many suitors can have fatal consequences.
+
+It’s precisely the sort of thing the Doctor would want to investigate. But unfortunately it’s also precisely the sort of thing River Song would want to investigate too. The Doctor and River are on a collision course - but this time it might not be a match made in heaven.</dc:description>
+    </metadata>
+</package>

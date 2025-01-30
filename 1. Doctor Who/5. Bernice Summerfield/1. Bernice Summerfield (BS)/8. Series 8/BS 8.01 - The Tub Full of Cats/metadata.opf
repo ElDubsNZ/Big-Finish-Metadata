@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Tub Full of Cats</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2007-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-272-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 8"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Daniel O'Mahony</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie-Louise Dann (Maggie)</dc:creator>
+        <dc:creator opf:role="nrt">Diane Fletcher (Chanticleer)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Pegram (Rogers)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Negotiations have failed and the Braxiatel Collection now sits within a warzone.
+
+Bernice and Maggie are racing back to the Collection with something that may just help bring an end to all the fighting - or at least protect their home.
+
+That something is a man, Maggie's father and the would-be killer of Bernice's own husband. His name: Irving Braxiatel.
+
+But the Collection is on the far side of the Mim blockade, and there's no possible way they can get through.
+
+They'll just have to do something impossible...</dc:description>
+    </metadata>
+</package>

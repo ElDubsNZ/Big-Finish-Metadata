@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Braxiatel in Love</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-586-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 17 - The Story so Far"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield / Wintergreen)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Fewell (Jason Kane)</dc:creator>
+        <dc:creator opf:role="nrt">Emily Laing (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Taj Atwal (Reep Saluja)</dc:creator>
+        <dc:creator opf:role="nrt">Ellie Darvill (Davina)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Fewell (Jason Kane)</dc:creator>
+        <dc:creator opf:role="nrt">Ché Francis (Simon)</dc:creator>
+        <dc:creator opf:role="nrt">Gabrielle Glaister (Veronica Bland)</dc:creator>
+        <dc:creator opf:role="nrt">Jonny Green (Kerrigan)</dc:creator>
+        <dc:creator opf:role="nrt">Liam Hourican (The Grel)</dc:creator>
+        <dc:creator opf:role="nrt">Luke MacGregor (Computer)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Irving Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">Robbie Stevens (The Academy Principal)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Irving Braxiatel likes to collect things, and when he gains a fiancee, Bernice Summerfield can't help but be suspicious. What are her mysterious employer's motives? It can't just be love, can it? Nothing on the Braxiatel Collection is ever that simple. Not even love.</dc:description>
+    </metadata>
+</package>

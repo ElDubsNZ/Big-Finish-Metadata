@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Empty Hand</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-379-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - She Story Continues - Series 1 - Aliens Among Us - Part 2"/>
+        <meta name="calibre:series_index" content="8"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Barrowman (Captain Jack Harkness)</dc:creator>
+        <dc:creator opf:role="nrt">Alexandria Riley (Ng)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Clayton (Mr Colchester)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Béart (Orr)</dc:creator>
+        <dc:creator opf:role="nrt">Jonny Green (Tyler Steele)</dc:creator>
+        <dc:creator opf:role="nrt">Kai Owen (Rhys Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Price (Sgt. Andy Davidson)</dc:creator>
+        <dc:creator opf:role="nrt">Rachel Atkins (Ro-Jedda)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Annis (P.C. Nicki Owen)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Dalgleish (Newsreader)</dc:creator>
+        <dc:creator opf:role="nrt">Kristy Philipps (Stacey)</dc:creator>
+        <dc:creator opf:role="nrt">Aly Cruickshank (Student)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Elfyn (Takeaway Man)</dc:creator>
+        <dc:creator opf:role="nrt">Sanee Raval (Xander)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>An innocent refugee has been shot point-blank on the streets of Cardiff. It causes an upsurge in terrorist attacks. 
+
+An innocent refugee has been shot point-blank on the streets of Cardiff by a policeman. It's a catalyst for protests in the streets. 
+
+An innocent refugee has been shot point-blank on the streets of Cardiff by Sergeant Andy Davidson. It's the end of Torchwood as we know it.</dc:description>
+    </metadata>
+</package>

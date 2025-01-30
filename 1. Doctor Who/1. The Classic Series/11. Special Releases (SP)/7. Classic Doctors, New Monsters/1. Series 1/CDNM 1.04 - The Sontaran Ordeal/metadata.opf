@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Sontaran Ordeal</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-946-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - Classic Doctors, New Monsters - Series 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andrew Smith</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Josette Simon (Sarana Teel)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Jask)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Ryan (General Stenk / Flitch)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Connolly (Tag Menkin / Ensign Stipe)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>An instant of the Time War brings centuries of conflict to the planet Drakkis, and the Eighth Doctor is there to witness the terrible results. 
+
+A Sontaran fleet, desperate to join the epic conflict, follows in its wake to take advantage of the fallout. But when Commander Jask is beamed down to the ravaged surface, there is more to his arrival than first appears. 
+
+Soon, an unlikely champion joins forces with the Time Lord to fight for the future of her world, and together they must face the Sontaran Ordeal...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>One Way or Another</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-629-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - Nemesis - Series 4 - Masters of Time"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jemma Redgrave (Kate Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Ingrid Oliver (Osgood)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (Harry Sullivan)</dc:creator>
+        <dc:creator opf:role="nrt">Eleanor Crooks (Naomi Cross)</dc:creator>
+        <dc:creator opf:role="nrt">Alisdair Simpson (Varliss)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (Bert Hockley / Jesden / Vulpreen Commander)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Captain Josh Carter)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Lew Kum Hoi (Lieutenant Jimmy Tan)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Kate leads an attack on a Vulpreen prison camp, unaware that UNIT friends are being held there. As paths converge, Kate and Osgood have different perspectives on the attack, and specific dangers to overcome.</dc:description>
+    </metadata>
+</package>

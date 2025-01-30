@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Iron Bright</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-827-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="239"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Chris Chapman</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Catherine Bailey (Tan)</dc:creator>
+        <dc:creator opf:role="nrt">Imogen Church (Rispa / Lady Raffles)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Fairbank (Marc Brunel)</dc:creator>
+        <dc:creator opf:role="nrt">James MacCallum (Isambard Kingdom Brunel)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Townsend (Richard Beamish / John Chubb)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Unwin (Tour Guide / Scientist)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Woodward (Charlie / Lord Raffles / Captain Sanderson)</dc:creator>
+        <dc:creator opf:role="nrt">Becky Wright (Flo Hawkins / Alayna)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It's London, 1828, and the father-and-son team of Marc and Isambard Kingdom Brunel are masterminding a dangerous project - the digging of the Thames Tunnel. There's just one problem...
+
+The Brunels' tunnel is haunted. Every night, a spectral blue lady walks the excavation.
+
+Now, the 22-year-old Isambard, eager to step out of his famous father's shadow, finds himself dealing with not only the supposed supernatural, but a second unexpected guest - a colourful trespasser who calls himself 'The Doctor'.
+
+Isambard would like to know a great deal more about this strange man and his mysterious blue box...</dc:description>
+    </metadata>
+</package>

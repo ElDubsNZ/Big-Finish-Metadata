@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Two Monks, One Mistress</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-638-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Missy - Series 3 - Missy and the Monk"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Michelle Gomez (Missy)</dc:creator>
+        <dc:creator opf:role="nrt">Rufus Hound (The Monk)</dc:creator>
+        <dc:creator opf:role="nrt">Gemma Whelan (The Nun)</dc:creator>
+        <dc:creator opf:role="nrt">James Smillie (Alfredo)</dc:creator>
+        <dc:creator opf:role="nrt">Sheena Bhattessa (Francesca)</dc:creator>
+        <dc:creator opf:role="nrt">Glenn McCready (Aztec Priest)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On the trail of some weapons-grade plutonium, Missy and the Monk visit Renaissance Italy and the house of an elderly Borgia. But someone else is en route to the Tuscan villa with designs on the old man’s treasures. Someone the Monk will soon know very well...</dc:description>
+    </metadata>
+</package>

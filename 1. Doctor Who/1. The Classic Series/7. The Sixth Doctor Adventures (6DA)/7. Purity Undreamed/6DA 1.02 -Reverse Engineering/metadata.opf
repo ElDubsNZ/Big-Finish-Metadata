@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Reverse Engineering</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-744-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Sixth Doctor Adventures - Purity Undreamed"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Mel Bush)</dc:creator>
+        <dc:creator opf:role="nrt">Ruth Madeley (Hebe Harrison)</dc:creator>
+        <dc:creator opf:role="nrt">Imogen Stubbs (Patricia McBride)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Riddle (Killian Holm)</dc:creator>
+        <dc:creator opf:role="nrt">Homer Todiwala (Tarek Gamal)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When Patricia is invited to a secretive Swedish clinic by an old colleague, she tips off the Doctor, Mel and Hebe, who go undercover to investigate. Charismatic geneticist Killian Holm offers to restore youth to his wealthy patients, but the truth of his work is far more radical - and far more dangerous!
+
+As an ancient horror reforms beneath the clinic, the Doctor must race to save humanity from an unspeakable temporal disaster.</dc:description>
+    </metadata>
+</package>

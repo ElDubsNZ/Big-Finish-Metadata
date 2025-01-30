@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Plague Herds of Excelis</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2002-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-470-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - Excelis"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Stephen Cole</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Katy Manning (Iris Wildthyme)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Littledale (Snyper)</dc:creator>
+        <dc:creator opf:role="nrt">Kate Brown (Empress Vitutia)</dc:creator>
+        <dc:creator opf:role="nrt">Stewart Alexander (Aragon)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The once proud city of Excelis is a crumbling ruin in a state of siege, as barbarians catapult pestilent animal corpses into the city to spread disease among those trapped inside. 
+
+Excelis is a city clinging to life by a thread. But ancient prophecies foretell a final retribution for the past arrogance of its rulers. When the sun is eaten away from the sky, when the ancient relic of Excelis is taken from its rightful resting-place, and when strangers are discovered among the people, then shall the whole world be doomed to die. 
+
+Today, the sun is a moth-eaten shadow. Plans are afoot to steal the relic. And a very tired and very fraught Professor Bernice Summerfield has just stomped into town in the company of a mysterious traveller in space and time known only as Iris Wildthyme. Pitted against a sinister prophet, the machinations of the Imperial court, and hordes of animal undead, Benny finds herself embroiled in the final stages of an aeons-old plan to commit genocide twice over — with no way out.</dc:description>
+    </metadata>
+</package>

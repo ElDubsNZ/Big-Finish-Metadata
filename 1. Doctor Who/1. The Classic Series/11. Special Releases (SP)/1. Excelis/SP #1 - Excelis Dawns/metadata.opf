@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Excelis Dawns</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2002-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-463-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - Excelis"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Magrs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Katy Manning (Iris Wildthyme)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Head (Warlord Grayvorn)</dc:creator>
+        <dc:creator opf:role="nrt">Posy Miller (Sister Jolene)</dc:creator>
+        <dc:creator opf:role="nrt">Patricia Leventon (Mother Superior)</dc:creator>
+        <dc:creator opf:role="nrt">Billy Miller (The Zombie King)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>That terrible old reprobate and transdimensional adventuress Iris Wildthyme has gone and locked herself up in a nunnery on the savage world of Artaris. 
+
+Here she is discovered by the Doctor and the reasonably brutal warlord Grayvorn. Together — with a peculiar nun they pick up en route — they must travel the forests and swamps of this ghastly world in Iris's double decker bus in order to tussle — to the death — with a horde of flesh-eating zombies for a mysterious and holy relic of unfathomable value and questionable pedigree. 
+
+But what is the Mother Superior's part in all this?</dc:description>
+    </metadata>
+</package>

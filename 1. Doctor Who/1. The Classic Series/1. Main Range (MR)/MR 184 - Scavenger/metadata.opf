@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Scavenger</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-300-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="184"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">William Gallagher</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Greenwood (Flip Jackson)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Commander Gabbard / Scavenger / Isra Tech 1 / Security Guy)</dc:creator>
+        <dc:creator opf:role="nrt">Tariq Bhatti (Salim)</dc:creator>
+        <dc:creator opf:role="nrt">Kate McEwen (Jessica Allaway)</dc:creator>
+        <dc:creator opf:role="nrt">Anjli Mohindra (Jyoti Cutler)</dc:creator>
+        <dc:creator opf:role="nrt">Tania Rodrigues (Anarkali / Melissa / Isra Tech 2)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Thursday 28 May 2071: the day the Anglo-Indian Salvage 2 rocket launches. Its mission: to clean up space; to remove from Earth’s orbit over a century’s worth of man-made junk…
+
+From the viewing window of a nearby space station, the Doctor and Flip have a unique view of Salvage 2 as it sets about its essential task – and of the disaster that unfolds when Salvage 2 encounters something it’s not been programmed to deal with. Something not of human manufacture…
+
+Back on Earth, the Doctor fights to save Flip from becoming part of a 500-year tragedy being played out in orbit, hundreds of miles above. And millions will die if he fails.</dc:description>
+    </metadata>
+</package>

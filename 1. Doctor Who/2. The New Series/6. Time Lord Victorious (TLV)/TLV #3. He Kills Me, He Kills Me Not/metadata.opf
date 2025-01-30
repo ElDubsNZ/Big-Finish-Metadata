@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>He Kills Me, He Kills Me Not</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-304-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Time Lord Victorious"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Carrie Thompson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Silas Carson (Brian)</dc:creator>
+        <dc:creator opf:role="nrt">Jack DeVos (Samson)</dc:creator>
+        <dc:creator opf:role="nrt">Pauline Eyre (Katherine)</dc:creator>
+        <dc:creator opf:role="nrt">Misha Malcolm (Felicity)</dc:creator>
+        <dc:creator opf:role="nrt">Martin McDougall (Craddock)</dc:creator>
+        <dc:creator opf:role="nrt">Melanie Stevens (Sophie)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On the desert world of Atharna, the Doctor’s life is about to be changed forever.
+
+Looking to visit one of the Seven Hundred Wonders of the Universe, he’s quickly embroiled in a web of deceit. Worse than that, this Wonder of the Universe is missing, and the Doctor is about to encounter one of his most dangerous and duplicitous adversaries.
+
+The Doctor is about to meet Brian.</dc:description>
+    </metadata>
+</package>

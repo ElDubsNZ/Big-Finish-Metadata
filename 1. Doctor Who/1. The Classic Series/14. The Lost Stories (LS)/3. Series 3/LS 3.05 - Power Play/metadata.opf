@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Power Play</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-587-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 3"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Gary Hopkins</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Deborah Watling (Victoria Waterfield)</dc:creator>
+        <dc:creator opf:role="nrt">Victoria Alcock (Marion)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Dickens (Leiss)</dc:creator>
+        <dc:creator opf:role="nrt">Greg Donaldson (David)</dc:creator>
+        <dc:creator opf:role="nrt">Howard Gossington (Weska)</dc:creator>
+        <dc:creator opf:role="nrt">James Hayward (Sean)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Jupp (Dominic)</dc:creator>
+        <dc:creator opf:role="nrt">David Warwick (Dysart)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It's been many years since Victoria Waterfield travelled through time and space fighting monsters and dictators. Now she's back on Earth fighting for the future of the planet. But are her environmental campaigns so far removed from her former adventures in the vortex?
+
+ As trucks carrying nuclear waste start to vanish into the air, her friends are kidnapped by a dangerous alien police force and a nuclear power plant runs dangerously close to meltdown... Victoria spies a familiar blue box.
+
+ The Doctor. After all this time, the Doctor has come back.
+
+ And now... Victoria Waterfield is going to kill him.</dc:description>
+    </metadata>
+</package>

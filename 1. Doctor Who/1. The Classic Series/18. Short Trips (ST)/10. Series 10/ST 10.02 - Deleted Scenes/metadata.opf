@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Deleted Scenes</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 10"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Angus Dunican</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Frazer Hines (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>For all that Jamie has seen and done in his travels, nothing quite prepared him for the magic of being a film star.
+
+During a Parisian holiday in 1908, he and the Doctor are taken in by film director Céline Tessier and soon find themselves immersed in the world of the silver screen.
+
+However, Jamie will discover that - in show business - where there is delight, one must also expect one’s share of tragedy.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Defectors</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-457-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="198"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Katy Manning (Jo Grant (Jo Jones))</dc:creator>
+        <dc:creator opf:role="nrt">Richard Franklin (Captain Yates)</dc:creator>
+        <dc:creator opf:role="nrt">Rachel Bavidge (Europan Leader / Claire / Corporal Winters)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Commander Wingford / Soldier)</dc:creator>
+        <dc:creator opf:role="nrt">Jez Fielder (Europan / Jeremiah / Soldier 2)</dc:creator>
+        <dc:creator opf:role="nrt">David Graham (Hedgerton)</dc:creator>
+        <dc:creator opf:role="nrt">Neil Roberts (Captain Cornelius)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Jo Grant is shocked to find most of her colleagues are missing. Then she discovers that the Doctor has inexplicably changed.
+
+But there’s no time to worry about it, as she and her misplaced Time Lord friend are whisked to the mysterious Delphin Isle on a matter of national security. There, they encounter a disturbingly odd form of local hospitality and learn of a highly classified incident that took place during the Cold War.
+
+Why exactly have they been brought here? And what is the truth concerning the bodies in the harbour and the vast project being undertaken beneath a cloak of secrecy?</dc:description>
+    </metadata>
+</package>

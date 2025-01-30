@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Fallen Angels</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-946-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - Classic Doctors, New Monsters - Series 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Phil Mulryne</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sacha Dhawan (Joel Finch)</dc:creator>
+        <dc:creator opf:role="nrt">Diane Morgan (Gabby Finch)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Kelly (Michelangelo)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Jameson (Piero)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Priest)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Jacopo)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>2015: When sightseers Joel and Gabby Finch encounter a strange man in Edwardian cricketing garb in the Sistine Chapel, their honeymoon suddenly takes a terrifying turn. 
+
+1511: Michelangelo is commissioned to create some very special sculptures by a mysterious sect. But as he carves, angels seem to emerge fully-formed from the rock. Almost as if they are alive... 
+
+From Michelangelo's workshop to the catacombs of Rome, the Fifth Doctor must keep his wits about him and his eyes wide open as he confronts the Weeping Angels.</dc:description>
+    </metadata>
+</package>

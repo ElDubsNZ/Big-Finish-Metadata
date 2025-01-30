@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Witch from the Well</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-602-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="154"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Rick Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Julie Cox (Mary Shelley)</dc:creator>
+        <dc:creator opf:role="nrt">Serena Evans (Agnes Bates)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Havill (Aleister Portillon / Squire Claude Portillon)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Kay (Beatrix)</dc:creator>
+        <dc:creator opf:role="nrt">Alix Wilton Regan (Finicia)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Rouse (Master John Kincaid)</dc:creator>
+        <dc:creator opf:role="nrt">Kevin Trainor (Lucern / Janek / Cornet Swallow)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A shrieking, killing nightmare erupts from an overgrown well, hidden in the grounds of an old house, Tranchard’s Folly - and Mary Shelley, the Doctor’s latest travelling companion, rescues teenage twins Finicia and Lucern from the clutches of the monster.
+
+ But a TARDIS trip in search of the origin of the horror goes terribly wrong when the Doctor, Mary and their two new friends find themselves stuck in the middle of a seventeenth-century witch scare.
+
+ While the Doctor investigates the strange lights at Vetter’s Tor, and the twins go in search of an artefact from the Hecatrix Dimension, Mary confronts the secrets of her past... and her future. The truth will out: Master Kincaid, the terrible Witch-Pricker himself, commands it!</dc:description>
+    </metadata>
+</package>

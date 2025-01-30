@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Jigsaw War</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-622-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 6"/>
+        <meta name="calibre:series_index" content="11"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Frazer Hines (Jamie McCrimmon)</dc:creator>
+        <dc:creator opf:role="nrt">Dominic Mafham (Moran)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A cell. Four walls, one door. Jamie McCrimmon can escape, but it means unravelling a puzzle of extraordinary complexity.
+
+ And there are more than just two players in this game. The Doctor is there. So is his opponent, Side.
+
+ As a hero turns killer, and a rebellion becomes anarchy, the lines between good and evil are blurred. And so does the distinction between cause and effect…</dc:description>
+    </metadata>
+</package>

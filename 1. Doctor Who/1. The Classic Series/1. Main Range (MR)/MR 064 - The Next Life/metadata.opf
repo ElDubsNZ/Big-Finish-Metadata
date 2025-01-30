@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Next Life</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2004-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-105-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="64"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Gary Russell</dc:creator>
+        <dc:creator opf:role="aut">Alan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Westmaas (C'rizz)</dc:creator>
+        <dc:creator opf:role="nrt">Daphne Ashbrook (Perfection)</dc:creator>
+        <dc:creator opf:role="nrt">Stephane Cornicard (Daqar Keep)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Darrow (Guidance)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Goddard (Mother of Jembere-Bud)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Hills (L'da)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Mansfield (Simon Murchford)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Perring (The Kro'ka)</dc:creator>
+        <dc:creator opf:role="nrt">Don Warrington (Rassilon)</dc:creator>
+        <dc:creator opf:role="nrt">Anneke Wills (Lady Louisa Pollard)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"All things must die."
+
+Washed up on the sandy shores of a paradise island, a wild-eyed shipwreck survivor is rescued by the wife of Daqar Keep, the richest man in the galaxy.
+
+Her name's Perfection. He's the Doctor. Together, they face a journey into the dark heart of this mysterious island, to discover the deepest secrets of this timeless cosmos. That's if the giant crabs, killer crocodiles and murderous natives don't get them first.
+
+Meanwhile, fellow travellers Charley and C'rizz have their own ordeal to endure, in the grip of the Doctor's most dangerous rival. And in a universe that's facing extinction, even the best of friends may soon become enemies.
+
+This life is almost over. And not everyone will make it to the next...</dc:description>
+    </metadata>
+</package>

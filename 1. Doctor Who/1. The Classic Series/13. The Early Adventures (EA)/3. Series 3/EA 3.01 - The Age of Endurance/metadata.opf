@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Age of Endurance</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-378-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Early Adventures - Series 3"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nick Wallace</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Carole Ann Ford (Susan / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">William Russell (Ian Chesterton / The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jemma Powell (Barbara)</dc:creator>
+        <dc:creator opf:role="nrt">Gethin Anthony (Olivan)</dc:creator>
+        <dc:creator opf:role="nrt">Rachel Atkins (Myla)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Bell (Arran / Shift)</dc:creator>
+        <dc:creator opf:role="nrt">Andy Secombe (Benya)</dc:creator>
+        <dc:creator opf:role="nrt">John Voce (Toban)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS materialises on board a still and eerie spaceship. When a squad of soldiers land, they realise they've found themselves in the middle of a war zone. With one of their crew trapped by the enemy, the Doctor and his friends find themselves locked in a desperate race for survival. Vast warships manoeuvre around each other as both sides try to out-think their opponents, flying into ever more dangerous areas of space.
+
+The stakes could not be higher. But as ever in war, the lines between good and evil are hard to define. Will anyone survive to claim the moral high ground?</dc:description>
+    </metadata>
+</package>

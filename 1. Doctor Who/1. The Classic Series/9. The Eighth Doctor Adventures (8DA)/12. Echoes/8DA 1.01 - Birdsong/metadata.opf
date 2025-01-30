@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Birdsong</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-183-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Echoes"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Hattie Morahan (Helen Sinclair)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Asher (Myra)</dc:creator>
+        <dc:creator opf:role="nrt">Fiona Button (Bex)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS arrives on an empty world where two scouts await the rest of their colony. Except this world may not be as empty as everybody thinks. There's a figure in the woods - and a strangely familiar sound...
+
+As the Doctor and his friends learn more about the planet's inhabitants, the birdsong they hear becomes a deadly chorus.</dc:description>
+    </metadata>
+</package>

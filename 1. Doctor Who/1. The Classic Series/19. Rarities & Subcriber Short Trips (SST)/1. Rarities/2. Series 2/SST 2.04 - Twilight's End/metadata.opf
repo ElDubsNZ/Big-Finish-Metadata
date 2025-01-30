@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Twilight's End</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips Rarities - Series 2"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mark Wright</dc:creator>
+        <dc:creator opf:role="aut">Cavan Scott</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Beth Chalmers (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A wonder of modern technology; the vast, secure building waits.
+
+A part of the building's very fabric; the advanced computer Oracle waits for a face its systems recognise.
+
+And at the heart of this steel, concrete, cable and flesh; a figure thought long-dead waits for a visitor.
+
+Nimrod has one last meeting with his Doctor...</dc:description>
+    </metadata>
+</package>

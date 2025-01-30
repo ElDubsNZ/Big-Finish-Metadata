@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Out of Time</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-323-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Tenth Doctor Adventures - Out of Time"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Tennant (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Asbury (Captain Zenna / Kivall)</dc:creator>
+        <dc:creator opf:role="nrt">Kathryn Drysdale (Jora)</dc:creator>
+        <dc:creator opf:role="nrt">Claire Rushbrook (The Abbess / Marna)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Cathedral of Contemplation is an enigma, existing outside time. It turns through history, opening its doors across the universe to offer solace to those in need.
+
+Occasionally, the Doctor drops in - when he's avoiding his destiny, it’s an ideal place to get some perspective. Only this time he's already there from several lives earlier, so when dimension barriers break down, his past and present collide.
+
+And when the Daleks invade and commandeer the Cathedral, two Doctors must unite to stop them - or face extermination twice over!</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Helm of Awe</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-456-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Philip Hinchcliffe Presents - Series 3"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Joanna Vanderham (Joanna Renwick)</dc:creator>
+        <dc:creator opf:role="nrt">David Rintoul (Professor Angus Renwick)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Peggy)</dc:creator>
+        <dc:creator opf:role="nrt">Ewan Bailey (Davy McTavit)</dc:creator>
+        <dc:creator opf:role="nrt">Kieran Bew (Murdo Jamieson)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Porter (Nardos)</dc:creator>
+        <dc:creator opf:role="nrt">Fleur Hinchcliffe (Young Angus Renwick)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS arrives on the remote Shetland isle of Bothness and the Doctor and Leela find themselves threatened by Vikings! Only all is not as it seems. The locals are celebrating the old Norse fire festival of Up Helly Aa, so there’s nothing to be worried about. Or is there? 
+
+For, unknown to the islanders, the TARDIS crew are on the trail of an ancient artefact invested with mysterious powers that has recently been stolen and brought to this remote location. 
+
+Somewhere on this island lurks something ancient, and evil, and alien. The Doctor and Leela will have to stop it. Only on this occasion time might not be on their side.</dc:description>
+    </metadata>
+</package>

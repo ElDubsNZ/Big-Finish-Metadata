@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Scorpius</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2005-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-117-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Cyberman - Series 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sarah Mowat (Karen Brett)</dc:creator>
+        <dc:creator opf:role="nrt">Mark McDonnell (Liam Barnaby / Nash)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Cybermen / Cyber Planner / Control / Guard / Reporter)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Brooker (Heliton / Hendry / Glaust / Karen's Father / Protester)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Paul Hunt / Comms / Security)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Longworth (Duncan Levinson / Pilot / Public Address / Security / Captain)</dc:creator>
+        <dc:creator opf:role="nrt">Samantha Sanns (SSC Control / Comp / Helm / Operations Officer)</dc:creator>
+        <dc:creator opf:role="nrt">Hannah Smith (Samantha Thorn / Computer)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The human race is about to become extinct.
+
+Mankind is fighting a long and costly war with its android creations in the Orion System. The deadlock must be broken at all costs. The president of Earth must think the unthinkable...
+
+There is nothing to fear...</dc:description>
+    </metadata>
+</package>

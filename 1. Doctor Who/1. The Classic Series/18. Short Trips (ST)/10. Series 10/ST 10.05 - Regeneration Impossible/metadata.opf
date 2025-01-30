@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Regeneration Impossible</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 10"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alfie Shaw</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jacob Dudman (The Doctor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor is in his TARDIS atop a cloud above Victorian London. He’s retired, no longer interfering in the affairs of others. There’s nothing that could make him help anyone else. Except, perhaps, the lure of another Time Lord... 
+
+The Doctor is locked in a mortuary in Victorian London, dying. He can’t escape and doesn’t know how to keep himself alive. Just when he thinks it can’t get any worse, he finds himself locked in with the one person he hates most in the entire universe.
+
+Himself.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Abbey of Heretics</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-509-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Diary of River Song - Series 7"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizbeth Myles</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Aurora Burghart (Sister Patrick)</dc:creator>
+        <dc:creator opf:role="nrt">Jaye Griffiths (Sister Ursula)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Henfrey (Sister Magdalene)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Heath (Thomas Aspley / System)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Outside the walls of a remote 12th Century Abbey, England is at war. 
+
+Inside, a strange sickness runs rife, and there are rumours of a devil in the woods. Death stalks the novices. When Sister Melody arrives in search of a book, she may be their only salvation.</dc:description>
+    </metadata>
+</package>

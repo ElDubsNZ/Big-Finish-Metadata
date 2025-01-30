@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Resurrecting the Past</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-526-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 11"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Irving Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">Thomas Grant (Peter)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Faulkner (Bev Tarrant)</dc:creator>
+        <dc:creator opf:role="nrt">Donna Berlin (Robyn)</dc:creator>
+        <dc:creator opf:role="nrt">Rachel Laurence (Lianna)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Mallinson (Allen)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Myers (Adrian Wall)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Stevens (Doggles)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Joseph)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Wolfe (Hass)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When a group of Irving Braxiatel’s defensive mechanoids embarks on a kidnapping spree, Braxiatel denies all knowledge - but his former associates Bev Tarrant and Adrian Wall suspect something else is going on. They’ve been waiting for Braxiatel to show his hand for months and this looks like it.
+
+The only problem is, Bernice Summerfield isn’t around to help. She’s vanished. Her son, Peter, and Adrian search for her on a craggy forgotten planet.
+
+Meanwhile Robyn, an android from the future, is on a mission to find out why Braxiatel wants her creators wiped from the timelines for good. She and Bev team up to investigate the kidnappings. What is Braxiatel doing with all these people? And why has Bernice been so important to his plans for all these years?</dc:description>
+    </metadata>
+</package>

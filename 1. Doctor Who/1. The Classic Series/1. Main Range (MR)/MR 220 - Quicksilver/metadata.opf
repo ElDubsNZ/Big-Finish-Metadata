@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Quicksilver</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-901-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="220"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Miranda Raison (Constance Clarke)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Greenwood (Flip Jackson)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Cottle (Henry Clarke)</dc:creator>
+        <dc:creator opf:role="nrt">Oliver Cotton (Major Callahan)</dc:creator>
+        <dc:creator opf:role="nrt">Joel Fry (Kinvar / Rogers)</dc:creator>
+        <dc:creator opf:role="nrt">Kate Kennedy (Ana)</dc:creator>
+        <dc:creator opf:role="nrt">Robbie Stevens (Boyarov / Vilal General)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It’s the telegram Constance never wanted to read:
+ DEEPLY REGRET TO INFORM YOU LT-CMDR H CLARKE LOST IN ACTION. CLASSIFIED OPERATIONS. 
+
+
+Those classified operations concerned a top-secret military project code-named ‘Quicksilver’. A project based in Vienna. A project with alien connections.
+
+But bombed-out Vienna is not what it was before the war – with its Strauss music, its glamour and easy charm. It's not the time nor the place for a happy reunion. As Constance Clarke is about to discover...
+
+And as the Doctor is about to discover, too!</dc:description>
+    </metadata>
+</package>

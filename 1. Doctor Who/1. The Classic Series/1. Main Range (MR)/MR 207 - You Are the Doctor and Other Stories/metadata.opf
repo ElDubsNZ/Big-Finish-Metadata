@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>You Are the Doctor and Other Stories</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-875-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="207"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+        <dc:creator opf:role="aut">Jamie Anderson</dc:creator>
+        <dc:creator opf:role="aut">Christopher Cooper</dc:creator>
+        <dc:creator opf:role="aut">Matthew J Elliott</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Amrita Acharia (The Resurrectionist / Clerk)</dc:creator>
+        <dc:creator opf:role="nrt">Juliet Cowan (Bryer / Adriana Beauvais)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (Keith / Guard / Chafal)</dc:creator>
+        <dc:creator opf:role="nrt">Oliver Dimsdale (Morecombe / Mervyn Garvey)</dc:creator>
+        <dc:creator opf:role="nrt">Nadine Marshall (Katrice / Kordel)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Newall (Norris / Bailiff)</dc:creator>
+        <dc:creator opf:role="nrt">George Potts (Ruben / Guard)</dc:creator>
+        <dc:creator opf:role="nrt">Vinette Robinson (Cynthia Quince)</dc:creator>
+        <dc:creator opf:role="nrt">Kim Wall (Chimbly)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Four new stories starring the Seventh Doctor and Ace!
+
+You Are the Doctor by John Dorney
+
+YOU are the Doctor, a mysterious traveller in time and space. Will YOU succeed in foiling the ghastly plans of the horrible Porcians, the most inept invaders in all the cosmos? Or will you get yourself killed, over and over again?
+
+Come Die With Me by Jamie Anderson 
+
+A spooky old house. A body in the library. A killer on the loose. The Doctor accepts the challenge laid down by the sinister Mr Norris: to solve a murder mystery that’s defeated 1,868 of the greatest intellects in the universe… and counting.
+
+The Grand Betelgeuse Hotel by Christopher Cooper 
+
+The TARDIS brings the Doctor and Ace to the most opulent casino hotel in the cosmos – a haunt of the rich, the famous and the unutterably corrupt. There’s a robbery in progress – but is the Doctor really in on the plan?
+
+Dead to the World by Matthew Elliott 
+
+Tourist spaceship the Daedalus hangs suspended in space, all but three of its passengers having fallen victim to a bizarre infection. But if the Doctor saves those last survivors, he risks destroying the entire human race.</dc:description>
+    </metadata>
+</package>

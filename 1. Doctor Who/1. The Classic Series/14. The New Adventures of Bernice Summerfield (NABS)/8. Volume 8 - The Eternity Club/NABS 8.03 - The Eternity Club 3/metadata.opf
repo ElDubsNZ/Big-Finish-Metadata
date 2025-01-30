@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Eternity Club 3</dc:title>
+        <dc:publisher></dc:publisher>
+        <dc:date>2024-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-397-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The New Adventures of Bernice Summerfield - Volume 8 - The Eternity Club"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Nickolas Grace (Secretary Pym )</dc:creator>
+        <dc:creator opf:role="nrt">Niamh Cusack (The Oldest)</dc:creator>
+        <dc:creator opf:role="nrt">Naana Agyei-Ampadu (Grizella)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Elroy (Derek)</dc:creator>
+        <dc:creator opf:role="nrt">Victoria Gee (The Suspension of Geren)</dc:creator>
+        <dc:creator opf:role="nrt">Jaye Jacobs (Alkaran)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Kane (312 / Siras)</dc:creator>
+        <dc:creator opf:role="nrt">Shai Matheson (Professor Altazar)</dc:creator>
+        <dc:creator opf:role="nrt">David O'Mahony (Butlers)</dc:creator>
+        <dc:creator opf:role="nrt">Dianne Pilkington (Nurse)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Starll)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Welcome to The Eternity Club, where a warm welcome awaits the universe's greatest explorers. A place of mystery, intrigue and creeping danger.
+
+8.5 The Terrible Shame of a Tree
+Missing for a thousand years, the Endless Arboretum has been found. Are the last survivors of Lucrece still alive? And who is hunting for them?
+
+8.6 Mr Pym Has an Adventure
+Secretary Pym has never left the Eternity Club. This will never do. Bernice Summerfield drags him on an expedition. What could possibly go wrong?</dc:description>
+    </metadata>
+</package>

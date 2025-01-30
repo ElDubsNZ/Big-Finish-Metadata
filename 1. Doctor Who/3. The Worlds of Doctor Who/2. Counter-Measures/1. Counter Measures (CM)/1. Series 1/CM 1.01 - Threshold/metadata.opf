@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Threshold</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Counter Measures - Series 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Finch</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Pamela Salem (Dr Rachel Jensen)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Williams (Group Captain Ian Gilmore)</dc:creator>
+        <dc:creator opf:role="nrt">Karen Gledhill (Allison Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Ross (Sir Toby Kinsella)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Simkins)</dc:creator>
+        <dc:creator opf:role="nrt">Vernon Dobtcheff (Professor Heinrich Schumann)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Fettes (Lieutenant Tom Carver)</dc:creator>
+        <dc:creator opf:role="nrt">Alison Thea-Skot (Jenny Haveloc)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A missing scientist and ghostly phenomena bring Gilmore and Allison to a factory in Bermondsey, and the discovery of a science that should not exist. As Rachel Jensen returns to help them, a new future for Counter-Measures is set in motion…</dc:description>
+    </metadata>
+</package>

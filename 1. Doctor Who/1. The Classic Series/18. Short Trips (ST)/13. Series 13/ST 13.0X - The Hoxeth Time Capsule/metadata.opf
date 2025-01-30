@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Hoxteth Time Capsule</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 13"/>
+        <meta name="calibre:series_index" content="0"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Davis</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>George White experienced exciting, sometimes dangerous escapades throughout his professional and personal life. Now he loves to arrange public talks to share memories and pictures from his adventures around the world. At an event in Hoxteth, he meets a colourful stranger for the very first time.
+
+But if George can't recall ever meeting this man before, how can it be that the Sixth Doctor clearly appears in so many of the photographs that George took more than a decade ago?</dc:description>
+    </metadata>
+</package>

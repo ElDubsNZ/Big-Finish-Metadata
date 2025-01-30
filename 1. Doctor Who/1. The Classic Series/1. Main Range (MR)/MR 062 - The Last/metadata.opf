@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Last</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2004-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-102-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="62"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Gary Hopkins</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Westmaas (C'rizz)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Brooker (Minister Voss)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Derrington (Landscar)</dc:creator>
+        <dc:creator opf:role="nrt">John Dorney (Make-up Assistant)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Eastwood (Requiem)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Hills (Nurse)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Hines (Minster Tralfinial)</dc:creator>
+        <dc:creator opf:role="nrt">Carolyn Jones (Excelsior)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Perring (The Kro'ka)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Trapped on a dying world, the Doctor and Charley come face-to-face with those responsible for the war to end wars, while C'rizz tries to understand what has happened and learns the terrible truth.
+
+Powerful forces are at work on Bortresoye that not even a nuclear holocaust can tame; natural forces that have excited the interest of Excelsior, the self-proclaimed saviour of her people.
+
+With Charley immobilised and C'rizz left to battle against the elements with some of the victims of war, one final, desperate hope of escape presents itself to the travellers.
+
+But who will be the last to leave the planet? Who will have to stay behind? And will the Doctor, Charley and C'rizz live long enough to find out?</dc:description>
+    </metadata>
+</package>

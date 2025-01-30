@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Rani Elite</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-335-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="194"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Justin Richards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Siobhán Redmond (The Rani)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Bone (Vice Chancellor)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Morton (Reev)</dc:creator>
+        <dc:creator opf:role="nrt">Mike Noble (Miklev)</dc:creator>
+        <dc:creator opf:role="nrt">Becky Wright (Lizzo)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS arrives in the CAGE - not a trap, but the College of Advanced Galactic Education, one of the most prestigious academic institutions in colonised space.
+
+ Not a trap. Or is it?
+
+ The Doctor’s here to receive an honorary degree in Moral Philosophy. But there’s something rotten at the heart of the Medical Facility. Someone is operating on the students. Someone without a conscience. Someone with access to a Sidelian Brain Scanner – a technology that hasn’t been invented yet.
+
+ That someone is the ruthless Time Lord scientist known as the Rani – in her new incarnation. But will the Doctor and Peri recognise the Rani’s hand before her trap is sprung?
+
+</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Flood</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-808-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Rose Tyler - The Dimension Cannon - Series 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lisa McMullin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Billie Piper (Rose)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Benton (Clive)</dc:creator>
+        <dc:creator opf:role="nrt">Shaun Dingwall (Alternative Pete / Control Pete)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Jameson (Rob Tyler)</dc:creator>
+        <dc:creator opf:role="nrt">Elli Garnett (Caroline)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Mr Finch)</dc:creator>
+        <dc:creator opf:role="nrt">Julia Hills (Margo Kinnear)</dc:creator>
+        <dc:creator opf:role="nrt">Gemma Page (Agent)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Making another leap with a new companion, Rose finds a world suffering environmental change. The rain won't stop, and the government could be hiding the scale of the impending disaster.
+
+While Rose connects with another version of Pete and a strangely compelling young man, Clive meets someone special of his own. In this world, there was no Clive for Caroline to meet, but love can cross dimensions.</dc:description>
+    </metadata>
+</package>

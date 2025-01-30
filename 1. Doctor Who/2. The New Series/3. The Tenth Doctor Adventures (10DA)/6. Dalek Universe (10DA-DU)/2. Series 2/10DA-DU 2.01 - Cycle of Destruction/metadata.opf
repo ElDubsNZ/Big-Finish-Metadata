@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Cycle of Destruction</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-358-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Tenth Doctor Adventures - Dalek Universe 2"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Roy Gill</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Tennant (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Anya Kingdom)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Sims (Mark Seven)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Crispin Torr / Jason Four)</dc:creator>
+        <dc:creator opf:role="nrt">Nina Toussaint-White (Mariah Six)</dc:creator>
+        <dc:creator opf:role="nrt">Avita Jay (Moran Kez / Hera)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>After Mark starts behaving oddly, the Doctor and Anya find themselves on a strange planet with their friend missing. Searching for him they find their way to an isolated research base. The corridors show signs of animal incursions and the scientists are behaving strangely. But a big surprise is waiting for them.
+
+Because this is where Mark Seven came from. They’re about to find out who he is. But is that information too dangerous to know?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Ghost Town</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2002-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-495-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Sarah Jane Smith - Series 1"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Rupert Laight</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Elisabeth Sladen (Sarah Jane Smith)</dc:creator>
+        <dc:creator opf:role="nrt">Jeremy James (Josh Townsend)</dc:creator>
+        <dc:creator opf:role="nrt">Ingrid Evans (Yolande)</dc:creator>
+        <dc:creator opf:role="nrt">Brian Miller (Abbotly)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Jezek (Jack McElroy)</dc:creator>
+        <dc:creator opf:role="nrt">Elizabeth Faulkner (Candice McElroy)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Donovan (Professor Vodancski)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>PEACE CONFERENCE TO BE HELD IN ROMANIA 
+
+Sarah and Josh set off for a well-deserved break in a remote Romanian village, hidden deep in the Carpathian Mountains. Sarah has arrived at an appropriate time — the place has become the location for an International Peace Conference. When Sarah is awoken in the night by a terrifying apparition Josh is forced to wonder whether it's a ghost or just a figment of Sarah's imagination? But conference delegates are being terrified too – literally scared to death. Is there something deadly about this little village?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Memory Cheats</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-582-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 6"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Wendy Padbury (Zoe Heriot)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Hayes (Jen)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Zoe Heriot remembers everything. But she remembers nothing.
+
+ A genius with instant recall, Zoe's mind has been purged of her memories of travelling with the Doctor and Jamie in the TARDIS. And years later she is in deep trouble, prosecuted by a mysterious company that has evidence that she has travelled in Space and Time.
+
+ Except Zoe knows they’re wrong.  Aren’t they?
+
+ But if that’s the case, why is there proof that Zoe was in Uzbekistan in 1919.
+
+ Can the memory cheat?</dc:description>
+    </metadata>
+</package>

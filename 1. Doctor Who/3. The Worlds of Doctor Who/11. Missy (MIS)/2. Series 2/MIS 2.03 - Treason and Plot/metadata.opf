@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Treason and Plot</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-228-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Missy - Series 2"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Gemma Arrowsmith</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Michelle Gomez (Missy)</dc:creator>
+        <dc:creator opf:role="nrt">Ony Uhiara (Rita Cooper)</dc:creator>
+        <dc:creator opf:role="nrt">Ben Fox (Robert Catesby)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Hatherall (Guy Fawkes)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Pope (Rita's boss / William / Baron Worthing)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Gunpowder Plot. It’s a favourite of time travellers. If Missy’s going to hitch a ride, that’s the place to cause trouble. Especially if trouble makes a really big bang. 
+
+The only person in her way, trying to keep history on track, is a rookie Time Agent. But Rita Cooper wanted excitement...</dc:description>
+    </metadata>
+</package>

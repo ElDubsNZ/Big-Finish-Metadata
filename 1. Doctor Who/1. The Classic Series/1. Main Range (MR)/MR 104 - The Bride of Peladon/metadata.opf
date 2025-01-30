@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Bride of Peladon</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-289-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="104"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Barnaby Edwards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Caroline Morris (Erimem)</dc:creator>
+        <dc:creator opf:role="nrt">Jenny Agutter (Voice)</dc:creator>
+        <dc:creator opf:role="nrt">Yasmin Bannerman (Pandora)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Zixlyr / Arktos / Nardo)</dc:creator>
+        <dc:creator opf:role="nrt">Thomas Brodie-Sangster (Miner)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Childs (Foreman / Herald)</dc:creator>
+        <dc:creator opf:role="nrt">Christian Coulson (Pelleas)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Earl (Frankis / Grok / Croaky Voice)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Young Miner)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Goddard (Alpha Centuri / Alyxlyr / Computer)</dc:creator>
+        <dc:creator opf:role="nrt">Phyllida Law (Beldonia)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Peladon will bathe in oceans of blood! 
+
+A mysterious voice, a missing girl and a murdered queen. The Royal House of Peladon is once more plunged into intrigue, terror and death. The Doctor, Peri and Erimem must find their way through a treacherous labyrinth of lies if they are to distinguish friend from foe before it is too late.
+
+For deep beneath the Citadel of Peladon, something infinitely ancient and immeasurably powerful is stirring...</dc:description>
+    </metadata>
+</package>

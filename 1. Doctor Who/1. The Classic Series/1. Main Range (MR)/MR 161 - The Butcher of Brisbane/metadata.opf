@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Butcher of Brisbane</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-629-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="161"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Strickson (Vislor Turlough)</dc:creator>
+        <dc:creator opf:role="nrt">Daisy Ashford (Sasha Dialfa / Kaori)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Eugene Duplessis / Chops / Guard / Reporter/ Autovoice)</dc:creator>
+        <dc:creator opf:role="nrt">Felicity Duncan (Ingrid Bjarnsdottir / Stewardess)</dc:creator>
+        <dc:creator opf:role="nrt">Rupert Frazer (Dr Sa Yy Findecker)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Mallinson (Mr Sin)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Weyman (Ragnar Crezzen)</dc:creator>
+        <dc:creator opf:role="nrt">Angus Wright (Magnus Greel)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Adopting the alias of Weng-Chiang, the 51st century war criminal Magnus Greel will one day arrive in Victorian London by Time Cabinet – only to meet his doom, his plans undone by the Time Lord known as the Doctor.
+
+ The Doctor never believed he'd meet Greel again. But when a TARDIS trip to companion Tegan's home town goes wrong, the Doctor ends up in the younger Greel's heyday – in a world on the brink of all-out war.
+
+ With the Doctor at the mercy of Greel's alien associate Findecker and his army of mutations, Tegan is about to learn just why they called Greel 'The Butcher of Brisbane'…</dc:description>
+    </metadata>
+</package>

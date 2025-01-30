@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Shockwave</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-47131-173-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Destiny of the Doctor"/>
+        <meta name="calibre:series_index" content="7"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Swallow</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Brooker (Captain OhOne)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In the far future, the inhabitants of Tarsus Six face a desperate struggle to evacuate their world before their sun, Tarsus Ultra, collapses into a cataclysmic spatial anomaly.
+
+When the Doctor navigates the TARDIS to a space station orbiting Tarsus Six, Ace assumes that he intends offer their assistance. But it soon becomes clear that the Doctor has an agenda of his own.
+
+With the TARDIS immobilised, Ace realises that their own lives are as much in danger as those of the fleeing inhabitants. The race is on to escape the destruction of Tarsus Six and the devastating shockwave that will follow, reaching out and destroying everything in its wake.</dc:description>
+    </metadata>
+</package>

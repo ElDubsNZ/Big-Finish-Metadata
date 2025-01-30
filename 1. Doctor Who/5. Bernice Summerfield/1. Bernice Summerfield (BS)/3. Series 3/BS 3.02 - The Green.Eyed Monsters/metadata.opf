@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Green-Eyed Monsters</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2002-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-469-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 3"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Dave Stone</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Fewell (Jason Kane)</dc:creator>
+        <dc:creator opf:role="nrt">Maria Darling (Lady Ashantra du Lac)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Myers (Adrian Wall)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Joseph the Porter)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It isn't all fun for a new mum.
+
+Not only do you have to deal with the lack of sleep, the occasional embarrassing leak and the constant round of unexploded nappies - you have to deal with a couple of testeronically-charged idiots who won't get it through their skulls that you don't want either of them to be the Dad. Even though one of them technically is.
+
+So when Benny gets the chance to skip off for a while, heading into a Goronos System packed with duplicity and peril to authenticate certain highly significant artefacts and totems, she doesn't have to think twice.
+
+Only sometimes, as she'll learn, when heading into duplicity and peril, it's not a good idea to leave a hostage to fortune behind...</dc:description>
+    </metadata>
+</package>

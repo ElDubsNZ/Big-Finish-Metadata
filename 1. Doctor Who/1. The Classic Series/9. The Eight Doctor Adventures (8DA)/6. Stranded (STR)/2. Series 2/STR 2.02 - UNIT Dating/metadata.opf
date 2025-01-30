@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>UNIT Dating</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-167-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Stranded 2"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Roy Gill</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Hattie Morahan (Helen Sinclair)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Price (Sergeant Andy Davidson)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (Brigadier Lethbridge-Stewart / Gron)</dc:creator>
+        <dc:creator opf:role="nrt">David Shaw-Parker (Ron Winters)</dc:creator>
+        <dc:creator opf:role="nrt">Jeremy Clyde (Tony Clare)</dc:creator>
+        <dc:creator opf:role="nrt">Oscar Batterham (Ron Winters)</dc:creator>
+        <dc:creator opf:role="nrt">Ewan Goddard (Tony Clare)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the Doctor dips into his past to help TARDIS repairs in the present, Andy joins him on a trip to UNIT. In the 1970s, young soldier Ron Winters has just met lab assistant Tony Clare. But in 2020, they need Liv and Helen’s help when their memories start falling apart...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Glory Days</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-420-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 10"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nick Wallace</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Thomas Grant (Peter Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Irving Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Faulkner (Bev Tarrant)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Myers (Adrian Wall)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Academic and adventurer Bernice Summerfield has always taken a dim view of grave robbers and thieves.
+
+It's the kind of thing that makes life difficult when you're friends with one of the galaxy's most wanted criminals. A situation that gets even more complicated when that criminal's other half is the father of your son.
+
+A mess of twisted relationships like that needs sorting.
+
+The ideal method would be group therapy and a nice long cup of tea. Unfortunately, a raid on an impregnable location governed by a sociopathic mastermind where one false move means death is all they've got time for.</dc:description>
+    </metadata>
+</package>

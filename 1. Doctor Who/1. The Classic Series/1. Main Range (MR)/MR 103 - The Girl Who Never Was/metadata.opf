@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Girl Who Never Was</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2007-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-287-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="103"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Cybermen / Tourist / Goon)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Duncan (Borthwick / Captain)</dc:creator>
+        <dc:creator opf:role="nrt">Anna Massey (Miss Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Jake McGann (Young Man)</dc:creator>
+        <dc:creator opf:role="nrt">Natalie Mendoza (Receptionist)</dc:creator>
+        <dc:creator opf:role="nrt">Amanda Root (Madeleine Fairweather / Simons)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Sutton (Colville)</dc:creator>
+        <dc:creator opf:role="nrt">Danny Webb (Byron / Tourist)</dc:creator>
+        <dc:creator opf:role="nrt">David Yip (Curly / Tourist / Inspector Yew)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Dot dot dot, dash dash dash, dot dot dot. Someone's listening. Somewhere.' 
+
+A ghost ship. A girl with no memory, adrift in time. An old enemy. This could be Charlotte Pollard's finest hour - or her last.
+
+Set course for Singapore, 1931. Journey's end.</dc:description>
+    </metadata>
+</package>

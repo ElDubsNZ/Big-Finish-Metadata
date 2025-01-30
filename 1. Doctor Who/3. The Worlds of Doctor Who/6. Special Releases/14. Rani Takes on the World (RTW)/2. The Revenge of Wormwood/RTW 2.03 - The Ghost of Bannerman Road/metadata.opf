@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Ghost of Bannerman Road</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-995-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Rani Takes on the World - Volume 2 - The Revenge of Wormwood"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Anjli Mohindra (Rani Chandra)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Anthony (Clyde Langer)</dc:creator>
+        <dc:creator opf:role="nrt">Tommy Knight (Luke Smith)</dc:creator>
+        <dc:creator opf:role="nrt">Samantha Bond (Mrs Wormwood)</dc:creator>
+        <dc:creator opf:role="nrt">Carla de Wansey (Major Hadley)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>13 Bannerman Road. The place where it all began, where Rani, Clyde and Luke fought alien menaces with Sarah Jane. Now it’s locked up, derelict and under the watch of UNIT, because top scientists are mysteriously disappearing, and items of alien technology are being stolen from laboratories. An old friend is planning to make her return...and Rani and Clyde have to face their own ghosts.</dc:description>
+    </metadata>
+</package>

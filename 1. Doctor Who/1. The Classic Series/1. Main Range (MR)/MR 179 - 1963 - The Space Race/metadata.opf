@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>1963 - The Space Race</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-079-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="179"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Alexander (Captain Alexei Kozlov / Lieutenant Andrews)</dc:creator>
+        <dc:creator opf:role="nrt">Samantha Béart (Marinka Talanov)</dc:creator>
+        <dc:creator opf:role="nrt">Stuart Denman (Sergeant Leonid Kurakin)</dc:creator>
+        <dc:creator opf:role="nrt">Karen Henson (Larisa Petrov)</dc:creator>
+        <dc:creator opf:role="nrt">David Shaw-Parker (General Mikhail-Leonov / General Paterson)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>November 1963, and the Soviet space programme reigns supreme. Having sent the first animals, then the first men beyond Earth's atmosphere, now they're sending a manned capsule into orbit around the Moon.
+
+Just as Vostok Seven passes over into the dark side, however, its life support system fails. Only the intervention of the Sixth Doctor and Peri, adopting the identities of scientists from Moscow University, means that contact with the capsule is regained.
+
+But something has happened to the cosmonaut on board. She appears to have lost her memory, and developed extreme claustrophobia. Maybe she’s not quite as human as she used to be…</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Snake Head</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2005-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-114-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - Series 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Clements</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Siri O'Neal (Colonel Emily Chaudhry)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Deal (Colonel Robert Dalton)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Brooker (Dr Hendrick)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Curbishley (Lieutenant Hoffman)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Hayles (Kevin)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Longworth (Goran)</dc:creator>
+        <dc:creator opf:role="nrt">Jane MacFarlane (Anni)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A mobile phone call to the emergency services, a body found on Government land and an ancient burial site unearthed at an archaeological dig all point toward an odd mystery by the coast... 
+
+UNIT's new commander, Colonel Robert Dalton, and its political officer, Colonel Emily Chaudhry, investigate strange goings-on in Southend. What is out there on the beach? What happened to the recently found savaged body? And what of the man who's just been smuggled into the country? 
+
+Is this just a simple case for the local police or, as Chaudhry suspects, is there more to it than meets the eye...?</dc:description>
+    </metadata>
+</package>

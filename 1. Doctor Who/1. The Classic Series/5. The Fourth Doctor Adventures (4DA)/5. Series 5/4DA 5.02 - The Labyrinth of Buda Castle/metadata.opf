@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Labyrinth of Buda Castle</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-729-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 5"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Barrett (Guard-Major Priskin)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Bonnar (Zoltan Frid)</dc:creator>
+        <dc:creator opf:role="nrt">Kate Bracken (Celia Soames)</dc:creator>
+        <dc:creator opf:role="nrt">John Dorney (Ensign Kanta)</dc:creator>
+        <dc:creator opf:role="nrt">Anjella MacKintosh (Anita Kereki)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and Romana land in Budapest, intent on enjoying another holiday, but shortly after landing they find themselves too late to save the life of a man who has seemingly been attacked by a vampire. As they learn that this is the latest in a series of violent attacks, it becomes clear that they have stumbled onto something that needs investigating.
+
+Aided by a vampire hunter who is searching for Dracula, they look into the nearby Buda caves, currently being used for storage by the military - and find that the soldiers have problems of their own.
+
+Stalked through the tunnels by a monster, and up against an ancient evil, the race is on to escape alive - and foil the dastardly schemes of the maniacal Zoltan Frid.</dc:description>
+    </metadata>
+</package>

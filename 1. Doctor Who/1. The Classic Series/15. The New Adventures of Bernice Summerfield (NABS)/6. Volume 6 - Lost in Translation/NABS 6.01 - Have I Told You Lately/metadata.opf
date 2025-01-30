@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Have I Told You Lately?</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-028-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The New Adventures of Bernice Summerfield - Volume 6 - Lost in Translation"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">David Warner (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Misha Butler (The Speaker)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Bernice and the Doctor find themselves lost in the dark with the only clue to their surroundings a mysterious voice. </dc:description>
+    </metadata>
+</package>

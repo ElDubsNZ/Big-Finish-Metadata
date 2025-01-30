@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Heroes of Sontar</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-558-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="146"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Strickson (Vislor Turlough)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Fleet Marshall Stabb / Trooper Jorr / Witch Guard)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Carlyle (Trooper Vend)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Fettes (Corporal Clun)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Lowe (Sergeant Mezz / Trooper Nold)</dc:creator>
+        <dc:creator opf:role="nrt">Duncan Wisbey (Field-Major Thurr / Adjutant / Orbital Command)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Planet Samur was once a peaceful haven. Pilgrims journeyed across the seven galaxies to meditate in the courtyards of the vast Citadel that spanned its equator. It was Samur’s misfortune, however, to find itself situated on the furthermost frontier in the eternal war between the amoeboid Rutan Host and the belligerent, troll-like Sontarans...
+
+Twenty years after detonating a bacteriological weapon over Samur, rendering it uninhabitable, the Sontarans are back: a select platoon of seven has landed here on a secret mission, carrying sealed orders given to them by Fleet Marshal Stabb.
+
+The TARDIS has landed here, too, bringing the Doctor, Tegan, Turlough and Nyssa into the second great Battle of Samur. Fighting not only the Sontarans but mystical mercenaries… and a deadly, decades-old curse.</dc:description>
+    </metadata>
+</package>

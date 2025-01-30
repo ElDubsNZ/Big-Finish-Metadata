@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Max Warp</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-305-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Series 2"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sheridan Smith (Lucie Miller)</dc:creator>
+        <dc:creator opf:role="nrt">Graeme Garden (Geoffrey Vantage / Interviewer)</dc:creator>
+        <dc:creator opf:role="nrt">James Fleet (O'Reilley)</dc:creator>
+        <dc:creator opf:role="nrt">Duncan James (Timbo)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Alien Karaoke Singer)</dc:creator>
+        <dc:creator opf:role="nrt">Nick Brimble (Kith Ambassador / Kith Oligarch / Announcer)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Alien Karaoke Singer / Announcer)</dc:creator>
+        <dc:creator opf:role="nrt">Samantha Hughes (President Varlon / Announcer)</dc:creator>
+        <dc:creator opf:role="nrt">Katarina Olsson (Judd Gilbride / Interviewer / Announcer)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Welcome to Max Warp! Broadcasting live from the Sirius Inter-G Cruiser Show. Hosted by outspoken columnist and media personality Geoffrey Vantage, with spaceship-guru-extraordinaire O'Reilley and daredevil pilot Timbo 'the Ferret'.
+
+When a test flight of the new Kith Sunstorm ends in disaster, the Sirius Exhibition Station is plunged into a web of murder and intrigue. Someone - or something - is trying to re-ignite a war between the Varlon Empire and the Kith Oligarchy.
+
+As the fate of the galaxy hangs in the balance, only two investigators, the Doctor and Lucie, can hope to uncover the truth.
+
+So strap yourself in, engage thrust, and prepare for... Max Warp!</dc:description>
+    </metadata>
+</package>

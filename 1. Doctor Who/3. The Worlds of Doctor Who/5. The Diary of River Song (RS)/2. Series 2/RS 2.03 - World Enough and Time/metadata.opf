@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>World Enough and Time</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-425-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Diary of River Song - Series 2"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sara Powell (The PA)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Alexander (Todd the Pod)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Autocorrect)</dc:creator>
+        <dc:creator opf:role="nrt">Aaron Neil (Computer)</dc:creator>
+        <dc:creator opf:role="nrt">Alan Cox (Speravore)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When it comes to bringing down corrupt and exploitative regimes, there is no-one quite like River. 
+
+Until she arrives at Golden Futures and discovers that someone else has already taken on her job. Someone with almost as much style and panache as herself. 
+
+The Doctor is about to get the shock of his lives.</dc:description>
+    </metadata>
+</package>

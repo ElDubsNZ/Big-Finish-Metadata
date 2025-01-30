@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Great Cyber-War</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-896-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Audacity"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jaye Griffiths (Audacity Montague)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Cybermen)</dc:creator>
+        <dc:creator opf:role="nrt">Keith Drinkel (Oberon Fix)</dc:creator>
+        <dc:creator opf:role="nrt">Karen Archer (Vrull)</dc:creator>
+        <dc:creator opf:role="nrt">James MacCallum (Nelvin)</dc:creator>
+        <dc:creator opf:role="nrt">Diana Yekinni (Dellatine)</dc:creator>
+        <dc:creator opf:role="nrt">Trudie Goodwin (Galta)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Part One: The Great Cyber-War. Humanity and her allies versus the horror of the Cybermen. This is no place for the Doctor to take his new best friend. But on the Aurum, the war seems far away. There are parties and cupcakes and all the gold of Voga - and not a Cyberman to be seen...
+
+Part Two: The Cyber-War has come to the Aurum. The best hope of survival lies with the great Oberon Fix - the finest scientific mind of his generation, working to protect humanity. But the Doctor is worried that his own presence will affect history's outcome. And for Audacity, life with the Doctor will never be the same again...</dc:description>
+    </metadata>
+</package>

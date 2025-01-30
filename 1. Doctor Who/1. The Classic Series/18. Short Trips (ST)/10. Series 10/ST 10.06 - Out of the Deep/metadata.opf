@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Out of the Deep</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 10"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Pritchard</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Purves (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Drawn to Mesopotamia in the 1850s by an unknown signal, the Doctor and Steven cross paths with an archaeological expedition looking for one of the world’s first cities, Eridu. Darkness sits at the heart of Eridu, an ancient evil that is stirring.
+
+Some things are buried for a reason.</dc:description>
+    </metadata>
+</package>

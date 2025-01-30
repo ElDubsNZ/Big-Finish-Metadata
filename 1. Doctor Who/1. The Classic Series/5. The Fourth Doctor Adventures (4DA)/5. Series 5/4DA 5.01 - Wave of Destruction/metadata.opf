@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Wave of Destruction</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-727-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 5"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Justin Richards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Derek Fretus / Shop Attendant at Baggies)</dc:creator>
+        <dc:creator opf:role="nrt">Phil Mulryne (Barnaby Miller / Eric)</dc:creator>
+        <dc:creator opf:role="nrt">Alix Wilton Regan (Jill)</dc:creator>
+        <dc:creator opf:role="nrt">Karl Theobald (Mark Lanchaster)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A modulated frequency wave cancellation signal isn’t something that the Doctor and Romana expect to detect in 1960s London. But then they don’t expect to find Professor Lanchester, the man who invented it, lying unconscious. Or MI5 investigating.
+
+With the help of MI5 Agent Miller, Lanchester’s daughter Jill, and his nephew a pirate radio DJ called Mark, the Doctor, Romana and K-9 investigate. They soon discover that there is more at risk than they imagined, and an alien invasion is about to begin.
+
+Can the Doctor identify and defeat the aliens in time? Will Romana manage to find a recombinant transducer before it’s too late? And how will K-9 cope with his new job?</dc:description>
+    </metadata>
+</package>

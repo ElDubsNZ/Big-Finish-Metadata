@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Hollows of Time</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-447-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 1"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Christopher H Bidmead</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Victoria Finney (Jane)</dc:creator>
+        <dc:creator opf:role="nrt">David Garfield (Professor Stream)</dc:creator>
+        <dc:creator opf:role="nrt">Hywel John (Steel Specs)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Littledale (Reverend Foxwell)</dc:creator>
+        <dc:creator opf:role="nrt">Susan Sheridan (Mrs Streeter / Simon)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Lost Stories: Adventures that were originally written for the Doctor Who television series but never made. Now available to hear for the first time…
+
+The Doctor and Peri have been on holiday, visiting old friend Reverend Foxwell in the sleepy English village of Hollowdean. But why are their memories so hazy?
+  
+Piecing together events they recall a mysterious chauffeur, who is not what he seems, and Foxwell's experiments that could alter the nature of reality. Huge sand creatures have been sighted on the dunes, and many of the locals are devoted to a leader known as 'Professor Stream'.
+  
+But who is Stream? And what lies within the Hollows of Time?
+  
+The Doctor will discover that not every question has a definitive answer...</dc:description>
+    </metadata>
+</package>

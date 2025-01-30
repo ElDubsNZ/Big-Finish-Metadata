@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Vanishing Point</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-165-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Second Doctor Adventures - Conspiracy of Raven"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mark Wright, Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Michael Troughton (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Frazer Hines (Jamie)</dc:creator>
+        <dc:creator opf:role="nrt">Wendy Padbury (Zoe)</dc:creator>
+        <dc:creator opf:role="nrt">Emma Noakes (Raven)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline King (Ananke)</dc:creator>
+        <dc:creator opf:role="nrt">Callum Pardoe (Aither)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Celestin / Morai Novice)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Following the threads of a conspiracy twisting throughout all of time and space, the Doctor and his companions head to the Vanishing Point - a mythical place, said to exist somewhere between science and magic. But it is a journey from which they may never return.</dc:description>
+    </metadata>
+</package>

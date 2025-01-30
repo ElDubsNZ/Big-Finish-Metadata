@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Beautiful Game</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-128-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Ninth Doctor Adventures - Series 3 - Volume 1 - Pioneers"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Katharine Armitage</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Eccleston (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Rachel Fenwick (Daphne)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Ellis (Donald)</dc:creator>
+        <dc:creator opf:role="nrt">Becky Wright (Eva / Strike)</dc:creator>
+        <dc:creator opf:role="nrt">Raymond Coulthard (William Sudell)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor decides to treat himself and attend the historic meeting which founds the football league. But he arrives a week early!
+
+Instead, he must enlist the help of a hotel maid to battle an obsessive alien before it consumes everything that will ever be connected to the beautiful game...</dc:description>
+    </metadata>
+</package>

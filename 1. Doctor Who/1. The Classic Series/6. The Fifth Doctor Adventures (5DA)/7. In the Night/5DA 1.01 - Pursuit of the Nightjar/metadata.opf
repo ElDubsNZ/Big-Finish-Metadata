@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Pursuit of the Nightjar</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-886-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fifth Doctor Adventures - Volume 5 - In the Night"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Fenella Woolgar (Captain Eslo)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Thornley (Captain Goben)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The story of the Nightjar has been told for many years. A spaceship helmed by the legendary Captain Goben on a vital mission of mercy, delivering medical supplies to a distant colony in the middle of devastating war, an act of bravery that triggers the end of the conflict.
+
+At her heels throughout the journey, her pursuer, the spaceship Nemesis, helmed by the dogged Captain Eslo, never quite able to catch her target. The Doctor has always wanted to witness these historic events. And now, alongside Nyssa and Tegan, he's got his chance.
+
+But history might just have other ideas.</dc:description>
+    </metadata>
+</package>

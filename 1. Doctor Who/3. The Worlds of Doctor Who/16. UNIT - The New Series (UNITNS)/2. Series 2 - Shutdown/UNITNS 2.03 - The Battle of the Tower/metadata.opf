@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Battle of the Tower</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-614-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - The New Series - Series 2 - Shutdown"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andrew Smith</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jemma Redgrave (Kate Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Ingrid Oliver (Osgood)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Captain Josh Carter)</dc:creator>
+        <dc:creator opf:role="nrt">Alice Krige (Felicity Lyme)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Carrington (Sir Peter Latcham)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Li (Dokan)</dc:creator>
+        <dc:creator opf:role="nrt">Akira Koieyama (Chiso / Tengobushi Assassins)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The threat is now clear, and Kate Stewart retreats to UNIT HQ with her most trusted colleagues. She has no choice but to place the Black Archive into lockdown, and the Tower of London is where UNIT will make its stand. 
+
+While the capital sleeps, an alien horde is gathering, ready to rise from the shadows to attack Earth's greatest defence force inside its own stronghold. 
+
+The Tower is infiltrated, and UNIT must hold the line. At any cost. Lock and load...</dc:description>
+    </metadata>
+</package>

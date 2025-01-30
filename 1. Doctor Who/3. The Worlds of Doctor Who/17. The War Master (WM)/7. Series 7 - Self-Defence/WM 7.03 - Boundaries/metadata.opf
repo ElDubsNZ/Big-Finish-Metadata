@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Boundaries</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-779-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Master - Series 7 - Self-Defence"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizbeth Myles</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Derek Jacobi (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Jo Joyner (Fenice)</dc:creator>
+        <dc:creator opf:role="nrt">Jonny Green (Cole Jarnish)</dc:creator>
+        <dc:creator opf:role="nrt">Phil Dunster (Kerrif)</dc:creator>
+        <dc:creator opf:role="nrt">Abigail Thaw (Salaskin)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>As his companion Cole attempts to save a world, the Master discovers an extraterrestrial entity that threatens to spread across the globe.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Death and the Daleks</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2004-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-043-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 4"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Cornell</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Irving Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Fewell (Jason Kane)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Mister Crofton / The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Collier (Isaac Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Beverley Cressman (Ms Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Faulkner (Bev Tarrant)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Myers (Adrian Wall)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Shallard (Marshal Anson)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Westfield (Bernard Moskof)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Joseph)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Braxiatel Collection has been occupied by the Fifth Axis, led by a figure from Bernice's past.
+
+As Bernice's friends rise up to end the occupation, Bernice embarks on a desperate rescue mission, to somewhere she last went long ago.
+
+Braxiatel confronts his destiny, Jason risks all for his love, and lives are shattered and lost, as the battle of the Braxiatel Collection reaches its epic conclusion.
+
+Our heroes will live free or die...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Forever Fallen</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 6"/>
+        <meta name="calibre:series_index" content="13"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Joshua Wanisko</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Nicholas Briggs (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Until now, an offered chance from the Doctor has never stopped the villain's schemes.
+
+Until now, the android armies, the powerful space stations, the mind-control rays, have gone unchecked to disastrous effect.
+
+Until now...
+
+...But then what happens?</dc:description>
+    </metadata>
+</package>

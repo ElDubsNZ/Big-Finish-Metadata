@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Temple of Questions</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-598-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 12 - Epoch"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jacqueline Rayner</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Ayesha Antoine (Ruth)</dc:creator>
+        <dc:creator opf:role="nrt">Marcus Hutton (Leonidas)</dc:creator>
+        <dc:creator opf:role="nrt">David Ames (Jack)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Irving Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">John Ainsworth (Robot)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy Brabin (The Queen)</dc:creator>
+        <dc:creator opf:role="nrt">Prentis Hancock (Craisus)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Handcock (Guard Captain / Cavemen)</dc:creator>
+        <dc:creator opf:role="nrt">Graeme Henderson (Constable)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Johnson (Darion)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Mallinson (Driver)</dc:creator>
+        <dc:creator opf:role="nrt">John Montgomery (Acanthus / Heskith)</dc:creator>
+        <dc:creator opf:role="nrt">Rebecca Newman (Helena)</dc:creator>
+        <dc:creator opf:role="nrt">John Stahl (Poseidon)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Thompson (The Epoch)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Turner (Urchin)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Wright (Shopper)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Life can be dangerous when a god’s got it in for you. Bernice and her Historian allies, Ruth and Leonidas, are trying to unearth the truth behind the mysterious world they’re living in. Poseidon, god of the seas, is apparently offering them answers – but only if they play his games. And he’s not playing fair… Bernice’s new family is in danger of being ripped apart by forces that are beyond their understanding. To keep her friends, she might have to lose the games... and her life with them.</dc:description>
+    </metadata>
+</package>

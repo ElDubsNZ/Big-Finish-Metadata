@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Sirens of Time</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>1999-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-428-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Temperon / Drudgers)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Fettes (Commander Raldeth / Schmidt)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Gatiss (Captain Schwieger / Captain / Knight 2)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Keetch (Coordinator Vansell)</dc:creator>
+        <dc:creator opf:role="nrt">Colin McIntyre (Sancroff)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Mowat (Knight Commander Lyena)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Pegg (Delegate)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Stables (Ruthley)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Wade (The President)</dc:creator>
+        <dc:creator opf:role="nrt">John Wadmore (Commandant / Lt Zentener / Pilot Azimendah / Sub-Commander Solanec)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Gallifrey is in a state of crisis, facing destruction at the hands of an overwhelming enemy. And the Doctor is involved in three different incarnations - each caught up in a deadly adventure, scattered across time and space. The web of time is threatened - and someone wants the Doctor dead.
+
+The three incarnations of the Doctor must join together to set time back on the right track - but in doing so, will they unleash a still greater threat?
+
+The Seventh Doctor is in Episode 1 of this four-part story; the Fifth Doctor is in episode 2; the Sixth Doctor is in episode 3; and all three Doctors are in the final episode.</dc:description>
+    </metadata>
+</package>

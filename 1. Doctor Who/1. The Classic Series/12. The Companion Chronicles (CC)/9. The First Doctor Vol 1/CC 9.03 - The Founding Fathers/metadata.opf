@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Founding Fathers</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-435-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - The First Doctor - Volume 1"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Purves (Steven Taylor)</dc:creator>
+        <dc:creator opf:role="nrt">Alice Haig (Sida)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Abigail Holt)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS lands in Leicester Square in the summer of 1762. When the Doctor, Steven and Vicki find themselves locked out of the TARDIS, only one man can possibly help them. But the American, Benjamin Franklin, has problems of his own...</dc:description>
+    </metadata>
+</package>

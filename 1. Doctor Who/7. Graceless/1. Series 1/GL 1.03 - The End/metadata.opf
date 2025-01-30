@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The End</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-511-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Graceless - Series 1"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Ciara Janson (Abby)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Doddington (Zara)</dc:creator>
+        <dc:creator opf:role="nrt">David Warner (The Grace / Daniel)</dc:creator>
+        <dc:creator opf:role="nrt">Fraser James (Marek)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Keating (Kreekpolt)</dc:creator>
+        <dc:creator opf:role="nrt">Colin Spaull (Uncle Lindsay)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Mallinson (Nicholas Payne)</dc:creator>
+        <dc:creator opf:role="nrt">Roger Watkins (Garstang)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Persephone)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Grace don't know everything. We have to do what's right! 
+
+Abby and Zara's past is catching up with them. A man they did wrong by has hunted them down across all of time and space, just to sell them out. 
+
+The space pirate Kreekpolt knows the sisters can save his daughter's life — even if it burns Abby and Zara completely away. 
+
+After that, ten thousand dead souls — hungry and empty and furious — want whatever is left...</dc:description>
+    </metadata>
+</package>

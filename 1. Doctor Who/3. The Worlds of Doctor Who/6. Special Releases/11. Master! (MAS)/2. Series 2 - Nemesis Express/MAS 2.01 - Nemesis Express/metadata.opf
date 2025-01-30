@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Nemesis Express</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-783-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Master! - Series 2 - Nemesis Express"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Whitelock</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Eric Roberts (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Chase Masterson (Vienna Salvatori)</dc:creator>
+        <dc:creator opf:role="nrt">Teri Ann Bobb-Baxter (Passion)</dc:creator>
+        <dc:creator opf:role="nrt">Rodney Gooden (Brother Urmah)</dc:creator>
+        <dc:creator opf:role="nrt">Esmonde Cole (Griz Scarden / Kryle)</dc:creator>
+        <dc:creator opf:role="nrt">Michelle Asante (Kairos Computer)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Vienna Salvatori boards the Kairos in search of a stolen gem, and young thief Passion is hiding out and feels like the ship itself is watching her. 
+
+Both women are about to be thrown together - and it's no accident. For the ship's Vortex drive has brought the Master back from oblivion, and he has plans for them both.</dc:description>
+    </metadata>
+</package>

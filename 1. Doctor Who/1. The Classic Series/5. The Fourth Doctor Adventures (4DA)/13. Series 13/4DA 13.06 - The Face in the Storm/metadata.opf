@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Face in the Storm</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-461-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 13"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Sarah Grochala</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (Harry Sullivan)</dc:creator>
+        <dc:creator opf:role="nrt">Eleanor Crooks (Naomi Cross)</dc:creator>
+        <dc:creator opf:role="nrt">Kayi Ushe (Samuel Clemetson)</dc:creator>
+        <dc:creator opf:role="nrt">Reece Pantry (Arnold Dacres)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Weeks (Captain Edward Sackville-Smythe)</dc:creator>
+        <dc:creator opf:role="nrt">Helen Goldwyn (The Yukionna)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>1916 and the TARDIS has landed in the cargo hold of the SS Maycrest, a ship transporting soldiers across the Atlantic. 
+
+Except that's not all that’s being transported across the ocean. Because the Doctor and his friends find a strange crate in the hold, a crate that's unnaturally cold. 
+
+But the contents of the crate are not the ship's biggest secret. Nor it's deadliest threat...</dc:description>
+    </metadata>
+</package>

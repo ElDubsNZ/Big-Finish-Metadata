@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Moons of Vulpana</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-851-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="251"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Emma Reeves</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jessica Martin (Mags)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Bankolé (Issak)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Goddard (Barton)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Knopp (Tob)</dc:creator>
+        <dc:creator opf:role="nrt">Nimmy March (Ulla)</dc:creator>
+        <dc:creator opf:role="nrt">Irfan Shamji (Jaks)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor has returned Mags, formerly of the Psychic Circus, to her native world: Vulpana.
+
+Not the savage Vulpana that Mags was taken from, but Vulpana in an earlier era. The Golden Millennium – when the Four Great Wolf Packs, each devoted to one of the planet’s four moons, oversaw the height of Vulpanan civilisation. A time when the noblest families of the Vulpanan aristocracy found themselves in need of new blood…
+
+A golden age that’s about to come to a violent end!</dc:description>
+    </metadata>
+</package>

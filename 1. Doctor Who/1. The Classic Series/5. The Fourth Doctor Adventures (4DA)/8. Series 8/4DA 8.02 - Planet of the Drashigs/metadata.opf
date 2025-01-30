@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Planet of the Drashigs</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 8"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Phil Mulryne</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Ann Kelso)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">Jeremy Clyde (Lord Braye)</dc:creator>
+        <dc:creator opf:role="nrt">Lizzie Roper (Trencher)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Ryan (Titus Wayland)</dc:creator>
+        <dc:creator opf:role="nrt">Fenella Woolgar (Vanessa Seaborne)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the TARDIS lands on an alien planet, the Doctor’s intentions to show Ann Kelso an advanced future society are thrown into disarray.  Because they have arrived on DrashigWorld - a park where every known species of the terrifying predators has been gathered together to entertain and thrill the public. The familiar wetland Drashigs, the albino burrowing Drashigs of the desert, and deadliest of all, the tiny Emerald Drashigs of the rain forests.
+
+And it’s not the best day to have arrived. The park has been shut down due to a visitor fatality. A Galactic Attractions inspector is on site meaning everyone is extremely tense and under pressure.
+
+It’s exactly the right circumstances in which someone might make a mistake. And on Drashigworld, mistakes are deadly.</dc:description>
+    </metadata>
+</package>

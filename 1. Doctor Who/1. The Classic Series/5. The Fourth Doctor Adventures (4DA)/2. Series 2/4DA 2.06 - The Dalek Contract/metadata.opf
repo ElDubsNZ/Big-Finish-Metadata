@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Dalek Contract</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-059-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 2"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Mary Tamm (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9 / Tollivun)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks / Pilot)</dc:creator>
+        <dc:creator opf:role="nrt">John Dorney (Sterris / Hurtaz Warrior)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Hadoke (Mr Dorrick / Hurtaz Warrior)</dc:creator>
+        <dc:creator opf:role="nrt">Dominic Mafham (Chidak)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Halker)</dc:creator>
+        <dc:creator opf:role="nrt">David Warner (Cuthbert)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>These creatures have ravaged half the cosmos. They're experts at this kind of thing. Nothing can stand in their way.'
+
+The Doctor and Romana find themselves in the Proxima System, where enigmatic Conglomerate CEO Cuthbert has been conducting his infamous 'experiment'. An experiment which might accidentally rip the universe apart.
+
+Meanwhile, living conditions on Proxima Major have become harsh and hostile. Climate change has turned the landscape into a freezing wasteland and an alien power has condemned much of the population to life inside internment camps. For those still clinging to their freedom, the struggle for survival is now beyond desperate and outsiders such as the Doctor and Romana are only seen as a threat.
+
+What is Cuthbert really up to in the Proxima System, and just how does he expect the dreaded Daleks to fit into his plan?</dc:description>
+    </metadata>
+</package>

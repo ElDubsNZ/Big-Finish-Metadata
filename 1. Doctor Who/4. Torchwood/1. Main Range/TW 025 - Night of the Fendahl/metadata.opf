@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Night of the Fendahl</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-473-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="25"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Eve Myles (Gwen Cooper)</dc:creator>
+        <dc:creator opf:role="nrt">Bradley Freegard (Phil Patterson)</dc:creator>
+        <dc:creator opf:role="nrt">Gavin Swift (Derek Jennings)</dc:creator>
+        <dc:creator opf:role="nrt">Gerald Tyler (Marco Fendelman)</dc:creator>
+        <dc:creator opf:role="nrt">Guy Adams (Ged Gently)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Torchwood vs Monsters! 
+
+Marco makes films. You wouldn't like them. The lighting's shoddy, the sets are cheap and the sound's appalling. But there's an audience for them. Because they're films in which bad things happen to women. 
+
+Marco's latest venture is based on real events. Events which took place in Fetch Priory many years ago. It's an anthology piece, and Marco needs one final victim. But the last victim is not who anyone is expecting. 
+
+Death has returned to Fetch Priory. And Death is no-one's victim.</dc:description>
+    </metadata>
+</package>

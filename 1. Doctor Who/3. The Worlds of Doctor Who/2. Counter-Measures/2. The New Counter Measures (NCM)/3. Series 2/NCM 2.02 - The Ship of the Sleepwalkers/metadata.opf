@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Ship of the Sleepwalkers</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-090-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The New Counter Measures - Series 2"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Christopher Hatherall</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Simon Williams (Group Captain Gilmore)</dc:creator>
+        <dc:creator opf:role="nrt">Pamela Salem (Rachel Jensen)</dc:creator>
+        <dc:creator opf:role="nrt">Karen Gledhill (Allison Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Ross (Sir Toby Kinsella)</dc:creator>
+        <dc:creator opf:role="nrt">Cory English (Ted Hunter)</dc:creator>
+        <dc:creator opf:role="nrt">Ewan Bailey (Dimitri Papkin / Mr Dobson)</dc:creator>
+        <dc:creator opf:role="nrt">Caroline Harker (Dr Jayne Smythe)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Counter-Measures team wake on a luxury cruise, with no knowledge of how and when they got onboard. Who has brought them here, and why?
+
+As their investigations deepen, they find themselves in the middle of an international conspiracy, with enemies on both sides. How can they escape when they can’t even trust each other?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Sigil</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-020-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="74"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Ash Darby</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Murray Melvin (Bilis Manger)</dc:creator>
+        <dc:creator opf:role="nrt">Gabrielle Brooks (Sam)</dc:creator>
+        <dc:creator opf:role="nrt">Angus Imrie (Emil)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Sam has been haunted for years by the Sigil. She’s drawn the pattern since she was a child, she has a tattoo of it, she sells prints of it. Then one day, she sees it on a statue in the window of Bilis Manger's shop. It turns out the Sigil is very old indeed. 
+
+Why has it been haunting her? Why is it on a Celtic statue of a bird? Where did it come from? Has a terrible entity been released from its ancient slumber?</dc:description>
+    </metadata>
+</package>

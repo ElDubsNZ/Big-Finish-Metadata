@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Two's Company</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-082-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Once and Future"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lisa McMullin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Camille Coduri (Jackie Tyler)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Maloney (The Renegade)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (Harry Sullivan)</dc:creator>
+        <dc:creator opf:role="nrt">Michelle Ryan (Lady Christina)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Treloar (The Third Doctor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Back on Earth, the Doctor finds a clue in the search for the origins of the degeneration weapon. In his Sixth body, he meets Jackie Tyler and Lady Christina de Souza - thrown together by fate, or something more? - in pursuit of a powerful item of jewellery.
+
+Meanwhile, a Time Lord renegade has duped Harry Sullivan into helping him stop the Doctor's travels before they begin - and all are set on a collision course.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Stealers from Saiph</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-381-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 3"/>
+        <meta name="calibre:series_index" content="12"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nigel Robinson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Mary Tamm (Romana / Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A new adventure with the Fourth Doctor as told by his companion, Romana.
+
+It's 1929, and the TARDIS crew is holidaying in Antibes. While the Doctor practises his painting, Romana attempts to fend off the playful advances of young Tommy Creighton. All is peaceful and idyllic except for the portentous warning of astrologer Madame Arcana, and the fact that personal items are being stolen from the hotel's guests.
+
+What is the secret of the cave on the beach? And why do some of Romana's new acquaintances suddenly behave so strangely? As her newfound socialite existence suddenly takes a turn into danger, Romana finds that the whole planet Earth is faced with a deadly threat...
+
+**THIS CD IS NOW OUT OF PRINT**</dc:description>
+    </metadata>
+</package>

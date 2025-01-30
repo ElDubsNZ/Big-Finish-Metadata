@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Anachronauts</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-611-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 6"/>
+        <meta name="calibre:series_index" content="7"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Purves (Steven Taylor)</dc:creator>
+        <dc:creator opf:role="nrt">Jean Marsh (Sara Kingdom)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>An experimental timeship smashes into the TARDIS, and the crews of both ships wake up on a desert island. Has the TARDIS been destroyed? And why doesn’t the Doctor want to escape?
+
+Then, Steven and Sara find themselves on the wrong side of the Berlin Wall in 1966. And their only way back to the TARDIS is to betray the Doctor.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Rosemariners</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-590-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 3"/>
+        <meta name="calibre:series_index" content="8"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Donald Tosh</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Frazer Hines (Jamie McCrimmon / The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Wendy Padbury (Zoe Heriot)</dc:creator>
+        <dc:creator opf:role="nrt">David Warner (Biggs)</dc:creator>
+        <dc:creator opf:role="nrt">Clive Wood (Rugosa)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor, Jamie and Zoe find themselves on an almost deserted space lab. Earth Station 454 is being closed down, mothballed, its staff relocated. Years of research and co-operation are coming to an end and only distinguished xeno-botantist Professor Arnold Biggs remains on board.
+
+But is there more to the closure than meets the eye? For the operation is being supervised by the Rosemariners of the planet Rosa Damascena. Their terrifying Commander, Rugosa, seems to have something to hide. Who is he? What do the Rosemariners want with the scientists? And what is the secret of Rosedream?
+
+In a world where no one is quite what they seem, and deadly plants lurk around every corner, the Doctor will have to use all his ingenuity just to stay alive... just to stay himself.</dc:description>
+    </metadata>
+</package>

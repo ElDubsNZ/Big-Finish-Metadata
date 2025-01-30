@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>My Guest Tonight</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-858-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood One - Series 4 - Nightmares"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tracy-Ann Oberman (Yvonne Hartman)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (Nigel Best)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth David-Lloyd (The Driver)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Many people have poured out their souls on Nigel Best's sofa. His guest tonight is Yvonne Hartman.</dc:description>
+    </metadata>
+</package>

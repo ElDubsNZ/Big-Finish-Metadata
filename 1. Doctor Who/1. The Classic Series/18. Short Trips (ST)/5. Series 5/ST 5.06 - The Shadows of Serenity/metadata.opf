@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Shadows of Serenity</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 5"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nigel Robinson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Nicola Bryant (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Guns of Malgar once defended their planetoid from any who strayed too close; just one gun could obliterate an entire star fleet.
+
+The Malgarians are known as a vicious, belligerent species - so when the TARDIS brings the Doctor and Peri to their homeworld, they are puzzled to be greeted by a pacifistic population.
+
+Peri assumes the Doctor has just got his facts wrong, but he is reluctant to accept the Malgarians’ uncharacteristic behaviour. What lies behind it, and what is the secret of the Sisters of Serenity?</dc:description>
+    </metadata>
+</package>

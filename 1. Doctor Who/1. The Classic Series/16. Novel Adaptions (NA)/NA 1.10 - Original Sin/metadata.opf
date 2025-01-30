@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Original Sin</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-705-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Novel Adaptations"/>
+        <meta name="calibre:series_index" content="10"/>
+
+        <!--Writers-->
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Yasmin Bannerman (Roz Forrester)</dc:creator>
+        <dc:creator opf:role="nrt">Travis Oliver (Chris Cwej)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew French (Beltempest)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Voss (Robot/Under-Sergeant)</dc:creator>
+        <dc:creator opf:role="nrt">Amrita Acharia (Rashid/Computer/Shythe Shahid)</dc:creator>
+        <dc:creator opf:role="nrt">Robbie Stevens (Dantalion/Homeless/Securitybot)</dc:creator>
+        <dc:creator opf:role="nrt">Jot Davies (Powerless/Pryce/Hater/Evan Claple)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A warning from a dying alien leads the Doctor and Bernice to Earth. However Earth in this time period is not a good place to be. 
+
+The murder rate is rising, but the killers seem to be acting without motive. The TARDIS crew's investigations lead them to a military training planet, a prison inside a star, and a terrifying old foe. 
+
+And all the time they are being pursued - by two dogged Adjudicators who've stumbled onto a terrifying conspiracy. Chris Cwej and Roz Forrester. 
+
+Things will never be the same again.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Return of the Cybermen</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-230-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 6"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Gerry Davis</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sadie Miller (Sarah Jane Smith)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (Harry Sullivan)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Asbury (Commander Stevenson / Pietersen)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Cybermen / Cyberleader / Warner)</dc:creator>
+        <dc:creator opf:role="nrt">Nickolas Grace (Kellman)</dc:creator>
+        <dc:creator opf:role="nrt">Amanda Shodeko (Anitra / Coetzee)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Whitelock (Bill Lester / Badenhorst)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor, Sarah Jane Smith and Harry Sullivan return to Space Station Nerva in search of the TARDIS. Instead, they find peril, disease and... Cybermen!
+
+These cybernetic monsters have devised a plan to eliminate the greatest threat to their existence. And if the Doctor and his human compatriots do not play their part in this scheme, they are to be destroyed.</dc:description>
+    </metadata>
+</package>

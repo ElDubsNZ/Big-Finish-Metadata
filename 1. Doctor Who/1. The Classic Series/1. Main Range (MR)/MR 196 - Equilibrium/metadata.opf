@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Equilibrium</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-447-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="196"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Strickson (Vislor Turlough)</dc:creator>
+        <dc:creator opf:role="nrt">John Albasiny (Jesper)</dc:creator>
+        <dc:creator opf:role="nrt">Annette Badland (Queen Karlina)</dc:creator>
+        <dc:creator opf:role="nrt">Nickolas Grace (Balancer Skarsgard / Viktor Skarsgard)</dc:creator>
+        <dc:creator opf:role="nrt">Ella Kenion (Romy)</dc:creator>
+        <dc:creator opf:role="nrt">Joanna Kirkland (Inger)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Still looking for a way out of E-Space, the TARDIS crashes to Isenfel - a realm of snow and ice. Snarling beasts stalk the frozen plains, a feisty princess leads the hunt, and a queen in an ice palace rules over her loyal subjects.
+
+But this is no fairytale kingdom, and everyone in Isenfel knows the price of survival. While Nyssa and Tegan uncover deadly secrets hidden in the palace, Turlough flees for his life across the tundra.
+
+And as for the Doctor... he only ever wants to change things for the better. But in a world such as Isenfel, such a hope may not even be possible.</dc:description>
+    </metadata>
+</package>

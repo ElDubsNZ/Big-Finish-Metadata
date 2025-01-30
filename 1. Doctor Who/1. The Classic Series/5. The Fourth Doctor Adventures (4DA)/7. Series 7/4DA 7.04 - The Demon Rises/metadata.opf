@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Demon Rises</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 7"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">Justin Avoth (Cain)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Duncan (Krayl / Sternwood / Eldren)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Lark (Jacinta)</dc:creator>
+        <dc:creator opf:role="nrt">Andy Secombe (Cloten / Shift)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Wyndham (Raphael)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A killer has been uncovered, but the mystery is far from solved. The Doctor, Leela, K9 and their friends are on the run, pursued from all sides. All the clues point to one place - but getting there alive may prove impossible.
+
+Something horrific is happening on Chaldera… and it has been happening for longer than anyone could possibly have realised. Now every life on the planet is at stake. Bar one.
+
+The dark secret at the heart of this world is about to be revealed.</dc:description>
+    </metadata>
+</package>

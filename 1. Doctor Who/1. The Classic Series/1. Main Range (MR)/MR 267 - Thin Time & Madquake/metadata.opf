@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Thin Time / Madquake</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-008-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="267"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+        <dc:creator opf:role="aut">Dan Abnett</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">George Watkins (Marc)</dc:creator>
+        <dc:creator opf:role="nrt">Dona Croll (Bella)</dc:creator>
+        <dc:creator opf:role="nrt">Raj Ghatak (Mison)</dc:creator>
+        <dc:creator opf:role="nrt">Kate Isitt (Cott)</dc:creator>
+        <dc:creator opf:role="nrt">Zaqi Ismail (John Hobshaw)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Khan (Stubbs)</dc:creator>
+        <dc:creator opf:role="nrt">Luyanda Unati Lewis-Nyawo (Mrs Polly)</dc:creator>
+        <dc:creator opf:role="nrt">Wilf Scolding (Charles Crookshap)</dc:creator>
+        <dc:creator opf:role="nrt">Harley Viveash (Grumma)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Thin Time by Dan Abnett
+
+Hallowe’en, 1892. Celebrated novelist Charles Crookshap claims to have been receiving time communiqués, promising secrets that could change the world forever. But when the TARDIS interrupts the household’s evening, the Doctor realises he isn’t the only alien interloper in London.
+
+Madquake by Guy Adams
+
+Abandoned on the planet Callanna, Nyssa, Tegan and Marc take advantage of its therapeutic atmosphere to come to terms with recent events; but others seek to take advantage too. The Slitheen are on their way – and they’re ready to sell this world to the highest bidder!</dc:description>
+    </metadata>
+</package>

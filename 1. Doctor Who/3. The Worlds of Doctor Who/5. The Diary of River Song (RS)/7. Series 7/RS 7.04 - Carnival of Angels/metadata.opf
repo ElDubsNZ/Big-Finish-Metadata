@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Carnival of Angels</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-509-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Diary of River Song - Series 7"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Roy Gill</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Blore (Luke Sullieman)</dc:creator>
+        <dc:creator opf:role="nrt">Issy Van Randwyck (Miss Quirke)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Easton (Dean Cray)</dc:creator>
+        <dc:creator opf:role="nrt">Clive Hayward (Marty Stone)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (Tab Kowalski)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>New York. 1930s. Melody Malone is new in town and her detective agency is called on to solve an impossible murder. 
+
+River's investigations lead her to a curious carnival ride, offering trips to either Heaven or Hell. But with Angels in waiting, Heaven may not be the best choice...</dc:description>
+    </metadata>
+</package>

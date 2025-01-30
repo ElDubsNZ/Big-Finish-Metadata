@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Trojan Dalek</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-358-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Tenth Doctor Adventures - Dalek Universe 2"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Tennant (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Anya Kingdom)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Sims (Mark Seven)</dc:creator>
+        <dc:creator opf:role="nrt">Blake Ritson (Major McLinn)</dc:creator>
+        <dc:creator opf:role="nrt">Pippa Bennett-Warner (Fliss Keeley)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Arborecc)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor, Mark and Anya head for an SSS space station searching for the missing temporal scientist, Arborecc. But the officer in charge denies all knowledge of his presence and demands their departure.
+
+Unwilling to leave so easily, the group split up to investigate... and uncover a heinous plot involving the Doctor’s oldest foes. Or do they?</dc:description>
+    </metadata>
+</package>

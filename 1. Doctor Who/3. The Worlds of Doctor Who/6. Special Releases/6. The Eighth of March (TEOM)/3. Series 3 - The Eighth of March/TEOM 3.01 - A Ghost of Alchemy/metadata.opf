@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>A Ghost of Alchemy</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-974-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth of March - Series 3 - Strange Chemistry"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Louise Jameson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Holly Jackson Walters (Marie Curie)</dc:creator>
+        <dc:creator opf:role="nrt">Susan Penhaligon (First Lady Florence Harding)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Myers (President Harding / Train Guard / Newspaper Vendor (uncredited) / Security Guard (uncredited))</dc:creator>
+        <dc:creator opf:role="nrt">Akshay Khanna (Doctor Rushton / Officer)</dc:creator>
+        <dc:creator opf:role="nrt">Penelope Rawlins (Mrs Mattie Meloney / Servant / Egg Seller)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Farrell (Mr Browman)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the TARDIS lands in New York in 1921 the Doctor takes the opportunity to introduce Leela to one of the foremost women of the age - the great Marie Curie, visiting America to be celebrated for her work. 
+
+But the time travellers are not the only people interested in the famous scientist. Sinister forces are gathering around her and the TARDIS crew will have to work their utmost to keep her safe on her historic journey through the United States.</dc:description>
+    </metadata>
+</package>

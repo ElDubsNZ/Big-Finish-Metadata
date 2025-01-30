@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Iris at the Oche</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-105-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Iris Wildthyme - Series 4"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mark Wright</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Katy Manning (Iris Wildthyme)</dc:creator>
+        <dc:creator opf:role="nrt">David Benson (Panda)</dc:creator>
+        <dc:creator opf:role="nrt">Bernard Holley (Ted Taylor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Lady Bow'n)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Jones (Colin Stubbs/B'wen)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Ross (Martin King)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Super, smashing, great! It's the annual Pondside World Darts Championship. As down-at-heel pub darts player Ted Taylor steps up to the oche, Iris realises that the fate of the entire universe depends on the result of this one game of arrows. What are the calculations streaming through Ted's mind, why are the bullish Hankians determined to drag a Kent Country Club into a temporal rift and will Panda ever get to enjoy his chicken-in-a-basket in peace? Game on!</dc:description>
+    </metadata>
+</package>

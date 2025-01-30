@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Way of the Burryman</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-346-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Ninth Doctor Adventures - Series 1 - Volume 4 - Old Friends"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Roy Gill</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Eccleston (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (Brigadier Lethbridge-Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Warren Brown (Sam Bishop)</dc:creator>
+        <dc:creator opf:role="nrt">Elinor Lawless (Fiona McCall)</dc:creator>
+        <dc:creator opf:role="nrt">Amanda Drew (Commander Jane Wardie)</dc:creator>
+        <dc:creator opf:role="nrt">Martin Quinn (Cameron Lawther)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Cyber-Scout Kreel / The Cybermen)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Young Sam Bishop is at a crossroads with girlfriend Fiona: she’s staying in Scotland, he wants to travel the world. As the Burryman celebrations begin, ghosts haunt the Forth Bridge. Brigadier Lethbridge-Stewart arrives to investigate – and so does the Doctor…</dc:description>
+    </metadata>
+</package>

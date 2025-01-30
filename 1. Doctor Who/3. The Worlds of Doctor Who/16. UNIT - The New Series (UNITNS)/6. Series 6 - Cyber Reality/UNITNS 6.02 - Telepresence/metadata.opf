@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Telepresence</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-969-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - The New Series - Series 6 - Cyber-Reality"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jemma Redgrave (Kate Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Ingrid Oliver (Osgood)</dc:creator>
+        <dc:creator opf:role="nrt">Warren Brown (Lt Sam Bishop)</dc:creator>
+        <dc:creator opf:role="nrt">Ramon Tikaram (Colonel Shindi)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Josh Carter)</dc:creator>
+        <dc:creator opf:role="nrt">Louis Tamone (Lt Commander Parsons)</dc:creator>
+        <dc:creator opf:role="nrt">Katherine Jakeways (Voice of the Machine)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Testing salvaged equipment, Osgood leads Colonel Shindi and Josh Carter on a strange expedition into uncharted territory. A virtual world. When the team is attacked, Kate tries to assist. But it seems the technology itself is doing all it can to keep her apart from her people.</dc:description>
+    </metadata>
+</package>

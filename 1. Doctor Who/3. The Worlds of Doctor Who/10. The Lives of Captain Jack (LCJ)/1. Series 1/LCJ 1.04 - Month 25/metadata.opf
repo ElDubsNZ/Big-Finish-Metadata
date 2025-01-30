@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Month 25</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-945-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lives of Captain Jack - Series 1"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Barrowman (Javic Piotr Thane / Jack Harkness)</dc:creator>
+        <dc:creator opf:role="nrt">Sakuntala Ramanee (Maglin Shank)</dc:creator>
+        <dc:creator opf:role="nrt">Kieran Bew (Krim Pollensa)</dc:creator>
+        <dc:creator opf:role="nrt">Alexander Vlahos (The Strange Immortal)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Allen, Christel Dee, James Goss (The Council)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>He's the young star of the Time Agency, and his whole life is about to fall apart. But that's not going to stop him winning.</dc:description>
+    </metadata>
+</package>

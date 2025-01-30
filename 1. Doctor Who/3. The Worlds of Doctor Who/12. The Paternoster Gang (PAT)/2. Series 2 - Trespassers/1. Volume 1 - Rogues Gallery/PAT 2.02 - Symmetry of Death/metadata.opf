@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Symmetry of Death</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-117-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Paternoster Gang - Trespassers 1 - Rogues Gallary"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Dan Starkey</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Neve McIntosh (Madame Vastra)</dc:creator>
+        <dc:creator opf:role="nrt">Catrin Stewart (Jenny Flint)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Strax)</dc:creator>
+        <dc:creator opf:role="nrt">Thom Petty (Gabriel J Nachnabel / James Hawke)</dc:creator>
+        <dc:creator opf:role="nrt">David Holt (Thomas Crabb / Butler)</dc:creator>
+        <dc:creator opf:role="nrt">Holly Jackson Walters (Imogen Beauchamp / Mrs Cudd / Chaak & Klaar)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Cases are mounting for the Paternoster Gang. Three mysteries call for immediate attention: a murder, a locked room conundrum, and some acts of random vandalism. But is there a connection? 
+
+As Jenny goes undercover and Strax stakes out the suspects, Vastra finds an echo of the distant past which could be the key to the solution.</dc:description>
+    </metadata>
+</package>

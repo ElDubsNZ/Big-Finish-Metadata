@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Riparian Ripper</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-549-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 3"/>
+        <meta name="calibre:series_index" content="7"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andrew Cartmel</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sophie Aldred (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and Ace investigate a series of terrifying slasher attacks along the banks of the Red River.</dc:description>
+    </metadata>
+</package>

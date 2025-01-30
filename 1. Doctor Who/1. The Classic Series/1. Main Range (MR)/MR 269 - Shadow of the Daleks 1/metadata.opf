@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Shadow of the Daleks 1</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-012-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="269"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+        <dc:creator opf:role="aut">Dan Starkey</dc:creator>
+        <dc:creator opf:role="aut">James Kettle</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Dervla Kirwan (Mrs Calderwood / Yost McCormack / DI Wright / Anna-Maria)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (Orson / Elroy Dale / Captain)</dc:creator>
+        <dc:creator opf:role="nrt">Anjli Mohindra (Flora / Kathy Dafoe / Madeleine Williams / Bianca)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Parker (Douglas / Monsignor Plummer / Frank Reichenbach / Virgilio)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Something is very wrong. The Fifth Doctor is lost in the Time War, heading for an encounter with his oldest and deadliest enemies... the Daleks!
+
+Aimed at the Body by James Kettle 
+
+An encounter with a notorious cricketing legend should be right up the Doctor’s street. But the unexpected appearance of an old enemy is about to send the Doctor on a quest.
+
+Lightspeed by Jonathan Morris 
+
+The trail has led the Doctor to a spaceship in the far future - where he finds himself trapped in the middle of a terrifying revenge plot.
+
+The Bookshop at the End of the World by Simon Guerrier
+
+It’s very easy to forget yourself and get lost in a bookshop. But in some bookshops more than most...
+
+Interlude by Dan Starkey 
+
+The play’s the thing! Or is it? The Doctor is roped into a theatrical spectacular - but who is he really performing to?</dc:description>
+    </metadata>
+</package>

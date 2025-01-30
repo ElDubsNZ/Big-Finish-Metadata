@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Eternity Club 1</dc:title>
+        <dc:publisher></dc:publisher>
+        <dc:date>2024-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-393-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The New Adventures of Bernice Summerfield - Volume 8 - The Eternity Club"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt"></dc:creator>
+        <dc:creator opf:role="nrt"></dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Naana Agyei-Ampadu (Grizella)</dc:creator>
+        <dc:creator opf:role="nrt">Niamh Cusack (The Oldest)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Elroy (Derek)</dc:creator>
+        <dc:creator opf:role="nrt">Victoria Gee (The Suspension of Geren)</dc:creator>
+        <dc:creator opf:role="nrt">Nickolas Grace (Secretary Pym )</dc:creator>
+        <dc:creator opf:role="nrt">Simon Kane (312)</dc:creator>
+        <dc:creator opf:role="nrt">Shai Matheson (Professor Altazar)</dc:creator>
+        <dc:creator opf:role="nrt">David O'Mahony (Butlers)</dc:creator>
+        <dc:creator opf:role="nrt">Dianne Pilkington (Nurse)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Starll)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Welcome to The Eternity Club, where a warm welcome awaits the universe’s greatest explorers. A place of mystery, intrigue and creeping danger. Professor Bernice Summerfield has finally been invited to join. But membership comes at a terrible price.
+
+8.1 The Armageddon Chair
+Bernice Summerfield is still settling in at The Eternity Club. Secretary Pym sends her on a quest enlisting help from Draconians, Sontarans, Drahvins and the club’s enigmatic Oldest member.
+
+8.2 Triumph of the Drahvin
+An archaeological expedition led by a Drahvin Queen. What secrets has she uncovered in the forgotten deserts of Parroon? And why are people dying?</dc:description>
+    </metadata>
+</package>

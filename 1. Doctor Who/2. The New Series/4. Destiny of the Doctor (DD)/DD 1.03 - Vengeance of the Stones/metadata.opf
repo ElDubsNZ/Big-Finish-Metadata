@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Vengeance of the Stones</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-47131-169-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Destiny of the Doctor"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andrew Smith</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Richard Franklin (Mike Yates)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Littledale (Garlin)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Two RAF fighter jets are on a training flight over North East Scotland when one of them is plucked from the air and promptly disappears. UNIT are called in, and the Doctor and Brigadier Lethbridge-Stewart are soon on the scene. They enlist the help of a local military officer - a young lieutenant by the name of Mike Yates.
+
+The Doctor discovers a link to the recumbent stone circles that are plentiful in this part of Scotland. The stones are thousands of years old, and are soon revealed to hold a terrible secret. Then Mike Yates disappears, abducted by an alien race that has a grievance with humanity. Their intention is to harness the power of the stones in order to take their revenge. For the Doctor and the Brigadier, the race is now on to save their new friend Mike and the entire planet Earth.</dc:description>
+    </metadata>
+</package>

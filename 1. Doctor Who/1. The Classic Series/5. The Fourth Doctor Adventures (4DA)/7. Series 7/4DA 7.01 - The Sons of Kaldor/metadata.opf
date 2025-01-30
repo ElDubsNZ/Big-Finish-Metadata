@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Sons of Kaldor</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 7"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andrew Smith</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Martha Cope (Commander Lind)</dc:creator>
+        <dc:creator opf:role="nrt">Oliver Dimsdale (Rebben Tace)</dc:creator>
+        <dc:creator opf:role="nrt">John Dorney (Brin / SV9 / V12)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Hadoke (V26)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Finding themselves in a seemingly deserted spaceship on an alien world, the Doctor and Leela stumble into some familiar foes - the Voc robots from the planet Kaldor - and… something else. Something outside. Trying to get in.
+
+Reviving the robot’s Kaldoran commander from hibernation, the travellers discover that they’ve found themselves in the middle of a civil war. The ship was hunting the Sons of Kaldor, an armed resistance group working with alien mercenaries to initiate regime change on their homeworld.
+
+But now the Sons of Kaldor may have found them. The Doctor and Leela will have to pick a side. Or die.</dc:description>
+    </metadata>
+</package>

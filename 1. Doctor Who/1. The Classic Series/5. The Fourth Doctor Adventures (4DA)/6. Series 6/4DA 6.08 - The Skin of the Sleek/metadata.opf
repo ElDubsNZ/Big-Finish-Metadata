@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Skin of the Sleek</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-723-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 6"/>
+        <meta name="calibre:series_index" content="8"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (The Sleek)</dc:creator>
+        <dc:creator opf:role="nrt">Alan Cox (Eamonn Orensky)</dc:creator>
+        <dc:creator opf:role="nrt">Kieran Hodgson (Klick Chervain)</dc:creator>
+        <dc:creator opf:role="nrt">Des McAleer (Blujaw Skaldson)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Newall (Greygul)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Frithra)</dc:creator>
+        <dc:creator opf:role="nrt">Joannah Tincey (Sartia)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Wyndham (Linnis Skaldson)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On the planet Funderell you can walk on the ocean. The surface holds you when you move, but if you stand still, you sink. Lights shift in the fathoms and great shapes move beneath your feet - schools of giant electric eels known as Sleeks.
+
+There is no solid land and the only locals are the Wavewalkers, hunters who live in floating villages. But recently some strangers have arrived, pursuing their own distinct agenda.
+
+When the Doctor and Romana lose the TARDIS to the deep, they need help. Which makes finding a fellow Time Lord on the planet very useful. The fact that Time Lord is Sartia, an old friend of Romana's, is even better!
+
+But this is a planet of secrets. Be careful when you explore its depths. You may just drown.</dc:description>
+    </metadata>
+</package>

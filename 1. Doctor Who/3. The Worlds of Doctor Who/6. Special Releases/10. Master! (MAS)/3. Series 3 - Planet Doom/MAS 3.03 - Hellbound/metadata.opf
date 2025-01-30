@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Hellbound</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-148-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Master! - Series 3 - Planet Doom"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Valentine</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Eric Roberts (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Chase Masterson (Vienna Salvatori / Axon Vienna)</dc:creator>
+        <dc:creator opf:role="nrt">Teri Ann Bobb-Baxter (Passion)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Whitmey (Phillips / Axon Phillips / Brain of Axos)</dc:creator>
+        <dc:creator opf:role="nrt">Beverly Longhurst (Computers / The Cuff)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Kay (Axos)</dc:creator>
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor / Axon Doctor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>With the countdown ticking, the Master and Vienna are desperate to escape, but if Axos gets loose, the entire galaxy is doomed. Vienna needs a miracle, and perhaps she's found one. But probably not the miracle she was expecting.</dc:description>
+    </metadata>
+</package>

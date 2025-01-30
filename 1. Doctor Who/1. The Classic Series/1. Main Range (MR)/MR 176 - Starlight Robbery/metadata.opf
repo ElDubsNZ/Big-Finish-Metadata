@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Starlight Robbery</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-076-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="176"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Tracey Childs (Dr Elizabeth Klein)</dc:creator>
+        <dc:creator opf:role="nrt">Christian Edwards (Will Arrowsmith)</dc:creator>
+        <dc:creator opf:role="nrt">Stuart Milligan (Garundel)</dc:creator>
+        <dc:creator opf:role="nrt">Lizzie Roper (Krakenmother Benarra)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Marshall Stenn / Major Vlaar / Sergeant Gredd / Asallis)</dc:creator>
+        <dc:creator opf:role="nrt">Jo Woodcock (Ziv)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Sick of the same-old slaughter-appliances? In need of a killer new killing-machine? Then look no further than Garundel Galactic's secret arms auction. Blasters, tanks, missiles and bombs – no bang too big or micro-laser too small. If you’ve got the credits, Garundel's got the kill-sticks. (Cash buyers get preferential rates.)
+
+In search of the key to a sinister alien technology, the Doctor, Klein and Will set their sights on an illicit intergalactic arms fair run by an old acquaintance – the slippery Urodelian crook, Garundel. But what are their chances of pulling off a particularly audacious heist from under the noses of Garundel and his alien clients, the ever-belligerent Sontarans…?</dc:description>
+    </metadata>
+</package>

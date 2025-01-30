@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Last Chance</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-225-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Tenth Doctor Chronicles - Volume 1"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matthew J Elliott</dc:creator>
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+        <dc:creator opf:role="aut">Helen Goldwyn</dc:creator>
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jacob Dudman (The Doctor / Narrator / Anatoly / The Deagle)</dc:creator>
+        <dc:creator opf:role="nrt">Michelle Ryan (Lady Christina de Souza)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Trying to spare a few creatures from extinction, the Doctor bumps into an old acquaintance on the African plains – Lady Christina de Souza. They are about to find themselves on the endangered list…</dc:description>
+    </metadata>
+</package>

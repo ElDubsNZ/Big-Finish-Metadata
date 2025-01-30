@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Now You Know</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-640-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Class - Series 2"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Leng</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Vivian Oparah (Tanya)</dc:creator>
+        <dc:creator opf:role="nrt">Jordan Renzo (Matteusz)</dc:creator>
+        <dc:creator opf:role="nrt">Anson Boon (Peter)</dc:creator>
+        <dc:creator opf:role="nrt">Shvorne Marks (Michelle)</dc:creator>
+        <dc:creator opf:role="nrt">Wilf Scolding (Chris)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Following a series of freak attacks on staff and pupils, Tanya and Matteusz find themselves investigating a mystery that dates back to the 1960s. Together, they hope to solve it – even if that means turning on one another to do so... </dc:description>
+    </metadata>
+</package>

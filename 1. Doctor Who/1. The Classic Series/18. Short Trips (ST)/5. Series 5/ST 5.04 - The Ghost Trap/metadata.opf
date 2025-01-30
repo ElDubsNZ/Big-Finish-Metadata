@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Ghost Trap</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 5"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nick Wallace</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Louise Jameson (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Responding to a salvage team’s distress call, the Doctor and Leela arrive on a crippled space ship. Its owners, the Hihmakk, are a secretive race of space mariners whose navigation skills make them the envy of the galaxy. The salvage team are long dead, but their last log entries speak of a spectre stalking the ship’s halls, picking them off one by one. When the pair become separated, Leela must fight for survival whilst the Doctor seeks to understand the nature of the ghost...</dc:description>
+    </metadata>
+</package>

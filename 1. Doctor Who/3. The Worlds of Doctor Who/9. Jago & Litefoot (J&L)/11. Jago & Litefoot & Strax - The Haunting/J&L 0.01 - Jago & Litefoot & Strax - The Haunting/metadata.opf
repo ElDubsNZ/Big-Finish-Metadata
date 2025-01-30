@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Haunting</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-061-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jago & Litefoot & Strax"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Justin Richards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Baxter (Professor George Litefoot)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Strax)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Ellie)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Asquith (Inspector Quick)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Critchlow (Marvo / Ernest Finch)</dc:creator>
+        <dc:creator opf:role="nrt">Carolyn Seymour (Mrs Multravers)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Strax, the Sontaran butler to Victorian investigator Vastra and her wife Jenny, suffers a disorienting attack and mistakes Jago & Litefoot for Jenny and Vastra and moves into Litefoot's home. Together, they are on the trail of a creature that is stealing brains, which may or may not be linked to a haunted house in London...</dc:description>
+    </metadata>
+</package>

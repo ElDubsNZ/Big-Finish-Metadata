@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Story of Extinction</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-014-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - The Second Doctor - Volume 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Ian Atkins</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Frazer Hines (The Doctor / Jamie)</dc:creator>
+        <dc:creator opf:role="nrt">Deborah Watling (Victoria)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Selsey / Police officer)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Civilisations rise and fall — and few planets have seen this happen more often than Amyryndaa. The Doctor, Jamie and Victoria join a survey team to find out why on the planet where everything is suited to creating life, nothing lives for long...</dc:description>
+    </metadata>
+</package>

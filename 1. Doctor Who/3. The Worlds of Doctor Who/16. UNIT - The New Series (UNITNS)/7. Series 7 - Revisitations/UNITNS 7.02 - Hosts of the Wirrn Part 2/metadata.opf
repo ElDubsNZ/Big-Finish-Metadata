@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Hosts of the Wirrn Part 2</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-971-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - The New Series - Series 7 - Revisitations"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jemma Redgrave (Kate Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Ingrid Oliver (Osgood)</dc:creator>
+        <dc:creator opf:role="nrt">Ramon Tikaram (Colonel Vikram Shindi)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Captain Josh Carter)</dc:creator>
+        <dc:creator opf:role="nrt">Vineeta Rishi (Shana)</dc:creator>
+        <dc:creator opf:role="nrt">Roger May (Sergeant Brundle / Simon / Fisherman / Jasper / Computer / Lift)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (Marcus / Evans / Jacob / New Fisherman)</dc:creator>
+        <dc:creator opf:role="nrt">Katherine Senior (Kirsty / Private Sedgwick)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Larvae are hatching. Grubs are mutating. The infection is spreading. As a swarm takes to the skies, UNIT struggles to contain its menace.
+
+Kate Stewart meets the danger head-on. To rid the Earth of the Wirrn, she must now confront their Queen. </dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The British Invasion</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 7"/>
+        <meta name="calibre:series_index" content="8"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Ian Potter</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Wendy Padbury (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A huge metal dome sits by the side of the river Thames, within it is a device that might change the entire future of humanity. The Doctor, Zoe and Jamie embark on a small act of kindness but the TARDIS seems oddly unwilling to help. It’s as if it knows the truth. There is something waiting here, something adaptable and cunning, gathering its strength to conquer the stars.</dc:description>
+    </metadata>
+</package>

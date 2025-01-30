@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Monsters of Gokroth</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-849-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="250"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jessica Martin (Mags)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Fettes (Gor / Bear-Monster / Porrow)</dc:creator>
+        <dc:creator opf:role="nrt">Abi Harris (Trella / Lizard-Monster)</dc:creator>
+        <dc:creator opf:role="nrt">Jeremy Hitchen (Varron)</dc:creator>
+        <dc:creator opf:role="nrt">Dominic Vulliamy (Wilric)</dc:creator>
+        <dc:creator opf:role="nrt">Victoria Yeates (Dr Maleeva)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The people of Gokroth live in fear of the monsters in the forest. Creatures with scales and fur, teeth and claws. But worse than these, perhaps, is the strange doctor who does unspeakable, unholy work in the high castle on the mountain…
+
+ 
+
+A doctor who is about to receive a visit from an off-worlder. Mags, formerly of the Psychic Circus. A native of the planet Vulpana… with a monstrous secret of her own.</dc:description>
+    </metadata>
+</package>

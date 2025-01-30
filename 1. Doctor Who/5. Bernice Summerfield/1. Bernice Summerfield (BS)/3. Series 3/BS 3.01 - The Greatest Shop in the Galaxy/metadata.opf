@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Greatest Shop in the Galaxy</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2002-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-466-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 3"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Ebbs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Steve Allen (Tarband)</dc:creator>
+        <dc:creator opf:role="nrt">David Benson (Keelor)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Lock (Borvali Voices)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Longworth (Joggon)</dc:creator>
+        <dc:creator opf:role="nrt">Juliet Warner (Shopkeeper)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Joseph the Porter)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Benny is not digging up the car park of the Gigamarket for nothing. Oh no. There's no way on Sirius One Bee that you could conclude that she was there for any other reason than to investigate the famed Latrines of Baladroon.
+
+Shoes? She was there to buy shoes? Get outta town! Get off the planet bub! And don't come back until you've washed out your brain with new-biological-Cortexscour.
+
+Monsters? Nah! Don't be silly! The Borvali are on their side on the force wall ­ they could never break through it. And anyway, what would a cross between a ten-foot Pepperami and a cockeyed autopsy want with the Greatest Shop in the Galaxy? I mean, come on, what would they want to buy?
+
+And Time Anomalies? You need the science fiction section on the four hundred and twelfth floor of the book department if you want Time Anomalies, mate. Tch!
+
+Everything here is under control. Honest.</dc:description>
+    </metadata>
+</package>

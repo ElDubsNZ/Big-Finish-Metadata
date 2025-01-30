@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Edge</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-104-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Graceless - Series 3"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Ciara Janson (Abby)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Doddington (Zara)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Copley (Dennis)</dc:creator>
+        <dc:creator opf:role="nrt">Sunny Ormonde (Miss Simone)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Bentinck (Albert)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Coen (Kurt)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>“It tore you up, everything you were...” 
+
+There's a hotel on a cliff overlooking the sea. All sorts of people wash up there. The retired policeman, the faded star of the music hall and a girl who doesn't know who she is... 
+
+Zara arrives at the hotel searching for her sister Abby — but after all they've been through and fought over, will she want to be found? 
+
+But they're not the only ones with secrets, running away from their pasts. And someone else in the hotel wants to see them all dead...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>...ish</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2002-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-473-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="35"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Phil Pascoe</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Marie Collett (Professor Osefa de Palabra Hftzbrn)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Eley (Warren)</dc:creator>
+        <dc:creator opf:role="nrt">Oliver Hume (Symposiarch Cawdrey)</dc:creator>
+        <dc:creator opf:role="nrt">Moray Treadwell (Book)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A conference of lexicographers: bromides in tweed. But the leading expert in the field is found dead by her own hand - and by her hologlyphic assistant. Is he responsible? Does the death fit any conventional definitions? Can the Doctor deduce who wrote the suicide note and why, exactly, it was riddled with spelling errors?
+
+Peri should help out, but there's a guy. Someone who loves language even more than the Doctor. Maybe, she realises, enough to kill for. Or perhaps just enough to ask her out to dinner. Unless, of course, he's already spoken for...
+
+Is it madness? Seeking transcendence in the complete lexicon? Having the right words on the tip of your tongue but never quite knowing when to use them?
+
+If so, how?
+
+...ish</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Leviathan</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-446-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 1"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Brian Finch</dc:creator>
+        <dc:creator opf:role="aut">Paul Finch</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Herne the Hunter / Baron / Osbert / Chandris)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Carlyle (Siward / Master-Sergeant / Gregorian)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Althya / Maude / Eada / Zeron)</dc:creator>
+        <dc:creator opf:role="nrt">Howard Gossington (Gurth / Thurstan / Soltan)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Parker (Wulfric / Edgar)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Lost Stories: Adventures that were originally written for the Doctor Who television series but never made. Now available to hear for the first time...
+
+No one lives to old age in the village. When their Time is come, they are taken and never seen again. That is The Way. And, should anyone try to break with the established order of things, then the fury of Herne the Hunter is unleashed...
+
+When the TARDIS materializes near a castle in this mediaeval society, the Doctor and Peri befriend Gurth, a terrified youth who is attempting to flee his fate. And Herne is closing in...
+
+Why does the local baron impose the culling? What is the secret of Zeron? And who are the Sentinels of the New Dawn? The answers lie within a cave...</dc:description>
+    </metadata>
+</package>

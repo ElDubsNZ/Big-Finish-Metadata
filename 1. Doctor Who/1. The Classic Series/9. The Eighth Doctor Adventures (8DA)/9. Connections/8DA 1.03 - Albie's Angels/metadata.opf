@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Albie's Angels</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-754-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Connections"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Roy Gill</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Hattie Morahan (Helen Sinclair)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Jago (Albie Sinclair)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Mugnaioni (Bailey / Sergeant)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Whitelock (Jack Harper / Jase Harper)</dc:creator>
+        <dc:creator opf:role="nrt">Anjella Mackintosh (Denny)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the Doctor and friends hunt down time anomalies in 2020s Soho, Helen steps into the past and meets the brother she thought she’d lost forever.
+
+But there are Weeping Angels in London - and one of the stone assassins wants something from the Doctor and Liv...</dc:description>
+    </metadata>
+</package>

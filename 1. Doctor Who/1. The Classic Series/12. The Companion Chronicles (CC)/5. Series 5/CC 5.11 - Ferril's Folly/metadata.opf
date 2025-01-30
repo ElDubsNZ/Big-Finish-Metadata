@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Ferril's Folly</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-509-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 5"/>
+        <meta name="calibre:series_index" content="11"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Peter Anghelides</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Mary Tamm (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Madeleine Potter (Lady Ferril)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The search for the fourth segment of the Key to Time brings the Doctor and Romana back to Earth in the present day.
+
+In a small village in Norfolk, former astronaut Lady Millicent Ferril has established an observatory, tracking a meteorite from the Cronquist System. It is a meteorite that almost killed her years before – and perhaps left her not entirely human.
+
+As Ferril’s power grows, so does her influence. She can control metal. And anything metal – from a suit of armour to a bicycle – is now lethal...</dc:description>
+    </metadata>
+</package>

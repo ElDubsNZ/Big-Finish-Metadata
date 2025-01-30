@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Dance</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-950-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Graceless - Series 4"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Ciara Janson (Abby)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Doddington (Zara)</dc:creator>
+        <dc:creator opf:role="nrt">Duncan Wisbey (Graves)</dc:creator>
+        <dc:creator opf:role="nrt">Adam Newington (Pool)</dc:creator>
+        <dc:creator opf:role="nrt">David Sterne (Oblong)</dc:creator>
+        <dc:creator opf:role="nrt">Richenda Carey (Triangle)</dc:creator>
+        <dc:creator opf:role="nrt">Victoria Alcock (Marcella)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Chaff)</dc:creator>
+        <dc:creator opf:role="nrt">Carolyn Pickles (Gutierrez)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Ross (Dodyk)</dc:creator>
+        <dc:creator opf:role="nrt">Petra Markham (Annie)</dc:creator>
+        <dc:creator opf:role="nrt">Carol Starks (Slink)</dc:creator>
+        <dc:creator opf:role="nrt">Nichola McAuliffe (Onora Cormorant)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In the flood and the fire, 
+
+In the heart of the sun, 
+
+We were lost, we were dying, 
+
+We have only begun, 
+
+And the rest of the song, 
+
+Remains to be sung, 
+
+So we'll dance through the night, 
+
+And the dawn never comes, 
+
+Just the two of us.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Full Fathom Five</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2003-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-014-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Unbound"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Bishop</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Collings (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Ed Bishop (General Flint)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Benson (Vollmer)</dc:creator>
+        <dc:creator opf:role="nrt">Jack Galagher (Lee)</dc:creator>
+        <dc:creator opf:role="nrt">Jeremy James (Hoskins)</dc:creator>
+        <dc:creator opf:role="nrt">Siri O'Neal (Ruth)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>What if... ? 
+
+"If I told you the truth, I'd have to kill you..."
+
+The Deep-sea Energy Exploration Project was apparently destroyed by dirty bombs in 2039 AD, turning the surrounding sea bed into a radioactive tomb. Rumours suggest the DEEP was conducting illegal, unethical experiments...
+
+In 2066 the Doctor discovers the research centre remains intact. The terrible truth about what happened 27 years ago will soon be revealed. The Doctor is determined to be the first to uncover and confront the secrets of the DEEP.
+
+But unearthing the past can have terrible consequences for your future…</dc:description>
+    </metadata>
+</package>

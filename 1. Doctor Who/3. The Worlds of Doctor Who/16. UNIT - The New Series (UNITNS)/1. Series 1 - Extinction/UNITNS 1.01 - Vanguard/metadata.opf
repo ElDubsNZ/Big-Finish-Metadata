@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Vanguard</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-612-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - The New Series - Series 1 - Extinction"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jemma Redgrave (Kate Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Ingrid Oliver (Osgood)</dc:creator>
+        <dc:creator opf:role="nrt">Ramon Tikaram (Colonel Shindi)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Captain Josh Carter)</dc:creator>
+        <dc:creator opf:role="nrt">Steve John Shepherd (Simon Devlin)</dc:creator>
+        <dc:creator opf:role="nrt">Karina Fernandez (Jenna Gold)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy Wiles (Jacqui McGee)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Carlyle (Tim Stevens)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Nestene Consciousness)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>From a state-of-the-art bunker beneath the Tower of London, Kate Stewart leads a secret army protecting the Earth from extraterrestrial threat. Crashed UFOs, strange meteors, a giant lizard in the Severn - all business as usual for UNIT. 
+
+While Scientific Advisor Osgood attends a 'skyfall' incident with Colonel Shindi and Captain Josh Carter, Kate's duties take her to visit Devlin Future Tech, and reclusive billionaire Simon Devlin. 
+
+Journalist Jacqui McGee is also on FutureTech's case, and nothing's going to get in the way of her story: a product launch that will change the world...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Battle of Giant's Causeway</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-368-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - Sontarans vs Rutans"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizzie Hopley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charley Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Westmaas (C'rizz)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (General Ignatius Antias Salutio)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Commander Caecilius Crassus Procullus)</dc:creator>
+        <dc:creator opf:role="nrt">Amanda Hurwitz (Valmoira)</dc:creator>
+        <dc:creator opf:role="nrt">Michelle Fox (Noorie)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The war between the Sontarans and the Rutans has been going on for Millennia. And is likely to continue for millennia more. 
+
+A terrible conflict with no care for consequences or collateral damage. Billions have died with no end in sight. Its reach can encompass ancient Ireland and a forest world in the far future. 
+
+A temporal tidal wave leads the Doctor, Charley and C'rizz to the Giant's Causeway, Ireland 55BC, where the TARDIS drains of power and they encounter Sontarans who believe they’re Roman Legionnaires. What has caused this and what is the strange secret in the rocks?</dc:description>
+    </metadata>
+</package>

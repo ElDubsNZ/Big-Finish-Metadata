@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Bridgehead</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-612-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - The New Series - Series 1 - Extinction"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andrew Smith</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jemma Redgrave (Kate Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Ingrid Oliver (Osgood)</dc:creator>
+        <dc:creator opf:role="nrt">Ramon Tikaram (Colonel Shindi)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Captain Josh Carter)</dc:creator>
+        <dc:creator opf:role="nrt">Steve John Shepherd (Simon Devlin)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy Wiles (Jacqui McGee)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Nestene Consciousness / Autons / News Presenter)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>With Nestene energy units falling from the skies around the globe, UNIT's resources are stretched to breaking point as they try to respond. 
+
+Josh Carter has gone undercover inside Devlin FutureTech. His safety is jeopardised, however, by the activities of investigative journalist Jacqui McGee. 
+
+As the Nestenes progress their plans, Kate becomes a target.</dc:description>
+    </metadata>
+</package>

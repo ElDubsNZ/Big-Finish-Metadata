@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Goddess Quandary</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2006-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-127-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 6"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andy Russell</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Bryant (Parasiel)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Goddard (Ker'a'nol)</dc:creator>
+        <dc:creator opf:role="nrt">Lizzie Hopley (Aldébrath)</dc:creator>
+        <dc:creator opf:role="nrt">Duncan Wisbey (Secundo)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Legend has it that the mighty warlord Aldèbrath will return to defeat the enemy of Imogenella. Should the need ever arise. When the monks of Etheria stumble across what they claim is Aldèbrath's last resting place it looks like the legend might come true. If nothing else the monk's could make some cash from tourism - perhaps even enough to repair the monastery roof. All they need is a certain professor of archaeology to verify their claim.
+
+Simple.
+
+You think? Bernice soon finds herself trapped in a race against death on an unstable planetoid where there's more to the tomb than meets the eye. Mind you, the monks aren't all they appear either... Oh, and Benny's old friend Keri wants in on the audience share.</dc:description>
+    </metadata>
+</package>

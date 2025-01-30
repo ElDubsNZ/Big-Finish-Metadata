@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Skin Deep</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-594-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Lady Christina - Series 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Michelle Ryan (Lady Christina)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline King (Sylvia Mott)</dc:creator>
+        <dc:creator opf:role="nrt">Warren Brown (Sam Bishop)</dc:creator>
+        <dc:creator opf:role="nrt">William Gaminara (Lord Alfred de Souza)</dc:creator>
+        <dc:creator opf:role="nrt">Suzy Bloom (Tamarind / The Amber)</dc:creator>
+        <dc:creator opf:role="nrt">Rebecca Yeo (Malia)</dc:creator>
+        <dc:creator opf:role="nrt">Ewan Bailey (Waiter)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth Corke (Benji)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Brenher (Banker)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Sylvia Mott always knew she deserved better. So, when a chance encounter with aristocracy propels her out of Chiswick and into high society, she's delighted. 
+
+But the beautiful people have their own agenda – and Christina is surprised when those plans involve her father.</dc:description>
+    </metadata>
+</package>

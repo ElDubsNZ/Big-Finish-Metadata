@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Scenes From Her Life</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-621-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Doom Coalition 2"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Hattie Morahan (Helen Sinclair)</dc:creator>
+        <dc:creator opf:role="nrt">Emma Cunniffe (Caleera)</dc:creator>
+        <dc:creator opf:role="nrt">Vincent Franklin (Lord Stormblood)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline King (Lady Sepulchra)</dc:creator>
+        <dc:creator opf:role="nrt">Hamish Clark (Swordfish)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fullerlove (Wife)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Husband / Guard)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Bonnar (The Eleven)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Investigating the appearance of the Voord on Earth, the Doctor, Liv and Helen follow a trail which takes them to the other side of the universe. There they discover a mysterious and almost deserted gothic city lost in space and time, in which the grotesque inhabitants are conducting a vile and inhumane experiment. The Doctor and his companions must hurry to save the lives of those in danger before the experiment is a success and the unimaginable consequences become all too real. </dc:description>
+    </metadata>
+</package>

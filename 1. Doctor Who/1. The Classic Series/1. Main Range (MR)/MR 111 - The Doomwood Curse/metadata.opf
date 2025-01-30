@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Doomwood Curse</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-320-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="111"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jacqueline Rayner</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Hayley Atwell (Eleanor)</dc:creator>
+        <dc:creator opf:role="nrt">Suzie Chard (Molly / Grel / Crone / Reminder Bot)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Cooper (Sir Ralph / Priest / Coachman / Toll-Keeper / Leeves / Judge)</dc:creator>
+        <dc:creator opf:role="nrt">Daisy Douglas (Susan / Boy / Witness)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Firth (John / Wheeler / Justice)</dc:creator>
+        <dc:creator opf:role="nrt">Nicky Henson (Dick Turpin / Grel)</dc:creator>
+        <dc:creator opf:role="nrt">Geraldine Newman (Lady Sybil / Villager / Witness)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Curses and tombs, revenge from beyond the grave - and Dick Turpin!
+
+England, 1738. On the trail of a lost book, the Doctor and Charley arrive at the beautiful country estate of Sir Ralph and Lady Sybil. But all is far from idyllic. There’s a murderer on the loose, and the nearby woods are the haunt of the notorious highwayman Dick Turpin.
+
+And that’s not all. Something else has journeyed here. Something that could destroy the very fabric of reality. The Doctor and Charley have just forty-eight hours to solve the mystery before the whole world succumbs to the Doomwood Curse.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Escape from Nebazz</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-817-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - The Sins of Captain Jack"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Llewellyn</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">James Marsters (Captain John Hart)</dc:creator>
+        <dc:creator opf:role="nrt">Kathryn Drysdale (Dr Magpie)</dc:creator>
+        <dc:creator opf:role="nrt">Dona Croll (Miss Slaughter)</dc:creator>
+        <dc:creator opf:role="nrt">Connor Calland (Grimble)</dc:creator>
+        <dc:creator opf:role="nrt">Robbie Jarvis (Guard)</dc:creator>
+        <dc:creator opf:role="nrt">Silas Carson (First Pilot)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Allen (Second Pilot)</dc:creator>
+        <dc:creator opf:role="nrt">Serin Ibrahim (Computer)</dc:creator>
+        <dc:creator opf:role="nrt">John Barrowman (Captain Jack Harkness)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Captain John is in a wooden space prison that's under attack by a strange and terrible life form. Also the catering is truly dreadful and Dr Magpie's latest discovery may have got a little out of hand.</dc:description>
+    </metadata>
+</package>

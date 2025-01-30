@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Excelis Rising</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2002-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-464-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - Excelis"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David A. McIntee</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Head (Reeve Maupassant)</dc:creator>
+        <dc:creator opf:role="nrt">Charles Kay (The Curator)</dc:creator>
+        <dc:creator opf:role="nrt">James Lailey (Minister Pryce)</dc:creator>
+        <dc:creator opf:role="nrt">Nicky Goldie (Inquisitor Danby)</dc:creator>
+        <dc:creator opf:role="nrt">Patricia Leventon (Mother Superior)</dc:creator>
+        <dc:creator opf:role="nrt">Rupert Laight (Solomon)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Walton (Thief)</dc:creator>
+        <dc:creator opf:role="nrt">David Darlington (Whispering Voice)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A thousand years after his first visit to the planet Artaris, the Doctor returns. The city of Excelis has grown, spreading a vast Empire throughout the globe. Science and engineering have provided a new Age of Reason. 
+
+But the more things change, the more they stay the same, and once again death follows the mysterious Relic through the halls of the Imperial Museum. 
+
+When the Doctor finds himself helping the Curator and the local authorities with this mystery, he finds himself crossing paths with a familiar face from Excelis' history —- but no-one lives for a thousand years, do they?</dc:description>
+    </metadata>
+</package>

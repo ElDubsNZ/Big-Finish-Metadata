@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Nowhere Place</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2006-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-174-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="84"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Stables (Evelyn)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Trevor Ridgely)</dc:creator>
+        <dc:creator opf:role="nrt">Martha Cope (Captain Oswin)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Critchlow (O'Keefe)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Fettes (Master-at-Arms)</dc:creator>
+        <dc:creator opf:role="nrt">John Killoran (Palmer)</dc:creator>
+        <dc:creator opf:role="nrt">Benjamin Roddy (Operations)</dc:creator>
+        <dc:creator opf:role="nrt">John Schwab (EXO Moore)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Wisher (Armstrong)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Wolff (Hayman)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>2197. The fighter-carrier Valiant has just crossed Pluto's orbital path. Its captain is expecting trouble from alien raiders. She is not expecting the Doctor and Evelyn.
+
+She does not believe members of her crew when they say they can hear an ancient bell ringing. A bell that strikes terror into their hearts.
+
+1952. The Turret Class locomotive Ivy Lee is hurtling through the night. On board, there should only be two passengers: both of them carrying documents from the War Office.
+
+But now, there are also two unexpected visitors on the train. One is the guard with ill-fitting trousers, the other is an excessively dotty old lady.
+
+The Doctor and Evelyn have arrived and 'Time's End' is approaching.</dc:description>
+    </metadata>
+</package>

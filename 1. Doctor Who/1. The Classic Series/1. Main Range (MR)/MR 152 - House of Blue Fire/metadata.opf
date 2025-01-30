@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>House of Blue Fire</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-580-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="152"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mark Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Ray Emmet Brown (Number 16)</dc:creator>
+        <dc:creator opf:role="nrt">Howard Gossington (Number 12)</dc:creator>
+        <dc:creator opf:role="nrt">Miranda Keeling (Number 5)</dc:creator>
+        <dc:creator opf:role="nrt">Amy Pemberton (Number 18)</dc:creator>
+        <dc:creator opf:role="nrt">Lizzy Watts (Eve Pritchard / Mi'en Kalarash)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy West (Dr Magnus Soames)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>aquaphobia n. An abnormal fear of water, or drowning.
+
+blattodephobia n. The morbid fear of cockroaches.
+
+catoptrophobia n. Fear of mirrors, or seeing one’s own reflection.
+
+ There’s a whole ABC of horrors at Bluefire House – as four young people, drawn together to this tumbledown hotel at the edge of nowhere, are about to discover. But whatever the ancient and foul thing that has emerged from the wilderness to drag them here, speaking of it will only strengthen it.
+
+ The Doctor alone knows what lurks at the heart of Bluefire House. But the monster of his childhood dreams is coming. The Mi’en Kalarash is coming…
+
+Just this once, the Doctor is afraid.</dc:description>
+    </metadata>
+</package>

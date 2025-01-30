@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Tyrants of Logic</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-501-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Third Doctor Adventures - Volume 4"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tim Treloar (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Katy Manning (Jo Grant)</dc:creator>
+        <dc:creator opf:role="nrt">Linda Marlowe (Gusta Pardo)</dc:creator>
+        <dc:creator opf:role="nrt">Carolyn Pickles (Professor Marian Schaeffer)</dc:creator>
+        <dc:creator opf:role="nrt">Ronan Summers (Hollisen Grier)</dc:creator>
+        <dc:creator opf:role="nrt">Jeff Rawle (Chad Caramel)</dc:creator>
+        <dc:creator opf:role="nrt">Deli Segal (Skippa)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Cybermen / Bernard Schaeffer[u])</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and Jo land on Port Anvil – a bleak, abandoned mining colony on the remote planet Burnt Salt. A huge armoured crate has recently arrived in the almost derelict Spacehub. No-one knows who it’s for. No-one knows what it contains.
+
+Strange creatures lurk around the outskirts, and a rag-tag population of misfits inhabit what is left of the town: a saloon bar owner, a literal one-man band and a hunter of very unusual prey. If they want to survive the night, they’re going to have to work together.
+
+Because the Cybermen want the contents of the crate. And they will stop at nothing to get hold of it.</dc:description>
+    </metadata>
+</package>

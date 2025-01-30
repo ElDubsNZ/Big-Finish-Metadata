@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Justice of Jalxar</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-057-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 2"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Mary Tamm (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Baxter (Professor George Litefoot)</dc:creator>
+        <dc:creator opf:role="nrt">Ben Bishop (Stone)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Goldthorp (Bobby Stamford)</dc:creator>
+        <dc:creator opf:role="nrt">Adrian Lukis (Harvey Marsh)</dc:creator>
+        <dc:creator opf:role="nrt">Rosanna Miles (Mary Brown)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>They call him The Pugilist.
+
+It is the dawn of a new century and a vigilante is on the loose. The scourge of the criminal underclass. The saviour of the virtuous and the protector of the weak. The police are baffled, the public enamoured…  but Professor George Litefoot and Henry Gordon Jago are on the case. Or at least they will be when they've finished their beer.
+
+What is the source of The Pugilist's spectacular supernatural powers? Is he alone in his noble quest? And what is his connection to the spate of corpses discovered around London?
+
+As they descend further into a nefarious netherworld, the infernal investigators may be out of their depth. They're going to need help if they're to get out of this alive. The help of an old friend and his new assistant. The help… of the Doctor and Romana.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Ascension</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-959-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 6"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Justin Richards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (Lady President Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Juliet Landau (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Coordinator Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9 Mark II / Coordinator Tallan)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Chancellor Valyes)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Arthur (Lukas)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Perring (Matthias)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Handcock (Commander Jevon)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Sheward (Castellan Slyne)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks / Dalek Supreme)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards[source needed] (Lord Cardinal)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Gallifrey Rises... 
+
+Romana's sacrifice sees Gallifrey restored to its former glory, but at a terrible cost. 
+
+As the Time Lords begin to reclaim their stronghold, Leela and Narvin find themselves trapped in a decaying reality... and only K9 can help them. 
+
+As old friends fight to reunite, new threats lie in wait... 
+
+Because Braxiatel was right: war is coming.</dc:description>
+    </metadata>
+</package>

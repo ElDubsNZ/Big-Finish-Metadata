@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Split Infinitive</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-648-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - The Legacy of Time"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Williams (Group Captain Ian Gilmore)</dc:creator>
+        <dc:creator opf:role="nrt">Pamela Salem (Professor Rachel Jensen)</dc:creator>
+        <dc:creator opf:role="nrt">Karen Gledhill (Doctor Allison Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Ross (Sir Tobias Kinsella)</dc:creator>
+        <dc:creator opf:role="nrt">Vince Leigh (Kazan)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (Vince)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Rocket Man)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A criminal gang appears to have recruited a member with time-bending powers. It’s a case for the Counter-Measures team – in the 1960s and the 1970s! The Seventh Doctor and Ace have their work cut out to save the day twice over, and make sure Gilmore, Rachel and Allison don’t collide with their past, or their future.</dc:description>
+    </metadata>
+</package>

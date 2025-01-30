@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Hunters of Earth</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-47131-156-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Destiny of the Doctor"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nigel Robinson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Carole Ann Ford (Susan Foreman)</dc:creator>
+        <dc:creator opf:role="nrt">Tam Williams (Cedric)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Shoreditch, London, 1963. The Beatles have beaten John Smith and the Common Men to No. 1 and satellites are being launched in outer space. Back down on Earth, strange goings-on are occurring: the normally placid teenagers of Coal Hill are running riot and a master thief is stealing highly specialised equipment.
+
+Schoolgirl Susan Foreman just wants an easy life for herself and her grandfather, the mysterious Doctor. She wants to be liked and accepted by Cedric and all the other pupils at Coal Hill School. But there’s trouble in the streets and bombsites around Totter’s Lane.
+
+The teenagers are becoming dangerous... Their mission: to hunt down anyone different, or alien... Susan's quiet life is about to spiral out of control. Having inadvertently started drawing attention to herself, she finds herself in a desperate situation. Suddenly, the chase is on and she and her grandfather are now the hunted.</dc:description>
+    </metadata>
+</package>

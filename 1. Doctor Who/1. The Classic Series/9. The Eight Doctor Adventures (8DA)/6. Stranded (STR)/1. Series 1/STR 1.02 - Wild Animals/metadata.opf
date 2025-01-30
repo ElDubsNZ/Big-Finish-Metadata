@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Wild Animals</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-165-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Stranded 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Hattie Morahan (Helen Sinclair)</dc:creator>
+        <dc:creator opf:role="nrt">Rebecca Root (Tania Bell)</dc:creator>
+        <dc:creator opf:role="nrt">Raj Ghatak (Sanjit)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Portal (Treadwell)</dc:creator>
+        <dc:creator opf:role="nrt">Avita Jay (Zakia Akhtar)</dc:creator>
+        <dc:creator opf:role="nrt">Amina Zia (Aisha Akhtar)</dc:creator>
+        <dc:creator opf:role="nrt">Raj Ghatak (Mugger)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>After weeks of London living, some of the TARDIS crew are finding it easier to adjust than others.
+
+Liv has found a new friend, but Helen is worried about the Doctor.
+
+And when a tragic crime takes place, the Time Lord must learn the limits of his powers.</dc:description>
+    </metadata>
+</package>

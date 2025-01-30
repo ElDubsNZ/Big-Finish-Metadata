@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Dead Plates</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-796-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="62"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Llewellyn</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Murray Melvin (Bilis Manger)</dc:creator>
+        <dc:creator opf:role="nrt">Rosa Escoda (Felicity Templeton)</dc:creator>
+        <dc:creator opf:role="nrt">Jack Forsyth-Noble (Policeman)</dc:creator>
+        <dc:creator opf:role="nrt">Dylan Jones (Tom)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Ross (Oliver Barleycorn)</dc:creator>
+        <dc:creator opf:role="nrt">Cleo Sylvestre (Beryl Finch)</dc:creator>
+        <dc:creator opf:role="nrt">Tony Turner (Gerald Spencer)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Bilis Manger has been murdered. And he's determined to find out who did it. Four people at dinner are the suspects, and they've each got murky secrets and at least one skeleton in the closet. What is really on the menu at one of Soho's finest restaurants? And will any of the suspects make it out alive?</dc:description>
+    </metadata>
+</package>

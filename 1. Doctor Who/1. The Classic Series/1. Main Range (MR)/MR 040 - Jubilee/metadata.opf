@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Jubilee</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2003-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-022-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="40"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Shearman</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Stables (Evelyn)</dc:creator>
+        <dc:creator opf:role="nrt">Rosalind Ayres (Miriam Rochester)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Georgina Carter (Female Movie Star)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Elder (Farrow)</dc:creator>
+        <dc:creator opf:role="nrt">Jack Galagher (Male Movie Star)</dc:creator>
+        <dc:creator opf:role="nrt">Martin Jarvis (Nigel Rochester)</dc:creator>
+        <dc:creator opf:role="nrt">Kai Simmons (Lamb)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Hurrah! The deadly Daleks are back! Yes, those loveable tinpot tyrants have another plan to invade our world. Maybe this time because they want to drill to the Earth's core. Or maybe because they just feel like it.
+
+And when those pesky pepperpots are in town, there is one thing you can be sure of. There will be non-stop, high-octane mayhem in store. And plenty of exterminations!
+
+But never fear. The Doctor is on hand to sort them out. Defender of the Earth, saviour of us all. With his beautiful assistant, Evelyn Smythe, by his side, he will fight once again to uphold the beliefs of the English Empire. All hail the glorious English Empire!
+
+Now that sounds like a jubilee worth celebrating, does it not?</dc:description>
+    </metadata>
+</package>

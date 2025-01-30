@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Her Own Worst Enemy</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-613-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jenny - The Doctor's Daughter - Series 2 - Still Running"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lisa McMullin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Georgia Tennant (Jenny)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Biggerstaff (Noah)</dc:creator>
+        <dc:creator opf:role="nrt">Siân Phillips (COLT-5000)</dc:creator>
+        <dc:creator opf:role="nrt">Lara Lemon (Young Geraldine / Jimmins / Benni)</dc:creator>
+        <dc:creator opf:role="nrt">Okorie Chukwu (Mike / Cyborg Auditor Mike / Henry)</dc:creator>
+        <dc:creator opf:role="nrt">Cavin Cornwall (Seavus Colt)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Jenny wants bounty hunter cyborg Colt-5000 off their trail once and for all. Her plan involves cybertech founder Seavus Colt, time travel, and showing somebody the true value of their life. But the web of time can't be pulled apart without a cost...</dc:description>
+    </metadata>
+</package>

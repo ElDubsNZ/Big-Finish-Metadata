@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Curse of Time</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-466-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 14 - The Curse of Time"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sadie Miller (Sarah Jane Smith)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (Harry Sullivan)</dc:creator>
+        <dc:creator opf:role="nrt">Rosemary Ashe (Mother Cassava)</dc:creator>
+        <dc:creator opf:role="nrt">Scarlett Courtney (Arnica)</dc:creator>
+        <dc:creator opf:role="nrt">Angus Dunican (Faustus Black)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew French (Brother Voss)</dc:creator>
+        <dc:creator opf:role="nrt">George Naylor (Winterbird / First Monk)</dc:creator>
+        <dc:creator opf:role="nrt">Terence Wilton (Zaphiel Ixon)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>After being dragged through a rip in the time vortex, the TARDIS returns the Doctor, Sarah and Harry to Earth. They are in medieval times, but something strange is afoot.
+
+The villagers live in fear of the sinister Brotherhood, an order of monks that upholds the sacred laws. Then there’s Faustus Black, with his troupe of travelling players. What connects them is a terrible secret hidden in the Forbidden Forest... a cave from which nobody has ever returned...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Disassembled</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-556-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 4"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Justin Richards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9 Mk II)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Geoffrey Beevers (Lord Prydon)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Mysterious Stranger)</dc:creator>
+        <dc:creator opf:role="nrt">Andy Coleman (Guard Commander Andred)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Handcock (Guard Jevon)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Hayes (Cassandra)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Johnson (Technician Hester)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Keetch (Coordinator Vansell)</dc:creator>
+        <dc:creator opf:role="nrt">Alexander Vlahos (Prime Enforcer Arcalia)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Gallifrey kills... 
+
+The President of the High Council wants Romana dead. The Temporal Intervention Agency has been dispatched to hunt her down. Its mission: to eliminate her from the timelines for ever. It would be as though she had never existed... 
+
+Only an old friend can offer Romana any hope of survival. An acquaintance she and Leela once shared. One they haven't seen in years. 
+
+But time is running out. Death is fast approaching. And this time, not everyone can survive... with or without the Doctor.</dc:description>
+    </metadata>
+</package>

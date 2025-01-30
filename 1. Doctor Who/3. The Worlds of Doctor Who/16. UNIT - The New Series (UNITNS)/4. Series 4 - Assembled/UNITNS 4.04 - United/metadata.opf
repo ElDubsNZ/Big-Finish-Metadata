@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>United</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-618-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - The New Series - Series 4 - Assembled"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jemma Redgrave (Kate Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Ingrid Oliver (Osgood)</dc:creator>
+        <dc:creator opf:role="nrt">Warren Brown (Sam Bishop)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Josh Carter)</dc:creator>
+        <dc:creator opf:role="nrt">Katy Manning (Jo Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Franklin (Mike Yates)</dc:creator>
+        <dc:creator opf:role="nrt">John Levene (John Benton)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Hope (Jastrok)</dc:creator>
+        <dc:creator opf:role="nrt">Neve McIntosh (Kalana)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Silurians hold Great Britain under siege. Grand Marshal Jastrok rules the seas and the skies with reptile forces. On the ground, Commander Kalana crushes all ape resistance. 
+
+With Kate Stewart trapped, defence of the realm falls to UNIT's old guard. Jo Jones, Mike Yates and John Benton are ready to do their duty and stand united.</dc:description>
+    </metadata>
+</package>

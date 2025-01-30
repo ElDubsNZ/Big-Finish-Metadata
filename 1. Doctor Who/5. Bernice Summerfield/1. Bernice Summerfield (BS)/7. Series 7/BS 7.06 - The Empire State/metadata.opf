@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Empire State</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2006-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-254-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 7"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Fewell (Jason Kane)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie-Louise Dann (Maggie)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Edgerley (Saf)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Watts (Rand)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A remarkable city once stood on a desert moon between six colony worlds: an entire city contained within a single vast tower. In honour of another great feat of architecture from an earlier age, the human pioneers who built the city christened it the EmpireState.
+
+The phrase 'once stood' would seem to imply that the city isn't there any more, and until yesterday it wasn't, having been destroyed almost a century ago. Indeed, Bernice Summerfield has reluctantly left behind a Braxiatel Collection in turmoil and launched an expedition to excavate the site of the EmpireState, and noted archaeologists like her rarely concern themselves with things that haven't been broken, ruined or lost.
+
+Yet now the EmpireState has reappeared as if the last century never happened, and the members of Bernice's expedition have been scattered throughout the city. One member in particular proves difficult to track down, which is awkward as Bernice believes that she may hold the key to what's happening at the EmpireState - and the means to save the Braxiatel Collection.</dc:description>
+    </metadata>
+</package>

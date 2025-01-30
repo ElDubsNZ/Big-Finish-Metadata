@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Phoenicians</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-657-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The First Doctor Adventures - Volume 3"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Bradley (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Claudia Grant (Susan)</dc:creator>
+        <dc:creator opf:role="nrt">Jemma Powell (Barbara Wright)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Glover (Ian Chesterton)</dc:creator>
+        <dc:creator opf:role="nrt">Ajjaz Awad (Princess Elissa of Tyre)</dc:creator>
+        <dc:creator opf:role="nrt">Orion Ben (Aiyaruc / Hanna)</dc:creator>
+        <dc:creator opf:role="nrt">Jo Ben Ayed (Prince Pygmalion of Tyre)</dc:creator>
+        <dc:creator opf:role="nrt">Youssef Kerkour (Bitias)</dc:creator>
+        <dc:creator opf:role="nrt">Raad Rawi (Tubal / Maygo / King Hiarbas of Tunis)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In ancient Tyre, the Phoenician civilisation commands the oceans. But times are turbulent – the young King’s quarrel with his sister threatens to divide the nation.
+
+On perilous seas, Ian becomes Princess Elissa’s favourite, while Susan and Barbara face losing their freedom. In the city, the Doctor falls foul of King Pygmalion.
+
+As they reach dangerous shores, the travellers fight to survive as legend becomes history…</dc:description>
+    </metadata>
+</package>

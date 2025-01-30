@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Part 1</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-382-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Dark Gallifrey - Series 2 - The War Master"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">David Warner (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jason Forbes (Cardinal)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Lew Kum Hoi (President)</dc:creator>
+        <dc:creator opf:role="nrt">Tariyé Peterside (The Imbomination)</dc:creator>
+        <dc:creator opf:role="nrt">Homer Todiwala (The TARDIS)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Many have sought the legendary Dark Gallifrey over the millennia... but most have been lucky enough to fail. There is another who has his eyes on that glittering prize, however; one who knows how such power could be wielded - the Master himself!
+
+Intrigued by rumours of a hidden Gallifrey - the Dark Gallifrey of Time Lord myth - Bernice Summerfield resolves to find it.
+
+But as the Doctor points out, some things should never be found, and some doors should never be opened. Especially ones that want to be...</dc:description>
+    </metadata>
+</package>

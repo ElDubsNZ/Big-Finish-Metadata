@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Lurkers at Sunlight's Edge</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-500-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="141"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Marty Ross</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Olivier (Hex)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Brandon (CP Doveday)</dc:creator>
+        <dc:creator opf:role="nrt">Samuel Clemens (Slade / Karnas 'Koi)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Lowe (Professor August Corbin / Kinney)</dc:creator>
+        <dc:creator opf:role="nrt">Stuart Milligan (Emerson Whytecrag)</dc:creator>
+        <dc:creator opf:role="nrt">Kate Terence (Dr Freya Gabriel)</dc:creator>
+        <dc:creator opf:role="nrt">Duncan Wisbey (Captain Akins / Patients)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>1934: the TARDIS lands on a snowy island off the coast of Alaska – one that wasn’t there four years, three months and six days ago, according to the Doctor. The island is dominated by a vast, twisted citadel. Inside it, the Lurkers lie dreaming.  It's said when they wake the world will end…
+
+Led by the ruthless Emerson Whytecrag, an expedition has come to the citadel to exploit the horrors in its ebon-dark interior. Horrors just like those published in the pages of the pulp magazine Shuddersome Tales, where a hero's only reward is madness, death… or worse. Horrors that the Doctor and his companion are about to wake up.</dc:description>
+    </metadata>
+</package>

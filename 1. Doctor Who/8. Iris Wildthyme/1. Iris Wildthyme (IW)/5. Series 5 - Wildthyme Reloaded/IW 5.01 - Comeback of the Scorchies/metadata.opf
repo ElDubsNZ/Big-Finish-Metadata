@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Comeback of the Scorchies</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-778-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Iris Wildthyme - Series 5"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Katy Manning (Iris Wildthyme)</dc:creator>
+        <dc:creator opf:role="nrt">Geoffrey Breton (Captain Edwin Turner)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Hallard (Brian Bonamy)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Rankin (Jack)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Maggie)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>One-hit '80s wonder, Brian Bonamy, is back - and he's wowing the crowds of Margate! But when Iris and Captain Turner take in the show, they quickly realise something else is behind his success... and that Iris is still under contract!</dc:description>
+    </metadata>
+</package>

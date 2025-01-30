@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Colony of Fear</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-020-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="273"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Roland Moore</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Miranda Raison (Constance Clark)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Asbury (Mollis)</dc:creator>
+        <dc:creator opf:role="nrt">Rachel Atkins (Dresha)</dc:creator>
+        <dc:creator opf:role="nrt">Misha Malcolm (Solara)</dc:creator>
+        <dc:creator opf:role="nrt">Leighton Pugh (Edwin)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew James Spooner (Tarlos / Fanza)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Sometimes the TARDIS takes the Doctor to where he needs to go...
+
+Answering a distress call from the out-world of Triketha, the Doctor and Constance Clarke discover human colonists battling against an onslaught of giant, malevolent insects. The insects’ sting induces a coma, and it is only a matter of time before all the colonists succumb.
+
+The Doctor is curious as to the origins of the insects, which appeared from nowhere, and offers his assistance to the colony’s governor. But is this the Doctor’s first visit to Triketha, or has he been here before? The Doctor must confront a past that he has no memory of and take responsibility for the consequences of his actions.</dc:description>
+    </metadata>
+</package>

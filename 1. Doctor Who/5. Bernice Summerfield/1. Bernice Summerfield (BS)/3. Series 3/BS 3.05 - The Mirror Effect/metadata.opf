@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Mirror Effect</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2003-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-471-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 3"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Stewart Sheargold</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Fewell (Jason Kane)</dc:creator>
+        <dc:creator opf:role="nrt">Beverley Cressman (Doctor Carnivel)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Myers (Adrian Wall)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Irving Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Joseph the Porter)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Do you believe in the mirror or do you believe in yourself?
+
+ 
+
+Under the ice on a cold world lie the derelict remains of the lost Grid 4 Mining Station. Inside the station is a mirror, an ancient alien artefact, its existence known to few. Inside the mirror is one Professor Bernice Summerfield, and she can't get out. Trapped and alone in a place she cannot trust, with her friends distorted and turned against her, she is haunted by fears and reflections.
+
+ 
+
+And inside Bernice Summerfield is a little baby creature that wants her to be mother.</dc:description>
+    </metadata>
+</package>

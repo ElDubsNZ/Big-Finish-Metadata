@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>One Mile Down</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-761-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Tenth Doctor Adventures - Series 3"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jenny T Colgan</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Tennant (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Catherine Tate (Donna Noble)</dc:creator>
+        <dc:creator opf:role="nrt">Rakie Ayola (Andrea)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Judoon Captain / Clo / Judoon)</dc:creator>
+        <dc:creator opf:role="nrt">Eleanor Crooks (Patricia Derbyshire)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (Pickus)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Whitelock (Garth / Thispus)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Donna and the Doctor take a holiday in the beautiful underwater city of Vallarasee.
+
+Things have changed since the Doctor last swam through. Vallarasee is now enclosed in an airdome, with Judoon patrolling historic sites. Now, instead of tourists wearing breathing-helmets, native Fins are forced to adapt.
+
+But leaks are trickling into the dome. The Judoon must be persuaded that disaster is imminent, or thousands will be trapped, as the waters rise...</dc:description>
+    </metadata>
+</package>

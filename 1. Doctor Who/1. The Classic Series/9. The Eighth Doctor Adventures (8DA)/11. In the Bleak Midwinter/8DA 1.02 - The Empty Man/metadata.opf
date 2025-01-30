@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Empty Man</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-898-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - In the Bleak Midwinter"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charley Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Jaye Griffiths (Lady Audacity Montague)</dc:creator>
+        <dc:creator opf:role="nrt">Nickolas Grace (Eldridge Brinkwood)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Good evening, faithful listener. It's time for Eldridge Brinkwood, that splendid scribe of scary stories, to tell another of his tales this Christmas Eve.
+
+Except this is a horror like no other. The Doctor and his friends have stirred something in the dark, something ruthless and relentless. And the Empty Man must feast...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Friendly Fire</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-884-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fifth Doctor Adventures - Volume 4 - Conflicts of Interest"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Alice Krige (Reno)</dc:creator>
+        <dc:creator opf:role="nrt">Greig Johnson (Brennan)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Alexander (Jagger)</dc:creator>
+        <dc:creator opf:role="nrt">Imogen Church (Spencer)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the TARDIS needs to reset itself, the Doctor, Nyssa and Tegan find themselves having to fill time on a space-hub filled with numerous attractions. This pleases Tegan and Nyssa no end... but the Doctor is more interested in visiting an alien friend of his living on a nearby mining planet and is able to persuade his friends to join him.
+
+But on arrival, his friend is nowhere to be found and the locals are more than slightly unwelcoming. With limited options for departure and a hostile populace they may be in a lot of trouble.
+
+Sometimes true monsters are found in the strangest places.</dc:description>
+    </metadata>
+</package>

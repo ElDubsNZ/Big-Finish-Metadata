@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Stuff of Legend</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-615-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Series 12 - The Stuff of Legend"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Valentine</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Annette Badland (Old Emily Barnfather / The Bucca)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Jago Penrose / Foley)</dc:creator>
+        <dc:creator opf:role="nrt">Jason Forbes (Captain Montgomerie Césaire)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Macqueen (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Nisha Nayar (Emily Barnfather)</dc:creator>
+        <dc:creator opf:role="nrt">George Naylor (Jory / Robomen)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Something is afoot in the lonely Cornish village of Merrymaid Bay. Rumours of dead men working in the tin mines have sent a chill through the community, and it's up to the Doctor and Charley to get to the bottom of the mystery.
+
+Can the legends of the Bucca that haunts the mines be true? And just what awesome power do the Doctor's greatest enemies - the Daleks! - threaten to unleash upon the universe?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Aliens & Sex & Chips & Gravy</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-010-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - She Story Continues - Series 1 - Aliens Among Us - Part 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Barrowman (Captain Jack Harkness)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Clayton (Mr Colchester)</dc:creator>
+        <dc:creator opf:role="nrt">Alexandria Riley (Ng)</dc:creator>
+        <dc:creator opf:role="nrt">Jonny Green (Tyler Steele)</dc:creator>
+        <dc:creator opf:role="nrt">Eve Myles (Gwen Cooper)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Colquhoun (Madrigal)</dc:creator>
+        <dc:creator opf:role="nrt">Rhian Marston-Jones (Quenel)</dc:creator>
+        <dc:creator opf:role="nrt">Lu Corfield (Brongwyn)</dc:creator>
+        <dc:creator opf:role="nrt">Rhys Whomsley (Osian)</dc:creator>
+        <dc:creator opf:role="nrt">Sharon Morgan (Mary Cooper)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Has Cardiff really been invaded by aliens? Tyler thinks he's found a lead – the daughter of the mysterious Ro-Jedda is getting married and has booked a private party. If Torchwood can infiltrate it, there's a chance they'll end up closer to the truth. Free bar, canapes, and the chance to find out what's really going on. What could possibly go wrong? Soon Torchwood are on the run for their lives, and learning more than they ever wanted to about alien life.</dc:description>
+    </metadata>
+</package>

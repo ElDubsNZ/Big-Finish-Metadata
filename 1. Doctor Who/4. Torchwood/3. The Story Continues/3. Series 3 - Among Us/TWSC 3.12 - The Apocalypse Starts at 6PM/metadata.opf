@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Apocalypse Starts at 6PM</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-282-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - She Story Continues - Series 3 - Among Us - Part 3"/>
+        <meta name="calibre:series_index" content="12"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Janet Ellis (Janet)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy-Ann Oberman (Yvonne Hartman)</dc:creator>
+        <dc:creator opf:role="nrt">Samantha Béart (Orr)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Clayton (Mr Colchester)</dc:creator>
+        <dc:creator opf:role="nrt">Jonny Green (Tyler)</dc:creator>
+        <dc:creator opf:role="nrt">Alexandria Riley (Ng)</dc:creator>
+        <dc:creator opf:role="nrt">Mia Hope (Friend)</dc:creator>
+        <dc:creator opf:role="nrt">Jhon Lumsden (Chris)</dc:creator>
+        <dc:creator opf:role="nrt">Kai Owen (Rhys)</dc:creator>
+        <dc:creator opf:role="nrt">Helena Breck, Al Coppola, Eva Eklof, Matthew Foster, Victoria Gee, Adam Howden, Jade Matthew, Sally Walker-Taylor (The Ensemble)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Janet's Late Teatime is the TV equivalent of a cup of soup and a lapful of kittens. So when Torchwood announce the world will end on tomorrow night's show – well, what's Janet going to do?</dc:description>
+    </metadata>
+</package>

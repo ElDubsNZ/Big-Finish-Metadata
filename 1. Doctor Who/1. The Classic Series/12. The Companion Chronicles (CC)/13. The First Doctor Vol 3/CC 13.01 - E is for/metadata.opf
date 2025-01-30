@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>E is for...</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-590-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - The First Doctor - Volume 3"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Julian Richards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Carole Ann Ford (Susan)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Edel-Hunt (Virgil Winters)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Colonel Maria Rage / Weapon A)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>All is not right on the planet Malkus. Every day more and more monstrosities are born; people with powers and abilities far beyond those of normal men and women. They call these people "the Gifted". And Susan has become one of them. Separated from her friends in a Police State dedicated to hunting people like her, Susan finds herself in a prison which has destroyed countless lives. And at its centre, at its heart, waiting, is the most dangerous monster of all...</dc:description>
+    </metadata>
+</package>

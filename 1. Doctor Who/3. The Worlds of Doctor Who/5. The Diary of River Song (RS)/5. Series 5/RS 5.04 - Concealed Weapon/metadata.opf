@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Concealed Weapon</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-505-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Diary of River Song - Series 5"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Scott Handcock</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Jacobi (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Vineeta Rishi (Amita Burman)</dc:creator>
+        <dc:creator opf:role="nrt">Orion Ben (Nina Purkis)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Price (Hugo)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline King (Michelle Lambon)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Charlotte Henries)</dc:creator>
+        <dc:creator opf:role="nrt">Richenda Carey (Admiral)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A deep space exploration mission nears its end – when suddenly, the crew start to die. 
+
+River must try to protect her colleagues and work out what else is on board their ship. 
+
+Something is stalking them, and the deadliest Master of all has his own plans for River Song...</dc:description>
+    </metadata>
+</package>

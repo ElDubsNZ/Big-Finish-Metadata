@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Chimes of Midnight</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2002-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-458-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="29"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Shearman</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Curbishley (Frederick)</dc:creator>
+        <dc:creator opf:role="nrt">Lennox Greaves (Shaughnessy)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Rolfe (Edith)</dc:creator>
+        <dc:creator opf:role="nrt">Sue Wallace (Mrs Baddeley)</dc:creator>
+        <dc:creator opf:role="nrt">Juliet Warner (Mary)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Twas the night before Christmas, and all through the house not a creature was stirring...
+
+But something must be stirring. Something hidden in the shadows. Something which kills the servants of an old Edwardian mansion in the most brutal and macabre manner possible. Exactly on the chiming of the hour, every hour, as the grandfather clock ticks on towards midnight.
+
+Trapped and afraid, the Doctor and Charley are forced to play detective to murders with no motive, where even the victims don't stay dead. Time is running out.
+
+And time itself might well be the killer...</dc:description>
+    </metadata>
+</package>

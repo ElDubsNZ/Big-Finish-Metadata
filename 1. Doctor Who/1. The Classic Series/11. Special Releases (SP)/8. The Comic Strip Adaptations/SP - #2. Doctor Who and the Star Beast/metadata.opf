@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Doctor Who and the Star Beast</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-670-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - The Comic Strip Adaptations"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Rhianne Starbuck (Sharon)</dc:creator>
+        <dc:creator opf:role="nrt">Ben Hunter (Fudge/UNIT Corporal)</dc:creator>
+        <dc:creator opf:role="nrt">Bethan Dixon Bate (The Meep/Wrarth Surgeon)</dc:creator>
+        <dc:creator opf:role="nrt">Angela Rippon (Newsreader)</dc:creator>
+        <dc:creator opf:role="nrt">David Schaal (Inspector Zogroth/Bus Driver)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Walker-Thomson (Sergeant Zreeg/Councillor/UNIT Lieutenant)</dc:creator>
+        <dc:creator opf:role="nrt">Sian Reeves (Mrs Higgins)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>1980 AD! In Yorkshire, the authorities have dismissed reports that an Unidentified Flying Object was seen plummeting towards the ground... moments before the explosion that destroyed the Blackcastle Steel Mills. After all, Blackcastle is the last place on Earth aliens would ever want to visit... 
+
+Local teenagers Sharon and Fudge know better. 'Cos they've found an actual space alien hiding in the allotments. He's their alien. Their secret. And his name is... The Meep. 
+
+He's not the only alien in Blackcastle, though. His pursuers, the terrible Wrarth Warriors, are on his trail, along with their unwitting accomplice: The Doctor!</dc:description>
+    </metadata>
+</package>

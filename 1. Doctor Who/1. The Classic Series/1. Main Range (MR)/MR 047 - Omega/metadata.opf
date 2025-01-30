@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Omega</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2003-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-029-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="47"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nev Fountain</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Collier (Omega)</dc:creator>
+        <dc:creator opf:role="nrt">Patrick Duggan (Professor Ertikus)</dc:creator>
+        <dc:creator opf:role="nrt">Anita Elias (Glinda)</dc:creator>
+        <dc:creator opf:role="nrt">Faith Kent (Maven)</dc:creator>
+        <dc:creator opf:role="nrt">Caroline Munro (Sentia)</dc:creator>
+        <dc:creator opf:role="nrt">Hugo Myatt (Daland)</dc:creator>
+        <dc:creator opf:role="nrt">Jim Sangster (Zagreus)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Westmaas (Tarpov)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A strange telepathic message prompts the Doctor to travel to the 'Sector of Forgotten Souls', a place where, thousands of years ago, Omega's ship vanished whilst detonating a star.
+
+He's not the only one journeying towards it. 'Jolly Chronolidays' prides itself on giving its tourists an experience of galactic history that is far better than mere time travel.
+
+Its motto is 'We don't go into history, we prefer to bring history to you'.
+
+When Omega's ship suddenly materialises in front of their shuttle, and one of their employees goes insane and tries to destroy his hands... suddenly it's not just a motto anymore.
+
+And Omega - and his madness - is closer than they think.</dc:description>
+    </metadata>
+</package>

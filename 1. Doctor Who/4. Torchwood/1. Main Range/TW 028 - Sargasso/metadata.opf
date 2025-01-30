@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Sargasso</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-479-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="28"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Christopher Cooper</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Kai Owen (Rhys Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Sydney Feder (Kaitlin)</dc:creator>
+        <dc:creator opf:role="nrt">Chloe Ewart (Captain Anika Banaczik)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Jezek[1] (Yonich)</dc:creator>
+        <dc:creator opf:role="nrt">Wilf Scolding[1] (Sailor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Torchwood vs Monsters! 
+
+The seas of planet Earth are choked by plastic. Plastic that no-one has a use for and no-one can get rid of. 
+
+Rhys Williams finds himself stranded on a container ship in a sea of debris. People on board are dying. Because, luckily, someone's found a solution to Earth's polluted waters. The Nestene Consciousness can never have too much plastic.</dc:description>
+    </metadata>
+</package>

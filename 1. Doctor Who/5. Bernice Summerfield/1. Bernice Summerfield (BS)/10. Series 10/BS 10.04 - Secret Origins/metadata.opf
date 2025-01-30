@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Secret Origins</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-423-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 10"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Thomas Grant (Peter Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Donna Berlin (Robyn)</dc:creator>
+        <dc:creator opf:role="nrt">Doug Bradley (Samuel Frost)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Mallinson (Ghost / Soldier)</dc:creator>
+        <dc:creator opf:role="nrt">Duncan Wisbey (Agent Green / Lambton / Sebastian / Captain Strasser)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Bernice Summerfield wakes up in hospital on Earth, in the ruined city of Buenos Aires. She is relieved to find her son Peter by her side. Frost, the man who kidnapped Peter and has terrorised this city for centuries, has long been thought immortal: but now he’s dead. Everything is fine.
+
+Or is it? As Bernice tells Peter how she rescued him, she questions why Frost went to such lengths to kidnap Peter in the first place. Frost is one of two people she’s met here who claim to have known her for a long time: he seemed to have a grudge against her, whilst the other, a young woman named Robyn, claims to have worked with her for many years.
+
+As Bernice recuperates, the memories of this time start to come back to her. She remembers new adventures stretching back many, many years. She and Robyn have defeated Frost countless times before. How can this be right? Are these memories real? The answers lie in the origins of the feud between Bernice and Frost - but is Bernice paying too heavy a price for remembering?</dc:description>
+    </metadata>
+</package>

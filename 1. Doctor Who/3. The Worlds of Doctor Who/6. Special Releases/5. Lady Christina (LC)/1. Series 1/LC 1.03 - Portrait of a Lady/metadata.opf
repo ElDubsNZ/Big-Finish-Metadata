@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Portrait of a Lady</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-594-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Lady Christina - Series 1"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Dawson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Michelle Ryan (Lady Christina de Souza / El Guapo)</dc:creator>
+        <dc:creator opf:role="nrt">Warren Brown (Sam Bishop)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth Corke (Leon Clancy)</dc:creator>
+        <dc:creator opf:role="nrt">Emily Carewe (Lucy Clancy / Perfection)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Brenher (Mr Kamen)</dc:creator>
+        <dc:creator opf:role="nrt">Jenny Lee (Professor Leslie Plush / The Keeper)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Ryan (Grunt)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When her plot to steal a priceless painting runs into trouble, Christina crashes into an undercover UNIT operation – and Sam Bishop. 
+
+Soon, her Number 200 bus is racing from Europe to South America and into the depths of the Pacific, chasing a mysterious and unstoppable foe...</dc:description>
+    </metadata>
+</package>

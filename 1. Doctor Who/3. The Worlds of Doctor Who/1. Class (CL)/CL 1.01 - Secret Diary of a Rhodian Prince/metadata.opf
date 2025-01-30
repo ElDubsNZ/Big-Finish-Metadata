@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Secret Diary of a Rhodian Prince</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-944-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Class - Special"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Blair Mowat</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Greg Austin (Charlie Smith)</dc:creator>
+        <dc:creator opf:role="nrt">Jordan Renzo (Matteusz Andrzejewski)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>What's it like being an alien stranded on a strange planet in the aftermath of a genocide? What would you think of Earth's culture? What's it like falling in love with a human when you only met one just the other week? Who is the Doctor?
+
+And what happens if your secret diary falls into the wrong hands…?</dc:description>
+    </metadata>
+</package>

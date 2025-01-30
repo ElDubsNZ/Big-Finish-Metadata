@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Shadow of the Daleks 2</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-014-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="270"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizzie Hopley</dc:creator>
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+        <dc:creator opf:role="aut">Roland Moore</dc:creator>
+        <dc:creator opf:role="aut">Jonathan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Dervla Kirwan (Pellent Glommeration Representative / Agatha Fernbridge / Professor Callis / Kelleher)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (Advertising VO / Todd / Maran)</dc:creator>
+        <dc:creator opf:role="nrt">Anjli Mohindra (K’Marree-943 / Jennifer Huxley / Myorrah / Alice / Milal)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Parker (Brian / Jasper Fernbridge / Torrence / Sandar)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Something is very wrong. The Fifth Doctor is lost in the Time War, heading for an encounter with his oldest and deadliest enemies... the Daleks!
+
+Echo Chamber by Jonathan Barnes 
+
+It’s the radio talk show where everyone’s free to call in with their opinions. Time to welcome its host – the Doctor!
+
+Towards Zero by Roland Moore 
+
+The Doctor finds himself in an old country house where he has to solve a very unusual murder – his own!
+
+Castle Hydra by Lizzie Hopley
+
+Nearing the end of his journey, the Doctor enters a jail filled with familiar faces. But who are the prisoners and who are the wardens?
+
+Effect and Cause by John Dorney
+
+A crash in the vortex leads the Doctor to the source of all his troubles, and to the Daleks. The answers are here. If he can live long enough to find them.</dc:description>
+    </metadata>
+</package>

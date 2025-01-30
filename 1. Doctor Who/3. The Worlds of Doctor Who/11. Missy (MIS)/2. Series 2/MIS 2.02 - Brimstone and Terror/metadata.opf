@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Brimstone and Terror</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-228-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Missy - Series 2"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Roy Gill</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Michelle Gomez (Missy)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Strax/Mr Strakie/Mr Cosmo)</dc:creator>
+        <dc:creator opf:role="nrt">Oliver Clement (Oliver Davis)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Kingston (Lucy Davis)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Hope (Lawrence McAllister)</dc:creator>
+        <dc:creator opf:role="nrt">Cameron Percival (Rowan Fairley)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Missy wants an army, a brigade of willing youngsters, trained to serve. So she takes a teaching post at a remote Scottish boarding school. 
+
+But one of these boys knows Missy of old. And when Oliver Davis summons his sister for help, Lucy brings an ally from London. One Mr Strax...</dc:description>
+    </metadata>
+</package>

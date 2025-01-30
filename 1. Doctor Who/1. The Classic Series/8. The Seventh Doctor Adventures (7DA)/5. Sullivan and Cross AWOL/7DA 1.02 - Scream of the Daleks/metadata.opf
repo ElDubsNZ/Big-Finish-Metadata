@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Scream of the Daleks</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-748-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Seventh Doctor Adventures - Silver and Ice"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lisa McMullin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (Harry Sullivan)</dc:creator>
+        <dc:creator opf:role="nrt">Eleanor Crooks (Naomi Cross)</dc:creator>
+        <dc:creator opf:role="nrt">Carly Day (Gilly)</dc:creator>
+        <dc:creator opf:role="nrt">Cameron Percival (Cavan)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Halloween 1969. The Doctor, Harry and Naomi respond to a scream for rescue. They find that people have been dying on the same spot on this day across millennia.
+
+But in their bid to stop the nightmare, the travellers have unleashed the Doctor’s old enemy. This may be one cry for help better left unanswered...</dc:description>
+    </metadata>
+</package>

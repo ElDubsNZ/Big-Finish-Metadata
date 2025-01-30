@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Alien Heart / Dalek Soul</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-797-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="224"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Stephen Cole</dc:creator>
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Geoffrey Newland (Elthar / Toru)</dc:creator>
+        <dc:creator opf:role="nrt">Vineeta Rishi (Falex / Computer)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Tregear (Theebe / Saldo)</dc:creator>
+        <dc:creator opf:role="nrt">Eve Webster (Sonderal / Precuso / Krillim)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Alien Heart by Stephen Cole
+
+In the TARDIS, the Doctor and Nyssa stumble across a trail of ten destroyed worlds, all of them obliterated by means of some utterly monstrous but utterly unknown device. The planet Traxana would seem to be next in line to suffer the same fate. But when the TARDIS lands on an outpost on Traxana's moon, Nyssa is carried away by a tide of giant green arachnoids, leaving the Doctor behind...
+
+And the coming menace is closer than he thinks.
+
+Dalek Soul by Guy Adams
+
+On the Dalek-occupied world of Mojox, a group of rebels is engaged in a futile fightback against the invaders – but at last they’ve found an ally, in the form of the mysterious Doctor. Elsewhere, however, the Daleks' Chief Virologist is seeking to perfect a biological weapon to wipe out the Mojoxalli, once and for all.
+
+Her name... is Nyssa.</dc:description>
+    </metadata>
+</package>

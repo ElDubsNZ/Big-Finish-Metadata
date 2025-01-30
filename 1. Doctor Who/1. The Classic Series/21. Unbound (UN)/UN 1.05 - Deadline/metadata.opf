@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Deadline</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2003-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-017-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Unbound"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Shearman</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Derek Jacobi (Martin)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Brooker (Sydney)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Forbes (Philip)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline King (Barbara)</dc:creator>
+        <dc:creator opf:role="nrt">Adam Manning (Tom)</dc:creator>
+        <dc:creator opf:role="nrt">Genevieve Swallow (Susan)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It's been forty years since Martin Bannister encountered the Doctor. They were different men back then. Martin was young and talented and The Times' seventh most promising writer to watch out for. The Doctor was mysterious, crotchety and possibly oriental. It was an encounter that destroyed both their lives.
+
+Pity poor Martin now... His career is in ruins, all forgotten. His estranged wives keep dying in the wrong order, and there's a nasty green stain by the wardrobe that could be an alien footprint or, possibly, just mould.
+
+Martin's life is about to change unexpectedly… Impromptu poetry readings. Elephant expeditions. An obligatory bug-eyed monster. And a last, desperate chance for love, before it's too late.
+
+Sounds like it's time for the Doctor to come into Martin's life again. And sort him out. Permanently.</dc:description>
+    </metadata>
+</package>

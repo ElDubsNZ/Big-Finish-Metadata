@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Earth Aid</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-668-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 2"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andrew Cartmel</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Raine)</dc:creator>
+        <dc:creator opf:role="nrt">Paterson Joseph (Victor Espinosa)</dc:creator>
+        <dc:creator opf:role="nrt">Nadine Marshall (Shepstay)</dc:creator>
+        <dc:creator opf:role="nrt">Basher Savage (Yanikov)</dc:creator>
+        <dc:creator opf:role="nrt">Ingrid Oliver (Lt Baraki)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Metatraxi)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Mallinson (Grubs)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Welcome aboard the Space Vessel Vancouver. Its mission: to guard a vast shipment of grain from Earth to the planet Safenesthome. 
+
+Its Captain is called Ace. She seems a little unsure of herself. In fact, some might almost think she was new to the job... 
+
+Its medical officer is called simply "the Doctor", and he's perhaps not all he seems. 
+
+When mysterious ships target the Vancouver, Ace and the Doctor are pushed to the limit. Meanwhile, there's something nasty in the grain containers. And it's not very happy....</dc:description>
+    </metadata>
+</package>

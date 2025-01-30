@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Second Sight</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-341-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Worlds of Doctor Who"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nick Wallace</dc:creator>
+        <dc:creator opf:role="aut">Justin Richards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lalla Ward (Romana II)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Franklin (Mike Yates)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Glover (Mr Rees/Tom O'Linne)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Critchlow (Carlos Marquez/Rees's Father/Guard)</dc:creator>
+        <dc:creator opf:role="nrt">Helen Goldwyn (Time Lady)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The actions of Mr Rees have alerted the Time Lords of Gallifrey, and Romana has assigned her best warrior. Independently, the Sixth Doctor has arrived on Earth. A power from the dawn of the Universe is about to be unleashed once more…</dc:description>
+    </metadata>
+</package>

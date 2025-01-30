@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Flip Flop</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2003-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-028-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="46"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Melanie Bush)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Gibson (Mitchell)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Hogarth (Slithergee Voices)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Littledale (Potter)</dc:creator>
+        <dc:creator opf:role="nrt">Francis Magee (Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Martin (Professor Capra)</dc:creator>
+        <dc:creator opf:role="nrt">Pamela Miles (Bailey)</dc:creator>
+        <dc:creator opf:role="nrt">Audrey Schoellhammer (Reed)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Christmas Eve in the year 3060, and the planet Puxatornee is home to a prosperous human colony.
+
+A space craft has arrived in orbit carrying the Slithergees, a race of obsequious alien slugs. Their home world has been destroyed and they are humbly requesting permission to settle on the first moon.
+
+And if they don't get permission, then they are humbly threatening to declare all-out war.
+
+The future hangs in the balance. The decision rests with Bailey, the colony' s president - but she has other things on her mind.
+
+Christmas Eve in the year 3090, and the planet Puxatornee has changed beyond all recognition.
+
+The Doctor and Mel arrive, on a completely unrelated mission to defeat a race of terrible monsters, and soon discover that something rather confusing has been happening to history.
+
+Flip-Flop is a unique innovation in storytelling. A Doctor Who adventure told over two CDs, one black, one white - where the CDs can be listened to in either order.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Altered Status</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-613-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jenny - The Doctor's Daughter - Series 2 - Still Running"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Christian Brassington</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Georgia Tennant (Jenny)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Biggerstaff (Noah)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Cyberleader / The Suits)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Aris (Department Head)</dc:creator>
+        <dc:creator opf:role="nrt">Deeivya Meir (Sogo)</dc:creator>
+        <dc:creator opf:role="nrt">Rhoda Ofori-Attah (Jodi)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On a utopian world, the perfect society toils towards its worthy 'Cause'. But the hard-working Suits are more than they seem, and the Department Head is something else altogether. And when Jenny and Noah scratch the surface, they find silver underneath. The Cybermen are coming...</dc:description>
+    </metadata>
+</package>

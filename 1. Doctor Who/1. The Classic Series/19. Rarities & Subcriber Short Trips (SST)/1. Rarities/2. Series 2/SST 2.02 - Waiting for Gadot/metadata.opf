@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Waiting For Gadot</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips Rarities - Series 2"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Hugh Ross (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"A roaming alien doctor - I can smell a series in this!"
+
+EarthCom cameraman Marsh is a man on a mission: to film some incredibly rare wildlife on a remote world. But life on this planet is both busier and quieter than expected: and it holds Marsh's future in its grasp...</dc:description>
+    </metadata>
+</package>

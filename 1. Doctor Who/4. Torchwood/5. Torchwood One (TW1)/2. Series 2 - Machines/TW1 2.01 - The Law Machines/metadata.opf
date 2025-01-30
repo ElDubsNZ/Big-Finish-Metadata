@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Law Machines</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-529-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood One - Series 2 - Machines"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tracy Ann Oberman (Yvonne Hartman)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth David-Lloyd (Ianto Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Adjoa Andoh (Fiona)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Anthony (Julian)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Bentinck (Tommy)</dc:creator>
+        <dc:creator opf:role="nrt">Helen Goldwyn (Receptionist)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Pegg (Law Machines/WOTAN)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Mayor of London is launching her bold new law and order initiative. The capital will be kept safe from crime, from fear, from terrorists. The Law Machines are launching. What could possibly go wrong?</dc:description>
+    </metadata>
+</package>

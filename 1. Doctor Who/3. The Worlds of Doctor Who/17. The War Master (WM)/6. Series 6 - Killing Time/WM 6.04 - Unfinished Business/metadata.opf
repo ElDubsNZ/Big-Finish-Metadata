@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Unfinished Business</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-238-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Master - Series 6 - Killing Time"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Derek Jacobi (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Alexandria Riley (Calantha)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Doddington (Lady Sutlumu)</dc:creator>
+        <dc:creator opf:role="nrt">Francois Pandolfo (Officiencier)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Blore (Earl)</dc:creator>
+        <dc:creator opf:role="nrt">Harley Viveash (Waiter)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Douglas (Quartermistress)</dc:creator>
+        <dc:creator opf:role="nrt">Raj Ghatak (Vizier)</dc:creator>
+        <dc:creator opf:role="nrt">Fanos Xenofós (New Vizier)</dc:creator>
+
+        <!-- Description -->
+        <dc:description></dc:description>
+    </metadata>
+</package>

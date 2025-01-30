@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Aliens Next Door</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-278-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - She Story Continues - Series 3 - Among Us - Part 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Ash Darby</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alexandria Riley (Ng)</dc:creator>
+        <dc:creator opf:role="nrt">Samantha Béart (Orr)</dc:creator>
+        <dc:creator opf:role="nrt">Melanie Kilburn (Betty)</dc:creator>
+        <dc:creator opf:role="nrt">Raj Ghatak (Hakan)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Stafford (Mr Penis-Implant)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Elstob (Policeman)</dc:creator>
+        <dc:creator opf:role="nrt">Helena Breck (Not Mrs Penis-Implant)</dc:creator>
+        <dc:creator opf:role="nrt">Mia Hope (The Child)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Mrs Betty Clerihew has an exciting secret in her spare room. Torchwood are hiding out there, watching the comings and goings of her estate. Apparently, monsters are living on the cul-de-sac.</dc:description>
+    </metadata>
+</package>

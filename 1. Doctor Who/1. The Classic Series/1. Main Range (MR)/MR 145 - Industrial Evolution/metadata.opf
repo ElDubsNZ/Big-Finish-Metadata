@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Industrial Evolution</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-545-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="145"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Stables (Evelyn Smythe)</dc:creator>
+        <dc:creator opf:role="nrt">John Pickard (Thomas Brewster)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Humanoids)</dc:creator>
+        <dc:creator opf:role="nrt">Warren Brown (Stephen Gibson)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Chahidi (George Townsend)</dc:creator>
+        <dc:creator opf:role="nrt">Rory Kinnear (Samuel Belfrage)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Ross (Robert Stretton)</dc:creator>
+        <dc:creator opf:role="nrt">Joannah Tincey (Clara Stretton)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>19th century Lancashire: the white heat of the Industrial Revolution burns hottest at Samuel Belfrage's brass mill, a mill plagued by more than its fair share of work-related injuries.
+
+While Thomas Brewster struggles to secure a fair deal for Belfrage's overworked hands, fellow travellers the Doctor and Evelyn follow the Copper King to Liverpool, there to discover the unexpected truth about Belfrage's business.
+
+Back in Ackleton, the local MP voices the fears of many when he says that the machines are taking over. He's more right than he knows...</dc:description>
+    </metadata>
+</package>

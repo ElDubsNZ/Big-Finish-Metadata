@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Guilt</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2006-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-234-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="I, Davros"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Scott Alan Woodard</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Terry Molloy (Davros)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Miles (Lt Nyder)</dc:creator>
+        <dc:creator opf:role="nrt">Carolyn Jones (Lady Calcula)</dc:creator>
+        <dc:creator opf:role="nrt">David Bickerstaff (Scientist Ral)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Colonel Murash)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Baran)</dc:creator>
+        <dc:creator opf:role="nrt">Jennifer Croxton (Tech-Ops Ludella)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Handcock (Thal Saboteur)</dc:creator>
+        <dc:creator opf:role="nrt">Gary Hopkins (Thal Soldier)</dc:creator>
+        <dc:creator opf:role="nrt">Lizzie Hopley (Yarvell)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Hrycek-Robinson (Radio Announcer)</dc:creator>
+        <dc:creator opf:role="nrt">John Stahl (The Supremo)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"That is our world out there. A chemical soup for a sky above and a scarred, radioactive wasteland below. It is purgatory. But we must make it paradise!"' 
+
+The Kaled city is now ravaged, and life has become one of fear, protected by a vast transparent dome that covers what remains of the City.
+
+The Thals undertake a desperate mission to take Davros away from his laboratories, and the Supremo must send a crack squad over enemy lines to retrieve his chief scientist.
+
+Led by the young, enthusiastic and morally-bankrupt Lieutenant Nyder, Davros is successfully rescued.
+
+But he has been changed by the experience, and where once he stood for knowledge, he now espouses the utter extermination of the Thal people. To this end, Davros will stop at nothing and will sacrifice anybody to see his legacy continue.
+
+Here's to the future...
+
+This release includes a bonus Behind the Scenes documentary, presented by Joseph Lidster and featuring interviews with Terry Molloy and other performers from the series.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Voyage to the New World</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-979-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Sixth Doctor Adventuers - Jago, Litefoot & The Sixth Doctor"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matthew Sweet</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Baxter (Professor George Litefoot)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Lockyer (Sir Walter Raleigh / Old Man of Croatoan / Thomas Harriot)</dc:creator>
+        <dc:creator opf:role="nrt">Emerald O'Hanrahan (Eleanor Dare)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Pope (John White / George Chapman)</dc:creator>
+        <dc:creator opf:role="nrt">Ramon Tikaram (Wanchese)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Roanoke Island, 1590.
+
+The TARDIS materializes in the past, and the Doctor’s companions, Professor Litefoot and Henry Gordon Jago, find themselves prisoners of the natives in the New World.
+
+But there’s something strange here - stranger than even the colonists, led by Englishman John White.
+
+What are the ghostly children? And who is the Old Man of Croaton?
+
+The travellers are about to discover the secret of the lost colony... and it may cost Jago's life.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The False Guardian</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 8"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Ann Kelso)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">Anna Acton (Brox)</dc:creator>
+        <dc:creator opf:role="nrt">Roger May (Mac Foley)</dc:creator>
+        <dc:creator opf:role="nrt">Blake Ritson (Elmore)</dc:creator>
+        <dc:creator opf:role="nrt">John Shrapnel (Nigel Colloon)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy Wiles (Drones)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Ann Kelso doesn’t like mysteries. Keen to investigate the trail of the Sinestrans, she sets the TARDIS on a new course... but flies into danger.
+
+Arriving on a desolate world that the Doctor finds somehow familiar, the TARDIS crew discover that something is wrong with time. The inhabitants of an unusual complex are experimenting at the command of their enigmatic director... somebody who has quite a strong grudge against the Doctor.
+
+Facing an old foe who was presumed dead, the travellers are soon trapped in a diabolical scheme. But is it just the tip of the iceberg?</dc:description>
+    </metadata>
+</package>

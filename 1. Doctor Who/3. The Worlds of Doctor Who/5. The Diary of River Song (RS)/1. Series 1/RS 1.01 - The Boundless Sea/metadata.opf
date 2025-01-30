@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Boundless Sea</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-942-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Diary of River Song - Series 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jenny T Colgan</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Alexander Vlahos (Bertie Potts)</dc:creator>
+        <dc:creator opf:role="nrt">Charlotte Christie (Daphne Garsington)</dc:creator>
+        <dc:creator opf:role="nrt">Alisdair Simpson (Colonel Lifford)</dc:creator>
+        <dc:creator opf:role="nrt">Oliver Dimsdale (Archie Ferrers)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Professor Straiton)</dc:creator>
+        <dc:creator opf:role="nrt">Gbemisola Ikumelo (Prim)</dc:creator>
+        <dc:creator opf:role="nrt">Aaron Neil (Surene priest / Old local)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>River Song has had more than enough excitement for a while. Deciding the universe — and her husband — can look after themselves, she has immersed herself in early 20th century academia, absorbed in writing archaeological theses. 
+
+But when a mysterious tomb is found in a dry, distant land, excitement comes looking for River. 
+
+Can Professor Song stop any more members of the expedition from dying? What deadly secrets lie buried within the crypt? And will British Consul Bertie Potts prove to be a help, or a hindrance?</dc:description>
+    </metadata>
+</package>

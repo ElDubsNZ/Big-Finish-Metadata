@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Wake</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2007-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-277-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 8"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">Thomas Grant (Peter)</dc:creator>
+        <dc:creator opf:role="nrt">Rex Duis (Bodie)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Lidster (Bra)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Myers (Adrian)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Doggles / Joseph)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>
+"What else could you have done?"
+
+"Taken more note of the warnings, I guess. We saw a future Peter once, and he'd become a killer. Ms Jones told me I was doing a lousy job as a mother, and when I didn't listen she stole him from me. Then there was how he was on Montevadros. Even the Oracle of flipping Delphi warned me to be on the look out. And if I'd spent less time knocking about with monsters and magic artefacts, and more time here with him…  This is where you're meant to tell me that I mustn't blame myself."
+
+"You mustn't blame yourself."
+
+"Yeah thanks. I feel so much better now."</dc:description>
+    </metadata>
+</package>

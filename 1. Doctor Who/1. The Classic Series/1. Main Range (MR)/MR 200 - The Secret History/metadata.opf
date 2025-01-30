@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Secret History</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-461-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="200"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Maureen O'Brien (Vicki)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Purves (Steven Taylor)</dc:creator>
+        <dc:creator opf:role="nrt">Lysette Anthony (Sophia / Ostardi)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Antoim / Imperial Guard)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Ravennato / Gaoler / Slave / Hippodrome Guard)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Antoim)</dc:creator>
+        <dc:creator opf:role="nrt">Graeme Garden (The Meddling Monk)</dc:creator>
+        <dc:creator opf:role="nrt">Tony Millan (Procopius / Ostardi)</dc:creator>
+        <dc:creator opf:role="nrt">Elizabeth Morton (Ravennata)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Wallers (Justinian)</dc:creator>
+        <dc:creator opf:role="nrt">Giles Watling (Belisarius / Ravennato / Ostardi)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Woodward (Theodora)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS brings the Doctor, Steven and Vicki to the Italian city of Ravenna in the year 540 - besieged by the army of the celebrated Byzantine general Belisarius. Caught up in the fighting, Steven ends up on a boat bound for Constantinople, the heart of the Roman Empire.
+
+Rescuing Steven, however, is the least of the Doctor's problems - because he shouldn't be mixed up in this particular adventure at all. Someone has sabotaged his own personal timeline, putting him in the place of his First incarnation... but who, and why? The truth is about to be revealed - but at what cost to all of the Doctors, and to the whole future history of the planet Earth?</dc:description>
+    </metadata>
+</package>

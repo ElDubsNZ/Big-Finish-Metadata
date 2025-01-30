@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Enemy Lines</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-577-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 8 - Enemy Lines"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Llewellyn</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">Celia Imrie (Livia)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Allen (Plutus)</dc:creator>
+        <dc:creator opf:role="nrt">George Watkins (Gaal)</dc:creator>
+        <dc:creator opf:role="nrt">Hannah Genesius (Trave)</dc:creator>
+        <dc:creator opf:role="nrt">Eve Karpf (The Watchmaker)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Fairs (Kalbez)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Biggerstaff (Moros)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Biggerstaff[1] (Trave)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In the distant future, President Romanadvoratrelundar will do anything it takes to save her world, even if it means sacrificing her allies and friends... 
+
+In the distant past, President President Romanadvoratrelundar will also do anything it takes to save her world, even if it means sacrificing her own life in the process... 
+
+Unfortunately for Romana, there is no easy option. 
+
+With the threat of impending war, and negotiations still ongoing, the Temporal Powers are growing restless. Every day, they find their future slipping away from them. Every decision they make proves critical. And no one can escape the fact that sacrifices have to be made... 
+
+Time is running out... and it's running straight to Gallifrey.</dc:description>
+    </metadata>
+</package>

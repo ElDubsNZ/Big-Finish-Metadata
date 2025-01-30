@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Cold Vengeance</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-373-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Tenth Doctor Adventures - Series 2"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Tennant (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Billie Piper (Rose Tyler)</dc:creator>
+        <dc:creator opf:role="nrt">Maureen Beattie (Brona Volta)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Biggerstaff (Callum Volta)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Lord Hasskor / Commander Slaan)</dc:creator>
+        <dc:creator opf:role="nrt">Keziah Joseph (Lorna)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Stuart-Hicks (Management / Bert)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS arrives on Coldstar, a vast freezer satellite, packed with supplies to feed a colony world.
+
+But there are cracks in the ice, and something scuttles under the floors. Soon, Rose and the Doctor encounter robots, space pirates and... refuse collectors.
+
+As Coldstar's tunnels begin to melt, an even greater threat stirs within. An old enemy of the Doctor puts a plan into action - a plan for retribution.
+
+Nobody's vengeance is colder than an Ice Warrior's.</dc:description>
+    </metadata>
+</package>

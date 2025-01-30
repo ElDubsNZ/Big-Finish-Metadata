@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Jupiter Conjunction</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-628-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="160"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Strickson (Vislor Turlough)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Blake (Manny / Pilot / Advert Voice / Guard)</dc:creator>
+        <dc:creator opf:role="nrt">Ellie Burrow (Chica St Jude / Shop Assistant)</dc:creator>
+        <dc:creator opf:role="nrt">John Cummins (Anton Falcao / Newsreader / Guard)</dc:creator>
+        <dc:creator opf:role="nrt">Rebecca Front (Patricia Walton)</dc:creator>
+        <dc:creator opf:role="nrt">Zoe Lister (Violet Silvaner)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Pope (Jovians / Computer Voice)</dc:creator>
+        <dc:creator opf:role="nrt">Ben Porter (Major Nash)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Eight slash Q Panenka, a craggy comet with a 13km circumference, has an elliptical orbit that takes it between Earth and Jupiter. Which, in the year 2329, makes it a cheap means of space freight – the second class postal service of the solar system.
+
+ But when the TARDIS lands on Panenka, the Doctor, Tegan, Turlough and Nyssa discover a community falling apart at the seams – plagued by thefts, and mysterious disappearances among the 'piggybackers' who eke out a desperate existence on the comet.
+
+ While Tegan and Nyssa suit up for a dangerous excursion into the comet's Unstable Zone, the Doctor and Turlough find themselves pawns in a game that could lead to tragedy for both Earth and Jupiter alike…</dc:description>
+    </metadata>
+</package>

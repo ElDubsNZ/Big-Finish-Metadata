@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Island of Death</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-359-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jago & Litefoot - Series 9"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Barnard</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Trevor Baxter (Professor George Litefoot)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Badel (Lady Isobelle Danvers)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Newall (Aubrey)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Nerville Tibbs)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Howell (Victor Bataille)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Arriving at a beautiful island, Jago and Litefoot discover evidence of a missing expedition. Can they discover what happened to the ship's crew – before it happens to them? And will they be able to avoid the amorous advances of the formidable Lady Danvers?</dc:description>
+    </metadata>
+</package>

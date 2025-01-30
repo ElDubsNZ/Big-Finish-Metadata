@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Excelis Decays</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2002-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-465-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - Excelis"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Craig Hinton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Head (Lord Vaughan Sutton)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Collier (Commissar Erco Sallis)</dc:creator>
+        <dc:creator opf:role="nrt">Yee Jee Tso (Major Jal Brant)</dc:creator>
+        <dc:creator opf:role="nrt">Stuart Piper (Mattias)</dc:creator>
+        <dc:creator opf:role="nrt">Alistair Lock (Reeve Cless)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Gatiss (Deputy Warden Baris)</dc:creator>
+        <dc:creator opf:role="nrt">Penelope McDonald (Jancis)</dc:creator>
+        <dc:creator opf:role="nrt">Patricia Leventon (Mother Superior)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the Doctor last visited the city of Excelis, its citizens were about to enter an age of enlightenment and reason. But some centuries later, he discovers a vicious totalitarian regime at war with the rest of Artaris, living off the efforts of a drugged and broken underclass. 
+
+Who is the mysterious Lord Sutton, and what hold does he have over the ruling classes? What are the Meat Puppets, and what role do they play in the eternal war? And why is the Doctor's arrival the final piece in a plan that has been centuries in the making? 
+
+Throughout his lives, the Doctor has fought many legends. But some legends refuse to die.</dc:description>
+    </metadata>
+</package>

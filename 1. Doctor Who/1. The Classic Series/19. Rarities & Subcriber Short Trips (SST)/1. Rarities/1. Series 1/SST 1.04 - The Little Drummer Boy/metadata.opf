@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Little Drummer Boy</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips Rarities - Series 1"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Beth Chalmers (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"A few more random landings will shake off the Daleks. So to speak."
+
+But for the Doctor, Steven and Sara, the landings are anything but random. It's Christmas Day... So many times. What terrible secret is bringing the time travellers to the same day in different years?</dc:description>
+    </metadata>
+</package>

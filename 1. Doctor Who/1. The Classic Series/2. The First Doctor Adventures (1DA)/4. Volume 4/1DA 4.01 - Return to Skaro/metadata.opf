@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Return to Skaro</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-156-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The First Doctor Adventures - Volume 4"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andrew Smith</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Bradley (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Claudia Grant (Susan)</dc:creator>
+        <dc:creator opf:role="nrt">Jemma Powell (Barbara Wright)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Glover (Ian Chesterton)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">James Camp (Jyden)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Hastings (Kreos / Boden[u])</dc:creator>
+        <dc:creator opf:role="nrt">Alisdair Simpson (Damadus)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Tregear (Anastasia Romanov)</dc:creator>
+        <dc:creator opf:role="nrt">George Weightman (Grigory Nikulin)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy Wiles (Tryana)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A new plan to return to Earth actually returns the TARDIS to another place its crew have recently visited - Skaro, homeworld of the Daleks.
+
+But it is some time after their previous visit. The Thals have moved on with developing their species... Yet the shadow of the Dalek city always looms large over them.
+
+Venturing into the abandoned metropolis, the Doctor and his friends discover the Daleks aren’t as dead as they might have thought... and it isn’t only their enemies who have secrets.</dc:description>
+    </metadata>
+</package>

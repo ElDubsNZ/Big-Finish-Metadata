@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Babblesphere</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-47131-170-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Destiny of the Doctor"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Roger Parrott (Aurelius)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The violent, volcanic world of Hephastos is home to a colony of composers, painters, authors and poets, all striving to create the greatest works of art the universe has ever seen. But in pursuit of their goal, artistic collaboration has been taken a stage too far...
+
+When the Doctor and Romana arrive, they discover the colonists have neglected their well-being and their once beautiful habitat, which has now succumbed to decay, and they are enslaved to the Babble network which occupies their every waking moment. Every thought, however trivial or insignificant, is shared with everyone else and privacy is now a crime.
+
+The colonists are being killed and the Doctor and Romana begin to suspect that a malevolent intelligence is at work. With time running out, the two time travellers race to discover the truth before they too are absorbed into the endless trivia of the Babblesphere...</dc:description>
+    </metadata>
+</package>

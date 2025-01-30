@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Dissected</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-706-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="36"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Eve Myles (Gwen Cooper)</dc:creator>
+        <dc:creator opf:role="nrt">Freema Agyeman (Martha Jones)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Gwen Cooper turns up on Martha Jones's doorstep with a dead body in tow. She needs to ask one final favour of her. And to find out why they stopped being friends. 
+
+A lot's happened to Torchwood since Martha left. A lot's happened to Martha since she left Torchwood. And there's something very odd about the dead body Gwen's brought with her. 
+
+Tonight Gwen's going to be getting more answers than she bargained for.</dc:description>
+    </metadata>
+</package>

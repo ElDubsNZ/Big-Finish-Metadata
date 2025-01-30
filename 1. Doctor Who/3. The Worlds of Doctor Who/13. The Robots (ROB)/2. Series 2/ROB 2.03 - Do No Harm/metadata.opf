@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Do No Harm</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-040-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Robots - Series 2"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Sarah Grochala</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Claire Rushbrook (Tula Chenka / SV104)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy Wiles (Ren / SV66)</dc:creator>
+        <dc:creator opf:role="nrt">Rachel Atkins (Zarda)</dc:creator>
+        <dc:creator opf:role="nrt">Kieran Bew (Lunk / V97)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>After an incident in a laboratory leads to a tragedy, someone needs to be found accountable. And who better to be prosecuted than a robot? But when complicated ethical questions arise, the outcome of the trial becomes bigger than a single case. What if somebody else is working behind the scenes?</dc:description>
+    </metadata>
+</package>

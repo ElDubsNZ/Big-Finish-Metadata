@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The High Price of Parking</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-803-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="227"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Melanie Bush)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Kate Duchêne (Regina / Seraphim)</dc:creator>
+        <dc:creator opf:role="nrt">Gabrielle Glaister (Cowley)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Robowardens)</dc:creator>
+        <dc:creator opf:role="nrt">Jack Monaghan (Dunnie / Selfdrive)</dc:creator>
+        <dc:creator opf:role="nrt">Hywel Morgan (Kempton / Tribesman)</dc:creator>
+        <dc:creator opf:role="nrt">Leighton Pugh (Fulton)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The planet Dashrah is a world of exceptional beauty. Historical ruins; colourful skies; swirling sunsets…
+
+Unsurprisingly, it’s a major tourist trap. So if you want to visit Dashrah, first you’ll have to visit Parking, the artificial planetoid that Galactic Heritage built next door. Parking, as its name implies, is a spaceship park. A huge spaceship park. A huge, enormous spaceship park.
+
+When the TARDIS materialises in Parking’s Northern Hemisphere, the Doctor, Ace and Mel envisage a quick teleport trip to the surface of Dashrah. But they’ve reckoned without the superzealous Wardens, and their robotic servitors… the sect of the Free Parkers, who wage war against the Wardens… the spontaneously combusting spaceships… and the terrifying secret that lies at the lowest of Parking’s lower levels.</dc:description>
+    </metadata>
+</package>

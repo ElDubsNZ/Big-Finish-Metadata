@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Warzone / Conversion</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-865-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="258"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+        <dc:creator opf:role="aut">Chris Chapman</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">George Watkins (Marc)</dc:creator>
+        <dc:creator opf:role="nrt">David Banks (Cyber Leader)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Blore (Morris)</dc:creator>
+        <dc:creator opf:role="nrt">Angela Bruce (Herb)</dc:creator>
+        <dc:creator opf:role="nrt">Silas Carson (Commentator)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Hardy (Cyber Lieutenant)</dc:creator>
+        <dc:creator opf:role="nrt">Pepter Lunkuse (Esma)</dc:creator>
+        <dc:creator opf:role="nrt">Liz Sutherland-Lim (Creasey)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Warzone by Chris Chapman
+
+At Warzone, competitors gather from across the galaxy to test the limits of their endurance and achieve their personal best. So, when the TARDIS materialises in the middle of a racetrack, the Doctor and his friends must literally run for their lives.
+
+Conversion by Guy Adams
+
+On the fringes of the galaxy, techno-pirates and research medics fight for the secrets of advanced extra-terrestrial technology. For the Doctor, however, a more personal battle awaits as he confronts his own guilt and the creatures that killed a friend: the Cybermen.</dc:description>
+    </metadata>
+</package>

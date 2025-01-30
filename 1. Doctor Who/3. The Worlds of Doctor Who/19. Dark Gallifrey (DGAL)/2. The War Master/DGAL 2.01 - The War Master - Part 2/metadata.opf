@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Part 2</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-384-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Dark Gallifrey - Series 2 - The War Master"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Jacobi (The War Master)</dc:creator>
+        <dc:creator opf:role="nrt">James Marsters (Captain John Hart)</dc:creator>
+        <dc:creator opf:role="nrt">Jason Forbes (The Passenger)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Lew Kum Hoi (Salesbeing)</dc:creator>
+        <dc:creator opf:role="nrt">Tariyé Peterside (The Imbomination)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Amid the dreaming spires of Braxiatel University, Benny is dividing her time between her lectures, her cats, and managing the romantic advances of one of her students, John.
+
+The new Provost - such a nice old man - doesn't approve of their dalliance, and advises her not to get involved. For John wants to know about Dark Gallifrey, which is something Benny has done her best to forget, and thinks he can help her find it again.
+
+The funny thing is, the dear old Provost wants to find it first...</dc:description>
+    </metadata>
+</package>

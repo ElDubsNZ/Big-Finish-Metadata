@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Five People You Kill in Middlesbrough</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-525-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="51"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tracy-Ann Oberman</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tracy-Ann Oberman (Yvonne Hartman)</dc:creator>
+        <dc:creator opf:role="nrt">Kacey Ainsworth (Jill Kerr)</dc:creator>
+        <dc:creator opf:role="nrt">Matt Thomas Battersby (Additional Voices)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Bentinck (Alfie Scott)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (PA)</dc:creator>
+        <dc:creator opf:role="nrt">Nathaniel Curtis (Lancelyn Green)</dc:creator>
+        <dc:creator opf:role="nrt">Denis Lawson (Casper Beacham)</dc:creator>
+        <dc:creator opf:role="nrt">Sara Powell (Mo Simister)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When a spaceship crashes on Middlesbrough it’s very sad, of course. But we at Torchwood have long had a plan to contain such a disaster. 
+
+Only, nothing is happening. And the disaster is spreading. So, I set out to find out what’s going on. What has happened to The Icarus Protocol? Who launched a Moonstrike Missile? And why will no-one admit that there's a cloud of deadly particles sweeping across the United Kingdom? 
+
+My name is Yvonne Hartman. Don't come between me and my country.</dc:description>
+    </metadata>
+</package>

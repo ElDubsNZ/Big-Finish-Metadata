@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>War Stories</dc:title>
+        <dc:publisher></dc:publisher>
+        <dc:date>2024-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">n/a</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 13"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Patrick Ross</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alan Cox (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Intergalactic Fringe Festival spans a whole planet. Its programme offers millions of shows, so the Doctor and Bill can choose anything from anti-grav acrobats to the quantum cabaret.
+
+But the Doctor is alarmed when he attends a play about the Time War. It's not just that it tells his personal history - its performance could unravel the universe.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Naomi's Ark</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-892-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Seventh Doctor Adventures - Far From Home"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alison Winter</dc:creator>
+        <dc:creator opf:role="aut">Alfie Shaw</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (Harry Sullivan)</dc:creator>
+        <dc:creator opf:role="nrt">Eleanor Crooks (Naomi Cross)</dc:creator>
+        <dc:creator opf:role="nrt">Indra Ové (Queen Maylee)</dc:creator>
+        <dc:creator opf:role="nrt">Bridgitta Roy (Doctor Thorne / Opis PA)</dc:creator>
+        <dc:creator opf:role="nrt">Bethany Antonia (Captain Rocky)</dc:creator>
+        <dc:creator opf:role="nrt">Nino Furuhata (Engineer Fixer)</dc:creator>
+        <dc:creator opf:role="nrt">Leon Parris (Wallam)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Caught up in a galactic evacuation triggered by a supernova, Naomi is separated from her friends, in the company of some very unusual aliens.
+
+The Doctor and Harry are stranded too - and any attempt to reach Naomi is at the expense of a precious, endangered civilisation - one that rivals the Time Lords for longevity and wisdom...
+
+How far will the Doctor go for his friends?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Curse of Fenman</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-101-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 15 - New Frontiers"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Gary Russell</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Ayesha Antoine (Ruth)</dc:creator>
+        <dc:creator opf:role="nrt">David Ames (Jack)</dc:creator>
+        <dc:creator opf:role="nrt">David Benson (Captain Kinkade)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Biggerstaff (Antonio Tulloch)</dc:creator>
+        <dc:creator opf:role="nrt">Geoffrey Breton (Lucas Catch)</dc:creator>
+        <dc:creator opf:role="nrt">Thomas Grant (Peter Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Handcock (Captain Secker)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Hayes (Bel)</dc:creator>
+        <dc:creator opf:role="nrt">Georgia Moffett (Avril Fenman)</dc:creator>
+        <dc:creator opf:role="nrt">Dolly Oladini (Dinner Lady)</dc:creator>
+        <dc:creator opf:role="nrt">Mark B Oliver (Newsreader)</dc:creator>
+        <dc:creator opf:role="nrt">Thomas Rees-Kaye (Crewman / Mobile News Droid / Clerk / Guardbot / Nik)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Irving Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">Ellen Salisbury (Vonna Byzantium)</dc:creator>
+        <dc:creator opf:role="nrt">David Selby (Beacon)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Sheward (Lud)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It’s Advent Day on Legion: a time that traditionally calls for celebration; a day spent with the people you love, when all the family come together, setting aside their differences... or when they bring old scores to settle.
+
+An old foe has been biding her time, manipulating the people and events around Bernice Summerfield for as long as any of them can remember... She knows so many secrets - the secrets they’ve all been hiding - but not everybody wants to learn the truth.
+
+Today is the day Avril Fenman comes to Legion. She comes to claim her son... and to set Bernice on her final, lonely battle. But will her friends stand by her, one last time?</dc:description>
+    </metadata>
+</package>

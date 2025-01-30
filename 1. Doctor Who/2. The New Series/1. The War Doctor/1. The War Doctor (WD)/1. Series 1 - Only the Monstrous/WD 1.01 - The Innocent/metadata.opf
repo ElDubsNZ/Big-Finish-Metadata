@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Innocent</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Doctor - Series 1 - Only the Monstrous"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Hurt (The War Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline Pearce (Cardinal Ollistra)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Briggs-Owen (The Nursemaid)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Veklin)</dc:creator>
+        <dc:creator opf:role="nrt">Kieran Hodgson (Bennus)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Arverton)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Wyndham (Seratrix)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>As the Daleks mass their time fleet for a final assault on Gallifrey, something ancient is waiting for them at Omega One. And a sacrifice must be made.
+
+Arch-manipulator and Time Lord strategist, Cardinal Ollistra receives shock news of the Doctor’s death.
+
+Meanwhile, on the planet Keska, a parochial war has returned to plague a peaceful civilisation after decades of tranquillity. But how can such a war have any connection with the great Time War which, at any one moment in the whole of eternity, could threaten to tear the universe apart?
+
+If only the Doctor were still alive.</dc:description>
+    </metadata>
+</package>

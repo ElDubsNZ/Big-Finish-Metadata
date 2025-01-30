@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Destroy the Infinite</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-295-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 3"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Hallard (Davent / Infinite Warrior)</dc:creator>
+        <dc:creator opf:role="nrt">Clive Mantle (Tillegat / Lieutenant Treves)</dc:creator>
+        <dc:creator opf:role="nrt">Hywel Morgan (Larivan / Lieutenant Garrett)</dc:creator>
+        <dc:creator opf:role="nrt">Christine Roberts (Sarla)</dc:creator>
+        <dc:creator opf:role="nrt">David Sibley (Zarith / The Eminence)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Fenton Stevens (Moorson)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The colony planet Delafoss is occupied by the army of a rapacious alien force known only as the Eminence. These slave armies of terrified humans are commanded by the dreaded Infinite Warriors - impervious to most forms of firepower, voices like icy death.
+
+The Doctor and Leela arrive expecting to find Earth’s most successful, unspoiled colony. Instead, they are confronted by a planet choked by industrialization. And at the heart of it all, the construction of something that the Eminence intends will wipe out all human resistance once and for all.
+
+For the first time in his life, the Doctor confronts the Eminence... and things will never be quite the same again.</dc:description>
+    </metadata>
+</package>

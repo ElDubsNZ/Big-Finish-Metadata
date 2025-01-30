@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Kill The Doctor!</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 7"/>
+        <meta name="calibre:series_index" content="7"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Gabriel Woolf (Sutekh)</dc:creator>
+        <dc:creator opf:role="nrt">Eleanor Crooks (Kendra)</dc:creator>
+        <dc:creator opf:role="nrt">John Dorney (Charlton Joyce)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Ash / Stall Owner / Shop Keeper / Dupree)</dc:creator>
+        <dc:creator opf:role="nrt">Sophia Myles (Rania Chuma)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS crew arrive on the planet Drummond, an Earth colony in the far future where everybody uses handheld computers from morning to night. Rania Chuma is the mastermind behind Rene.net, the datastream network that tells you everything you need to know. Anyone who’s anyone uses Rene.net.
+
+But ever since Rania was young she’s heard a voice in her head. That voice is the key to Rene.net’s success. And it’s a voice the Doctor might find familiar.
+
+Whilst Leela chases a thief, the Doctor looks into the planet’s datastream and something evil looks back. A subliminal command flashes through Rene.net to Drummond’s entire population: ‘Kill the Doctor’. When the entire planet is against you, where can you possibly hide?</dc:description>
+    </metadata>
+</package>

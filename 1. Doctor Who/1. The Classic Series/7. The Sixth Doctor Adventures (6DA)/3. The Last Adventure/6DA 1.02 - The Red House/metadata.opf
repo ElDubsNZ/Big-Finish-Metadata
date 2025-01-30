@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Red House</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-575-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Sixth Doctor Adventures - Volume 1 - The Last Adventure"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Jayston (The Valeyard)</dc:creator>
+        <dc:creator opf:role="nrt">Ashley McGuire (Sergeant)</dc:creator>
+        <dc:creator opf:role="nrt">Andrée Bernard (Dr Paignton / Constable)</dc:creator>
+        <dc:creator opf:role="nrt">Rory Keenan (Ugo)</dc:creator>
+        <dc:creator opf:role="nrt">Jessie Buckley (Lina)</dc:creator>
+        <dc:creator opf:role="nrt">Kieran Hodgson (Arin / Dennis)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and Charlotte Pollard arrive on a world that is populated by werewolves.</dc:description>
+    </metadata>
+</package>

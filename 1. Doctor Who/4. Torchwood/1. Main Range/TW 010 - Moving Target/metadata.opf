@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Moving Target</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-213-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="10"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Indira Varma (Suzie Costello)</dc:creator>
+        <dc:creator opf:role="nrt">Naomi McDonald (Alex)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Burns (The Referee)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Suzie Costello would never describe herself as a hero. Not even if she were the last woman on Earth. Turns out, she's the second last woman on Earth, and that'll just have to do. 
+
+With the Earth frozen in time, Suzie becomes locked in a battle to save the planet and the life of Alex, the last woman alive. Hunted by alien warriors, and, with every hour that doesn't pass, the stakes are only getting higher. 
+
+Suzie Costello would never describe herself as a hero. But she would say she's someone who always makes the right choices. Wouldn't she?</dc:description>
+    </metadata>
+</package>

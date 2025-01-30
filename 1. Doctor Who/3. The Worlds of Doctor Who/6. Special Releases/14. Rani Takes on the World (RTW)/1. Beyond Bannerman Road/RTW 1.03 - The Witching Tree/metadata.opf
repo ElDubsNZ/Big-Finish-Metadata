@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Witching Tree</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-993-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Rani Takes on the World - Volume 1 - Beyond Bannerman Road"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizzie Hopley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Anjli Mohindra (Rani Chandra)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Anthony (Clyde Langer)</dc:creator>
+        <dc:creator opf:role="nrt">Raghad Chaar (Samira Rustami)</dc:creator>
+        <dc:creator opf:role="nrt">Tiegan Byrne (Phoenix Laight)</dc:creator>
+        <dc:creator opf:role="nrt">Jonny Green (Tyler Steele)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Whitelock (Dennis Ward / The Commander)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Chasing a podcast award, encouraged by a secret source, Rani investigates a ‘haunted’ restaurant built around a twisted tree. The owners could be faking the spooky activity, but Rani soon realises the tree is not what it seems. 
+
+As a terrifying threat to planet Earth is revealed, Clyde and Phoenix are dragged into the fight. Rani is torn between revealing the truth, or keeping a secret too terrifying to broadcast...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Return of the Rocket Men</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-950-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 7"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Purves (Steven Taylor)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Treloar (Van Cleef)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A sequel to The Rocket Men.
+
+Once before the Doctor battled the sadistic Rocket Men and once before he won. But when the dreaded pirates of the skies raid a remote frontier planet, he's not the only member of the TARDIS crew for whom they are old enemies.
+
+Steven Taylor knows them well. Back in his days as a pilot, on his twenty first birthday, Steven's ship was brought down by the malevolent Van Cleef. He barely escaped with his life. And now he's going to have to go through that again.
+
+But this time round, he knows what happens. And he knows there's no way out. Steven Taylor has to make a choice. A choice where either way... he loses.</dc:description>
+    </metadata>
+</package>

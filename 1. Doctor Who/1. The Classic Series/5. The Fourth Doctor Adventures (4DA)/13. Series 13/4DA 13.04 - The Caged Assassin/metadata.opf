@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Caged Assassin</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-459-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 13"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matthew Sweet</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Eleanor Crooks (Naomi Cross)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (Harry Sullivan)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Gatiss (Dante Gabriel Rossetti)</dc:creator>
+        <dc:creator opf:role="nrt">Isabella Inchbald (Alexa Wilding / Wombat Queen / Tom)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Fenton-Stevens (Charles Jamrach / Wombat Commodore)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (Top the Wombat / Pub Landlord / Pie Man / Lad )</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It's very unusual to find a tiger in the TARDIS. But it’s even more unusual to find one heavily dosed in radiation. But this is far from the most unusual occurrence the Doctor, Naomi and Harry are going to encounter today. Because they are about to meet Charles Jamrach, supplier of exotic animals to the rich and royal, who is unaware that his famous menagerie conceals a deadly terror. A strange creature out for blood...</dc:description>
+    </metadata>
+</package>

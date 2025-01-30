@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Glowing Warrior</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-431-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lone Centurion - Volume 2 - Camelot"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Arthur Darvill (Rory Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Skinner (Sir Lancelot)</dc:creator>
+        <dc:creator opf:role="nrt">Rosie Baker (Lynn)</dc:creator>
+        <dc:creator opf:role="nrt">Henry Nott (Gareth)</dc:creator>
+        <dc:creator opf:role="nrt">Harley Viveash (Beau)</dc:creator>
+        <dc:creator opf:role="nrt">Luyanda Unati Lewis-Nyawo (Guinevere)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Stafford (King Arthur)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Clifford (Merlin)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (The Glowing Warrior)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Arise Sir Rory! Every new knight must embark upon a quest, and soon Sir Rory (and his noble squire Lancelot) head out to solve the mystery of the Glowing Knight and save a damsel in distress. But are they walking into a trap?</dc:description>
+    </metadata>
+</package>

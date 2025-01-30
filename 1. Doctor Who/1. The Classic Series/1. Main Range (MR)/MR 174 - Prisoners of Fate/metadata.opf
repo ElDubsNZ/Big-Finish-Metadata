@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Prisoners of Fate</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-074-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="174"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Strickson (Vislor Turlough)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Douglas (Sibor)</dc:creator>
+        <dc:creator opf:role="nrt">Jez Fielder (Kartis / Lasarti / Second Watchman / Patient)</dc:creator>
+        <dc:creator opf:role="nrt">Alastair MacKenzie (Galen / First Watchman)</dc:creator>
+        <dc:creator opf:role="nrt">Anjella MacKintosh (Mahandra / Maxis / Computer)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Twenty-five years ago, with Richter's Syndrome running rampant throughout the galaxy, the brilliant biochemist Nyssa, formerly of Traken, bade a painful farewell to her young family... and set off into the space, in search of a cure for this deadly disease.
+
+She never returned.
+
+Now, her grown-up son continues her work on the penal colony of Valderon, still desperate to make the breakthrough that eluded his presumed-dead mother.
+
+So when the TARDIS lands on Valderon, bringing the Doctor, Tegan, Turlough and Nyssa to its fortress prison, the scene is set for a painful reunion... but not only for Nyssa. The Doctor's past is about to catch up with him too...</dc:description>
+    </metadata>
+</package>

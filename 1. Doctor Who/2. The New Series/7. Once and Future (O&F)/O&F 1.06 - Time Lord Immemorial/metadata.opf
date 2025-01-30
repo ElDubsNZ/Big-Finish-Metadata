@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Time Lord Immemorial</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-086-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Once and Future"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lisa McMullin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Eccleston (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">David Warner (Alternate Universe Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Gina McKee (The Lumiat)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Powell (The Time Lord Immemorial)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Slipping between bodies, the Ninth Doctor finds his TARDIS caught between universes as the cosmos starts to break down. A Doctor from another reality arrives and they join forces with Liv Chenka and the Lumiat to find the cause. Someone has desecrated the mythical Hall of the Time Lord Immemorial, where the sands of time from the multiverse are held. And those sands are running out…</dc:description>
+    </metadata>
+</package>

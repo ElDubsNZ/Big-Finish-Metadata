@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>100 - 100 B.C</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2007-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-286-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="100.1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jacqueline Rayner</dc:creator>
+        <dc:creator opf:role="aut">Robert Shearman</dc:creator>
+        <dc:creator opf:role="aut">Joseph Lidster</dc:creator>
+        <dc:creator opf:role="aut">Paul Cornell</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Stables (Evelyn)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Assassin)</dc:creator>
+        <dc:creator opf:role="nrt">Susan Brown (Midwife / Mary)</dc:creator>
+        <dc:creator opf:role="nrt">Martha Cope (Talia)</dc:creator>
+        <dc:creator opf:role="nrt">Frank Finlay (Old Jacob)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Mallinson (Patrick)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Paterson (Aurelia / Julia)</dc:creator>
+        <dc:creator opf:role="nrt">John Sessions (Mozart / Young Mozart / Butler / Mask / Old Mask)</dc:creator>
+        <dc:creator opf:role="nrt">Will Thorp (Gaius Julius Caesar / Jacob)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and Evelyn arrive in Rome, 101 BC, approximately, October. They meet a young lady of 19, Aurelia. She mentions her husband - Julius Caesar. Evelyn is excited, but her excitement soon turns to confusion. Surely you can't heal a wound in time with just a bit of sticking plaster?</dc:description>
+    </metadata>
+</package>

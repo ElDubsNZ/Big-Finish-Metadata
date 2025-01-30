@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Uncanny Valley</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-924-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Llewellyn</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Barrowman (Captain Jack Harkness)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Cree (Neil Redmond/NJ)</dc:creator>
+        <dc:creator opf:role="nrt">Emma Reeves (Miss Trent)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>What has made billionaire Neil Redmond emerge from his long seclusion? Captain Jack knows the answer, and is prepared to go to any lengths to prove it. 
+
+A couple of years ago, Neil Redmond was in a terrible accident. His recovery has been long and slow, but now he's back and looking better than ever. Much better than ever. 
+
+Dark forces have been behind Neil's transformation. Dark forces that Jack has been hunting for a long time. But Captain Jack's never been able to resist the darkness.</dc:description>
+    </metadata>
+</package>

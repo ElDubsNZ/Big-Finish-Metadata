@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Night's Black Agents</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-467-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 4"/>
+        <meta name="calibre:series_index" content="11"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Marty Ross</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Frazer Hines (Jamie McCrimmon)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Ross (Merodach)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Jamie McCrimmon and his new friend the Sixth Doctor are lost on the moors of Scotland, where the legendary Kelpie roam...
+
+They are offered shelter by the Reverend Merodach, the minister of the parish of Lammermoor, and are welcomed to his castle. But strange forces are at work within its walls, and Merodach is not what he appears.
+
+Can the Doctor and Jamie prevent their powerful enemy from taking the TARDIS for himself?</dc:description>
+    </metadata>
+</package>

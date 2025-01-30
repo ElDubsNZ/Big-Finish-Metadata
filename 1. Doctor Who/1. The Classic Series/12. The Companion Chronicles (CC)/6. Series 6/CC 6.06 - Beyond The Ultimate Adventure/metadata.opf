@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Beyond The Ultimate Adventure</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-585-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 6"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Terrance Dicks</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Claire Huckle (Crystal)</dc:creator>
+        <dc:creator opf:role="nrt">Noel Sullivan (Jason)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A thrilling adventure in Time and Space!
+
+The Doctor, Crystal and Jason have survived monsters, Madame Delilah and Mrs T, but then their former enemy Karl calls them back to the Bar Galactica. The mercenary has a cryptic message concerning Ultima Thule, where fabled treasure and a threat to the universe await...
+
+The journey requires entering another dimension, where old enemies – and a brand new adversary – lie in wait...</dc:description>
+    </metadata>
+</package>

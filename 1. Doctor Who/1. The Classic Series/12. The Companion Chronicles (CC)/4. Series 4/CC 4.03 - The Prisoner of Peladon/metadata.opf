@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Prisoner of Peladon</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-426-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 4"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mark Wright</dc:creator>
+        <dc:creator opf:role="aut">Cavan Scott</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Troughton (King Peladon / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Ice Warriors)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A new adventure for the Third Doctor, as told by his friend King Peladon.
+
+"Tonight, I am going to tell you the story of the Prisoner of Peladon, and of the time when a friend and protector returned to our planet. A man called… the Doctor."
+
+The planet Peladon has joined the Galactic Federation, and has undergone a painful period of change. Still eager to embrace alien culture, King Peladon has welcomed refugee Ice Warriors to his world - innocent creatures that are fleeing the New Martian Republic.
+
+But, as an old friend returns to the capitol, there is murder in the refugee camps. Could the truth lie in an ancient legend?</dc:description>
+    </metadata>
+</package>

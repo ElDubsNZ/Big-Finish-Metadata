@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Memory Box</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-106-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Vienna - Series 0 - The Memory Box"/>
+        <meta name="calibre:series_index" content="0"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Chase Masterson (Vienna Salvatori)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (McGinnis)</dc:creator>
+        <dc:creator opf:role="nrt">Gemma Whelan (Mead)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Price (Norvelle Spraggott)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Berkley Silver, one of the richest men in the Earth empire, lies dead in the Penthouse Suite of the Galileo space-hotel. Law Enforcement Officers Detective Captain McGinnis and Detective Sergeant Mead are called in to investigate – but it seems to have been the perfect crime. Even when subjected to a memory scan, everybody in the space-hotel has an alibi for the murder. 
+
+Which means it can only have been the work of one woman. The most accomplished – and the most glamorous – bounty hunter in the galaxy. Her name is Vienna Salvatori. And she has a little rule; nobody gets to hear her name and live...</dc:description>
+    </metadata>
+</package>

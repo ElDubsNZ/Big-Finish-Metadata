@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Time Apart</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-006-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="266"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jacqueline Rayner</dc:creator>
+        <dc:creator opf:role="aut">Kate Thorman</dc:creator>
+        <dc:creator opf:role="aut">Tommy Donbavand</dc:creator>
+        <dc:creator opf:role="aut">Steve Lyons</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Aikman (Mary Wade)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Blore (Peter Meier / Lucas)</dc:creator>
+        <dc:creator opf:role="nrt">Wayne Forester (Clement / Dr Richard Alley / Gerhardt)</dc:creator>
+        <dc:creator opf:role="nrt">Kate Harbour (Agatha / Teuthis / Margareta)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Separated from his companions, the Doctor attempts to find solace in the history of his favourite planet – Earth – but instead discovers new threats lying in wait.
+
+Travelling from twentieth-century East Berlin to sixteenth-century Strasbourg, the Doctor encounters creatures from other realities: monsters beneath the waves, and human beings determined to exploit their fellow man.
+
+But how long can he survive without a friend?
+
+Ghost Station by Steve Lyons 
+
+Deep beneath the streets of East Berlin, Peter Meier patrols the border in an old underground station. But when the TARDIS materialises nearby, Peter realises he is far from alone.
+
+The Bridge Master by Jacqueline Rayner
+
+When the Doctor’s shadow is sacrificed by villagers, he brushes it off as medieval superstition - until he begins to grow weak. Can he uncover the truth behind the bridge master’s curse before it’s too late?
+
+What Lurks Down Under by Tommy Donbavand
+
+On the waves of the Indian Ocean, all the prisoners aboard the Lady Juliana have fallen into a trance... except a single girl. Mary Wade desperately needs a doctor - and only one will help her.
+
+The Dancing Plague by Kate Thorman
+
+Arriving in Strasbourg at the height of the Dancing Plague, the Doctor finds himself thrust into a world of paranoia. Can he bring peace to a city at odds with its own people?</dc:description>
+    </metadata>
+</package>

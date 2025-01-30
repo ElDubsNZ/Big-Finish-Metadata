@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Double - Part 1</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-810-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="69"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Louise Jameson (Roberta Craven)</dc:creator>
+        <dc:creator opf:role="nrt">Emma Lowndes (Patty)</dc:creator>
+        <dc:creator opf:role="nrt">Don Gilét (Herman Baker)</dc:creator>
+        <dc:creator opf:role="nrt">Omari Douglas (Neal Hart)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Howell (Cornwell)</dc:creator>
+        <dc:creator opf:role="nrt">Reda Elazouar (Al Sabah / Mac)</dc:creator>
+        <dc:creator opf:role="nrt">Kim Ismay (Veronica)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Simeon)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Stafford (The Nestene Consciousness)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>1970s London is a place of suspicion and murder. The assassination of an entire embassy comes to the attention of Torchwood. 
+
+There's a global energy crisis. There's an alien invasion. Petrochemical companies are subject to hostile take overs by the mysterious Nessoil. Extremely hostile take overs. 
+
+Roberta Craven was once a spy. Now she's broken. But she can still see the patterns in the world. And they're closing in around her. </dc:description>
+    </metadata>
+</package>

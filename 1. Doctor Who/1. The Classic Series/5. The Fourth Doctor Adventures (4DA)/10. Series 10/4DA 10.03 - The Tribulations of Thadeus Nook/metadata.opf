@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Tribulations of Thadeus Nook</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 10"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andrew Smith</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Bentinck (Karlos / Guard / Reveller)</dc:creator>
+        <dc:creator opf:role="nrt">Kieran Bew (Grannus Drek)</dc:creator>
+        <dc:creator opf:role="nrt">Georgina Hellier (Flaia / Stallholder)</dc:creator>
+        <dc:creator opf:role="nrt">Arthur Hughes (Lem /Lieutenant Muller)</dc:creator>
+        <dc:creator opf:role="nrt">Brendan Murphy (Thadeus Nook)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (Krillian / Cop / Halder)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Riseborough (Jess / Young Woman)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It’s time for the trip of a lifetime! Come along on one of Thadeus Nook’s Time Tours. See history as it really was. Get to witness wars and assassinations! See barbarian warlords right up close!
+
+The Doctor and Leela encounter a most enterprising young gentleman - using time travel for his own financial gain. The Doctor is horrified at the irresponsibility - but it’s just the tip of the iceberg.
+
+Because Thadeus Nook is about to learn that history is often best left in the past.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Insurgency</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2005-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-124-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 2"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Steve Lyons</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (President Romana)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Lynda Bellingham (Inquistor Prime Darkel)</dc:creator>
+        <dc:creator opf:role="nrt">Gary Bakewell (Student Taylor)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Coodinator Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Andy Coleman (Castellan Andred)</dc:creator>
+        <dc:creator opf:role="nrt">John Dorney (Student B'arech)</dc:creator>
+        <dc:creator opf:role="nrt">Jenny Livsey (Student Galadina)</dc:creator>
+        <dc:creator opf:role="nrt">Stuart Piper (Student Neeloc)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Acting-Chancellor Valyes)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>They are the brightest minds of their generation; the architects of tomorrow. And now, they have the chance to attend the finest, most exclusive school known to the temporal powers. After millennia of secrecy, the Gallifreyan Academy has opened its doors to off-worlders...
+
+But the experiment is failing. As interracial violence erupts in the corridors of learning, somebody is using the students as pawns in a political power game - and, while Tutor Leela struggles to unravel the motives of her ex-husband, Andred, President Romana may be falling under an ancient spell.
+
+It's a dangerous time to be a stranger on Gallifrey. It seems that not all Time Lords want to share their secrets...</dc:description>
+    </metadata>
+</package>

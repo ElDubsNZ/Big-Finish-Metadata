@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Masterplan</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-305-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Dark Eyes 3"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Alex MacQueen (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Natalie Burt (Sally Armstrong)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">David Sibley (The Eminence/Professor Markus Schriver)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Captain/Lieutenant)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the Doctor decides to stop a war, the last thing he expects is to be trapped aboard a doomed spaceship with his oldest friend — who just happens to also be his oldest enemy. The Reborn Master is just as surprised: this isn't part of his master plan.
+
+Meanwhile, Liv and Sally tiptoe around a brilliant and dangerous man. Professor Markus Schriver is a genius in the field of teleportation and neural manipulation. Unfortunately, he is also insane.
+
+The clock is ticking, and not everyone can make it out alive...</dc:description>
+    </metadata>
+</package>

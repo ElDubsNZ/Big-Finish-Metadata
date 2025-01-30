@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Last Day at Work</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 8"/>
+        <meta name="calibre:series_index" content="13"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Harry Draper</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Nicholas Briggs (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Constable Bernard Whittam is in for a special evening. Finally retiring from a lifetime in the police force, he's celebrating with friends, family and the woman he loves. It's all perfect. Apart from the noise in his head, the wheezing, groaning noise that has haunted his entire life. That and the unusual gatecrashers.
+
+It’s going to be a night to remember...</dc:description>
+    </metadata>
+</package>

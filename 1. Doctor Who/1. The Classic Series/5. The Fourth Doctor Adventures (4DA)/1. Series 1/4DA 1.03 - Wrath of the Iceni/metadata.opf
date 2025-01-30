@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Wrath of the Iceni</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-614-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 1"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Ella Kenion (Boudica)</dc:creator>
+        <dc:creator opf:role="nrt">Nia Roberts (Bragnar)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Rouse (Caedmon / Festucas)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Hawksford (Pacquolas / Man)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Britain. The height of the Roman occupation. The Doctor has brought Leela to ancient Norfolk to learn about her ancestors… but has no idea how much of an education she is going to get.
+
+Because this is the time of Boudica’s rebellion. When the tribe of the Iceni rises up and attempts to overthrow the Roman masters.
+
+As Leela begins to be swayed by the warrior queen’s words, the Doctor has to make a decision: save his friend… or save history itself?</dc:description>
+    </metadata>
+</package>

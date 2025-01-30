@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Oh No It Isn't!</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>1998-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-430-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Cornell</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Courtney (Wolsey)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Lt Prince / Prince Charming)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Brüün (Michael Doran / Cute)</dc:creator>
+        <dc:creator opf:role="nrt">James Campbell (Professor Candy / Dame Candy)</dc:creator>
+        <dc:creator opf:role="nrt">Jo Castleton (Jayne Waspo / Bitchy)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Gatiss (The Grand Vizier)</dc:creator>
+        <dc:creator opf:role="nrt">Alistair Lock (The Grel Master)</dc:creator>
+        <dc:creator opf:role="nrt">Colin McIntyre (Captain Balsam / King Rupert)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"The King's balls get bigger every year!"
+
+What could possibly go wrong on Professor Bernice Summerfield's investigation into the lost civilisation of Perfecton? Nothing, it seems - until they leave the planet and spot a dirty great missile heading towards their ship. But instead of oblivion, Benny finds herself plunged into the strange world of... panto.</dc:description>
+    </metadata>
+</package>

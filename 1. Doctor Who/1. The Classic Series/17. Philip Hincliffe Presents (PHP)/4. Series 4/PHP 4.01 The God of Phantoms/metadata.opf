@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The God of Phantoms</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-633-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Philip Hinchcliffe Presents - Series 4"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Philip Hinchcliffe</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Aurora Burghart (Hetty Claypole)</dc:creator>
+        <dc:creator opf:role="nrt">Bryan Dick (Major Thomas Langhorn / Berno Redcraw)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Fairs (Reverend Samuel Claypole / The Snowant)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Faulkner (Charles Hookham / Flindor / Wilbur Grits)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (John Farron / Chad Mullain / Ezra / Loggerhead Soldier)</dc:creator>
+        <dc:creator opf:role="nrt">Lynsey Murrell (Captain Ashla Dequell / Lawrie)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Stafford (Adam Ross)</dc:creator>
+        <dc:creator opf:role="nrt">Mandi Symonds (Mary Claypole / Time Lord Emissary)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Philip Hinchcliffe, acclaimed producer of Doctor Who (1975-77) returns to tell new stories for the Fourth Doctor and Leela.
+
+The TARDIS brings the Doctor and Leela to a colony world in the distant future – but they are not the only visitors to this place. The people of this planet are seeing the ghosts of their lost friends and relatives. And the ghosts are stealing people.
+
+Trapped in the middle of an escalating conflict, the Doctor and Leela investigate the source of the spirits and find a diabolical machine, a terrible secret... and a foe long since forgotten.</dc:description>
+    </metadata>
+</package>

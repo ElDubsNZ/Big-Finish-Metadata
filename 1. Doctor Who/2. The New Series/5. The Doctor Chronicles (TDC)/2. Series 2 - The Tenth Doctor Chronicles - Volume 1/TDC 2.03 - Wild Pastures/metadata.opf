@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Wild Pastures</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-225-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Tenth Doctor Chronicles - Volume 1"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jacob Dudman (The Doctor / Narrator / Donna Noble)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline King (Sylvia Noble)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Strange things are happening at the Wild Pastures Rest Home. When the Doctor calls on the Nobles to investigate, he doesn’t expect Sylvia to be the one to step up. Soon, they’re in too deep, and the Doctor and Sylvia will need all their faculties to get out alive.</dc:description>
+    </metadata>
+</package>

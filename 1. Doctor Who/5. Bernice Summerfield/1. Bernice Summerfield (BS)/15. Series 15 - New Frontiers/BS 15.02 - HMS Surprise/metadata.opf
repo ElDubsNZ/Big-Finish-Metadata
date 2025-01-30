@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>HMS Surprise</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-101-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 15 - New Frontiers"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alexander Vlahos</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Ayesha Antoine (Ruth)</dc:creator>
+        <dc:creator opf:role="nrt">David Ames (Jack)</dc:creator>
+        <dc:creator opf:role="nrt">David Benson (Captain Kinkade)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Biggerstaff (Antonio Tulloch)</dc:creator>
+        <dc:creator opf:role="nrt">Geoffrey Breton (Lucas Catch)</dc:creator>
+        <dc:creator opf:role="nrt">Thomas Grant (Peter Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Handcock (Captain Secker)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Hayes (Bel)</dc:creator>
+        <dc:creator opf:role="nrt">Georgia Moffett (Avril Fenman)</dc:creator>
+        <dc:creator opf:role="nrt">Dolly Oladini (Dinner Lady)</dc:creator>
+        <dc:creator opf:role="nrt">Mark B Oliver (Newsreader)</dc:creator>
+        <dc:creator opf:role="nrt">Thomas Rees-Kaye (Crewman / Mobile News Droid / Clerk / Guardbot / Nik)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Irving Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">Ellen Salisbury (Vonna Byzantium)</dc:creator>
+        <dc:creator opf:role="nrt">David Selby (Beacon)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Sheward (Lud)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Mortis Dock: the last manned shipyard in the cosmos. Population: 6002.
+
+And now, not a soul in sight... at least, until Bernice, Peter and Jack are drawn off-course.
+
+Where have all the workers disappeared to? Why is Jack behaving oddly? And what is the secret of the HMS Surprise?
+
+Only a stranger in a lighthouse holds the key... but can he be trusted?</dc:description>
+    </metadata>
+</package>

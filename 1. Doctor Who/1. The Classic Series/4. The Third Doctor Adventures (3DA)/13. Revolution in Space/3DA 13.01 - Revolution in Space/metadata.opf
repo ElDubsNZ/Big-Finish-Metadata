@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Revolution in Space</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-167-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Third Doctor Adventures - Volume 12 - Revolution in Space"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tim Treloar (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sadie Miller (Sarah Jane Smith)</dc:creator>
+        <dc:creator opf:role="nrt">Richard James (Governor Rogan)</dc:creator>
+        <dc:creator opf:role="nrt">David Dobson (Tribune Foyle)</dc:creator>
+        <dc:creator opf:role="nrt">Barry Aird (Operator Rellack)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Whitelock (Operator Goole)</dc:creator>
+        <dc:creator opf:role="nrt">Anna Critchlow (Officer Miro)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Norfolk (Dr Annis Gottfried)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Alexander (Mullins)</dc:creator>
+        <dc:creator opf:role="nrt">Juliet Aubrey (Zyla Kalstein)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Myers (Operator Carver)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and Sarah find themselves in an asteroid, on the outer reaches of Earth’s solar system. It’s the future, and humans have colonised this inhospitable place, to mine vital minerals to supply their home planet. However, links with Earth are becoming ever more strained, and forces within the colony are seeking independence. Revolution is in the air.
+
+Meanwhile, in the deepest chambers of the asteroid, a powerful force is emerging. Its influence is growing rapidly. But how will it affect Sarah Jane Smith and her place in future history?</dc:description>
+    </metadata>
+</package>

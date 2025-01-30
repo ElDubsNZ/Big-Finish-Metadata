@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Trouble in Paradise</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-47131-172-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Destiny of the Doctor"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nev Fountain</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Cameron Stewart (Christopher Columbus / The Bovine Herd Leader)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Responding to a desperate summons from his future self, the Doctor and Peri find themselves on a sailing ship in 1492, where the crewmen are gripped by superstitious fear.
+
+They say the Devil walks among them, stalking and striking them down. Even though they have landed in paradise, they fear that 'El Diablo' himself will drag them over the edge of the world and into the depths of Hell.
+
+When the Doctor and Peri meet the captain of the ship, they both discover that heroes can sometimes behave unheroically. Peri's reaction leads her into deep water, and soon the Doctor fears not only for her life but also for the existence of the ship, the paradise island, and the universe itself...</dc:description>
+    </metadata>
+</package>

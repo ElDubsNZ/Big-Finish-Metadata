@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Lifeboat and the Deathboat</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-505-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Diary of River Song - Series 5"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Eric Roberts (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Heath (Alison)</dc:creator>
+        <dc:creator opf:role="nrt">Sasha Behar (Admiral Eno)</dc:creator>
+        <dc:creator opf:role="nrt">Himesh Patel (Ayrton Valencia / Engineer)</dc:creator>
+        <dc:creator opf:role="nrt">Eleanor Crooks (Kaliopi Mileska / Robot)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (Number Two / Computer / James)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Stranded in the Vortex, a father and daughter do their best to survive, living on salvage in a ramshackle vessel. 
+
+Elsewhere, an obsessive ship’s captain hunts down a vengeful monster, whatever the cost. 
+
+And River is caught between them, uncovering an old enemy in the most unexpected new guise.</dc:description>
+    </metadata>
+</package>

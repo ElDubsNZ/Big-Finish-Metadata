@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Last Days of Freme</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-835-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 12 - War Room 1 - Allegiance"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lou Morgan</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Ken Bones (The General)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Commander Veklin)</dc:creator>
+        <dc:creator opf:role="nrt">Daon Broni (Argatro)</dc:creator>
+        <dc:creator opf:role="nrt">Carolyn Pickles (Cardinal Ollistra)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Armitage (Lord Rassilon)</dc:creator>
+        <dc:creator opf:role="nrt">Corrinne Wicks (Lady Vibax / Gilla)</dc:creator>
+        <dc:creator opf:role="nrt">Eve Winters (Porto / Bellaris)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Leela is assigned to the War Room by Lord Rassilon himself. There, she finds an earlier incarnation of Ollistra, restored from the Matrix to oversee operations. She has a mission for Leela, and will go to any lengths to ensure compliance...</dc:description>
+    </metadata>
+</package>

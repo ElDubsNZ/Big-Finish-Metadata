@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Wirrn Isle</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-606-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="158"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">William Gallagher</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Greenwood (Flip Jackson)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Bentinck (Roger Buchman)</dc:creator>
+        <dc:creator opf:role="nrt">Jenny Funnell (Veronica Buchman)</dc:creator>
+        <dc:creator opf:role="nrt">Helen Goldwyn (Dare / Automated Voices)</dc:creator>
+        <dc:creator opf:role="nrt">Rikki Lawton (Iron / Wirrn)</dc:creator>
+        <dc:creator opf:role="nrt">Tessa Nicholson (Toasty Buchman)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Sheer Jawn / Automated Voices)</dc:creator>
+        <dc:creator opf:role="nrt">Glynn Sweet (Paul Dessay)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The year is 16127. Four decades have passed since the colonists of Nerva Beacon returned to repopulate the once-devastated planet Earth - and the chosen few are finding the business of survival tough.
+
+Far beyond the sterile safety of sanitised Nerva City, transmat scientist Roger Buchman has brought his family to an island surrounded by what they once called Loch Lomond, hoping to re-establish the colony he was forced to abandon many years before.
+
+But something else resides in the Loch. A pestilent alien infestation that the Doctor, beaming in from Nerva City, remembers only too well from his time aboard the Beacon...
+
+The Wirrn are back. And they’re hungry.</dc:description>
+    </metadata>
+</package>

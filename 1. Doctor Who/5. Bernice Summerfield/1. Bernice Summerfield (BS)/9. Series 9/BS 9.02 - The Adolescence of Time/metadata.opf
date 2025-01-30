@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Adolescence of Time</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-327-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 9"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lawrence Miles</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Thomas Grant (Peter Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Lois Baxter (Celethua)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Block (Tektekachuan)</dc:creator>
+        <dc:creator opf:role="nrt">Emily Pithon (Ixotta)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A new adventure in the 27th Century for Bernice Summerfield.
+
+Earth is still suffering the after-effects of the asteroid (or something) which collided with the planet many years ago: the dust cloud which blots out the sun shows no sign of settling and the dinosaurs are doomed. Above the cloud, colonies of winged reptiles – more intelligent than any we know of – are fighting to survive. A strange creature calling itself Summerfield appears in their midst: is it destined to save them?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Collision Course</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-648-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - The Legacy of Time"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Alan Cox (Tompino)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Earl (Punshon)</dc:creator>
+        <dc:creator opf:role="nrt">Rebecca Kilgarriff (Ankarrie / Sirens)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">David Bradley, Frazer Hines, Tim Treloar, Peter Davison, Colin Baker, Sylvester McCoy, Paul McGann, David Tennant (The Doctors)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Alien Voice)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Fallout from the temporal distortions has now reached Gallifrey. To find the cause, Leela and Romana remember travels with the Fourth Doctor to the same world, at different times. The enemy is revealed, and it may take more than one Doctor to prevent the destruction of everything!</dc:description>
+    </metadata>
+</package>

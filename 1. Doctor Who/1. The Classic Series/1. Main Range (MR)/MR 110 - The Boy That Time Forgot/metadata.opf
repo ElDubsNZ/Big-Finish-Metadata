@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Boy That Time Forgot</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-319-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="110"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Magrs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Sachs (The Scorpion King)</dc:creator>
+        <dc:creator opf:role="nrt">Adrian Scarborough (Rupert Von Thal)</dc:creator>
+        <dc:creator opf:role="nrt">Oliver Senton (Kranlee / Lohkaar / Grandfather Scorpion / Professor Quandry)</dc:creator>
+        <dc:creator opf:role="nrt">Harriet Walter (Mrs Beatrice Mapp)</dc:creator>
+        <dc:creator opf:role="nrt">Claire Wyatt (Grandmother Scorpion / Brenda)</dc:creator>
+        <dc:creator opf:role="nrt">Claire Wyatt (Madam Teegarna)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A lost world. A prehistoric civilization. A dark secret.
+
+The Doctor and Nyssa find themselves transported from Victorian London back to the dawn of time, accompanied by debonair adventurer Rupert Von Thal and no-nonsense novelist Beatrice Mapp. Together these unlikely heroes must brave primitive jungles and battle ravening insects as they make their way to the city of the giant scorpions, ruled over by... the Boy That Time Forgot.</dc:description>
+    </metadata>
+</package>

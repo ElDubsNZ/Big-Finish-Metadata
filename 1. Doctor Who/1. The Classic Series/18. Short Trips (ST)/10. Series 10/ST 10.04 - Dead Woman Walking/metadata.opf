@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Dead Woman Walking</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 10"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Roland Moore</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sophie Aldred (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor’s meddling has taken a tremendous emotional toll on Ace over their many adventures. However, this time, it may just cost her life.
+
+Landing in the middle of a civil war, the Doctor hoped to discreetly meddle and then slip away unnoticed. Instead, he’s managed to infect Ace with an organic bomb. A bomb with a most unusual trigger.
+
+If Ace dies, so does the planet.</dc:description>
+    </metadata>
+</package>

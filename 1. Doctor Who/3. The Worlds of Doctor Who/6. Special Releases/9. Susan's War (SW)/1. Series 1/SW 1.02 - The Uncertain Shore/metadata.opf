@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Uncertain Shore</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-223-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Susan's War - Series 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Carole Ann Ford (Susan)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Veklin)</dc:creator>
+        <dc:creator opf:role="nrt">Trudie Goodwin (Faith)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Aikman (Lootsa)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Yeorgi / Ogron 2)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Ludders (Monty / Ogron / Ogron 1)</dc:creator>
+        <dc:creator opf:role="nrt">Damian Lynch (Rasmus)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Susan and Commander Veklin are on the trail of a spy. Under cover on a ravaged world, they find a weary population, trapped, and waiting for the inevitable. But one among them is a traitor. 
+
+The Time War is coming to Florana, and Susan will face a struggle to simply survive...</dc:description>
+    </metadata>
+</package>

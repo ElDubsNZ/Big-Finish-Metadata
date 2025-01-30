@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>A Photograph to Remember</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-799-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Paternoster Gang - Heritage 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Roy Gill</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Neve McIntosh (Madame Vastra)</dc:creator>
+        <dc:creator opf:role="nrt">Catrin Stewart (Jenny Flint)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Strax)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Ryan (Stonn)</dc:creator>
+        <dc:creator opf:role="nrt">Arthur Hughes (Tom Foster)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Goddard (Vella)</dc:creator>
+        <dc:creator opf:role="nrt">Julia Hills (Ethel Pullman)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Paternoster Gang are shocked to discover a rival group on the streets. A Sontaran, a Silurian and a human – only their intentions are not quite so noble as Madame Vastra and friends. 
+
+And when the recently-photographed dead begin to return home, strangely altered, will this 'Bloomsbury Bunch' be more of a help or a hindrance?</dc:description>
+    </metadata>
+</package>

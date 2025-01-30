@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Pride of the Lampian</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-028-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The New Adventures of Bernice Summerfield - Volume 5 - Buried Memories"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alyson Leeds</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">David Warner (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jessica Hayles (Drolla)</dc:creator>
+        <dc:creator opf:role="nrt">Vikash Bhai (Gariff)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Hallion and Jacqueline King (News Anchors)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Bernice Summerfield finds the last relic of a lost civilisation. One that the Doctor is worried may never have existed.</dc:description>
+    </metadata>
+</package>

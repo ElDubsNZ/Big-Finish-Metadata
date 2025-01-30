@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Stuff of Nightmares</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-012-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jago & Litefoot - Series 13"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Baxter (Professor George Litefoot)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Ellie)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Asquith (Inspector Quick)</dc:creator>
+        <dc:creator opf:role="nrt">Abi Hayes (Agent Cara)</dc:creator>
+        <dc:creator opf:role="nrt">Carolyn Pickles (Dr Hilary Standish)</dc:creator>
+        <dc:creator opf:role="nrt">Tony Turner (Harry Hypno)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Litefoot and Jago are both suffering from strange waking nightmares. They resort to hypnotherapy to try to diagnose the problem. But meanwhile a Time Agent is looking for them – as a way of tracking down the notorious criminal Magnus Greel. Before they know what is happening, our heroes find themselves trapped in a dystopian future where nothing makes sense any more...</dc:description>
+    </metadata>
+</package>

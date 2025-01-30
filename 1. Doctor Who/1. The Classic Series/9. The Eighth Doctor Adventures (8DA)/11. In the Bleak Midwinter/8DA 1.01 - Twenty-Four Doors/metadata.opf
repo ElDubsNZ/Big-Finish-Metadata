@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Twenty-Four Doors in December</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-898-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - In the Bleak Midwinter"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charley Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Jaye Griffiths (Lady Audacity Montague)</dc:creator>
+        <dc:creator opf:role="nrt">Jason Watkins (Al Norton)</dc:creator>
+        <dc:creator opf:role="nrt">Natalie Gumede (Isobel / Neighbour)</dc:creator>
+        <dc:creator opf:role="nrt">David Hall (Santa Nicholas / Father / Paramedic / Shopkeeper)</dc:creator>
+        <dc:creator opf:role="nrt">Eleanor Bennett (Isla / Suzanne)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the TARDIS lands in London on the first of December the Doctor decides to treat his companions to a proper Christmas holiday... even down to dragging out the Baker Street Advent Calendar.
+
+But elsewhere in the city a department store Santa is starting to have a very unnerving month. He's on a collision course with the time travellers. Is it going to be a Happy Christmas?</dc:description>
+    </metadata>
+</package>

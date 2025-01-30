@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Underworld</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-267-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Vienna - Series 2"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Cavan Scott</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Chase Masterson (Vienna Salvatori)</dc:creator>
+        <dc:creator opf:role="nrt">Samantha Béart (Jexie Reagan / Tina Haulis (uncredited) / Medical Robot (uncredited))</dc:creator>
+        <dc:creator opf:role="nrt">Duncan Wisbey (Detective Guy Wilkes / Screeder / Drew Haulis (uncredited))</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Something bad is lurking down in the Undercity. Innocent citizens are turning on each other, baying for blood. Vienna must team up with jaded cop Lieutenant Jexie Reagan. 
+
+She’s never had a partner – but will either of them make it through the night alive?</dc:description>
+    </metadata>
+</package>

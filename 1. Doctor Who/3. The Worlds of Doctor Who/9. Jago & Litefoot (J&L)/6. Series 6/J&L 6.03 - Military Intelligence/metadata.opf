@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Military Intelligence</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-103-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jago & Litefoot - Series 6"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">George Mann</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Trevor Baxter (Professor George Litefoot)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Asquith (Sergeant Quick)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Ellie Higson)</dc:creator>
+        <dc:creator opf:role="nrt">Geoffrey Whitehead (The Colonel)</dc:creator>
+        <dc:creator opf:role="nrt">Nancy Carroll (Miss Agatha Worthing)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Speyer (Drucker)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>There are Sentinels on the streets of London, killing without mercy. And as a web of intrigue unfolds, Jago and Litefoot move closer to confronting the enemy of the Crown. A battle to the death will demand the ultimate sacrifice... 
+
+Can this be the end of Jago and Litefoot?</dc:description>
+    </metadata>
+</package>

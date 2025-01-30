@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Aftershocks</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-843-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Doctor of War - Series 1 - Genesis"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lou Morgan</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Warrior)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Geoffrey Beevers (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Karen Bryson (Command Esk)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Twin Dalek)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The ripples are spreading out. The Warrior is on trial. Or is he? No-one's willing to tell him his crime so how can he know if he's guilty? And who is trying him anyway? </dc:description>
+    </metadata>
+</package>

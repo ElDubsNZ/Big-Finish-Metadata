@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Chase the Night</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 9"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Waterhouse (Adric)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Asher (Pilot Dena)</dc:creator>
+        <dc:creator opf:role="nrt">William Gaminara (Engineer Terson)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Heath (Moni)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (Bolan)</dc:creator>
+        <dc:creator opf:role="nrt">Tania Rodrigues (Laker)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS lands in an alien tropical rainforest at night where the Doctor, Adric and Romana discover a set of rails stretching through the undergrowth. These tracks carry a long-crashed spaceship that’s been converted to run along them like a train.
+
+The ship has to keep moving because only the night-side of the world is habitable. The sun on the day-side burns so hot that everything on the surface is turned to ash.
+
+But the stress and strain of the constant movement is beginning to take its toll on the ship. Parts are starting to break down, and the relentless heat gets ever closer - but the greatest danger may be on the inside...</dc:description>
+    </metadata>
+</package>

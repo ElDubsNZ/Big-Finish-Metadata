@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Destroyers</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-453-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 2"/>
+        <meta name="calibre:series_index" content="2.2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Terry Nation</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jean Marsh (Sara Kingdom / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Alan Cox (Mark Seven)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Porter (Jason Corey)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Mallinson (David Kingdom)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the crew of Explorer Base One is attacked by the Daleks, Space Security Agents Sara Kingdom, Mark Seven and Jason Corey investigate. They discover a plan that threatens the future of the entire galaxy...</dc:description>
+    </metadata>
+</package>

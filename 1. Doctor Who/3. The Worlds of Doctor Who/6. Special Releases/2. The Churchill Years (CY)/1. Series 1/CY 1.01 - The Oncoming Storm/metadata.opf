@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Oncoming Storm</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-944-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Churchill Years - Volume 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Phil Mulryne</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Ian McNeice (Winston Churchill)</dc:creator>
+        <dc:creator opf:role="nrt">Emily Atack (Hetty Warner)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Gould (Frederick Lindemann)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Riddell (Lt-Commander Sandy McNish)</dc:creator>
+        <dc:creator opf:role="nrt">Phil Mulryne (Able Seaman Phillips)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Late 1939. Britain faces the might of Germany. Winston Churchill serves as First Lord of the Admiralty. But Churchill soon finds himself facing a more immediate threat than the looming Nazi menace. A "Stone" with the most mysterious properties is discovered in the Thames' sands, and soon oddly spoken soldiers are creeping round London ruthlessly trying to acquire it. Who are they? Can Churchill and his new secretary Hetty Warner defeat them? And what about the man in the battered leather jacket that Hetty meets? Churchill feels sure they can rely on the Doctor to help them! Except that this Doctor seems to want to stay hidden in the shadows...</dc:description>
+    </metadata>
+</package>

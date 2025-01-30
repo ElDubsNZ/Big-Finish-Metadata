@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Elite</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-573-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 3"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Barbara Clegg</dc:creator>
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Garthak)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (High Priest)</dc:creator>
+        <dc:creator opf:role="nrt">Ellie Burrow (Ella)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Carlyle (Alaric)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Coen (Aubron)</dc:creator>
+        <dc:creator opf:role="nrt">Ryan Sampson (Thane)</dc:creator>
+        <dc:creator opf:role="nrt">Joannah Tincey (Stemp)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor offers Tegan and Nyssa a trip to the paradise world of Florana, but instead the TARDIS takes them to a domed city on a planet scarred by warfare. A world where everyone is young, and fighting for the glory of the Elite...
+
+Hidden away in The Cathedral of Power, the High Priest is watching. It knows the Doctor, and his arrival changes everything...</dc:description>
+    </metadata>
+</package>

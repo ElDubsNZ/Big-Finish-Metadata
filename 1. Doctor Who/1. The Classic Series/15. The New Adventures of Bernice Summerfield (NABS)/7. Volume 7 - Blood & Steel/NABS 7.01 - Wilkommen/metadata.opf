@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Willkommen</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-617-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The New Adventures of Bernice Summerfield - Volume 7 - Blood & Steel"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">David Warner (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jack Forsyth-Noble (Wulf)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Pepper (The Compère)</dc:creator>
+        <dc:creator opf:role="nrt">Aletta Lohmeyer (The Director)</dc:creator>
+        <dc:creator opf:role="nrt">Vanessa Milchrahm (Hannah)</dc:creator>
+        <dc:creator opf:role="nrt">David Menkin (Policeman)</dc:creator>
+        <dc:creator opf:role="nrt">Wolf Kahler (Teacher)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Cybermen / Cyber-Planner)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Why do the Cybermen wish to save the people of Berlin?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>A Theatre of Cruelty</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-132-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Ninth Doctor Adventures - Series 3 - Volume 3 - Buried Threats"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lisa McMullin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Eccleston (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Alexander Vlahos (Antonin Artaud)</dc:creator>
+        <dc:creator opf:role="nrt">Elisabeth Yorke-Bolognini (Beatrice Cenci)</dc:creator>
+        <dc:creator opf:role="nrt">Angus Dunican (The Astraphi / Actor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Someone or something is manipulating the dreams of French playwright Antonin Artaud. As Artaud’s nightmares are made manifest, the Doctor is compelled to intervene. Otherwise, Artaud’s new idea for an immersive theatre could become a ticket to literally die for.</dc:description>
+    </metadata>
+</package>

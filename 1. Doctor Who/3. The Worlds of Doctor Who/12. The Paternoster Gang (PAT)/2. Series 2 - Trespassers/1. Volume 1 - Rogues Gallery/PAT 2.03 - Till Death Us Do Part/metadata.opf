@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Till Death Us Do Part</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-117-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Paternoster Gang - Trespassers 1 - Rogues Gallary"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lisa McMullin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Neve McIntosh (Madame Vastra)</dc:creator>
+        <dc:creator opf:role="nrt">Catrin Stewart (Jenny Flint)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Strax / Korgon)</dc:creator>
+        <dc:creator opf:role="nrt">Issy Van Randwyck (Ma Scarrity)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Myers (Pa Scarrity / Psychiatrist)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Miss Faversham)</dc:creator>
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">David Hall (Reg Adams)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Jenny has decided she wants a wedding - a real wedding with Vastra, before their family and friends. But the viewing of a dress leads to misunderstandings and confusions, becoming ever more serious. The owner of the dress claims to have been jilted years before by a man both familiar and unfamiliar...the Doctor! 
+
+As tempers flare, alien forces are at work - and what's more, there could be a trespasser in Paternoster Row.</dc:description>
+    </metadata>
+</package>

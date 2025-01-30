@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Driving Miss Wells</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-819-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lives of Captain Jack - Series 2"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Barrowman (Captain Jack Harkness)</dc:creator>
+        <dc:creator opf:role="nrt">Vikash Bhai (Robert Corman)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Blore (Nurse)</dc:creator>
+        <dc:creator opf:role="nrt">Lachele Carl (Trinity Wells)</dc:creator>
+        <dc:creator opf:role="nrt">Judith Chandler (Mrs Wells)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Dalgleish (Bookshop Customer)</dc:creator>
+        <dc:creator opf:role="nrt">Jacob Dudman (William)</dc:creator>
+        <dc:creator opf:role="nrt">Maeve Bluebell Wells (Journalist)</dc:creator>
+        <dc:creator opf:role="nrt">Jonny Glynn (Foxglove Soldier)</dc:creator>
+        <dc:creator opf:role="nrt">Ché Francis (Waiter)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Alien invasions, stolen planets and burning skies - Newsreader Trinity Wells used to tell everyone the world was ending. One day she stopped believing it. Will her new chauffeur change her mind?</dc:description>
+    </metadata>
+</package>

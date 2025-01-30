@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Silent Majority</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-616-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - The New Series - Series 3 - Silenced"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jemma Redgrave (Kate Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Ingrid Oliver (Osgood)</dc:creator>
+        <dc:creator opf:role="nrt">Warren Brown (Lieutenant Sam Bishop)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Captain Josh Carter)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Day (Kenneth LeBlanc / Heston)</dc:creator>
+        <dc:creator opf:role="nrt">Aaron Neil (News Reporter)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Silence)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Kenneth LeBlanc looks set to lead his party to national victory, overturning political opinion and taking the polls by storm. UNIT can only stand and watch as a silent revolution takes place. 
+
+But who are LeBlanc's real backers? And what use to them is the triumph of a leader who seems to be nothing more than a liability? 
+
+The Silents are about to make the headlines.</dc:description>
+    </metadata>
+</package>

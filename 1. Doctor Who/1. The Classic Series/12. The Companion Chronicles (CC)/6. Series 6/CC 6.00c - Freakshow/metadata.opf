@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Freakshow</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-551-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 6"/>
+        <meta name="calibre:series_index" content="0.3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mark Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Mark Strickson (Turlough)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Longworth (Thaddeus P. Winklemeyer / Berman Labazeen)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS arrives in Arizona 1905, where travelling showman Thaddeus P. Winklemeyer is offering the residents of Buzzard Creek the elixir of life. Winklemeyer also owns a unique carnival, which is full of caged alien creatures. And in Turlough he has found a brand new exhibit...</dc:description>
+    </metadata>
+</package>

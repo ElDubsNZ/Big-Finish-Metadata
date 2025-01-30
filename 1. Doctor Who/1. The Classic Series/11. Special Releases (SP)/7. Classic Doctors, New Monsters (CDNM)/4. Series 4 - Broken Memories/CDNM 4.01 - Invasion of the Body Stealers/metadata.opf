@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Invasion of the Body Stealers</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-916-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - Classic Doctors, New Monsters - Series 4 - Broken Memories"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sadie Miller (Sarah Jane Smith)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Bankolé (Eban Hope Jansen)</dc:creator>
+        <dc:creator opf:role="nrt">Juliet Aubrey (Lina Kalpar)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Bentinck (Lucas Welland)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Stafford (Harmony Shoal)</dc:creator>
+        <dc:creator opf:role="nrt">Helen Lloyd (Doctor Juliet Jasp)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Visiting the crystal forests of Systalzyn, the Fourth Doctor and Sarah encounter a crashing spaceship and race to find survivors... 
+
+But not everyone they meet on this colony world is in their right mind - the body-hopping Harmony Shoal have set their sights on invasion!</dc:description>
+    </metadata>
+</package>

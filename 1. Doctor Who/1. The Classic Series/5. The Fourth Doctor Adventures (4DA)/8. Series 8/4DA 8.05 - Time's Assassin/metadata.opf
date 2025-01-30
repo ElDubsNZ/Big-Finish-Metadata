@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Time's Assassin</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 8"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Ann Kelso)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">Anna Acton (Brox)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (Director / Syndicate Agent / Wave Front 3)</dc:creator>
+        <dc:creator opf:role="nrt">Roger May (Mac Foley / Duke / Wave Front 2)</dc:creator>
+        <dc:creator opf:role="nrt">Blake Ritson (Elmore)</dc:creator>
+        <dc:creator opf:role="nrt">John Shrapnel (Nigel Colloon)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy Wiles (Drones / Wave Front 1)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The true identity of the Director has been revealed and he wants vengeance upon the Doctor for past crimes...
+
+But the Director is not the only danger to the crew of the TARDIS. Deadly experiments are coming to a head, and everyone’s life is at risk.
+
+However, the greatest threat is yet to come. The Syndicate’s plans are in motion... and no one is safe from them.</dc:description>
+    </metadata>
+</package>

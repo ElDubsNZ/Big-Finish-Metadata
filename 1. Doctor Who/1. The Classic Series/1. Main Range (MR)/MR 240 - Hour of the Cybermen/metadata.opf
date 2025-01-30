@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Hour of the Cybermen</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-829-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="240"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andrew Smith</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">David Banks (Cyber Leader)</dc:creator>
+        <dc:creator opf:role="nrt">Blake Harrison (Daniel Hopkins)</dc:creator>
+        <dc:creator opf:role="nrt">Russ Bain (Lewis Price / Kel)</dc:creator>
+        <dc:creator opf:role="nrt">Wayne Forester (Atriss / Bill Parker / Captain Weaver)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Hardy (Cyber Lieutenant)</dc:creator>
+        <dc:creator opf:role="nrt">Frog Stone (Riva)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Answering a call from UNIT, the Doctor arrives in London to find the streets deserted, apart from looters in possession of a valuable commodity - water.
+
+Britain is suffering an extreme and bizarre drought. The cause is suspected to be extra-terrestrial.
+
+The discovery of a signal being transmitted into space, and of a spacecraft whose crew are desiccated corpses, provides a possible answer. But the true enemy is an old foe of the Doctor’s.
+
+The Cybermen have been patient, setting their plans in place over a number of years. As the final stage is implemented, in the darkest hour, the Doctor must identify who among his allies he can trust.
+
+[Please note: this release is part of a series of linked stories featuring UNIT and Daniel Hopkins, beginning with The Helliax Rift and concluding with Warlock's Cross.]</dc:description>
+    </metadata>
+</package>

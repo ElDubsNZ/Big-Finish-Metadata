@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Love Me Not</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-038-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Robots - Series 1"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Claire Rushbrook (Tula Chenka / SV39)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Howell (Volar Crick)</dc:creator>
+        <dc:creator opf:role="nrt">Annabelle Dowler (Robot Jasdar)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Whitelock (Skellen)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy Wiles (V98 / V7)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A widower goes to extreme lengths to keep the memories of his dead wife alive.</dc:description>
+    </metadata>
+</package>

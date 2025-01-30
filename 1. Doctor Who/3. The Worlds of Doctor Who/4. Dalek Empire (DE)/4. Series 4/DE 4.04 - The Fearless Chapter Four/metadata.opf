@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Fearless Part 4</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-303-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Dalek Empire - Series 4"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Maureen O'Brien (Agnes Landen)</dc:creator>
+        <dc:creator opf:role="nrt">John Schwab (Lt Carlisle)</dc:creator>
+        <dc:creator opf:role="nrt">Noel Clarke (Salus Kade)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Goddard (Dr Mezeran)</dc:creator>
+        <dc:creator opf:role="nrt">Ginita Jimenez (Lajitta)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Connolly (Announcer / Computer / PA)</dc:creator>
+        <dc:creator opf:role="nrt">David Sax (Ernst Tanlee)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Brooker (Officer)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Dickens (Spacer 1)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Daleks have devised a plan to that will deliver a decisive victory. General Landen and her fleet are all that stand in their way. And then there's Kade…</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The House of Masks</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-910-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eleventh Doctor Chronicles - Volume 3 - Geronimo"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Georgia Cook</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jacob Dudman (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Safiyya Ingar (Valarie Lockwood)</dc:creator>
+        <dc:creator opf:role="nrt">Genevieve Gaunt (Lady Sicura)</dc:creator>
+        <dc:creator opf:role="nrt">Fode Simbo (Captain Tomasi)</dc:creator>
+        <dc:creator opf:role="nrt">Richard James (Riley)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>For Valarie's first trip through time and space, the TARDIS takes them to one of the Doctor's favourite places: Venice, during Carnivale.
+
+Unfortunately, not everyone is there to enjoy the party. Captain Tomasi has a murder to commit, and he needs Valarie’s help to do it...</dc:description>
+    </metadata>
+</package>

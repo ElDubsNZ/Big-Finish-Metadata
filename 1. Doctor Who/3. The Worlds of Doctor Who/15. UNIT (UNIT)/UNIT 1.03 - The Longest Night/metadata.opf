@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Longest Night</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2005-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-115-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - Series 1"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Joseph Lidster</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Siri O'Neal (Colonel Emily Chaudhry)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Deal (Colonel Robert Dalton)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Andrews (Scott Christie)</dc:creator>
+        <dc:creator opf:role="nrt">Sara Carver (Andrea Winnington)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Curbishley (Lieutenant Hoffman)</dc:creator>
+        <dc:creator opf:role="nrt">Georgina Field (Nisha Townsend)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Hobbs (Francis Currie)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Myers (PM's Aide)</dc:creator>
+        <dc:creator opf:role="nrt">Steffan Rhodri (Prime Minister)</dc:creator>
+        <dc:creator opf:role="nrt">Vineeta Rishi (Meena Cartwright)</dc:creator>
+        <dc:creator opf:role="nrt">Johnson Willis (Major Philip Kirby)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"We interrupt this broadcast..." 
+
+Having survived a day at the seaside, Robert Dalton and Emily Chaudhry are enjoying a few pints... Having spent the day answering the phone and praying for some action, Will Hoffman is enjoying a night out... Having signed a controversial new European treaty, the Prime Minister is on his way back to Downing Street... Having survived yet another day, the people of Britain are settling down to eat dinner, stay in, go out, spend time with their friends... 
+
+"...we're receiving reports that..." 
+
+It's just another ordinary evening in the United Kingdom... 
+
+"...a bomb has exploded in central London..."</dc:description>
+    </metadata>
+</package>

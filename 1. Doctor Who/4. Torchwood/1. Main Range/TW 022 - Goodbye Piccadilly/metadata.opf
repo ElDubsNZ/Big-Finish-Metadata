@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Goodbye Piccadilly</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-467-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="22"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Price (Andy Davidson)</dc:creator>
+        <dc:creator opf:role="nrt">Samuel Barnett (Norton Folgate)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Sheen (Fat Kim)</dc:creator>
+        <dc:creator opf:role="nrt">Liam Hourican (The Vicar)</dc:creator>
+        <dc:creator opf:role="nrt">Wilf Scolding (Alejandro)</dc:creator>
+        <dc:creator opf:role="nrt">Rachel Atkins (Margot)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Sgt Andy Davidson wakes up in the 1950s. He's chained to a bed, his clothes are missing and the building's on fire. Norton Folgate needs his help. 
+
+The streets of Soho are swarming with gangsters, rumours and betrayals. Somewhere out there is a mysterious alien artefact, and Andy and Norton have to get to it first. Because tonight they're going to save Torchwood.</dc:description>
+    </metadata>
+</package>

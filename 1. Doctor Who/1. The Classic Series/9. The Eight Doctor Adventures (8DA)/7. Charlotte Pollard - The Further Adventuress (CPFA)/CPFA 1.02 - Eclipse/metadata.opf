@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Eclipse</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-720-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Charlotte Pollard - The Further Adventuress"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lisa McMullin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Theo Solomon (Keelda)</dc:creator>
+        <dc:creator opf:role="nrt">Rhoda Ofori-Attah (Tarper)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Jarman (Pattos)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The collective noun for a swarm of moths is an eclipse. And when the chittering, nightmarish Hellstrung descend from the forest canopy of planet Pteron, they threaten to snuff out the lives of the human settlers below.
+
+Wanting to know what’s stirred up the Hellstrung, the Doctor and Charley venture deep into the woods as darkness falls.</dc:description>
+    </metadata>
+</package>

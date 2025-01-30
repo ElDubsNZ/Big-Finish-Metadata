@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Sword of Orion</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2001-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-415-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="17"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Cybermen)</dc:creator>
+        <dc:creator opf:role="nrt">Hylton Collins (Vol)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Digly)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Gatiss (Thinnes)</dc:creator>
+        <dc:creator opf:role="nrt">Helen Goldwyn (Chev)</dc:creator>
+        <dc:creator opf:role="nrt">Michelle Livingstone (Deeva Jansen)</dc:creator>
+        <dc:creator opf:role="nrt">Alistair Lock (Cybermen)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Longworth (Kelsey)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Marr (Ike)</dc:creator>
+        <dc:creator opf:role="nrt">Bruce Montague (Grash)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The human race is locked in deadly combat with the 'Android Hordes' in the Orion System. Light years from the front line, the Doctor and Charley arrive to sample the dubious delights of a galactic backwater, little suspecting that the consequences of the Orion War might reach them there. But High Command's lust for victory knows no bounds.
+
+Trapped aboard a mysterious derelict star destroyer, the Doctor and Charley find themselves facing summary execution. But this is only the beginning of their troubles. The real danger has yet to awaken.
+
+Until, somewhere in the dark recesses of the Garazone System, the Cybermen receive the signal for reactivation...</dc:description>
+    </metadata>
+</package>

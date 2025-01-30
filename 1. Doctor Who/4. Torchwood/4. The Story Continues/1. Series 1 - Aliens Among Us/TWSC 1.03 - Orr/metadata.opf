@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Orr</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-010-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - She Story Continues - Series 1 - Aliens Among Us - Part 1"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Juno Dawson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Barrowman (Captain Jack Harkness)</dc:creator>
+        <dc:creator opf:role="nrt">Kai Owen (Rhys Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Clayton (Mr Colchester)</dc:creator>
+        <dc:creator opf:role="nrt">Alexandria Riley (Ng)</dc:creator>
+        <dc:creator opf:role="nrt">Jonny Green (Tyler Steele)</dc:creator>
+        <dc:creator opf:role="nrt">Eve Myles (Gwen Cooper)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Critchlow (The Mayor)</dc:creator>
+        <dc:creator opf:role="nrt">Rachel Atkins (Ro-Jedda)</dc:creator>
+        <dc:creator opf:role="nrt">David Sibley (Vincent Parry)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Béart (Catrin Parry)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Vincent Parry is the most successful property developer in Cardiff. A while ago he made an agreement with the mysterious Ro-Jedda, and it is an arrangement he has come to bitterly regret. Something has to be done – but it's going to cost him everything he loves. With time running out for Cardiff, Torchwood encounter an alien who knows them only too well.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Colour of Terror</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-762-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Ninth Doctor Adventures - Series 2 - Volume 4 - Shades of Fear"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizzie Hopley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Eccleston (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Susan Penhaligon (Mrs Bevell)</dc:creator>
+        <dc:creator opf:role="nrt">George Naylor (Robbie)</dc:creator>
+        <dc:creator opf:role="nrt">Frank Skinner (Pete)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Rollins (Cath)</dc:creator>
+        <dc:creator opf:role="nrt">Dinita Gohil (Sahdna Chand / Marla)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Mrs Bevell wants to keep the star rating for her charity shop at any cost - but why does she stock so many items of one particular shade?
+
+When West Morebry residents start to notice disappearances, the Doctor assembles a motley band to do battle... with the colour red!</dc:description>
+    </metadata>
+</package>

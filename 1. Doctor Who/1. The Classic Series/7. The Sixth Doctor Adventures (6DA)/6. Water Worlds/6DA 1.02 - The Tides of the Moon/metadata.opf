@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Tides of the Moon</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-742-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Sixth Doctor Adventures - Water Worlds"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Joshua Pruett</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Mel)</dc:creator>
+        <dc:creator opf:role="nrt">Ruth Madeley (Hebe)</dc:creator>
+        <dc:creator opf:role="nrt">Virge Gilchrist (Helias)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Stafford (Wulk)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew James Spooner (The Clutch Father)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>For Hebe's first trip in the TARDIS, the Doctor and Mel take her to the nearest available 'water world' – the Moon, two billion years in the past! Its advanced humanoid inhabitants, the Gilleans, are terrorised each night by their monstrous enemies, the Sheega. Even more worrying is that in a matter of hours, this ocean world will be laid waste by the gravitational interference of the blue-green planet next door...</dc:description>
+    </metadata>
+</package>

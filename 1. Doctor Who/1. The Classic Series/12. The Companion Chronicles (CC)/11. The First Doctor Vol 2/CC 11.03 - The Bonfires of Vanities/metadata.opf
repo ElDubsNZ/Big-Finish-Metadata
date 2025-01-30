@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Bonfires of the Vanities</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-006-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - The First Doctor - Volume 2"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Una McCormack</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Anneke Wills (Polly)</dc:creator>
+        <dc:creator opf:role="nrt">Elliot Chapman (Ben Jackson)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the Doctor, Polly, and Ben arrive in Lewes in the late 1950s, they’re just in time to celebrate Guy Fawkes’ Night. But there’s no fun on the streets tonight – the town is in the grip of fear. There are imps on the loose in Lewes, the Bonfire Boys are on the march, and nobody is safe from the fire.</dc:description>
+    </metadata>
+</package>

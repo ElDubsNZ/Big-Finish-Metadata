@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Shadow of the Scourge</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2000-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-420-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="13"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Cornell</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Caroline Burns Cooke (Mary Hughes)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Fairs (Gary Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Lennox Greaves (Brian Hughes)</dc:creator>
+        <dc:creator opf:role="nrt">Holly King (Annie Carpenter)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Piccarilli (Michael Pembroke)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Trapani (Mike Duff / Scourge Leader)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Pinehill Crest Hotel in Kent is host to three very different events: a cross-stitch convention, an experiment in time travel and... the summoning of the scourge.
+
+The Doctor, Bernice and Ace find themselves dealing with a dead body that's come back to life, a mystical symbol that possesses its host, and a threat from another universe that's ready for every trick the Doctor's got up his sleeve.
+
+This time, has the Doctor gone too far?</dc:description>
+    </metadata>
+</package>

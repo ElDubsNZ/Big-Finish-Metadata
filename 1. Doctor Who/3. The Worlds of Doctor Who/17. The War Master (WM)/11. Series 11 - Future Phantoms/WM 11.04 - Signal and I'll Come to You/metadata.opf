@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Signal and I'll Come to You</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-983-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Master - Series 11 - Future Phantoms"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Derek Jacobi (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Glenister (Mr Eliot)</dc:creator>
+        <dc:creator opf:role="nrt">Chandrika Chevli (Mrs Carruthers)</dc:creator>
+        <dc:creator opf:role="nrt">George Naylor (Mr Lively)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Naudi (The Student)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>After a train vanishes in a tunnel on a rural branch line, Mr Eliot has no choice but to revisit his past to tackle the present. Why is history repeating itself? And will this be the Master's final tale? </dc:description>
+    </metadata>
+</package>

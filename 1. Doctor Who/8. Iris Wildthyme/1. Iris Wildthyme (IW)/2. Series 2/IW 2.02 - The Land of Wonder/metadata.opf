@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Land of Wonder</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-367-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Iris Wildthyme - Series 2"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Magrs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Katy Manning (Iris Wildthyme)</dc:creator>
+        <dc:creator opf:role="nrt">David Benson (Panda)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Trevor Ramsbottom)</dc:creator>
+        <dc:creator opf:role="nrt">Lizzie Hopley (Audrey/Harriet Dodd)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Connolly (Mock Turtle/Salford Cat)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Handcock (White Rabbit)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Exiled to Earth by her mysterious superiors, Iris has been amusing herself and Panda by working for MIAOW, the Ministry for Alien Incursions and Other Wonders. When a certain Professor Ramsbottom and his lovely assistant Audrey unearth a weird vehicle under a London railway station, Ms Wildthyme and her art critic chum are on the scene pretty sharpish. 
+
+Among anachronistic skulls and crockery they discover the still-living forms of utterly perplexing, alien creatures. And, before you can say "Jabberwocky", Iris and her friends are on a mind-boggling voyage into a groovy Wonderland deep, deep beneath the Earth's crust...</dc:description>
+    </metadata>
+</package>

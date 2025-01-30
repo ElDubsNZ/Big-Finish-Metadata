@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Her Own Bootstraps</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 10"/>
+        <meta name="calibre:series_index" content="9"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Amy Veeres</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jacob Dudman (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Extracting a dangerous Time War weapon from an irresponsible scientist, the Doctor arrives on Krakatoa in 1883 to destroy it. Problematically, the scientist is also in Krakatoa to steal the weapon. This is where she found it before the Doctor stole it from her. Trapped in a paradox, the Doctor must overcome a future he cannot change.
+
+A future that has already happened.</dc:description>
+    </metadata>
+</package>

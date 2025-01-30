@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Peace in Our Time</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 9"/>
+        <meta name="calibre:series_index" content="12"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Una McCormack</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Purves (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A family meal, interrupted. Government papers, stolen. Social etiquette, ignored.
+
+Ruby Watkins is the over-worked and unappreciated maid of the Gledhill family. Answering the door midway through serving dinner, she finds Mr Gledhill’s junior at the War Office, Mr Taylor, is here to see him on urgent business. For some unknown reason, he’s brought a doctor with him…</dc:description>
+    </metadata>
+</package>

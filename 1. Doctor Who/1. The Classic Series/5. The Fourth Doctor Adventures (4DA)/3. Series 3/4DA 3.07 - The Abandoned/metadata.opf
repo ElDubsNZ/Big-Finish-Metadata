@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Abandoned</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-296-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 3"/>
+        <meta name="calibre:series_index" content="7"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Louise Jameson</dc:creator>
+        <dc:creator opf:role="aut">Nigel Fairs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Stephanie Cole (Marianna)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Fairs (Three)</dc:creator>
+        <dc:creator opf:role="nrt">Andy Snowball (Two)</dc:creator>
+        <dc:creator opf:role="nrt">Mandi Symonds (One)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Point of Stillness. A place the Time Lords are forbidden to go. It cannot be drawn, it cannot be whispered, it cannot be thought. And yet somebody is very keen to reach it.
+
+Deep within the TARDIS, something unusual is happening. One of the ship's oldest secrets is about to be revealed, and once it is, nothing will ever be the same again.
+
+As danger materialises deep within the ship, spectral strangers lurk in the corridors and bizarre events flood the rooms, someone long-forgotten is ready to reappear. The Doctor and Leela are soon to discover that their home isn't quite the safe stronghold they thought.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Didn't You Kill My Mother?</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-000-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eleventh Doctor Chronicles - Volume 7 - Victory of the Doctor"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jacob Dudman (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Safiyya Ingar (Valarie Lockwood)</dc:creator>
+        <dc:creator opf:role="nrt">Lara Lemon (Arabella Hendricks)</dc:creator>
+        <dc:creator opf:role="nrt">Homer Todiwala (Tim)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Another day, another set of clients needing arbitration. However, this case is special. It’s the kind of case that could make a career. It could definitely earn you a promotion. The case? Lockwood versus Hendricks.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>End Game</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-405-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="86"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tom Black</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Naoko Mori (Toshiko Sato)</dc:creator>
+        <dc:creator opf:role="nrt">Tatjana Nardone (Simulation)</dc:creator>
+        <dc:creator opf:role="nrt">Jolade Obasola (Jasmine Jenning)</dc:creator>
+        <dc:creator opf:role="nrt">Ed White (Gerard Marsh)</dc:creator>
+        <dc:creator opf:role="nrt">Greg Wise (Frank Reece)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>You have been brought to Secure Control Room B to respond to a simulated emergency. 
+
+You will be able to issue orders and make real time decisions in a disaster scenario. 
+
+Welcome to the end of the world. Shall we begin?</dc:description>
+    </metadata>
+</package>

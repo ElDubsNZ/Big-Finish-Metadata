@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Peri and the Piscon Paradox</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-505-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 5"/>
+        <meta name="calibre:series_index" content="7"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nev Fountain</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and Peri journey to Los Angeles 2009 to do battle with a Piscon. His name is Zarl, and he's a fish of utmost evil.
+
+Zarl is going to steal all the water of Earth and sell it to the highest bidder. Or blow up the San Andreas fault. Or the planet. Or something like that. He's a bit vague on that point.
+
+Fortunately, there’s help from an unexpected source: a future version of Peri. She knows Zarl's dark secret.
+
+But should the future Peri be on Earth at all? Something smells fishy – and it's not just Zarl.</dc:description>
+    </metadata>
+</package>

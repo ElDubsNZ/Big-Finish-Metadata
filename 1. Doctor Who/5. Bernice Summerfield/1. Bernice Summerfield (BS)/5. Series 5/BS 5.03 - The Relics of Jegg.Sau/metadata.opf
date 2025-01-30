@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Relics of Jegg-Sau</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2004-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-074-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 5"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Stephen Cole</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Kilgarriff (Robot)</dc:creator>
+        <dc:creator opf:role="nrt">Katherine Holme (Elise Kalwell)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Shelley (Kalwell)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The colonists knew the risks of Jegg-Sau. With a flimsy atmosphere, no mineral wealth and exhausted soil, only the strongest and most determined could hope to make a home there. But with nowhere else to go, they went ahead, allegedly funded by a stock of valuable relics and art treasures stolen from Earth.
+
+But the colony failed. Jegg-Sau was deserted once more, home only to carrion and rusted dreams. But Bernice Summerfield believes the relics remained, and she's come a long, long way in search of them. What she'll find is that others have reached Jegg-Sau before her. She'll find herself cat's-paw in a dark outpost of frailty and obsession.
+
+And she'll find the robots.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Screaming Ceiling</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-801-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Paternoster Gang - Heritage 2"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Neve McIntosh (Madame Vastra)</dc:creator>
+        <dc:creator opf:role="nrt">Catrin Stewart (Jenny Flint)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Strax)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Jameson (Carnacki)</dc:creator>
+        <dc:creator opf:role="nrt">David Shaw-Parker (John Campbell / Dodgson)</dc:creator>
+        <dc:creator opf:role="nrt">Caroline Guthrie (Anna Campbell)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Henfrey (Dorothy)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In one of the earliest cases of his illustrious career, Thomas Carnacki heads to the Highlands to embark upon the terrifying investigation of Castle Kraighten. 
+
+On arrival, he finds that another party of sleuths has been engaged – surely these amateurs of Paternoster Row have nothing to teach the great Ghost Finder? 
+
+But this is no ordinary haunting. A room in the castle has a mouth in its ceiling. And it screams...</dc:description>
+    </metadata>
+</package>

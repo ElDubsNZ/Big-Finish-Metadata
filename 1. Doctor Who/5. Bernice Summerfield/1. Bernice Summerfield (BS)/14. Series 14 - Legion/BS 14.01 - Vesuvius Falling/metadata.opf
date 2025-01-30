@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Vesuvius Falling</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-600-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 14 - Legion"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tony Lee</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Ayesha Antoine (Ruth)</dc:creator>
+        <dc:creator opf:role="nrt">Thomas Grant (Peter Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">David Ames (Jack)</dc:creator>
+        <dc:creator opf:role="nrt">Cameron Blakeley (Galot)</dc:creator>
+        <dc:creator opf:role="nrt">Matt Butcher (Ikerian)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Female Surloid)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Franklin (The Collector)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Handcock (Julezand)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Hayden-Smith (Mortan Hardak)</dc:creator>
+        <dc:creator opf:role="nrt">Lizzie Hopley (Sheira Rynn / Female Autopilot)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Macklin (E.O.I.N)</dc:creator>
+        <dc:creator opf:role="nrt">Kai Owen (Rickard Karne)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Irving Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">Jennie Stoller (Vesuvius)</dc:creator>
+        <dc:creator opf:role="nrt">Alexander Vlahos (Gray)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Things aren't going great for Bernice Summerfield. Her one time comrade-cum-adversary, Irving Braxiatel, isn't the man she knew; her long-lost teenage son, Peter, isn’t exactly pleased to see her; and she’s woken up with one hell of a hangover…
+
+But when an ancient and dormant spacecraft threatens the safety of Legion City, Bernice and Peter have to put their differences aside in order to investigate an inexplicable mystery involving time-travelling scientists, corporate espionage and simple, cold-blooded murder…
+
+Can Benny discover the true killer before a warp core breach destroys them all? Can a five thousand-year-old body solve a murder yet to happen? And will the Vesuvius fall to the planet below…?</dc:description>
+    </metadata>
+</package>

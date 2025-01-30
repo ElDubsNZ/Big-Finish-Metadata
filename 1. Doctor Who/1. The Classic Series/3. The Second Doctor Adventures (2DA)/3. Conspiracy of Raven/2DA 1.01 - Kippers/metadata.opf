@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Kippers</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-165-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Second Doctor Adventures - Conspiracy of Raven"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Michael Troughton (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Frazer Hines (Jamie)</dc:creator>
+        <dc:creator opf:role="nrt">Emma Noakes (Raven)</dc:creator>
+        <dc:creator opf:role="nrt">Mickey Knighton (Paul)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Boulton (Time Lord Commander Stelkor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and Jamie have attempted to break free from performing covert missions for the Time Lord agent Raven. But things haven't gone according to plan. Jamie has vanished, Raven finds herself in a familiar yet strangely disturbing location. And all the while, half-glimpsed, unnervingly perceived... something... fluttering, buzzing, tugging at their very souls...</dc:description>
+    </metadata>
+</package>

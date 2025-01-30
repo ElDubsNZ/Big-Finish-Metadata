@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Fellowship of Ink</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Iris Wildthyme & Friends"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Magrs</dc:creator>
+
+        <!--Cast-->
+
+        <!-- Description -->
+        <dc:description>The Smudgelings... Professors Reginald Tyler and Henry Cleavis and their various literary friends… little did they know as they gathered on Sunday evenings by the fire to drink sherry and read out chapters from their ongoing fantasy novels that they were wearing thin the fabric of space and time. All around them in the magical, northern university town of Darkholmes there were Holes opening up to other dimensions… 
+
+Here we are in the 1930s, in the leafy lanes and lofty towers of an ancient town… where there are witches, demons and gargoyles mixed up with dons and their frustrated wives and handsome boyfriends. And, most mysteriously of all, there is Brenda, the rather strange housemaid to the Tyler household, who is here incognito, for reasons all of her own…</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Age of Sutekh</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 7"/>
+        <meta name="calibre:series_index" content="8"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Eleanor Crooks (Kendra)</dc:creator>
+        <dc:creator opf:role="nrt">John Dorney (Charlton Joyce)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Ash / Barge Captain / Dupree)</dc:creator>
+        <dc:creator opf:role="nrt">Sophia Myles (Rania Chuma)</dc:creator>
+        <dc:creator opf:role="nrt">Gabriel Woolf (Sutekh)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The world has changed. And the evil Osiran Sutekh is returning.
+
+As blood sacrifices and worship boost the strength of the God of War, servicer robots walk the streets, killing those who have not converted.
+
+Leela is working with the homeless population of the city, while the Doctor co-operates with the police.
+
+A brutal battle is ready to begin. And if the Doctor and his friends fail, everyone in the galaxy will perish.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Eye of Harmony</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-191-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Doctor - Series 3 - Agents of Chaos"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Ken Bentley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Hurt (The War Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline Pearce (Cardinal Ollistra)</dc:creator>
+        <dc:creator opf:role="nrt">Honeysuckle Weeks (Heleyna)</dc:creator>
+        <dc:creator opf:role="nrt">Josh Bolt (Kalan)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Dalek Time Strategist / The Daleks)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In the aftermath of events on Rovidia, the Dalek Time Strategist is presented with a unique opportunity to strike a lethal blow to the heart of Gallifrey. A devastating power is set to be unleashed, and with agents in place ready to do the bidding of the Dalek Time Strategist, the future of the Time War could turn in an instant.
+
+Trapped inside a critically-damaged Battle-TARDIS, hopelessly adrift in the Time Vortex, the War Doctor and his allies have a final desperate fight on their hands...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Other Lives</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2005-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-162-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="77"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Gary Hopkins</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Westmaas (C'rizz)</dc:creator>
+        <dc:creator opf:role="nrt">Gary Bakewell (Mr Christian Griswold)</dc:creator>
+        <dc:creator opf:role="nrt">Maitland Chandler (Mr Rufus Dimplesqueeze)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Hobbs (Mr Fazackerley)</dc:creator>
+        <dc:creator opf:role="nrt">Mike Holoway (Jacob Crackles Esq)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Howe (Maxi the Midget)</dc:creator>
+        <dc:creator opf:role="nrt">Francesca Hunt (Mrs Georgina Marlow)</dc:creator>
+        <dc:creator opf:role="nrt">Ron Moody (Arthur Duke of Wellington)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>London, 1851.
+
+Scene of the Great Exhibition of the Works of Industry of All Nations. Scene also of a plot to un-seat the government, de-throne the monarch and start a republic. If the Duke of Wellington himself is to be believed...
+
+While the Doctor and Charley are drawn into the murky world of nineteenth-century politics, C'rizz struggles to maintain his dignity against growing odds. What begins as an attempt to prevent murder quickly becomes a desperate race to avert revolution. Separated from the TARDIS, the travellers are left to wonder if they'll get their own lives back or be forever entangled with the lives of others.
+
+And who is Mrs Georgina Marlow? What need does she feel the Doctor can satisfy?</dc:description>
+    </metadata>
+</package>

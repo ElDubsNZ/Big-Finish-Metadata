@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Chartwell Metamorphosis</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-944-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Churchill Years - Volume 1"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Ken Bentley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Ian McNeice (Winston Churchill)</dc:creator>
+        <dc:creator opf:role="nrt">Holly Earl (Lily Arwell)</dc:creator>
+        <dc:creator opf:role="nrt">Stewart Scudamore (Danvers)</dc:creator>
+        <dc:creator opf:role="nrt">Carolyn Seymour (Mrs Whitaker)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Mr Rogers)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Comfortably retired to his home at Chartwell, Churchill plans to live out his days in peace, in the company of his butterflies — if his attendants would just leave him alone. 
+
+But it isn't simply Lepidoptera breeding in the gardens, as a far more sinister species is about to emerge from its cocoon — and is ready to feast on something more than just the shrubberies. 
+
+Surrounded on all sides, the former Prime Minister must put a life's worth of experience into action in order to win the day. Can his new nurse Lily Arwell offer her assistance?</dc:description>
+    </metadata>
+</package>

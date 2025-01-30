@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Hostile Environment</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-644-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - She Story Continues - Series 2 - God Among Us - Part 2"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Ash Darby</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Barrowman (Captain Jack Harkness)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy-Ann Oberman (Yvonne Hartman)</dc:creator>
+        <dc:creator opf:role="nrt">Alexandria Riley (Ng)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Clayton (Mr Colchester)</dc:creator>
+        <dc:creator opf:role="nrt">Jonny Green (Tyler Steele)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Price (Andy Davidson)</dc:creator>
+        <dc:creator opf:role="nrt">Samuel Barnett (Norton Folgate)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline King (God)</dc:creator>
+        <dc:creator opf:role="nrt">Jessica Hayles (Kirsty)</dc:creator>
+        <dc:creator opf:role="nrt">Rhys Isaac-Jones (Aaron)</dc:creator>
+        <dc:creator opf:role="nrt">Kyle Lima (Ben)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Dalgleish (Phone Shop Manager)</dc:creator>
+        <dc:creator opf:role="nrt">Jonny Glynn (Man in the Rain)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>An app's been launched that allows you to tag the homeless. People thinks they're doing a good thing and helping out. It does seem a remarkable success. After all, since it's launched, there are a lot less homeless people on the streets – so it must be doing some good, mustn't it?</dc:description>
+    </metadata>
+</package>

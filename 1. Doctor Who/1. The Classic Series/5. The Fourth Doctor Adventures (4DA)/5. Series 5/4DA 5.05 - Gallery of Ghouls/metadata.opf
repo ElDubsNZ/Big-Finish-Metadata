@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Gallery of Ghouls</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-735-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 5"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Critchlow (Noni)</dc:creator>
+        <dc:creator opf:role="nrt">Helen Goldwyn (Marie)</dc:creator>
+        <dc:creator opf:role="nrt">Nickolas Grace (Goole)</dc:creator>
+        <dc:creator opf:role="nrt">Celia Imrie (Madame Tissot)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the TARDIS lands in Brighton the Doctor and Romana have the chance to spend some time at the seaside. But with it being too early for the opening of the Pavilion, they have to look elsewhere for their entertainment - perhaps Madame Tissot's travelling waxworks, recently arrived in town?
+
+But they're not the only ones interested in her Exposition. When an unusual thief commits an unusual theft, the time travellers are on the case.
+
+What exactly is the sinister secret of Goole's Gallery? Is Tissot's heading for a meltdown? And what does it all have to do with the head of Marie Antoinette?</dc:description>
+    </metadata>
+</package>

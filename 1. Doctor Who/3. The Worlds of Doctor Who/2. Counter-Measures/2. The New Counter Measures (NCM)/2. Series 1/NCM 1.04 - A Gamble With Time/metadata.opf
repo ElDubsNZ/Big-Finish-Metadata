@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>A Gamble With Time</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-203-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The New Counter Measures - Series 1"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Simon Williams (Group Captain Gilmore)</dc:creator>
+        <dc:creator opf:role="nrt">Pamela Salem (Rachel Jensen)</dc:creator>
+        <dc:creator opf:role="nrt">Karen Gledhill (Allison Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Ross (Sir Toby Kinsella)</dc:creator>
+        <dc:creator opf:role="nrt">Carolyn Seymour (Lady Suzanne Clare)</dc:creator>
+        <dc:creator opf:role="nrt">Tam Williams (Gus Kalwarowsky / Dave and Martin)</dc:creator>
+        <dc:creator opf:role="nrt">Joanna Bending (Croupier / Tessa Collins)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In the glamorous casinos of Monte Carlo, a nefarious scheme is being hatched. Fortunately, the New Counter-Measures team are on hand to prevent a disaster. But are they betting with the right hand? When they're playing against Lady Suzanne Clare, all bets are off.</dc:description>
+    </metadata>
+</package>

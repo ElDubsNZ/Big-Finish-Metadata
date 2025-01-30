@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Dumb Waiter</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-487-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - The Second Doctor - Volume 2"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Rob Nisbet</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Frazer Hines (Jamie McCrimmon / The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela / Mrs De Winter)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and Victoria attend a civilised garden party. But their genial hostess, Mrs De Winter, is convinced that the garden conceals a secret; something about Carlos the head waiter who never speaks. 
+
+The hidden truth can be glimpsed by people less accustomed to the mask of politeness and cake. People like Jamie. And people like Leela, the mysterious “warrior of the Seventeen"...</dc:description>
+    </metadata>
+</package>

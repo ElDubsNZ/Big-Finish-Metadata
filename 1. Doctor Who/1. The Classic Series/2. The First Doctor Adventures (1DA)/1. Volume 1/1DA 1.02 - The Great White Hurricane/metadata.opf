@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Great White Hurricane</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-452-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The First Doctor Adventures - Volume 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Bradley (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Claudia Grant (Susan)</dc:creator>
+        <dc:creator opf:role="nrt">Jemma Powell (Barbara Wright)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Glover (Ian Chesterton)</dc:creator>
+        <dc:creator opf:role="nrt">Cory English (Daniel)</dc:creator>
+        <dc:creator opf:role="nrt">Jackson Milner (Patrick)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (Policeman / Man with Ladder / Gang Member / Henry)</dc:creator>
+        <dc:creator opf:role="nrt">Ronan Summers (O'Connell)</dc:creator>
+        <dc:creator opf:role="nrt">Carolina Valdes (Rosalita)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Rival gangs turn streets into battlegrounds, and the Doctor and his friends are caught in the crossfire. They find themselves separated and lost in the cold.
+
+As the hunt for a fugitive turns ever more desperate, a blizzard descends. The snow keeps falling. And soon it will prove as deadly as any weapon...</dc:description>
+    </metadata>
+</package>

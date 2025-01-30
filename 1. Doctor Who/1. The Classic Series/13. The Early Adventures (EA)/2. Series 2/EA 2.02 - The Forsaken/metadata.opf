@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Forsaken</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-354-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Early Adventures - Series 2"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Justin Richards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Anneke Wills (Polly Wright / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Frazer Hines (Jamie McCrimmon / The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Elliot Chapman (Ben Jackson / Private Lawson / Andrews)</dc:creator>
+        <dc:creator opf:role="nrt">Gabrielle Glaister (Mrs Maggie Bishop)</dc:creator>
+        <dc:creator opf:role="nrt">Oliver Jackson (Private James Jackson)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Jibson (Corporal Gibbs)</dc:creator>
+        <dc:creator opf:role="nrt">Ben Nealon (Captain Freeman)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS lands on an island off Singapore during the Japanese invasion of 1942. The travellers are found by some British soldiers - among them a certain Private James Jackson, who just happens to be Ben’s father. But they're not the only visitors to the island...</dc:description>
+    </metadata>
+</package>

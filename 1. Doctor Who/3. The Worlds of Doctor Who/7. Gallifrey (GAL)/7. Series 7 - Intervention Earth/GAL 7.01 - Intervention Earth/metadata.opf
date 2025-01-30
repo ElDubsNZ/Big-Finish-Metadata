@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Intervention Earth</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-436-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 7 - Intervention Earth"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Scott Handcock</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Juliet Landau (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Thorne (Omega)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Arthur (Lukas)</dc:creator>
+        <dc:creator opf:role="nrt">Gyles Brandreth (Rexx)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Brocklebank (Tauras)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Doddington (Vale Endrogan)</dc:creator>
+        <dc:creator opf:role="nrt">Rachel Atkins (Sol)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Longworth (Min)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Pepper (Merkis)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Times change... 
+
+Romana is approaching her final term of office, and hopes to leave her world in a state of peace and harmony. Narvin is concerned about the implementation of a controversial Precog programme, one that seeks to predict the Time Lords' future. Ace is an operative for the Celestial Intervention Agency, having learned the art of interference from one of the best... 
+
+And somewhere, across the stars, an ancient force is stirring: one of the Time Lords' greatest heroes is returning to our universe. But he may also prove to be their greatest threat. 
+
+When the history of Earth is threatened, and an ancient conspiracy reaches the heart of Time Lord government, can even Romana's closest allies truly be trusted? 
+
+Time will tell... but by then, it may already be too late.</dc:description>
+    </metadata>
+</package>

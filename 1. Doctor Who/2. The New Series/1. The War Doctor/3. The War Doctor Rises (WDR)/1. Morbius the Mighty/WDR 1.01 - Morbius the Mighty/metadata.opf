@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Morbius the Mighty</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-444-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Doctor Rises - Series 1 - Morbius the Mighty"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jonathon Carley (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth Armstrong (Judd)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Pamela Nomvete (1-8-1)</dc:creator>
+        <dc:creator opf:role="nrt">Sheila Ruskin (Cora)</dc:creator>
+        <dc:creator opf:role="nrt">Theo Solomon (Herving)</dc:creator>
+        <dc:creator opf:role="nrt">Samuel West (Morbius)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The War Doctor has been forced out of the fight and the battle has moved on in his absence. There are new powers, new anomalies, and new excuses from him to keep his distance. With only Cora, his nurse, to keep him company on the forest planet of Lull, the War Doctor is content to leave his old life behind.
+
+But something is stirring in the depths of a twisted planet. An old, embittered foe harbours a terrible grudge against the Doctor. And when a chance encounter gives this enemy the chance to escape, nobody is safe in his quest for vengeance.
+
+From the depths of the stormy Valley, Morbius will rise...</dc:description>
+    </metadata>
+</package>

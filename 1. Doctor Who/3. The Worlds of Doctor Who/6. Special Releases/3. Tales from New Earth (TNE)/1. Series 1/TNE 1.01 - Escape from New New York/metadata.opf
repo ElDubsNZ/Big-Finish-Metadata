@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Escape from New New York</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-395-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Tales from New Earth"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Roy Gill</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Anna Hope (Senator Hame)</dc:creator>
+        <dc:creator opf:role="nrt">Kieran Hodgson (Devon Pryce)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Jacobs-Morgan (Thorn)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Blaskey (The Lumen/Potious/Duke of Brooklyn)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Hadoke (The Lux)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Gold (President Grosseteste)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Devon Pryce has lived all his life in the high rises of New New York. A child of the Elevator Guild, he now receives a new calling - from a cat. 
+
+Senator Hame is trying to rebuild society, to make it stronger for future generations, but there are those who would stand in her way. 
+
+There is a new danger on New Earth, and Devon's work is only just beginning...</dc:description>
+    </metadata>
+</package>

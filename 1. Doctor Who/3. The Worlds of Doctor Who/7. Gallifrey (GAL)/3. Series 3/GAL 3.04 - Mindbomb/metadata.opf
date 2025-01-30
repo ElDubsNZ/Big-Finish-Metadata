@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Mindbomb</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2006-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-207-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 3"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Justin Richards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (Lady Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela of the Sevateem)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9 Mk II)</dc:creator>
+        <dc:creator opf:role="nrt">Lynda Bellingham (Inquisitor-Prime Darkel)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Coodinator Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">David Cromarty (Guardsman Robersuun)</dc:creator>
+        <dc:creator opf:role="nrt">John Dorney (Captain Henzil)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Grunert (Surgeonmaster Elbon)</dc:creator>
+        <dc:creator opf:role="nrt">Roger Parrott (Lord Delox)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Perring (Cardinal Matthias)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Ross (Captain Janartis)</dc:creator>
+        <dc:creator opf:role="nrt">Dickon Tolson (Acting-Castellan Annos)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Acting-President Valyes)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>They used to tell me at the Academy that anyone could become president. I'm beginning to believe it.' 
+
+The first presidential election for millennia is about to be held on Gallifrey. But in the wake of the civil war that has torn the Time Lords apart, can even an election restore calm and order?
+
+And what of the candidates? Darkel - determined to win at any cost... Matthias - a dark horse with his own agenda... Romana - impeached for high treason...
+
+But even as the candidates manoeuvre and plan, an assassin stalks the galleries of the panopticon.
+
+Gallifrey will soon have a new president, but at what cost? How many people will have to die? And which - if any - of the candidates will survive..?</dc:description>
+    </metadata>
+</package>

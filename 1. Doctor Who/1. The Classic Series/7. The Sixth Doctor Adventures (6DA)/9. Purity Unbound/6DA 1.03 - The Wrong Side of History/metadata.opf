@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Wrong Side of History</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-890-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Sixth Doctor Adventures - Purity Unbound"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Valentine</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Melanie Bush)</dc:creator>
+        <dc:creator opf:role="nrt">Ruth Madeley (Hebe Harrison)</dc:creator>
+        <dc:creator opf:role="nrt">Imogen Stubbs (Purity / Patricia McBride / Purifiers)</dc:creator>
+        <dc:creator opf:role="nrt">Cherylee Houston (Elise Kaplan)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Brenher (Havash Khavûl)</dc:creator>
+        <dc:creator opf:role="nrt">Victoria Jeffrey (Silkreth / Silkreth's Time-Suit)</dc:creator>
+        <dc:creator opf:role="nrt">Jake Wardle (Nil / Chronomancer)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Hadoke (Ron)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Mel, Hebe and Elise find themselves inside a plastic bubble-city in a distant future of humanity where robotic ‘Purifiers’ police the sickly populace. Purity rules this antiseptic nightmare from her high tower, and with the Doctor as her unwilling new helper, she can finally make everything... perfect.</dc:description>
+    </metadata>
+</package>

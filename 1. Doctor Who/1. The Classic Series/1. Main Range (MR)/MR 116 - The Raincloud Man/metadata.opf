@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Raincloud Man</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-325-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="116"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Aidan J David (Lish)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Dickens (The Cyrox / Tabbalac / Copper)</dc:creator>
+        <dc:creator opf:role="nrt">Steve Hansell (Bouncers / Tabbalac / Copper)</dc:creator>
+        <dc:creator opf:role="nrt">Anna Hope (DI Menzies)</dc:creator>
+        <dc:creator opf:role="nrt">Jeremy James (Tabbalac Leader / Copper)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Sherlock (Kelsa)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Fenton Stevens (Brooks)</dc:creator>
+        <dc:creator opf:role="nrt">Octavia Walters (Carmen)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Having just defeated the Krotons, the Doctor is treating Charley to a hearty English breakfast, when an intriguing mystery suddenly presents itself. And to solve it, they must plunge back into the criminal underbelly of Manchester, where an old friend is up to her neck in alien trouble.
+
+But what seemed like a mere mystery ends up being a life or death struggle at the centre of an interplanetary war in which the stakes are so high, the Doctor or Charley must gamble and lose their identity. And throughout, the lone figure of the Raincloud Man may hold the key to success or failure.</dc:description>
+    </metadata>
+</package>

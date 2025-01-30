@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Fortitude</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-704-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="35"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Rowena Cooper (Queen Victoria)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Bazely (Maharaja Duleep Singh)</dc:creator>
+        <dc:creator opf:role="nrt">David Sterne (Colonel Crackenthorpe)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Queen Victoria is stranded with Maharaja Duleep Singh on a mysterious fort in the middle of the ocean. 
+
+The fort has been ravaged by storms since it was built. There are ghosts inside and there's something alien outside. It’ll do anything to get its release.</dc:description>
+    </metadata>
+</package>

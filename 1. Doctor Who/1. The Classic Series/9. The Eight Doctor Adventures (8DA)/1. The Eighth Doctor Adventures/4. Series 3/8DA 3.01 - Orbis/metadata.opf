@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Orbis</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-393-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Series 3"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alan Barnes</dc:creator>
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sheridan Smith (Lucie Miller)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Galactic Councillor)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Saccostrea / Keltan Boy)</dc:creator>
+        <dc:creator opf:role="nrt">Barry McCarthy (Yanos)</dc:creator>
+        <dc:creator opf:role="nrt">Katarina Olsson (The Headhunter)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Sachs (Crassostrea)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Solon (Selta)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor has fallen to his death. His companion, Lucie Miller, has returned to her life on Earth, grief-stricken. Then, one night, an alien visitor arrives at her front door and shoots her.
+
+Could it be that Lucie’s days with the Doctor are not over? She will only find the answer on the planet Orbis. A planet where all forms of life are facing violent extinction.</dc:description>
+    </metadata>
+</package>

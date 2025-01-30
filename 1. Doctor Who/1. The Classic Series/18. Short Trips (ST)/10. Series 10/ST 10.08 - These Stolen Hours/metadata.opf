@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>These Stolen Hours</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 10"/>
+        <meta name="calibre:series_index" content="8"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Grace Knight</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">India Fisher (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Charlotte Pollard knows all too well how precious memories can be. She remembers her travels with the Doctor, her Doctor. She remembers watching him die.
+
+A time disturbance leads the Doctor and Charley to a remote research station. Unable to form memories, the crew believe someone is doing their work while they sleep. The truth, however, is far more insidious.</dc:description>
+    </metadata>
+</package>

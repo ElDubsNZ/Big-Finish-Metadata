@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Expectant</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-702-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="34"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Xanna Eve Chown</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Barrowman (Captain Jack Harkness)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth David-Lloyd (Ianto Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Aaron Anthony (Jonty)</dc:creator>
+        <dc:creator opf:role="nrt">Catherine Ayers (Paula)</dc:creator>
+        <dc:creator opf:role="nrt">Jessica Hayles (Brigadier)</dc:creator>
+        <dc:creator opf:role="nrt">Meryn Davis, Emily John (Residents)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Yalnix Empire is a fragile alliance of a dozen systems, under constant attack from their ancient enemy, the Vad. With the Empress unable to trust any of her court she gives the job of growing the next Ruler of the Yalnix to an old friend - Captain Jack Harkness. 
+
+With hunters on the loose and a battlefleet in orbit, Cardiff’s suddenly became a dangerous place for a man to be pregnant.</dc:description>
+    </metadata>
+</package>

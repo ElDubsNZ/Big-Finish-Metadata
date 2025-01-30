@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Seeds of War</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-053-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="171"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Melanie Bush)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Elkinar / CRT-JCE-006)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (TV Anchor / Pilot / Elevator)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Infinite Warrior)</dc:creator>
+        <dc:creator opf:role="nrt">Ray Fearon (Barlow Teveler)</dc:creator>
+        <dc:creator opf:role="nrt">Stuart Organ (Helgert Teveler / Kenneth / Trooper / Docking)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Russell (Trellak / Thief / DDC-GTU-159)</dc:creator>
+        <dc:creator opf:role="nrt">David Sibley (The Eminence / Kalsos Computer)</dc:creator>
+        <dc:creator opf:role="nrt">Ony Uhiara (Sisrella Teveler)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Humanity is emerging from a long, exhausting war. Against an enemy so powerful, so implacable, it seemed unstoppable – right up until the moment it stopped.
+
+Now, despite its ‘victory’, the human race is on its knees. The Doctor and Mel join its struggle for survival to try to ensure it has a future.
+
+A race against time takes them from the Great Tower of Kalsos to the Reliquaries of Earth. In an epic journey across the ten systems, their fates are intertwined with one family. The Tevelers are to feel the effects of war more than most…
+
+The Doctor has a plan. Mel is sure he can save the day. But something is lurking. Watching. Waiting. A presence the Doctor knows of old. But just how far does its influence pervade?
+
+The Eminence awaits…</dc:description>
+    </metadata>
+</package>

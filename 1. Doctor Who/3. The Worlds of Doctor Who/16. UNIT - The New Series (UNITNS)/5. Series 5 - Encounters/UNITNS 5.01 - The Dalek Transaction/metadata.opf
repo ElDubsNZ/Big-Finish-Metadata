@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Dalek Transaction</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-967-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - The New Series - Series 5 - Encounters"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jemma Redgrave (Kate Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Ingrid Oliver (Osgood)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Captain Josh Carter)</dc:creator>
+        <dc:creator opf:role="nrt">Ramon Tikaram (Colonel Shindi)</dc:creator>
+        <dc:creator opf:role="nrt">Karina Fernandez (Captain Gonsales)</dc:creator>
+        <dc:creator opf:role="nrt">Jot Davies (Guerilla)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Dalek)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When a rogue guerrilla faction offer an alien artefact for auction, Kate Stewart and her team go undercover to the jungles of Central America. But they find that the prize on offer is far deadlier than its owners realise. Captive, desperate and alone. That's when a Dalek is at its most dangerous.</dc:description>
+    </metadata>
+</package>

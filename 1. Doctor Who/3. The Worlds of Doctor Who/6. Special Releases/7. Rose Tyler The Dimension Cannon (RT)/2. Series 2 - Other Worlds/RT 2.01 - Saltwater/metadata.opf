@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Saltwater</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-905-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Rose Tyler - The Dimension Cannon - Series 2 - Other Worlds"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alison Winter</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Billie Piper (Rose Tyler)</dc:creator>
+        <dc:creator opf:role="nrt">Camille Coduri (Jackie Tyler)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Benton (Clive Finch)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Blackman (Reverend Georgina Stacey)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Cavanah (President Gilbert)</dc:creator>
+        <dc:creator opf:role="nrt">Luke R Francis (PC Lee Jeffries)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Rose finds an Earth under threat, as something steals the salt from the oceans. 
+
+As global tensions escalate, Rose wants to make those in charge listen, and finds an ally in the shape of another Clive...</dc:description>
+    </metadata>
+</package>

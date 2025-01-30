@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Crooked Man</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-292-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 3"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Earl (Ellis Andrews / Rance)</dc:creator>
+        <dc:creator opf:role="nrt">Robin Pearce (Simon Corbett / Reporter)</dc:creator>
+        <dc:creator opf:role="nrt">Lizzie Roper (Celia Turner / Lesley King)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Smart (Laura Corbett)</dc:creator>
+        <dc:creator opf:role="nrt">Neil Stuke (The Crooked Man / Geoff)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Winter at the seaside. The wind blows. The waves crash. People are dying and a strange spindly figure stalks the cold, deserted streets. A typical holiday for the Doctor and Leela in other words.
+
+When they stumble across a grotesque series of murders at the coast, the TARDIS travellers realise the local constabulary is out of its depth. Something supernatural has come to town, something evil. And it all seems to be tied in to a particular young family.
+
+Monsters lurk behind strange doors. Tragic secrets wait to be uncovered. And somewhere, deep within, the Crooked Man sits. He is waiting for you.</dc:description>
+    </metadata>
+</package>

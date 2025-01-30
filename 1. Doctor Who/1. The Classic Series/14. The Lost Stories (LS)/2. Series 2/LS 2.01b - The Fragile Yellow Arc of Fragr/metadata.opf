@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Fragile Yellow Arc of Fragrance</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-452-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 2"/>
+        <meta name="calibre:series_index" content="1.2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Moris Farhi</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">William Russell (Ian Chesterton)</dc:creator>
+        <dc:creator opf:role="nrt">Carole Ann Ford (Susan Foreman)</dc:creator>
+        <dc:creator opf:role="nrt">John Dorney (Rhythm)</dc:creator>
+        <dc:creator opf:role="nrt">Helen Goldwyn (Melody/Harmony)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Fragrance is a paradise world — a utopia that the travellers are loathe [sic] to leave after a relaxing stay. But the way of life is different here. 
+
+And so is the way of love — as Barbara discovers when the Fragile Yellow Arc is broken...</dc:description>
+    </metadata>
+</package>

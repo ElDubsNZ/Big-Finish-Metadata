@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Bad Penny</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 7"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Dan Starkey</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Keith Barron (Lord Tulip)</dc:creator>
+        <dc:creator opf:role="nrt">Greg Haiste (Ron Tulip)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Rees (Deborah / Major Harris)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Ryan (Edwin)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Hadean / Small Hadean / Liddell / Mr Richards)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In the 1970s, hotelier Ron Tulip is having a difficult time. Many of his customers seem to be absconding without payment. The few who remain complain of strange noises and terrible sleep. And to top it all he’s just been summoned to the VIP suite... which is something of a problem as he didn’t even realise the hotel had one.
+
+When turbulence in time takes the TARDIS off course, the Doctor and Leela find themselves visiting the same establishment and in the middle of a temporal paradox and a terrible plan.
+
+Because that’s the thing about the Cross-Keys hotel.
+
+You can check in... but you can never leave.</dc:description>
+    </metadata>
+</package>

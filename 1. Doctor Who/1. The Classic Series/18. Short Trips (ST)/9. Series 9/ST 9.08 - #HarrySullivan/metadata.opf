@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>#HarrySullivan</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 9"/>
+        <meta name="calibre:series_index" content="8"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Louise Jameson (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>En route to answer the Brigadier’s summons, the TARDIS is dragged off course. The Doctor, Sarah Jane and Harry find themselves trapped on The Zephyr, a spaceship that is going at full speed and yet is unable to move. With fuel running dangerously low, their only hope lies on Deraxas, a nearby world exclusively for the famous and celebrated.
+
+However, Alderasea has never heard of them and has no intention of letting them land…</dc:description>
+    </metadata>
+</package>

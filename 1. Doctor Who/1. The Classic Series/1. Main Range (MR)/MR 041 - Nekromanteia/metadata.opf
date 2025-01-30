@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Nekromanteia</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2003-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-023-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="41"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Austen Atkinson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Kate Brown (Tallis)</dc:creator>
+        <dc:creator opf:role="nrt">Gilly Cohen (Jal Dor Kal)</dc:creator>
+        <dc:creator opf:role="nrt">Ivor Danvers (Wendle Marr)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Fairs (Yal Room)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Fettes (Salaysian)</dc:creator>
+        <dc:creator opf:role="nrt">Caroline Morris (Erimem)</dc:creator>
+        <dc:creator opf:role="nrt">Glyn Owen (Cmmdr Harlon)</dc:creator>
+        <dc:creator opf:role="nrt">Gary Russell (Thesanius)</dc:creator>
+        <dc:creator opf:role="nrt">Kerry Skinner (Lt Cochrane)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Williams (Paul Addison)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In the depths of space a little known district harbours a terrible secret. Long known as a place of death, it claims thousands more lives as a great corporate space-fleet goes to war. As the fleet screams out in fear and pain, an irresistible voice calls out to three travellers and a macabre mind sets a deadly trap.
+
+The Doctor, Peri and Erimem face the terrors of Talderun and the wrath of a corporate empire as they struggle to understand the hideous secret of the domain of the dead, a district known in legend as Nekromanteia.</dc:description>
+    </metadata>
+</package>

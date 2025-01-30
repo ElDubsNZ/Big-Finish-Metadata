@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Revenge of the Swarm</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-330-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="189"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Olivier (Hector)</dc:creator>
+        <dc:creator opf:role="nrt">John Dorney (Lugerman)</dc:creator>
+        <dc:creator opf:role="nrt">John Heffernan (Vonchef)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (Virus / Computer)</dc:creator>
+        <dc:creator opf:role="nrt">Phyllida Nash (Professor Oksana Kilbracken)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Panting (Security Guard Brabbeko)</dc:creator>
+        <dc:creator opf:role="nrt">Siobhán Redmond (Talin)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Service (Root / Receptionist)</dc:creator>
+        <dc:creator opf:role="nrt">Mandi Symonds (Shafira)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor thought he had defeated the microscopic Nucleus of the Swarm in his fourth incarnation. He was wrong. It survived within the TARDIS, and now it has brought it back to Titan Base, back to the point of its own creation. It has a plan that spans centuries, a plan which will result in the Nucleus becoming more powerful – and larger – than ever before.
+
+To defeat it, the Doctor, Ace and Hex must confront the Nucleus within its new domain - the computer-world of the Hypernet, the information network crucial to the survival of the human empire. But if the Doctor is to save the day, he has to risk everything and everyone he holds dear...</dc:description>
+    </metadata>
+</package>

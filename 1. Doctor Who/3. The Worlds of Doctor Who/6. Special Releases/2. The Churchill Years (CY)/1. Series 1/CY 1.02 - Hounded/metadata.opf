@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Hounded</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-944-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Churchill Years - Volume 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Ian McNeice (Winston Churchill)</dc:creator>
+        <dc:creator opf:role="nrt">Emily Atack (Hetty Warner)</dc:creator>
+        <dc:creator opf:role="nrt">Jo Stone-Fewings (Major Wheatley)</dc:creator>
+        <dc:creator opf:role="nrt">Amerjit Deu (The Swami)</dc:creator>
+        <dc:creator opf:role="nrt">Stewart Scudamore (Danvers)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In the dark days of 1941, Britain is in the midst of war. Churchill must stand strong against the might of the enemy — but he is plagued by a darkness in his own psyche. Something he calls "the Black Dog". 
+
+Can a visiting Swami hold the answer to his troubles? And can Hetty Warner prevent the Prime Minister's adversaries from taking advantage of the situation? 
+
+Across London, the Tenth Doctor's arrival may be the nation's only hope — but the Time Lord's plan to help his friend is endangered when he finds himself declared a traitor by the agents of the country he has come to protect...</dc:description>
+    </metadata>
+</package>

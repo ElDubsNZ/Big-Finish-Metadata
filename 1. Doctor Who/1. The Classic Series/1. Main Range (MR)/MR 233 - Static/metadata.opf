@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Static</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-815-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="233"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Miranda Raison (Constance Clarke)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Greenwood (Flip Jackson)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Chambers (Andy Clover / Sergeant Webster)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Dale (Soldier / Static)</dc:creator>
+        <dc:creator opf:role="nrt">David Graham (Percy Till)</dc:creator>
+        <dc:creator opf:role="nrt">Pippa Nixon (Joanna Nash)</dc:creator>
+        <dc:creator opf:role="nrt">Brian Protheroe (Captain Hardwick)</dc:creator>
+        <dc:creator opf:role="nrt">Jo Woodcock (Susannah Nash)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Deep in the heart of nowhere, near a place called Abbey Marston, there’s a caravan site. The perfect place to get away from it all. Close by, there’s a stone circle they used for human sacrifice in olden times. A little further afield, there’s an old RAF research station, where they did hush-hush things in the War.
+
+There’s only one rule: the use of radios, cassette recorders and portable televisions is strictly forbidden.
+
+People come here to get away from it all, you see. No-one wants to hear the noise. No-one wants to hear the voices in the static…
+
+No-one wants to hear the ghosts.</dc:description>
+    </metadata>
+</package>

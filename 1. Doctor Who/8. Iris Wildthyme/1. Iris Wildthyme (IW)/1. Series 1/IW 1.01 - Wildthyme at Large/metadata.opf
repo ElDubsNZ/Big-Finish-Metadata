@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Wildthyme at Large</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2005-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-145-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Iris Wildthyme - Series 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Magrs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Katy Manning (Iris Wildthyme)</dc:creator>
+        <dc:creator opf:role="nrt">Ortis Deley (Tom)</dc:creator>
+        <dc:creator opf:role="nrt">David Benson (Panda)</dc:creator>
+        <dc:creator opf:role="nrt">Ann Bryson (Mida Slike)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Chance (The Head)</dc:creator>
+        <dc:creator opf:role="nrt">Duncan Wisbey (Robin Hood)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Beresford (Lucretia)</dc:creator>
+        <dc:creator opf:role="nrt">Lizzie Hopley (Fan)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Guerrier (Fan)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"Apparently, it has been ten years since Tom's adventures aboard Iris Wildthyme's transdimensional double-decker bus. Tom has now settled into a life of writing weird and wonderful novels (his description; I call them schlocky) about his erstwhile friend in order to support himself and, of course, his best real friend, me! One small, highly intelligent and terribly sophisticated Panda. 
+
+Then, one night at a book launch, there was a ruckus in the signing queue. Suddenly, the loud-mouthed floozy of the multiverse was back in his life, no, our lives... I ask you, how rude is that? Anyway, she embarrassed him in front of his fans and caused a punch up. Before Tom even knew it, Iris had entrusted him with her most precious possession, ridden off into the night with Robin Hood, and revealed that she was being hunted by evil forces from a higher dimension... Of course, they both needed me to save the day..." 
+
+- Panda (X)</dc:description>
+    </metadata>
+</package>

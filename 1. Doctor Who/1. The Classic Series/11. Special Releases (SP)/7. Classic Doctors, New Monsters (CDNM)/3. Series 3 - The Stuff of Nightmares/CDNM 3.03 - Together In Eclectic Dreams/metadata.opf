@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Together in Eclectic Dreams</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-914-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - Classic Doctors, New Monsters - Series 3 - The Stuff of Nightmares"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Roy Gill</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker and Paul McGann (The Doctors)</dc:creator>
+        <dc:creator opf:role="nrt">Susan Hingley (Mari Yoshida)</dc:creator>
+        <dc:creator opf:role="nrt">Rebecca Front (Tara)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Stafford (Sam Duffy / Orderly / Radio DJ)</dc:creator>
+        <dc:creator opf:role="nrt">Raj Ghatak (The Monk of High Dream / Professor Klovis)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Sixth Doctor takes companion Mari to the Archipelago of High Dream to try and stop the nightmares she's having in the TARDIS. 
+
+Instead, they find the Lethe Foundation, a research facility overseen by musician Tara, lulling her clients to sleep with soothing melodies. But the Kantrofarri are hunting, and a mystery Green Man holds the key to escape...</dc:description>
+    </metadata>
+</package>

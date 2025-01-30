@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Children of the Future</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-370-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - Sontarans vs Rutans"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tim Treloar (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sadie Miller (Sarah Jane Smith)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (The Brigadier)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Boulton (Captain Saint / Photographer / Soldier)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Goldie (Sergeant Moss)</dc:creator>
+        <dc:creator opf:role="nrt">Jeremy Ang Jones (Stanley)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The war between the Sontarans and the Rutans has been going on for Millennia. And is likely to continue for millennia more. 
+
+The Brigadier is used to the Doctor acting strangely, but this time there’s something decidedly different about the whole affair. As he looks into the Time Lord's odd activities outside of UNIT, there's a mystery that'll take Lethbridge-Stewart to a site very familiar to Sarah Jane Smith. 
+
+Can the Brigadier trust his old friend? Who are his mysterious new allies? And is the future of humanity really at stake? A Sontaran threat could spell the end of their long-standing friendship...and the entire planet!</dc:description>
+    </metadata>
+</package>

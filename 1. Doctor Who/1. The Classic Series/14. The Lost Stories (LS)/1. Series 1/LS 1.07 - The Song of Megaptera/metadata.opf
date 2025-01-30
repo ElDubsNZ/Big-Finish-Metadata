@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Song of Megaptera</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-450-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 1"/>
+        <meta name="calibre:series_index" content="7"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Pat Mills</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Computer / Caller)</dc:creator>
+        <dc:creator opf:role="nrt">John Benfield (Captain Greeg)</dc:creator>
+        <dc:creator opf:role="nrt">Susan Brown (Chief / Chanel)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Longworth (1st Security Guard / Stafel)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Lowe (2nd Security Guard / Axel)</dc:creator>
+        <dc:creator opf:role="nrt">Neville Watchurst (Stennar)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Lost Stories: Adventures that were originally written for the Doctor Who television series but never made. Now available to hear for the first time…
+
+Deep space in the distant future, and Captain Greeg and his crew are hunting mile-long Space Whales on a vast harvesting ship. By pure accident, they also capture the TARDIS.
+
+The Doctor and Peri must use all their wits to survive. But what is the creature running loose in the ship's bowels? And can the Doctor save Megaptera before its song is extinguished forever?</dc:description>
+    </metadata>
+</package>

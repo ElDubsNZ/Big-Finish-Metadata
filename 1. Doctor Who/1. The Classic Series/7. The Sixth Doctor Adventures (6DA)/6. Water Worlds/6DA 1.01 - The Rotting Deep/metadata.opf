@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Rotting Deep</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-742-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Sixth Doctor Adventures - Water Worlds"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jacqueline Rayner</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Mel)</dc:creator>
+        <dc:creator opf:role="nrt">Ruth Madeley (Hebe)</dc:creator>
+        <dc:creator opf:role="nrt">Rove McManus (Jonah Strong)</dc:creator>
+        <dc:creator opf:role="nrt">James Smillie (A.M.)</dc:creator>
+        <dc:creator opf:role="nrt">Mandi Symonds (Sky Bennett)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Tighe (Carl Price / Dean)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A mysterious SOS summons the Doctor and Mel to an oil rig in the North Sea where a dwindling group of survivors awaits rescue from a lethal menace. One of their number is Hebe Harrison, a wheelchair-using marine biologist who is definitely more than she seems. Can our heroes escape the rig? And just what is killing off the rig's beleaguered crew?</dc:description>
+    </metadata>
+</package>

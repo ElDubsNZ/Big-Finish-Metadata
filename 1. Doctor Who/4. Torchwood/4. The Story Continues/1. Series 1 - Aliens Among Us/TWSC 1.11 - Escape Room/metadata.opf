@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Escape Room</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-381-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - She Story Continues - Series 1 - Aliens Among Us - Part 3"/>
+        <meta name="calibre:series_index" content="11"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Helen Goldwyn</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alexandria Riley (Ng)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Clayton (Mr Colchester)</dc:creator>
+        <dc:creator opf:role="nrt">Kai Owen (Rhys Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Ramon Tikaram (Colin Colchester-Price)</dc:creator>
+        <dc:creator opf:role="nrt">Terrence Hardiman (Escape Master)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Gwen Cooper, Rhys Williams, and the Colchester-Prices go to try out an escape room. They've heard a lot about them. Especially this one. People keep going into the game and not coming out. But Torchwood will be fine. After all - partners can trust each other. Can't they?</dc:description>
+    </metadata>
+</package>

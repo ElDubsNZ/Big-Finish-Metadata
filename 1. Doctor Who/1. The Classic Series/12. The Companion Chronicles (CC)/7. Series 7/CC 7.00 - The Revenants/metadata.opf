@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Revenants</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 7"/>
+        <meta name="calibre:series_index" content="0"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Ian Potter</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">William Russell (Ian Chesterton)</dc:creator>
+        <dc:creator opf:role="nrt">Sharon Small (Jeannie / Janet)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The present day: the Orkney Ferry, where Ian Chesterton meets a stranger who he is able to confide in.
+
+Decades earlier: the TARDIS lands on Orkney, and Ian and Barbara are abandoned when the Doctor and his ship vanish in front of their eyes. As the pair head for civilization, something is stirring in the treacherous bog lands.
+
+And only the ancient Wissfornjarl can protect them...</dc:description>
+    </metadata>
+</package>

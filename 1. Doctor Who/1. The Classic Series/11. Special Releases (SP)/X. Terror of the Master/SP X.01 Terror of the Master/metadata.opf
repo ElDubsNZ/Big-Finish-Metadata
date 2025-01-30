@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Terror of the Master</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date></dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - Terror of the Master"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Trevor Baxendale</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jon Culshaw (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Dr Derek Drake is a National Treasure - he’s going to solve the energy crisis and stop all pollution. Governments and businesses around the world are signing up to his environmentally friendly campaign. So why is the Doctor convinced this great humanitarian and darling of the media is really the Master in disguise?
+
+What could his greatest enemy hope to gain by improving the lives of everyone on the planet? The Doctor must convince his UNIT friends that they now face the ultimate terror - and that the Master may be in as much danger as they are…</dc:description>
+    </metadata>
+</package>

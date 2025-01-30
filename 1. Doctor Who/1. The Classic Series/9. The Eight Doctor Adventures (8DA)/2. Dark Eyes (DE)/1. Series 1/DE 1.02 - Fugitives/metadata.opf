@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Fugitives</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-977-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Dark Eyes 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Ruth Bradley (Molly O'Sullivan)</dc:creator>
+        <dc:creator opf:role="nrt">Natalie Burt (Sally Armstrong)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Egan (Straxus)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Jones (Kotris)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks/Dalek Time Controller/VSAI 001)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Dunkirk Sergeant/Srangor Herder/Window Cleaner/Halalkan Policeman)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Mallinson (Cab Driver/Baker Street Security Guard)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>With the first objective of his mission reached, almost nothing is going to plan for the Doctor. He finds he cannot contact or return to the Time Lord’s home planet, Gallifrey. And just when Molly O’Sullivan thinks she’s escaped one conflict, she finds herself in the thick of another one.
+
+What is it that connects the Doctor, the Daleks and the mysterious Ides Scientific Institute?</dc:description>
+    </metadata>
+</package>

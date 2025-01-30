@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Fiesta of the Damned</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-891-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="215"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Melanie Bush)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Owen Aaronovitch (Antonio Ferrando / Control Unit)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Alexander (Luis / Phillipe)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Hatherall (George Newman)</dc:creator>
+        <dc:creator opf:role="nrt">Enzo Squillino Jnr (Juan Romero)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In search of "a taste of the real Spain", the TARDIS transports the Doctor, Ace and rejoined crewmember Mel not to sizzling Fuerteventura, or the golden sands of the Costa Brava – but to 1938, amid the horrors of the Spanish Civil War.
+
+Having fallen in with a rag-tag column of Republican soldiers, the time and space travellers seek shelter from Franco's bombers in the walled town of Farissa – only to discover themselves besieged by dead men returned to life...</dc:description>
+    </metadata>
+</package>

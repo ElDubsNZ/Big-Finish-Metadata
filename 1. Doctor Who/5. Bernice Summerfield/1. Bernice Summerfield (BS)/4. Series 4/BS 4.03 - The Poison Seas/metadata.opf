@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Poison Seas</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2003-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-042-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 4"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Bailey</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Irving Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">Ifan Huw Dafydd (Principal Lurnix)</dc:creator>
+        <dc:creator opf:role="nrt">Mat Dineen (Ressix)</dc:creator>
+        <dc:creator opf:role="nrt">Nicky Goldie (Clinician Nedda)</dc:creator>
+        <dc:creator opf:role="nrt">Jenny Livsey (Joanne Carver)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Professor Bernice Summerfield's life has never been what you could call simple. But, just as she really feels like things at the Braxiatel Collection might be settling down to some sort of normality, she is sent away from the comforts of home on a mission for the Earth Reptile Council.
+
+Bernice has visited the planet Chosan before, so she seems the ideal candidate to intervene when a Sea Devil colony there comes under threat from a terrorist cell. Under cover of visiting an old friend, Bernice sets out to learn who is working in league with the terrorists to ensure the eradication of the colony.
+
+But as she delves deeper under the oceans of Chosan, she discovers that something else ­ something much more ancient and powerful wants rid of the Sea Devils. Soon, every living thing on the planet is in peril. And all because there's no place like home...</dc:description>
+    </metadata>
+</package>

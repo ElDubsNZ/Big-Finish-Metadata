@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Worldwide Web</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-400-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Series 3"/>
+        <meta name="calibre:series_index" content="8"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sheridan Smith (Lucie Miller)</dc:creator>
+        <dc:creator opf:role="nrt">Sanjeev Bhaskar (Dr Avishka Sangakkara)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Queen / Drive-Through Worker)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Earl (Rob / Alien)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Newsreader)</dc:creator>
+        <dc:creator opf:role="nrt">Kerry Godliman (Karen)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Moore (Clark Goodman)</dc:creator>
+        <dc:creator opf:role="nrt">Katarina Olsson (The Headhunter)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Spargo (David)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Winkleman (Kelly Westwood)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Thanks to the Eightfold Truth, Metebelis crystals cover the Earth, and the Eight Legs, giant spiders from that distant world, are poised to take control of the planet.
+
+ As the Doctor attempts to deal with the invasion and its connection to a long-lost stellar manipulator he last saw above Orbis, Lucie Miller finds herself playing host to the Great One. Can she break free of the spider leader’s control, or will she be lost forever?
+
+ And can Earth avoid becoming trapped forever in a worldwide web?
+
+Note: This adventure continues from Doctor Who: The Eight Truths</dc:description>
+    </metadata>
+</package>

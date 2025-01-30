@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Nothing to See Here</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-203-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The New Counter Measures - Series 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Simon Williams (Group Captain Gilmore)</dc:creator>
+        <dc:creator opf:role="nrt">Pamela Salem (Rachel Jensen)</dc:creator>
+        <dc:creator opf:role="nrt">Karen Gledhill (Allison Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Ross (Sir Toby Kinsella)</dc:creator>
+        <dc:creator opf:role="nrt">George Asprey (Balthazar Schrek)</dc:creator>
+        <dc:creator opf:role="nrt">Robin Weaver (Edwige Ponzi)</dc:creator>
+        <dc:creator opf:role="nrt">Gunnar Cauthery (Franz)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A series of violent bank robberies are baffling the Swiss police. It's time for New Counter-Measures to step into the breach. But as the crime spree escalates and one of the team gets closely involved, are they going in too deep? Can you go undercover even from yourself?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Year After I Died</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-945-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lives of Captain Jack - Series 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Barrowman (Captain Jack Harkness)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Douglas (Vortia Trear)</dc:creator>
+        <dc:creator opf:role="nrt">Shvorne Marks (Silo Crook)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Haran (Malfi Pryn)</dc:creator>
+        <dc:creator opf:role="nrt">Aaron Neil (Gorky Sax)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Set in the year 200,101, on an Earth ravaged by the Daleks, Jack struggles to save humanity from its oldest enemy.</dc:description>
+    </metadata>
+</package>

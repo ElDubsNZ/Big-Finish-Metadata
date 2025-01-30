@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Conspiracy in Space</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-569-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Third Doctor Adventures - Volume 8"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tim Treloar (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Katy Manning (Jo Grant)</dc:creator>
+        <dc:creator opf:role="nrt">Imogen Church (Lady Zinn)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Stafford (Lieutenant Ruji)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (General Chusa / Robots / Draconian Steward / Draconian Guard / Draconian Officer / Venusian / Doorman[u])</dc:creator>
+        <dc:creator opf:role="nrt">Aurora Burghart (Emerald Lindstrom)</dc:creator>
+        <dc:creator opf:role="nrt">Issy Van Randwyck (Grand Widow)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the TARDIS is diverted to Draconia, the Doctor and Jo fall foul of the hawkish Lady Zinn. War with Earth seems imminent. The Draconian military are on high alert and rumours of a super-weapon are rife.
+
+Execution, assassination, intrigue and a mysterious faction known only as ‘The Eyes’ are all part of a deadly mission the Doctor and Jo have no choice but to accept. But as they fight to survive, the peace of the entire galaxy hangs in the balance.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Hunting Ground</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-841-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="246"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">AK Benedict</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Margaret Ashley (Ingrid)</dc:creator>
+        <dc:creator opf:role="nrt">Harriet Collings (Frida)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Griffiths (The Hunter / Kristjan)</dc:creator>
+        <dc:creator opf:role="nrt">Amy Beth Hayes (Yrsa Kristjansdottir)</dc:creator>
+        <dc:creator opf:role="nrt">Will Hislop (Right Marfick / Pathologist)</dc:creator>
+        <dc:creator opf:role="nrt">Malcolm James (Sigdor)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Jameson (Left Marfick / Receptionist)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Reed (Constable)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor arrives in present day Iceland and receives a frosty reception from Inspector Yrsa Kristjansdottir when he becomes the chief suspect in a murder enquiry. But the Doctor knows that the real killer is of extraterrestrial origin.
+
+Joining forces with Yrsa, the Doctor goes in pursuit of a ruthless alien that is hunting humans for sport. Yrsa unearths a dark conspiracy which reaches back into her own past.
+
+Determined to expose the truth and prevent further deaths, the Doctor and Yrsa soon find themselves running for their lives, prey on the hunting ground.</dc:description>
+    </metadata>
+</package>

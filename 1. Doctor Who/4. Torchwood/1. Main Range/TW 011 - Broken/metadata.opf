@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Broken</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-215-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="11"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Joseph Lidster</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Barrowman (Captain Jack Harkness)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth David-Lloyd (Ianto Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Melanie Walters (Mandy Aibiston)</dc:creator>
+        <dc:creator opf:role="nrt">Eiry Thomas (Glenda)</dc:creator>
+        <dc:creator opf:role="nrt">Ross Ford (The Saviour)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Whenever Ianto Jones has a tough day at work, he has somewhere he can hide. And, for Ianto Jones, it's always a tough day at work. 
+
+His girlfriend is dead, his colleagues don't trust him, and his boss... his boss is something else. With no friends in the world, and his life in danger every day, is it any wonder that at night, Ianto Jones goes to the pub? 
+
+Ianto's local becomes somewhere where he feels safe. Safe from his demons, safe from his life, safe from Torchwood. Until one evening, Captain Jack Harkness walks into a bar....</dc:description>
+    </metadata>
+</package>

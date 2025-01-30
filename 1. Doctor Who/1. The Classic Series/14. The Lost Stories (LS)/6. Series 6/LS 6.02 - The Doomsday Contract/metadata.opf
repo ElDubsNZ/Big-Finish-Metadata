@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Doomsday Contract</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-232-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 6"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Lloyd</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Spencer Banks (Kovaks)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Foreman of the Lost Jury)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Laing (Skorpios / Lieson Tilpractice-Frong / Geoff)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (Villager)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Panting (Smilax)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Clerk)</dc:creator>
+        <dc:creator opf:role="nrt">Jeany Spark (Tragacanth / Cham'Yal)</dc:creator>
+        <dc:creator opf:role="nrt">Julian Wadham (Judge Perigord Trent)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Earth - a small, insignificant planet. Entirely devoid of intelligent life.
+
+At least that's according to the legal documents. The Doctor, Romana and K9 find themselves at the centre of a most unusual trial.
+
+An intergalactic corporation wants to bulldoze the planet for a development project. Only a previous court's preservation document is standing in their way. The Doctor has been summoned as an expert witness. If he can prove Earth contains intelligent life, the whole world will be saved.
+
+But with a fortune at stake, it was never going to be that simple.</dc:description>
+    </metadata>
+</package>

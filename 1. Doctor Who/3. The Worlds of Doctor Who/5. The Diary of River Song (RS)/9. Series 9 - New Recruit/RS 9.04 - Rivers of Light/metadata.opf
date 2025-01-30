@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Rivers of Light</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-726-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Diary of River Song - Series 9 - New Recruit"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lisa McMullin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Treloar (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Daisy Ashford (Liz Shaw)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (Brigadier Lethbridge-Stewart / The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Dominique Moore (Gemma)</dc:creator>
+        <dc:creator opf:role="nrt">James MacNaughton (Simon)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In a Yorkshire mining town, strange temporal distortions and rivers of light crossing forests are enough to get the Brigadier’s attention, and UNIT is mobilised. 
+
+But the Doctor is back, and he wants to know who’s been messing around in his laboratory. River’s reasons for being on Earth are about to be revealed...</dc:description>
+    </metadata>
+</package>

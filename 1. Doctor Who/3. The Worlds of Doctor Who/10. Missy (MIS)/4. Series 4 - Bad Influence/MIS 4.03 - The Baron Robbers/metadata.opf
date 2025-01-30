@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Baron Robbers</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-211-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Missy - Series 4 - Bad Influence"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Michelle Gomez (Missy)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Bored and stranded in the 14th Century, Missy is looking for a way out. Any way at all. Luckily the spectacular ruby owned by Edward, the famed Black Prince, might be just what she needs to get her broken vortex manipulator working again. But someone else is after the ruby too - and the question is, who wants it more... and how low are they prepared to go to get it?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Beachhead</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-621-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Doom Coalition 2"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Hattie Morahan (Helen Sinclair)</dc:creator>
+        <dc:creator opf:role="nrt">Rebecca Night (Matilda Gregson)</dc:creator>
+        <dc:creator opf:role="nrt">Julia Hills (Phillipa Gregson / Dispatch)</dc:creator>
+        <dc:creator opf:role="nrt">Kirsty Besterman (Ishtek / Lilly)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Dickens (Voord Guard / Police Sergeant / Mr Rogers)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In an attempt to recharge his batteries after his confrontation with the Eleven, the Doctor takes Liv and Helen to the sleepy English seaside village of Stegmoor. But they find the village in turmoil and, to make matters worse, their arrival uncovers a mystery from the Doctor's past which threatens the future safety of the planet. Can the Doctor prevent the Voord from invading Earth? And more importantly why have they come in the first place? </dc:description>
+    </metadata>
+</package>

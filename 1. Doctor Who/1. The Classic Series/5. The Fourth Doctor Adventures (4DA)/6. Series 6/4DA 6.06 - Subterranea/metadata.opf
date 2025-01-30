@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Subterranea</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-719-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 6"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Silex / Mr Stoker)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Cottle (Mr Maxwell Wilberforce Bell)</dc:creator>
+        <dc:creator opf:role="nrt">Abigail McKern (Mrs Lucretia Bell)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Miss Arabella Wagstaff / Mrs Betsy Wagstaff)</dc:creator>
+        <dc:creator opf:role="nrt">Robbie Stevens (Mr Jelicho Wigg / Mr Wilfer Wagstaff)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS is going underground. When the Doctor and Romana find themselves buried beneath the surface of an alien world, they're soon swallowed up by a giant burrowing machine. This is where the inhabitants of this planet live - in huge, constantly moving, Drill-towns, chewing up the fuel and resources of the planet in order to survive.
+
+But something else lurks in the earth. Something that feeds on the Drill-towns. Something that is relentless and will not stop.
+
+The Silex are hunting.</dc:description>
+    </metadata>
+</package>

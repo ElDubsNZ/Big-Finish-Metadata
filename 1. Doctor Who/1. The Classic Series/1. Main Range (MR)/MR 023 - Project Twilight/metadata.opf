@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Project Twilight</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2001-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-445-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="23"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Cavan Scott</dc:creator>
+        <dc:creator opf:role="aut">Mark Wright</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Stables (Evelyn Smythe)</dc:creator>
+        <dc:creator opf:role="nrt">Rupert Booth (Dr William Abberton / Matthew)</dc:creator>
+        <dc:creator opf:role="nrt">Rosie Cavaliero (Cassie)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Chance (Nimrod)</dc:creator>
+        <dc:creator opf:role="nrt">Holly De Jong (Amelia Doory)</dc:creator>
+        <dc:creator opf:role="nrt">Rob Dixon (Reggie Mead)</dc:creator>
+        <dc:creator opf:role="nrt">Kate Hadley (Nurse)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Wilson (Eddie)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Wright (Mr Deeks)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In the renovated docklands of South East London, on the bank of the river Thames, the doors of the Dusk are open for business. Bets are called, cards are dealt and roulette wheels spun. As fortunes are won and lost, an inhuman killer stalks the local avenues and alleyways - a killer with a taste for human flesh.
+
+Is there more to casino owner Reggie 'The Gent' Mead or is he just a common gangster? What secrets are hidden in the bowels of the Dusk? And what connection does the apparently sleazy Bermondsey casino have to a long-buried government initiative known as Project: Twilight?
+
+The Doctor must form uneasy alliances where the line between friend and enemy is blurred, playing games of chance...
+
+But are the stakes too high?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Shadow of London</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 7"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Justin Richards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Catherine Bailey (Maddox)</dc:creator>
+        <dc:creator opf:role="nrt">Darren Boyd (Hemmings)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Speyer (Fanshaw)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS materialises in the backstreets of London in the 1940s. Whilst K9 entertains himself in the time ship's library, the Doctor takes Leela for a walk in the streets.
+
+But England’s capital is oddly quiet. There are no cars and very few pedestrians... whilst those people they do meet appear really quite English indeed. And all the while they are monitored by cameras feeding images into a secret control room.
+
+Something strange is happening in the city. Traitors are running wild... and nothing and no-one are quite as they seem.</dc:description>
+    </metadata>
+</package>

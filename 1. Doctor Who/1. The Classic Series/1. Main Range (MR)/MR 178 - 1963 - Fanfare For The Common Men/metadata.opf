@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>1963 - Fanfare for the Common Men</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-078-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="178"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Mitch Benn (Mark Carville)</dc:creator>
+        <dc:creator opf:role="nrt">David Dobson (Korky Goldsmith / Compere / Pedestrian)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Commander / Newsreader)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Knott (James O'Meara)</dc:creator>
+        <dc:creator opf:role="nrt">Ryan Sampson (Lenny Kruger / Shop Assistant)</dc:creator>
+        <dc:creator opf:role="nrt">Jonty Stephens (Paravatar Waiter / Barman / Policeman)</dc:creator>
+        <dc:creator opf:role="nrt">Alison Thea-Skot (Rita / Sadie / Control Officer)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>If you remember the Sixties, they say, then you can't have been there.
+
+The Doctor remembers the Sixties. That’s why he's taking Nyssa on a trip back to November 1963. Back to where it all began. Back to the birth of the biggest band in the history of British music. Back to see those cheeky lads from Liverpool...
+
+Mark, James and Korky. The Common Men. The boys who made the Sixties swing with songs like Oh, Won’t You Please Love Me?, Just Count To Three and Who Is That Man?
+
+The Doctor remembers the Sixties. And there’s something very wrong with the Sixties if the Beatles no longer exist…</dc:description>
+    </metadata>
+</package>

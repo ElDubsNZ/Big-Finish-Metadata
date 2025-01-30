@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Her Final Flight</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2004-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-113-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Sixth Doctor Adventures - Specials"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Julian Shortman</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Bugdale (The Agent)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Owen (Hamiyun)</dc:creator>
+        <dc:creator opf:role="nrt">Heather Tracy (Rashaa)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Westmaas (Damus)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the Doctor lands on Refiloe, he's not impressed.
+  
+In fact, he doesn't intend to stay for more than just a few minutes.
+  
+But someone has decided that the TARDIS has made her final flight.
+  
+Someone whose future depends on the Doctor's death.</dc:description>
+    </metadata>
+</package>

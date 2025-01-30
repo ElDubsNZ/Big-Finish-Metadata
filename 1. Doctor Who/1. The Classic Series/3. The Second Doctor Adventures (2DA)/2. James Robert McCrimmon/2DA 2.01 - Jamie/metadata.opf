@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Jamie</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-878-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Second Doctor Adventures - James Robert McCrimmon"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mark Wright</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Michael Troughton (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Frazer Hines (Jamie McCrimmon)</dc:creator>
+        <dc:creator opf:role="nrt">Emma Noakes (Raven)</dc:creator>
+        <dc:creator opf:role="nrt">Alec Newman (Dr Breck)</dc:creator>
+        <dc:creator opf:role="nrt">Daisy Ashford (Elen / Trader)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (Innkeep / Robertson / Captain)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Mysterious dreams of lives never lived haunt an ailing prisoner in Edinburgh Castle, in the year 1776. Meanwhile, the Doctor arrives on another reluctant mission for the Time Lords, with the enigmatic Raven observing his every move.
+
+How is the Doctor’s erstwhile travelling companion, Jamie McCrimmon, connected with the terrifying deaths that plague the streets in the shadow of the castle? And will Jamie ever really know his true self again?</dc:description>
+    </metadata>
+</package>

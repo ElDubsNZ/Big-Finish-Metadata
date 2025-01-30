@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Curiosity Shop</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-912-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eleventh Doctor Chronicles - Volume 4 - All of Time and Space"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jacob Dudman (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Safiyya Ingar (Valarie Lockwood)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Griffiths (Golas)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Mr Foreman owns a junkyard. He doesn’t get many visitors. In fact, all anyone ever seems interested in is Barbara.
+
+One woman informs Mr Foreman she knows the truth about Barbara, that she went on impossible adventures with a man called the Doctor. This woman, this Valarie, will do anything to be reunited with Barbara and the Doctor. Even if it kills her.</dc:description>
+    </metadata>
+</package>

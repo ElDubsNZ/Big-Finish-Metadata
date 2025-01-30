@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Whodunnit</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-503-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Diary of River Song - Series 4"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Asbury (Dante)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Bentinck (Franz Kafka / Samsa)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Tregear (Vermillion)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (Lord Simon Whist / Captain Bartholomew / Discordia Underling)</dc:creator>
+        <dc:creator opf:role="nrt">Shvorne Marks (Cissy / Thelma Sketch)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Melody Malone finds herself in a castle, with an assortment of strange companions.
+
+But guests are being murdered, one by one. Time is running out for a mystery to be solved.
+
+And Franz Kafka is hiding something in the attic.</dc:description>
+    </metadata>
+</package>

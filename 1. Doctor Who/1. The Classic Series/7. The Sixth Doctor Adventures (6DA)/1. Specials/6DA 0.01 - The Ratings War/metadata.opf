@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Ratings War</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2002-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Sixth Doctor Adventures - Specials"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Steve Lyons</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Goddard (Lucy)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Jezek (Lowell)</dc:creator>
+        <dc:creator opf:role="nrt">Alistair Lock (Robbie McHale)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Longworth (Beep the Meep)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Beep the Meep is back - and he's found a new channel for his aggression! A brand new series is about to make television history, but can the Doctor prevent his furry foe from turning a docu-drama into a crisis, or will the fluffy-wuffy animals get it in the neck? The first shots in the ratings war have been fired, and the next one is aimed at your head...</dc:description>
+    </metadata>
+</package>

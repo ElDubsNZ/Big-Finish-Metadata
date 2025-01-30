@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>My Dinner with Andrew</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-493-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Diary of River Song - Series 3"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Frances Barber (Madame Kovarian)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor / Andrew Edwardson)</dc:creator>
+        <dc:creator opf:role="nrt">Joanna Horton (Brooke)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Coote (Maitre D' / Chef / Assassin)</dc:creator>
+        <dc:creator opf:role="nrt">Nina Toussaint-White (Brooke 2)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Welcome, Mesdames et Messieurs, to The Bumptious Gastropod. 
+
+The most exclusive, most discreet dining experience outside the universe. For the restaurant exists beyond spacetime itself, and the usual rules of causality do not apply. Anything could happen. 
+
+It is here that the Doctor has a date. With River Song. And with death.</dc:description>
+    </metadata>
+</package>

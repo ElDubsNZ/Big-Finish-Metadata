@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Enemy of the Daleks</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-409-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="121"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Bishop</dc:creator>
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Olivier (Hex)</dc:creator>
+        <dc:creator opf:role="nrt">Kate Ashfield (Lieutenant Beth Stokes)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Harry Randall / Robot)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Courtney (Sir Alistair Lethbridge-Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Jez Fielder (Sistermatic / Kiseibyaa / Male Patient / Male Voice)</dc:creator>
+        <dc:creator opf:role="nrt">Russell Floyd (Announcer)</dc:creator>
+        <dc:creator opf:role="nrt">Eiji Kusuhara (Professor Toshio Shimura)</dc:creator>
+        <dc:creator opf:role="nrt">John Pickard (Thomas Brewster)</dc:creator>
+        <dc:creator opf:role="nrt">Bindya Solanki (Sergeant Tahira Khan)</dc:creator>
+        <dc:creator opf:role="nrt">Anneke Wills (Polly Wright)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Bliss used to be a paradise planet. The Galapagos Islands of space.
+
+But when the TARDIS brings the Doctor, Ace and Hex to Bliss, it’s been over-run with ironweed plants, and the air is heavy with the stench of burnt silk and static electricity.
+
+Worse, the Daleks are coming, on the trail of a lost patrol of starship troopers. Holed up in the Roarke 279 research facility, Lieutenant Beth Stokes is preparing her last stand against the invaders.
+
+But there’s a secret on Bliss, a secret guarded by the obsessive Professor Shimura… This time, could it be the Daleks who need saving?</dc:description>
+    </metadata>
+</package>

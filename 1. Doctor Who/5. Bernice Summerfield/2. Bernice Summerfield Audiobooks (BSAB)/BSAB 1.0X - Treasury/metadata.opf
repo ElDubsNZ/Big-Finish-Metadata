@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Treasury</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-601-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 17 - The Story so Far"/>
+        <meta name="calibre:series_index" content="0"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Ben Aaronovitch</dc:creator>
+        <dc:creator opf:role="aut">Andrew Cartmel</dc:creator>
+        <dc:creator opf:role="aut">Paul Cornell</dc:creator>
+        <dc:creator opf:role="aut">Terrance Dicks</dc:creator>
+        <dc:creator opf:role="aut">Steven Moffat</dc:creator>
+        <dc:creator opf:role="aut">Kate Orman</dc:creator>
+        <dc:creator opf:role="aut">Robert Shearman</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Cartmel</dc:creator>
+
+        <!-- Description -->
+        <dc:description>An anthology of classic short stories featuring Bernice Summerfield.
+
+The Evacuation of Bernice Summerfield Considered as a Short Film by Terry Gilliam by Ben Aaronovitch
+ A lonely orphan on a vast transport ship meets some peculiar fellow travellers.  
+
+And Then Again by Robert Shearman
+ Who is Bernard Summerfield? What’s happened to his life? And why has he lost his spot in the company car park?
+
+Misplaced Spring by Paul Cornell
+ The Braxiatel Collection is recovering from an invasion in a variety of surprising ways.
+
+Solar Max and the Seven-Handed Snake-Mother by Kate Orman
+ Bernice is on an expedition to a remote site. She’s about to discover something unpleasant about her fellow explorers.
+
+Walking Backwards for Christmas by Ben Aaronovitch
+ How did we get here? Bernice looks back at her life using a history machine.
+
+The Least Important Man by Steven Moffat
+ Gavin’s had a fairly miserable life, all of it watched over by the ghostly figure of a woman silently commenting.
+
+Bernice Summerfield and the Library of Books by Andrew Cartmel
+ Inside an ancient library is an ancient secret. The secret is, of course, deadly, but it’s deadly in an entirely unique way.
+
+A Mutual Friend by Terrance Dicks
+ Bernice Summerfield learns why you should always talk to the person you’re sharing a table with at a cafe.</dc:description>
+    </metadata>
+</package>

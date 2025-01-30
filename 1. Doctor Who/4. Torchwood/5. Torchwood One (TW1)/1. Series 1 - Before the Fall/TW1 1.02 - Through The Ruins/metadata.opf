@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Through the Ruins</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-008-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood One - Series 1 - Before the Fall"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jenny T Colgan</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tracy-Ann Oberman (Yvonne Hartman)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth David-Lloyd (Ianto Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Childs (Dave)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Daws (Soren/Lord Jacobin)</dc:creator>
+        <dc:creator opf:role="nrt">Helen Goldwyn (Receptionist)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Hickson (Ziggy)</dc:creator>
+        <dc:creator opf:role="nrt">Lorelei King (Pippa)</dc:creator>
+        <dc:creator opf:role="nrt">Damian Lynch (Kieran)</dc:creator>
+        <dc:creator opf:role="nrt">Rachid Sabitri (Mehdi/Motorcyclist)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Winkleman (Rachel Allan)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"Ianto, please. It's all... it’s all gone wrong. I don’t know what to think any more." 
+
+Away Days at Torchwood aren't what you'd expect. Yes, there's the forced camaraderie, the team-building exercises, and the chance for long-held rivalries to boil over. But Torchwood Away Days also have the potential to get very lethal very quickly. 
+
+Yvonne Hartman's extremely worried by this year's Away Day. But she's got other things on her mind – something's very wrong with Torchwood.</dc:description>
+    </metadata>
+</package>

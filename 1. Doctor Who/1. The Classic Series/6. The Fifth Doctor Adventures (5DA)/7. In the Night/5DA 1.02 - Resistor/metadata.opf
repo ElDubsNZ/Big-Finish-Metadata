@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Resistor</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-886-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fifth Doctor Adventures - Volume 5 - In the Night"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Sarah Grochala</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Niky Wardley (Iza)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Easton (Roman)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Lew Kum Hoi (Hao / Tan)</dc:creator>
+        <dc:creator opf:role="nrt">Ben Porter (Zastri)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS lands in a basement beneath a club in Warsaw in 1982 - which is a bit of a surprise as the Doctor was hoping to take Nyssa and Tegan to Yugoslavia.
+
+But a bigger surprise is yet to come - the band on stage are missing one of their musicians. And getting them through the gig is only the start of the TARDIS crew's troubles.
+
+Something strange is happening on the streets. Black cars glide through the city, picking off the unwary. Some are driven by the Secret Police... but others... by something very much not of this world.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Big Society</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-432-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Vienna - Series 3"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Chase Masterson (Vienna Salvatori)</dc:creator>
+        <dc:creator opf:role="nrt">Samantha Béart (Jexie Reagan)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Fewell (Tom McQueen)</dc:creator>
+        <dc:creator opf:role="nrt">Bernard Holley (Chairman Sweet / Computer)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Dixon (Jonah Hall)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Handcock (Motivational Speaker)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Tom McQueen is set to win The Selection and become Chairman Sweet's new business partner. Failure isn't an option. Failure is for the weak. Tom McQueen doesn’t even know the meaning of the word failure. 
+
+But another candidate has entered the process, a candidate by the name of Vienna Salvatori. Tom McQueen will soon learn the meaning of another word: fear!</dc:description>
+    </metadata>
+</package>

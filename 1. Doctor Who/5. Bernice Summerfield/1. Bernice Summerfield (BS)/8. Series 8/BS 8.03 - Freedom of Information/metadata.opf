@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Freedom of Information</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2007-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-274-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 8"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Fewell (Jason Kane)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Fenner (Kothar)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Myers (Adrian)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Stevens (Doggles)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Joseph)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Wolfe (Hass)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>They're saying it isn't a war. The Draconians have taken over the Braxiatel Collection, but they claim they come in peace.
+
+Insurrectionary acts are easily being quelled - but the Draconian's new head of state on the Collection is troubled by a missing academic. Is Bernice Summerfield one of the revolutionaries, undermining the peaceful campaign? Where is she hiding, and who is protecting her?
+
+And if she's nowhere to be found, why does he keep hearing her voice?
+
+Meanwhile, an unlikely peacebroker struggles to cut a deal on the Mim Sphere. But how can Hass, the Collection's gardener, convince the Mim to back down when they think he's one of the enemy?</dc:description>
+    </metadata>
+</package>

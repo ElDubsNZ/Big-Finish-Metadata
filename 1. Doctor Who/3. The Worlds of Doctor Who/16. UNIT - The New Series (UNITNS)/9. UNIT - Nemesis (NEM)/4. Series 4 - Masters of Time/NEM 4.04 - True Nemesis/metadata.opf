@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>True Nemesis</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-629-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - Nemesis - Series 4 - Masters of Time"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andrew Smith</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jemma Redgrave (Kate Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Ingrid Oliver (Osgood)</dc:creator>
+        <dc:creator opf:role="nrt">Michelle Gomez (Missy)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Josh Carter)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Lew Kum Hoi (Jimmy Tan)</dc:creator>
+        <dc:creator opf:role="nrt">Alisdair Simpson (Varliss)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Myers (Hugo de Costa / Crastor)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (Harry Sullivan)</dc:creator>
+        <dc:creator opf:role="nrt">Eleanor Crooks (Naomi Cross)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Under Missy’s guiding hand, the Vulpreen are ready to strike out, to establish themselves as the new Masters of Time. UNIT's confrontation with Missy in the depths of Portugal's Douro Valley will decide the fate of not just the Earth but the whole Universe.</dc:description>
+    </metadata>
+</package>

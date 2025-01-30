@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Conflict Theory</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-088-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Sixth Doctor Adventures - Series 1 - The Sixth Doctor and Peri"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nev Fountain</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">David Sibley (The Freuds)</dc:creator>
+        <dc:creator opf:role="nrt">Raj Ghatak (The Complex)</dc:creator>
+        <dc:creator opf:role="nrt">George Naylor (Dodo)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Concerned by the Doctor’s increasing over-protectiveness, Peri presents him with an ultimatum: either they seek counselling or she leaves the TARDIS permanently. Reluctant to lose one of his closest friends, the Doctor seeks out one of the finest psychoanalysts in the universe: Dr Sigmund Freud.</dc:description>
+    </metadata>
+</package>

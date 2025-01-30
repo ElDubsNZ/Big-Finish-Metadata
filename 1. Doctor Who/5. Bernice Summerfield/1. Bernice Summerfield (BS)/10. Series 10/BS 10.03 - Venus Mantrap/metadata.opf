@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Venus Mantrap</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-422-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 10"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mark Clapham</dc:creator>
+        <dc:creator opf:role="aut">Lance Parkin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Thomas Grant (Peter Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Brooker (Vice Chancellor Safton Twisk)</dc:creator>
+        <dc:creator opf:role="nrt">Jo Castleton (Professor Megali Scoblow)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Connolly (Felterby / Tannoy / Journo 1 / Lift Voice)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Littledale (Newsreader)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Mallinson (Guard / Journo 2)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Myers (Adrian Wall)</dc:creator>
+        <dc:creator opf:role="nrt">Luke Sorba (N'Jok Barnes / Newsreader)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Eros, artificial moon of Venus, has a reputation for romance, but Professor Bernice Summerfield is just visiting for the money – specifically the secret royalties of her recently deceased partner, the famous ‘novelist’ Jason Kane. Jason entrusted control of the inheritance to Bernice’s rival in love and academia, acerbic alien rodent Professor Scoblow, and Bernice is prepared for a fight. 
+
+Unfortunately for Bernice, the path of finance rarely runs smoothly and disgruntled hamsters are the least of her problems: Eros’s twin moon, the warlike Thanatos, is moving into alignment, Erosian society is in turmoil, war rockets are due for launch, and worst of all the banks are closed until further notice.
+
+To get her hands on Jason’s money, Bernice must ally herself with Scoblow to bring peace to Eros and Thanatos through a dangerous combination of espionage and dating, at terrible risk to both life and dignity. 
+
+And if that wasn’t bad enough, a force as inevitable as death is waiting to strike…</dc:description>
+    </metadata>
+</package>

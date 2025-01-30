@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Merry Christmas, Mr Jago</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-805-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Paternoster Gang - Heritage 4"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Neve McIntosh (Madame Vastra)</dc:creator>
+        <dc:creator opf:role="nrt">Catrin Stewart (Jenny Flint)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Strax)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Cooper (Smallpiece)</dc:creator>
+        <dc:creator opf:role="nrt">Elizabeth Bower (Alice Ayling)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>As Vastra searches for relics of prehistory, Jenny worries about security, and Strax wants to find a suitable gift for his friend. 
+
+Henry Gordon Jago has been invited to spend Christmas at Paternoster Row – but when presents are unwrapped, the surprises inside could prove deadly!</dc:description>
+    </metadata>
+</package>

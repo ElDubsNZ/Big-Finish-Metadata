@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Zygon Hunt</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-297-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 3"/>
+        <meta name="calibre:series_index" content="8"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Alexander (Knight Commander Ollerie)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Baragor / Zygons / Knights)</dc:creator>
+        <dc:creator opf:role="nrt">James George (Knight Commander Elunas)</dc:creator>
+        <dc:creator opf:role="nrt">Gillian Kearney (Mina Challis)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Maloney (Gregor Saraton)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On the jungle planet Garros, Earth Forces Knight Commander-in-Chief Greg Saraton and his team are hunting gigantic beasts, for sport. When the Doctor and Leela arrive, they are caught up in a web of intrigue where there is no clear friend or foe.
+
+What is Saraton’s vital connection with Earth’s Solar System’s Defence Shield? Why are the giant reptilian birds of Garros attacking? What terrible secret lurks deep within the trees?
+
+Before the truth can be revealed, a heavy price will be extracted and loyalties will be tested to the limit.</dc:description>
+    </metadata>
+</package>

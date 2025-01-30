@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Too Much Reality</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-012-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jago & Litefoot - Series 13"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Justin Richards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Baxter (Professor George Litefoot)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Ellie)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Asquith (Inspector Quick)</dc:creator>
+        <dc:creator opf:role="nrt">David Warner (Dr Luke Betterman)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Newall (Aubrey)</dc:creator>
+        <dc:creator opf:role="nrt">Teresa Banham (Angelica)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Jago and Litefoot meet their equivalent infernal investigators in this world – Aubrey and Betterman. Together they investigate sightings of a strange 'demon' and bodies that mysteriously fade away... Before long they discover a crashed spaceship, and find out the truth behind Mrs Bartholomew and the Chapel of Night. But even with this mystery solved, will they be able to get home again?</dc:description>
+    </metadata>
+</package>

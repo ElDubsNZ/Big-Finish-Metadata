@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Curse of Davros</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-604-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="156"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Greenwood (Flip Jackson)</dc:creator>
+        <dc:creator opf:role="nrt">Terry Molloy (Davros)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Rhys Jennings (Captain Pascal)</dc:creator>
+        <dc:creator opf:role="nrt">Ashley Kumar (Jared)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Owen (Napoleon Bonaparte)</dc:creator>
+        <dc:creator opf:role="nrt">Christian Patterson (Captain Dickson / Corporal Bouvier)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Portal (Marshall Ney / Superintendent Finch)</dc:creator>
+        <dc:creator opf:role="nrt">Granville Saxton (The Duke of Wellington)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It's been a year since Philippa 'Flip' Jackson found herself transported by Tube train to battle robot mosquitoes on a bizarre alien planet in the company of a Time Lord known only as 'the Doctor'.
+
+Lightning never strikes twice, they say. Only now there's a flying saucer whooshing over the top of the night bus taking her home. Inside: the Doctor, with another extraterrestrial menace on his tail - the Daleks, and their twisted creator Davros!
+
+But while Flip and the fugitive Doctor struggle to beat back the Daleks' incursion into 21st century London, Davros's real plan is taking shape nearly 200 years in the past, on the other side of the English Channel. At the battle of Waterloo...</dc:description>
+    </metadata>
+</package>

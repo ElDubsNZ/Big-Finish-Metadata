@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Kamelion Empire</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-847-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="249"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor / Authority)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka / Harmony)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Strickson (Vislor Turlough / Liberty)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (Kamelion)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (Alternative Kamelion / Chaos Soldier)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Once upon a time, a people of great artistry and great knowledge ruled the planet Mekalion: the Kamille. For a thousand years, they prospered peacefully.
+
+Then came disaster, when their sun set forever. Facing extinction, the Kamille made the Locus, a device to sustain their minds; and fashioned shape-changing machines, to act out their wishes on the physical plane…
+
+Servants they called the Kamelion.</dc:description>
+    </metadata>
+</package>

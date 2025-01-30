@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Lay Down Your Arms</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-760-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Ninth Doctor Adventures - Series 2 - Volume 3 - Hidden Depths"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lisa McMullin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Eccleston (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Diana Quick (Sophie Kinzky)</dc:creator>
+        <dc:creator opf:role="nrt">Kate Sissons (Bertha Kinzky)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Parker (Tsar Alexander II / Trinity)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Kloska (Ludwig Von Hasseldorf)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>1864. Instead of relaxing at the Bad Homburg Spa, its visitors are fighting. And Bertha Kinzky, housekeeper to Alfred Nobel, is appalled. Perhaps the mysterious Herr Schmidt can help?
+
+Soon, Bertha is contending with aliens, as well as her mother’s matchmaking, as she and the Doctor try to keep the peace.</dc:description>
+    </metadata>
+</package>

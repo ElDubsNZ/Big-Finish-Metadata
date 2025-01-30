@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Paradise 5</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-448-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 1"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">PJ Hammond</dc:creator>
+        <dc:creator opf:role="aut">Andy Lane</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Andrée Bernard (Lorelei / Cherub)</dc:creator>
+        <dc:creator opf:role="nrt">James D'Arcy (Michael / Cherub)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Earl (Mr Winterbourne / Mr Tapp)</dc:creator>
+        <dc:creator opf:role="nrt">Helen Goldwyn (Stella / Bella / Lead Cherub)</dc:creator>
+        <dc:creator opf:role="nrt">Teddy Kempner (Mr Gelter / Mr Bliss / The Elohim)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Macqueen (Gabriel)</dc:creator>
+        <dc:creator opf:role="nrt">Claire Wyatt (Information Booth / Airport Announcer / Ship's Computer / Mrs Aht)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Lost Stories: Adventures that were originally written for the Doctor Who television series but never made. Now available to hear for the first time…
+
+The Doctor and Peri visit the planet Targos Delta to check in on old friend Professor Albrecht Thompson, only to discover that he has vanished. He was last sighted taking a shuttle to the holiday resort of Paradise 5, then never seen again.
+  
+The Doctor's curiosity is piqued. They must investigate, but they must do so stealthily... Peri will go undercover on Paradise 5, while the Doctor hides in the shadows. Because paradise holds a terrible secret beneath the white marble and golden trimmings. The mute Cherubs have a story to tell. And the Elohim are coming.
+  
+Beware.</dc:description>
+    </metadata>
+</package>

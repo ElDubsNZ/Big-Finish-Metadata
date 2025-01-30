@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Company of Friends</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-411-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="123"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lance Parkin</dc:creator>
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+        <dc:creator opf:role="aut">Stephen Cole</dc:creator>
+        <dc:creator opf:role="aut">Alan Barnes</dc:creator>
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Di Angelo (Fitz Kreiner)</dc:creator>
+        <dc:creator opf:role="nrt">Jemima Rooper (Izzy Sinclair)</dc:creator>
+        <dc:creator opf:role="nrt">Julie Cox (Mary Shelley)</dc:creator>
+        <dc:creator opf:role="nrt">Katrina Cooke (Juror / Clair Clairmont)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Courtney (Sir Alistair Lethbridge-Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Su Douglas (Venhella / Gem Weston)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Earl (Klarner)</dc:creator>
+        <dc:creator opf:role="nrt">Russell Floyd (Announcer)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Forknall (Foreman / Lord Byron)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Glennon (Courtmaster Cruel / Percy Shelley)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Hallard (Captain Cannibal / John Polidori)</dc:creator>
+        <dc:creator opf:role="nrt">Steve Hansell (Grubb / The Man)</dc:creator>
+        <dc:creator opf:role="nrt">Teddy Kempner (Grakk / Clerkie / The Camp Robot)</dc:creator>
+        <dc:creator opf:role="nrt">John Pickard (Thomas Brewster)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Thornley (Michael Rond)</dc:creator>
+        <dc:creator opf:role="nrt">Anneke Wills (Polly Wright)</dc:creator>
+        <dc:creator opf:role="nrt">Fenella Woolgar (Commander Hellan Femor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Four one-part stories:
+
+1. Benny's Story by Lance Parkin
+ Deep in the mines of Epsilon Minima, Professor Bernice Summerfield is up to her neck in it - as usual. The Countess Venhella has hired her to recover a lost Time Lord artefact: A TARDIS key, it turns out. Guess whose?
+
+2. Fitz's Story by Stephen Cole
+ On the planet Entusso, the Doctor and Fitz Kreiner investigate Alien Defence Incorporated - your one-stop shop for protection against extraterrestrial invasion! But which is the greatest menace: the hideous Vermin Queens or ADI itself? 
+
+3. Izzy's Story by Alan Barnes
+ TARDIS travel opens one's eyes to a universe of possibilities, reckons the Doctor. For geek girl Izzy, it's also a fantastic way to track down ultra-rare back copies of 'Aggrotron!', the most dangerous comic in history... 
+
+4. Mary's Story by Jonathan Morris
+ Switzerland, 1816: at the Villa Diodati, Lord Byron's house guests tell each other tales to curdle the blood and quicken the beatings of the heart. With a monster on the loose outside, young Mary Shelley isn't short of inspiration.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>City of Spires</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-457-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="133"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Bovey</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Frazer Hines (Jamie McCrimmon)</dc:creator>
+        <dc:creator opf:role="nrt">James Albrecht (Major Heyward / Jailer)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Red Cap / Injured Redcoat / The Overlord)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Earl (Victor)</dc:creator>
+        <dc:creator opf:role="nrt">Russell Floyd (Sergeant Rilke)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Graham (Guthrie / Shelleycoat)</dc:creator>
+        <dc:creator opf:role="nrt">Georgia Moffett (Alice)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Ross (Rob)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Arriving in a hail of musket fire, the Doctor unexpectedly finds himself in the highlands of Scotland, where the ruthless Black Donald and his band of rebels are fighting the Redcoats. But the highland warriors no longer fight for the Jacobite cause and the English officers answer only to the mysterious Overlord. What has happened to Scotland and why are its moors littered with advanced, oil-pumping technology?
+
+ Reunited with his faithful companion Jamie McCrimmon, the Doctor must venture into the sinister City of Spires to find the answers. But standing in his way is the deadly Red Cap...</dc:description>
+    </metadata>
+</package>

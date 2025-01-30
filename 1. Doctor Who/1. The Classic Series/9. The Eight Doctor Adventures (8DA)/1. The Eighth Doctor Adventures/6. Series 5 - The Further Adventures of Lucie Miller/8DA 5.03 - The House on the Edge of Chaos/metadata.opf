@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The House on the Edge of Chaos</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-740-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Series 5 - The Further Adventures of Lucie Miller"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sheridan Smith (Lucie Miller)</dc:creator>
+        <dc:creator opf:role="nrt">Carla Mendonça (Evangeline Horton)</dc:creator>
+        <dc:creator opf:role="nrt">Rupert Vansittart (Darius Horton)</dc:creator>
+        <dc:creator opf:role="nrt">Alicia Ambrose-Bayly (Alana Kelly)</dc:creator>
+        <dc:creator opf:role="nrt">Emily Woodward (Frances Horton)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Jameson (Berrigan Horton)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS brings the Doctor and Lucie to a vast house on the planet known as Horton’s Orb. The only house on Horton’s Orb, in fact. Outside its outsized windows there’s nothing. No land. No sea. No sky. No life. Just an endless expanse of static.
+
+Inside the house, there’s an upstairs and a downstairs – servants below, gentlefolk from the finest of the house’s families above. Alas, there are altogether too few eligible ladies on the upper floors these days. Meaning there’s a vacancy for Miss Lucie Miller, single and unattached...
+
+Outside the house, the static howls on. Except now, the static wants to get in.</dc:description>
+    </metadata>
+</package>

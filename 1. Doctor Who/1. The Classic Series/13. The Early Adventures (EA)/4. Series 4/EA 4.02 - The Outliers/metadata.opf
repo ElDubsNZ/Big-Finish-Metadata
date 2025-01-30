@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Outliers</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-954-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Early Adventures - Series 4"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Anneke Wills (Polly Wright / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Frazer Hines (Jamie McCrimmon / The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Elliot Chapman (Ben Jackson)</dc:creator>
+        <dc:creator opf:role="nrt">Debbie Chazen (Dr Goro)</dc:creator>
+        <dc:creator opf:role="nrt">Alistair Petrie (Richard Tipple)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS takes the Doctor, Ben, Polly and Jamie to a flooded underground town on an alien world. The streets are empty. The houses are bare. Not a trace of life.
+
+The miners working here are vanishing. And it isn’t long before the time-travellers are suspected of being responsible for the disappearances. But even the authorities haven’t fully realised the scale of the problem.
+
+There’s something else on this world. Something dragging people away. And it won’t stop until it’s taken them all.</dc:description>
+    </metadata>
+</package>

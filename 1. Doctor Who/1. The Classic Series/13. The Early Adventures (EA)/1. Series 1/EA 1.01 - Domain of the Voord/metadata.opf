@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Domain of the Voord</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-336-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Early Adventures - Series 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andrew Smith</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">William Russell (Ian Chesterton / The Doctor / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Carole Ann Ford (Susan / Barbara Wright / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Daisy Ashford (Amyra Kaan)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Dickens (Admiral Jonas Kaan / Tarlak)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Bone (Pan Vexel / Nebrin)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor, Susan, Ian, and Barbara land on the planet Hydra, where Admiral Jonas Kaan leads a vast flotilla of ships trying to elude the vicious race that has invaded and occupied their world. But his ships are being picked off one by one, vessels, and crews dragged underwater by an unseen foe. 
+
+The time travellers find themselves pitched into battle against the Voord, the ruthless enemy they last encountered on the planet Marinus. As they take the fight to the very heart of the territory now controlled by the Voord the stakes get higher. First they lose the TARDIS... then they lose that which they hold most dear. And that's only the start of their troubles. 
+
+In the capital, Predora City, they will learn the truth of what it means to be a Voord. And that truth is horrifying.</dc:description>
+    </metadata>
+</package>

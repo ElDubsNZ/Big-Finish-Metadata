@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Widow's Assassin</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-333-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="192"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nev Fountain</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Baron Pteratrark / Guard 2)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Chipping (Constable Wolsey / Mandrake)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Dickens (Reverend Flitamus / Guard 1)</dc:creator>
+        <dc:creator opf:role="nrt">Fiona Sheehan (Princess Dirani)</dc:creator>
+        <dc:creator opf:role="nrt">Glynn Sweet (Harcross the Ever-Patient / Phen-Tu / Flunkey)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Once, long ago, in a land of monsters and corridors, a fair maiden was captured, and placed in a deep sleep.
+
+ She was used to being captured, and she had a hero who rescued her on just such occasions. But this time the hero never came.
+
+ And the fair maiden slept on.
+
+ Eventually, a King rescued the maiden, and made her his bride, which many wise old women might tell you is just another way of capturing fair maidens.
+
+ And still the fair maiden slept on.
+
+ Then, the hero had another stab at rescuing the maiden from her prison, but he was too late. And, more importantly, he had forgotten the rules of fairy tales.
+
+ He didn’t slay the dragon.</dc:description>
+    </metadata>
+</package>

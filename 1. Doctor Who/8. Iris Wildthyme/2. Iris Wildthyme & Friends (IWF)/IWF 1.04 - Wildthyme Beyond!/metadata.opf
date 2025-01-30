@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Wildthyme Beyond!</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Iris Wildthyme & Friends"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Magrs</dc:creator>
+
+        <!--Cast-->
+
+        <!-- Description -->
+        <dc:description>In this volume: Iris and her various friends are stranded on the perplexing and magical world of Hyspero. Ruled over by the all-knowing and all-powerful Scarlet Empress, this is a place where seemingly anything can happen. As Iris and her faithful companion, Panda, are drawn into a nightmarish subterranean adventure, their friends are captured by the guards of the Empress herself for nefarious reasons of her own. Iris descends into memories of her bizarre childhood in a universe far from here... a dreadful place that the despicable poet Anthony Marvelle is trying to unleash, convinced that great riches lie in that mythical region known only as the Obverse... 
+
+Friends old and new are along for the ride — including Barbra the brave vending machine, Jenny the ex-traffic warden and Kelly, the Goth girl from the bookshop who discovers she has a strange destiny as the mystical key to unlocking the dimensions. Hyspero itself awakens memories inside her... of a magical book she once read as a child... or, perhaps a book in which she once had her own adventures... 
+
+And meanwhile on Earth — two or three dimensions to the left, in the realm of fictionality — Iris's fans and fanfic writers are gathering and quibbling at the curious turn the lady's adventures are taking...</dc:description>
+    </metadata>
+</package>

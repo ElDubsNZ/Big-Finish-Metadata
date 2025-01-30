@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Piece of Mind</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-819-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lives of Captain Jack - Series 2"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Barrowman (Captain Jack Harkness)</dc:creator>
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Hopkins (Hayat)</dc:creator>
+        <dc:creator opf:role="nrt">Hannah Arterton (Callista)</dc:creator>
+        <dc:creator opf:role="nrt">Prasanna Puwanarajah (Zor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the Sixth Doctor falls dying into his arms, Jack must carry on in his place. Is the universe ready for a whole new kind of Doctor?</dc:description>
+    </metadata>
+</package>

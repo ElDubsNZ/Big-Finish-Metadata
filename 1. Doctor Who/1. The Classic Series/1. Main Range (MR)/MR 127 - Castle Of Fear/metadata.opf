@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Castle of Fear</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-430-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="127"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Susan Brown (Maud the Withered / Yokel)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Cooper (Smithy / Mummer)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Cotton (Osbert / Mummer / Yokel / Demon)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Courtney (Sir Alistair Lethbridge-Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Russell Floyd (Gerry Lenz)</dc:creator>
+        <dc:creator opf:role="nrt">Teddy Kempner (Yavuz / Mummer / Yokel / Demon)</dc:creator>
+        <dc:creator opf:role="nrt">John Pickard (Thomas Brewster)</dc:creator>
+        <dc:creator opf:role="nrt">John Sessions (Roland of Brittany / Mummer)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Thomas (Hubert Earl of Mummerset / Mummer)</dc:creator>
+        <dc:creator opf:role="nrt">Anneke Wills (Polly Wright)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>1199: Returning from the Crusade, Hubert, the new Earl of Mummerset, comes to take possession of Stockbridge Castle, his ancestral home. The only trouble is, in his absence, demons took possession of his Castle...
+
+1899: The Stockbridge Mummers’ play takes a wholly unexpected turn, when the dragon slays St George.
+
+These events are not unconnected, the Doctor and Nyssa discover. There's an alien presence squatting in Stockbridge Castle, and it's their job to expose it. If Turkish knights, killer boars and a gang of rogue paladins don't stop them first...</dc:description>
+    </metadata>
+</package>

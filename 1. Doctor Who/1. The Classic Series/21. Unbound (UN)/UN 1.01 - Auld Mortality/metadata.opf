@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Auld Mortality</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2003-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-012-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Unbound"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Geoffrey Bayldon (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Carole Ann Ford (Susan)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Brenher (Hannibal)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Gold Usher)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Brooker (Surus)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Longworth (Badger)</dc:creator>
+        <dc:creator opf:role="nrt">Derren Nesbitt (Ordinal-General Quences)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>What if... the Doctor and Susan had never left Gallifrey?
+
+In a marble mausoleum, deep in the cisterns beneath the Capitol, Gallifrey's favourite author faces his ultimate destiny.
+
+Who is the woman who claims to be his granddaughter? Who is the sepulchral figure in robes of night? Which path should Hannibal's army take to Rome?
+
+And on a snowy mountain high in the Alps, the Doctor remembers the ultimate question: What if he and Susan had never left Gallifrey?</dc:description>
+    </metadata>
+</package>

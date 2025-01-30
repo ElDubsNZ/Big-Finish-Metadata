@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Lost Hearts</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-183-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Echoes"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lauren Mooney</dc:creator>
+        <dc:creator opf:role="aut">Stewart Pringle</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Hattie Morahan (Helen Sinclair)</dc:creator>
+        <dc:creator opf:role="nrt">Steve Brody (Monty James)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Pitts (Robert Sinclair)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Bentinck (Professor Alistair Gray)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Michaelmas term, 1903. In one of England's ancient universities, strange apparitions float between quads and cloisters.
+
+While Liv and Helen protect a naive undergraduate from a sinister society, the Doctor finds a ghost-hunting ally. One who happens to be the era's foremost chronicler of things that go bump in the night...</dc:description>
+    </metadata>
+</package>

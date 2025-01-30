@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Panacea</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2006-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-208-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 3"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (Lady Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela of the Sevateem)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9 Mk II)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Irving Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Coodinator Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">John Dorney (Captain Henzil)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Grunert (Surgeonmaster Elbon)</dc:creator>
+        <dc:creator opf:role="nrt">Hugo Myatt (Arkadian)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Perring (President Matthias)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Ross (Captain Janartis)</dc:creator>
+        <dc:creator opf:role="nrt">Dickon Tolson (Acting-Castellan Annos)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Chancellor Valyes)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>How much for just the planet?' 
+
+Gallifrey is ruined. The great and good of her once-mighty Capitol gather in disease-ridden shanty towns outside its walls. Her 'friends' in the Temporal Powers anticipate her total collapse, and the beginning of a new galactic order.
+
+The Time Lords' President has a drastic scheme to restore this world to its former glory but can a cure for all Gallifrey's ills really be found in the hands of entrepreneur, adventurer and self-confessed swine Mephistopheles Arkadian?
+
+And what of the Lady Romana? Exiled to her ancestral house of Heartshaven, she’s about to uncover the greatest threat that Gallifrey has ever faced, one that might yet cause the Time Lord race to become extinct...</dc:description>
+    </metadata>
+</package>

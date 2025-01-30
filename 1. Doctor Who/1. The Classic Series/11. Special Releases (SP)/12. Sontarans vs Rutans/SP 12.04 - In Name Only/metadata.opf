@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>In Name Only</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-374-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - Sontarans vs Rutans"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jonathon Carley (The War Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Debbie Korley (Blaxill)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Skole / Captain)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Ryan (Vrell / Technician)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Grix / Cadet / Cardinal / Skrine)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In the depths of the Time War, a Rutan attack on a Time Lord facility leads to Gallifrey declaring a vicious reprisal. But not all Time Lords support the action. One thinks there's more to the situation than meets the eye. And this Time Lord...was once called the Doctor.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Fate of Krelos</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-351-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 4"/>
+        <meta name="calibre:series_index" content="7"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Cochrane (Geralk)</dc:creator>
+        <dc:creator opf:role="nrt">Veronica Roberts (Relly / Krelos Major)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>There are dark skies on Krelos… and something gigantic is descending.
+
+Meanwhile, the Doctor and Leela set off for some fishing in the mountain pools of Krelos. K9 has interfaced with the TARDIS and has reactivated the architectural configuration from the days of the Doctor’s second incarnation. In passing, the Doctor notes it could do with a good clean. And there’s a familiar piece of material snagged on the console.
+
+Far up the mountain, an aged explorer is in trouble. Will the Doctor and Leela be able to save him and his planet? And what is it that K9 has discovered in the TARDIS?</dc:description>
+    </metadata>
+</package>

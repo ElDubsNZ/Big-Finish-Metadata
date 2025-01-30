@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>State of Bliss</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-385-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Time War - Volume 3"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Rakhee Thakrar (Bliss)</dc:creator>
+        <dc:creator opf:role="nrt">Anjli Mohindra (Calla)</dc:creator>
+        <dc:creator opf:role="nrt">Nina Wadia (Deepa)</dc:creator>
+        <dc:creator opf:role="nrt">John Scougall (Ryall / Sythes)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy Wiles (Spaceport Announcer / Robot Com / Theseus Coms)</dc:creator>
+        <dc:creator opf:role="nrt">Adèle Anderson (Major Tamasan)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Bliss has lost her home, her family, and her friends - an orphan of the Time War. The Doctor attempts to find out where things went wrong. Across a multiverse of possibilities, Bliss discovers the many paths her life could have taken - but do they always lead to the Time War?
+
+And if Bliss can save her past, will she destroy her future - and the Doctor's?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Forever</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-556-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 4"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Wise</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Councillor Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9 Mk II / The Krilig)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Colin Baker (Commentator Theta)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Bates (Overseer Thracken)</dc:creator>
+        <dc:creator opf:role="nrt">Carole Ann Ford (Sura)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Handcock (Captain Jevon)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Keetch (Coordinator Vansell)</dc:creator>
+        <dc:creator opf:role="nrt">Charlotte Parkyn (Young Slave)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Guard Valyes)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Gallifrey stops. 
+
+Romana has been assassinated... 
+
+The Time Lords have never existed... 
+
+Gallifrey's secrets are lost. 
+
+On a world they barely recognise, Narvin and Leela find themselves fighting to stay alive. Against all their expectations, brutality and barbarism reign. And Gallifrey's slaves are rising up to face their masters. 
+
+Before this day is out, their lives will change forever. And the world they know might end before it has even begun...</dc:description>
+    </metadata>
+</package>

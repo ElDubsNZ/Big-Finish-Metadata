@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Wrong Doctors</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-051-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="169"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Melanie Bush)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Ksllak)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Vaneesh)</dc:creator>
+        <dc:creator opf:role="nrt">Tony Gardner (Stapleton Petherbridge)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Jedediah Thurwell)</dc:creator>
+        <dc:creator opf:role="nrt">Patricia Leventon (Mrs Wilberforce)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>With Evelyn gone, the Doctor sets course for his destiny... in the form of his first meeting with Miss Melanie Bush, a computer programmer from the village of Pease Pottage, currently busy rehearsing with the local Amateur Dramatic Society - and blissfully unaware that her future is on its way, in his TARDIS.
+
+Make that two TARDISes. Because at that very moment, a slightly younger Doctor is flying into Pease Pottage, too - returning his future companion Melanie Bush to her rightful place and time, after they were flung together during the course of his Time Lord trial.
+
+Time travel is a complicated business - the iguanadon terrorising Pease Pottage being a case in point. But how much more complicated could things possibly become, if the wrong Doctor were to bump into the wrong Mel?</dc:description>
+    </metadata>
+</package>

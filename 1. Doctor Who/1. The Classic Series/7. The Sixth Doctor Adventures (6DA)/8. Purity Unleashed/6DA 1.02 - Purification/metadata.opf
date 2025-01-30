@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Purification</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-888-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Sixth Doctor Adventures - Purity Unleashed"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Chris Chapman</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Mel)</dc:creator>
+        <dc:creator opf:role="nrt">Imogen Stubbs (Patricia McBride)</dc:creator>
+        <dc:creator opf:role="nrt">Leah Brotherhead (Elizabeth / Martha)</dc:creator>
+        <dc:creator opf:role="nrt">Jonny Weldon (Thomas Rodden)</dc:creator>
+        <dc:creator opf:role="nrt">Greig Johnson (Jasper Woodward / Sir Gerald / Toby / The Harbour Master)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and Mel follow the trail to a port in New Zealand, 1910. A ship is being prepared for a journey to Antarctica and the Doctor realises that this is Captain Scott's Terra Nova expedition. But this is merely the beginning of an intricate scheme to rewrite the future of humanity.</dc:description>
+    </metadata>
+</package>

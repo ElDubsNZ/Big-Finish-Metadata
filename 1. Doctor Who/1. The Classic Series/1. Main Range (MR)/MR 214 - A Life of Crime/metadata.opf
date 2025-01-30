@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>A Life of Crime</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-889-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="214"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Melanie Bush)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Mayor / Sperovore Auditor / Sperovore Financer)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Hagan (Nathan Later)</dc:creator>
+        <dc:creator opf:role="nrt">Ginny Holder (Gloria / Secretary)</dc:creator>
+        <dc:creator opf:role="nrt">Des McAleer (Lefty Lonnigan)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Myers (Atomon / Sperovore Banker / Steward)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Come to Ricosta! Tropical climate, untouched beaches, fabulous cuisine... and no extradition treaties. The perfect retirement planet for a certain type of 'business person' – such as Ms Melanie Bush, formerly the co-owner of the Iceworld emporium, now on the run from her former criminal associate's criminal associates...
+
+Some other former associates of Ms Bush are abroad in this space Costa del Crime, however. Not long ago, the time and space traveller known as the Doctor arrived here, alongside his sometimes-criminal associate, the reformed juvenile offender Ace. But now the Doctor's gone missing – and Melanie Bush is about to learn that on the planet Ricosta, the wages of sin... are death.</dc:description>
+    </metadata>
+</package>

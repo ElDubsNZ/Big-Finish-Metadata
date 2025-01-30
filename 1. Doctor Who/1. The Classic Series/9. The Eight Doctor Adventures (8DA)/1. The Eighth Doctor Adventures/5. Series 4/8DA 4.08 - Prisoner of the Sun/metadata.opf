@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Prisoner of the Sun</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-482-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Series 4"/>
+        <meta name="calibre:series_index" content="8"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sheridan Smith (Daphne / Chloe)</dc:creator>
+        <dc:creator opf:role="nrt">Richenda Carey (Gliss)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Shill)</dc:creator>
+        <dc:creator opf:role="nrt">Pandora Colin (Fash)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Costa (Hagan)</dc:creator>
+        <dc:creator opf:role="nrt">Jeany Spark (Jelena)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Six years after being captured by the galaxy-spanning organisation known only as The Consensus, the Doctor lives inside a hi-tech complex at the heart of an unstable sun, condemned to an eternity maintaining its systems. A moment's carelessness could cause the star to collapse – and the deaths of billions.
+
+Watched over by liquid guards, the Mercurials, the Doctor's only company at the heart of the sun is his assistant 'Daphne' – the latest in a line of android helpers. But rebels have their eyes on the sun, and its lonely controller – and are prepared to risk even a galactic cataclysm to secure the Doctor's release…</dc:description>
+    </metadata>
+</package>

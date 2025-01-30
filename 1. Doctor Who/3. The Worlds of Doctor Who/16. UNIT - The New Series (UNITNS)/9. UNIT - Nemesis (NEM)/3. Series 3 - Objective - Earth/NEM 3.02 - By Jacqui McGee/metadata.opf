@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>By Jacqui McGee</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-627-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - Nemesis - Series 3 - Objective - Earth"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lisa McMullin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jemma Redgrave (Kate Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Ingrid Oliver (Osgood)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy Wiles (Jacqui McGee)</dc:creator>
+        <dc:creator opf:role="nrt">Eleanor Crooks (Naomi Cross)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Lew Kum Hoi (Jimmy Tan)</dc:creator>
+        <dc:creator opf:role="nrt">Suan-Li Ong (Yang Li)</dc:creator>
+        <dc:creator opf:role="nrt">David Holt (Commander Krillen)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Josh Carter)</dc:creator>
+        <dc:creator opf:role="nrt">Alisdair Simpson (Lord Varliss)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>As Kate Stewart and the UNIT team race to escape a Vulpreen assassination squad, Jacqui McGee uploads the most important report of her career. 
+
+Vulpreen Commander Krillen is coordinating a hostile operation across planet Earth. But are the Vulpreen planning an immediate attack, or do they have something more sinister in mind?</dc:description>
+    </metadata>
+</package>

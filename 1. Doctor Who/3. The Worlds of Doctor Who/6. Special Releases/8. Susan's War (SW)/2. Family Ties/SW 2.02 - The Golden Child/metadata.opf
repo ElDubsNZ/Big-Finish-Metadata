@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Golden Child</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-977-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Susan's War - Series 2 - Family Ties"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Peter Anghelides</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Carole Ann Ford (Susan)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathon Carley (The War Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Tania Rodrigues (Andolar)</dc:creator>
+        <dc:creator opf:role="nrt">Sebastian Humphreys (Maxor)</dc:creator>
+        <dc:creator opf:role="nrt">Bruce Alexander (Jadzis)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Veklin)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A key ally to Gallifrey has winked out of existence. When Susan investigates the disappearance of this gifted politician and strategist, she finds someone else is also interested in the changed timeline.
+
+The interloper is her grandfather. But this version of the Doctor is from the future of the Time War, and he's not the man Susan remembers...</dc:description>
+    </metadata>
+</package>

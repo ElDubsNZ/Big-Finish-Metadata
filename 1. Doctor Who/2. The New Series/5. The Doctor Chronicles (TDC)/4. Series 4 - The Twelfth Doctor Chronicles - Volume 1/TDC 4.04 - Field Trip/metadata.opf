@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Field Trip</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-093-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Twelfth Doctor Chronicles - Volume 1"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Una McCormack</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jacob Dudman (The Narrator / The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Ingrid Oliver (Osgood)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Osgood gets an offer she can’t resist when the Doctor drops in - her first flight in the TARDIS!
+
+The Doctor is calling on Osgood’s expertise to stop an invasion, but what begins as a fact-finding mission quickly becomes something far more dangerous. Osgood’s intergalactic field trip is about to get very hands-on!</dc:description>
+    </metadata>
+</package>

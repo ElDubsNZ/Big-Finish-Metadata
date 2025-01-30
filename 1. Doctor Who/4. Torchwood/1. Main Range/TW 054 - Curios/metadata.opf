@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Curios</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-531-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="54"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Murray Melvin (Bilis Manger)</dc:creator>
+        <dc:creator opf:role="nrt">Rosie Baker (Jill Anderson)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Gravelle (Wilf Church)</dc:creator>
+        <dc:creator opf:role="nrt">Laurie Kynaston (Brent Hall)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>During World War Two, the Torchwood Archive has been stowed away in a Welsh coal mine along with countless other treasures. Bilis Manger is among them. And there's something hunting him in the dark. 
+
+Jill has been sent to catalogue the collection. She's on her own, she's in disgrace and there's something hunting her on the slopes of the mountain.</dc:description>
+    </metadata>
+</package>

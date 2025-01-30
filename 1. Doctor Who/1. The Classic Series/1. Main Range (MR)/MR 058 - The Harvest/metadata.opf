@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Harvest</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2004-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-096-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="58"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Dan Abnett</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Olivier (Hex)</dc:creator>
+        <dc:creator opf:role="nrt">Janie Booth (System)</dc:creator>
+        <dc:creator opf:role="nrt">William Boyde (Subject One)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Derrington (Doctor Stephen Farrer)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Donovan (Polk)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Lacoux (Doctor Mark Mathias)</dc:creator>
+        <dc:creator opf:role="nrt">David Warwick (XSO David Garnier)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On the morning of October 12th, 2021 Hex woke up. He was expecting to go to work at St Gart's in London as normal and, that evening, have a great time in the bar of the White Rabbit, celebrating his 23rd birthday.
+
+But after his ex-flatmate is wheeled into A&E following a bike accident, and the strange young woman from Human Resources tries to chat him up and an eight-foot tall guy in a Merc tries to run him down, Hex realises things are not going quite as he expected.
+
+Then in a Shoreditch car park he meets the enigmatic Doctor who explains that he's an extra-terrestrial investigator and something very strange is going on up on the thirty-first floor of St Garts.
+
+Therefore, aided and abetted by the Doctor and his other new friend 'Just McShane', Hex decides to investigate. Trouble is, everything that goes on at the hospital is being observed and noted by the occupants of the thirty-first floor. Occupants who are none too pleased that people are poking their noses into business that doesn't concern them. Occupants who will go to extraordinary lengths to ensure that no one discovers the truth.</dc:description>
+    </metadata>
+</package>

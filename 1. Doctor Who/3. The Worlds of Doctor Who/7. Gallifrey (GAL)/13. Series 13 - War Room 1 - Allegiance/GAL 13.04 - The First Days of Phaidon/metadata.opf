@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The First Days of Phaidon</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-835-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 12 - War Room 1 - Allegiance"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Sophie Iles</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Ken Bones (The General)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Dalek Commander / Daleks / Recon Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">LJ Parkinson (Neander)</dc:creator>
+        <dc:creator opf:role="nrt">Hywel Morgan (Commander Daari)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Clemens (The Sentient Storm)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Jarman (Cardinal Rasmus)</dc:creator>
+        <dc:creator opf:role="nrt">Carolyn Pickles (Cardinal Ollistra)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Commander Veklin)</dc:creator>
+        <dc:creator opf:role="nrt">Lara Lemon (Junior Warpwright)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Phaidon was one of the first worlds destroyed in the Time War - but now it is back. Daleks and Time Lords race to the planet’s new location: something has arrived which could turn the course of the war. And for Leela, an even greater shock awaits...</dc:description>
+    </metadata>
+</package>

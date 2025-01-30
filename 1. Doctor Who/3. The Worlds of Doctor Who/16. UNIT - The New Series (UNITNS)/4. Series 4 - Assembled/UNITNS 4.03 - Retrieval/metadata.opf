@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Retrieval</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-618-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - The New Series - Series 4 - Assembled"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jemma Redgrave (Kate Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Ingrid Oliver (Osgood)</dc:creator>
+        <dc:creator opf:role="nrt">Warren Brown (Sam Bishop)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Josh Carter)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Hope (Jastrok)</dc:creator>
+        <dc:creator opf:role="nrt">Neve McIntosh (Tryska / Kalana)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>As the Earth's primeval rulers reclaim their birthright, UNIT must stand against them. Kate Stewart and Osgood venture into a Mediterranean stronghold to retrieve a means to fight back. 
+
+But a Silurian warrior is on their trail. Once she has the humans' scent, Commander Tryska will never give up the hunt.</dc:description>
+    </metadata>
+</package>

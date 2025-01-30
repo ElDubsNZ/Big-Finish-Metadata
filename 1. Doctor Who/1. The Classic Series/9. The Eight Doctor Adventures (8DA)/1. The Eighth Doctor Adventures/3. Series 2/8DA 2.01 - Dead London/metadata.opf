@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Dead London</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-308-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Series 2"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Pat Mills</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sheridan Smith (Lucie Miller)</dc:creator>
+        <dc:creator opf:role="nrt">Clare Buckfield (Spring-Heeled Sophie)</dc:creator>
+        <dc:creator opf:role="nrt">Duncan James (Street Seller / Passerby / Herald)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Laing (Turnkey / Sergeant / Tram Driver / Clerk / Heckler / Policeman / Band Leader)</dc:creator>
+        <dc:creator opf:role="nrt">Katarina Olsson (Yellow Beryl / Miss Olm)</dc:creator>
+        <dc:creator opf:role="nrt">Rupert Vansittart (Sepulchre / Judge Jeffreys / Bellman / Kletch / Blackout Killer / Archdruid)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"Someone's playing with us. Manipulating time and space for their own ends."
+
+The TARDIS lands in London. But which one? The Doctor and Lucie find themselves trapped in a maze of interlocking Londons from Roman times to the present day.
+
+But they are not alone in this labyrinth: a killer is on their trail.</dc:description>
+    </metadata>
+</package>

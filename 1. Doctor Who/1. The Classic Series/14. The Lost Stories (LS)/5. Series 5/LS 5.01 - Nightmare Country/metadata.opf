@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Nightmare Country</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-813-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 5"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Stephen Gallagher</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Strickson (Vislor Turlough)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Zorya / Tasja)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Conningham (Maximov / Konis)</dc:creator>
+        <dc:creator opf:role="nrt">Edward Dede (Volos / Vodyani Leader)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy Wiles (Marzanna / Engel)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor wakes up on a planet of relics, a dead world, a hostile world... He has no memory of who he is, or how he got to be here. He'd better remember soon, because the very structure of reality is at risk and it all has something to do with that strange blue tomb with the light on top.</dc:description>
+    </metadata>
+</package>

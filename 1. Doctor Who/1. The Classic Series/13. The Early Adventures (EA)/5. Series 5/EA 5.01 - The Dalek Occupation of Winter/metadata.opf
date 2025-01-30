@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Dalek Occupation of Winter</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-960-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Early Adventures - Series 5"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David K Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Maureen O'Brien (Vicki)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Purves (Steven Taylor / The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Daws (Gaius Majorian)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Jacobs-Morgan (Kenrik Vost)</dc:creator>
+        <dc:creator opf:role="nrt">Shvorne Marks (Amala Vost)</dc:creator>
+        <dc:creator opf:role="nrt">Sara Powell (Jacklyn Karna)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS lands in the capital city of a planet deep in the midst of an endless winter. The population are celebrating a new crop of candidates winning roles at the scientific research centre. Those who go there dedicate their lives to continued service and are rarely, if ever, seen again. Not everyone is happy to see them leave.
+
+As the Doctor, Steven and Vicki watch, the city leader - Majorian - invites onto the stage in front of the happy crowd their ‘friend who made all this possible’… and a Dalek appears.
+
+The people of this planet seem to be living in perfect harmony with the Doctor’s old enemies. But the TARDIS crew know this cannot be true. So what’s really going on?</dc:description>
+    </metadata>
+</package>

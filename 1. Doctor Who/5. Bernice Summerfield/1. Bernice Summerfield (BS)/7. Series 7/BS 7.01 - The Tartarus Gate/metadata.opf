@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Tartarus Gate</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2006-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-129-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 7"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Stewart Sheargold</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Fewell (Jason Kane)</dc:creator>
+        <dc:creator opf:role="nrt">Julia Righton (La'Heyne)</dc:creator>
+        <dc:creator opf:role="nrt">Crispin Shingler (N1-cian 137)</dc:creator>
+        <dc:creator opf:role="nrt">Neville Watchurst (CroSScape)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Joseph)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Benny is missing, having not returned from a dig. Kidnapped expertly. Removed from time and space completely. Jason, of course, uses every means at his disposal to find her. But resources are limited: the Braxiatel Collection has its own far more urgent problems.
+
+Then he receives information on her possible whereabouts, from a benevolent religious order known as the CroSSScape.
+
+Why is Benny on the planet Cerebus Iera, a planet on the cliff-edge of the universe? A planet that is known to be violent, dangerous, and uninhabitable. A planet rumoured to have links to the Tartarus Gate, the mythical gateway to hell.</dc:description>
+    </metadata>
+</package>

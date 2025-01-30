@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Return of the Repressed</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-103-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jago & Litefoot - Series 6"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matthew Sweet</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Trevor Baxter (Professor George Litefoot)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Adrian Lukis (Sigmund Freud)</dc:creator>
+        <dc:creator opf:role="nrt">Elizabeth McKechnie (Madame Anna/Mother)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Henry Gordon Jago is troubled. He's having disturbing dreams and the waking hours aren't much better... 
+
+Only one man can help - renowned Austrian mental pathologist Sigmund Freud. But even Freud isn't prepared for what he will discover in the mind of an infernal investigator...</dc:description>
+    </metadata>
+</package>

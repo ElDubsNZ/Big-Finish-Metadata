@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Serpent in the Silver Mask</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-821-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="236"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Llewellyn</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Waterhouse (Adric)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Phil Cornwell (Superintendent Galgo / Zaleb 5)</dc:creator>
+        <dc:creator opf:role="nrt">Samuel West (The Mazzini Family)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Winkleman (Sofia)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>You are cordially invited to Argentia, the galaxy’s most exclusive tax haven, to attend the funeral of mining magnate Carlo Mazzini. The memorial service will be followed by music, light refreshments, and murder!
+
+Carlo’s heirs have come to say their final goodbyes (and find out how much they’ve inherited) but when a masked killer begins picking them off one by one, Argentia goes into lock-down, closed off behind its own temporal displacement field.
+
+Can the Doctor, Nyssa, Tegan and Adric apprehend the murderer before Argentia – and everyone on board - is forever cut off from the rest of the Universe?</dc:description>
+    </metadata>
+</package>

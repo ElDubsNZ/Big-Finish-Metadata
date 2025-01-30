@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Nightmare Fair</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-444-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Graham Williams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">david bailie (The Celestial Toymaker)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Faulkner (Woman)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Fettes (Stefan)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Longworth (Yatsumoto / Truscott / Manager / Man)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Noble (Kevin)</dc:creator>
+        <dc:creator opf:role="nrt">William Whymper (Shardlow / Attendant)</dc:creator>
+        <dc:creator opf:role="nrt">Duncan Wisbey (Humandroid / Security Man / Geoff / Guard)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Lost Stories: Adventures that were originally written for the Doctor Who television series but never made. Now available to hear for the first time…
+
+The TARDIS has been drawn to Blackpool in the year 1985, where the Doctor intends to investigate a dangerous space/time vortex… while enjoying some local attractions along the way. But an old enemy is watching from his base deep within the amusement park, a timeless being who craves revenge.
+
+The Celestial Toymaker has returned. The game is on. And, should he lose, the Doctor will pay the ultimate forfeit…</dc:description>
+    </metadata>
+</package>

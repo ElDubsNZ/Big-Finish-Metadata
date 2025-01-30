@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Dispossessed</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-833-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="242"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mark Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Melanie Bush)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Nick Ellsworth (Arkallax)</dc:creator>
+        <dc:creator opf:role="nrt">Stirling Gallacher (Isobel)</dc:creator>
+        <dc:creator opf:role="nrt">Anna Mitcham (Jan)</dc:creator>
+        <dc:creator opf:role="nrt">Morgan Watkins (Ruck)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor, Ace and Mel are caught in a forever night. After crossing the threshold, a strange world awaits them.
+
+An army of tortured souls. A lift that leads to an alien landscape. An alien warlord, left for dead, and willing to do anything to prolong his life… it’s all in a day’s work for the Doctor.
+
+But when his companions become victims of the desperate and powerful Arkallax, the Doctor will have to do battle in a psychic environment where he must make a choice. Save his companions… or himself.</dc:description>
+    </metadata>
+</package>

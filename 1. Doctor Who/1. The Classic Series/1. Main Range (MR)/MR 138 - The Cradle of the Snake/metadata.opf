@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Cradle of the Snake</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-474-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="138"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Strickson (Vislor Turlough)</dc:creator>
+        <dc:creator opf:role="nrt">Vernon Dobtcheff (Dadda Desaka / Policeman)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Tuk Tuk Driver)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Fraser (Dr Honri Kerrem / Showman)</dc:creator>
+        <dc:creator opf:role="nrt">Madeleine Potter (Yoanna Rayluss)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Sawyer (Baalaka)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Stevens (Rick Ausgarten)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"The Mara is in all of us, deep in our minds. In our darkest thoughts, that’s where it started. Some people call it a demon, but that’s too simple. It’s about temptation."
+
+Tegan's nightmares have returned. Seeking to banish the snake-like Mara from his companion's psyche, the Doctor sets course for Manussa, the creature's point of origin. But the TARDIS arrives instead in the heyday of the Manussan Empire, where infotainment impresario Rick ausGarten is preparing to turn dreams into reality.
+
+The sun is setting on the Manussan Empire… and it's all the Doctor's fault.</dc:description>
+    </metadata>
+</package>

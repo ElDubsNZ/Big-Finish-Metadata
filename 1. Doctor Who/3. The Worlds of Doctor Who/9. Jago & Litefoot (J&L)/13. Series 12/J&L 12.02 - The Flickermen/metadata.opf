@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Flickermen</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-362-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jago & Litefoot - Series 12"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Baxter (Professor George Litefoot)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Ellie)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Asquith (Inspector Quick)</dc:creator>
+        <dc:creator opf:role="nrt">Ronald Pickup (The Old One)</dc:creator>
+        <dc:creator opf:role="nrt">Ronan Vibert (Mr Ravener)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline King (Old Ma Hambley)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Whitmey (Robert W Paul)</dc:creator>
+        <dc:creator opf:role="nrt">David John (Pete Stepney)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Jago is rather scathing of the new art of cinematography. Even so, he accompanies Litefoot to see a demonstration at a fairground. But this is no ordinary film. Can creatures live inside the film – or even escape from it? 
+
+Ellie recalls childhood stories about the "Flickermen", and elsewhere people start to flicker in and out of existence. By the end of their adventure, Jago and Litefoot will themselves be film stars. But what they see when the film of them is shown will give them both pause for thought…</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Made You Look</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-217-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="12"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Eve Myles (Gwen Cooper)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Gravelle (Darkness)</dc:creator>
+        <dc:creator opf:role="nrt">Marilyn Le Conte (Mrs Rhodes)</dc:creator>
+        <dc:creator opf:role="nrt">Ross Ford (James)</dc:creator>
+        <dc:creator opf:role="nrt">Kai Owen (Rhys Williams)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"It stalks you. It whispers. It wants you to turn around. It wants you to look. But if you do... If you see it..." 
+
+Talmouth is a lonely seaside town. No-one has heard from it for days. No-one who goes in comes out. Something has happened to Talmouth. Has it been taken over by aliens? Or is it something far, far worse? 
+
+Gwen Cooper's come to Talmouth to find out. What's happened has to be seen to be believed. But by the time you've seen it, you're already dead.</dc:description>
+    </metadata>
+</package>

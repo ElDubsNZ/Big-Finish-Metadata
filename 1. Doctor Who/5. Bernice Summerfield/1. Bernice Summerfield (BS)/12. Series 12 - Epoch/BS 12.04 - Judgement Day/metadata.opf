@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Judgement Day</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-598-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 12 - Epoch"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Scott Handcock</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Ayesha Antoine (Ruth)</dc:creator>
+        <dc:creator opf:role="nrt">Marcus Hutton (Leonidas)</dc:creator>
+        <dc:creator opf:role="nrt">David Ames (Jack)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Irving Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">John Ainsworth (Robot)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy Brabin (The Queen)</dc:creator>
+        <dc:creator opf:role="nrt">Prentis Hancock (Craisus)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Handcock (Guard Captain / Cavemen)</dc:creator>
+        <dc:creator opf:role="nrt">Graeme Henderson (Constable)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Johnson (Darion)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Mallinson (Driver)</dc:creator>
+        <dc:creator opf:role="nrt">John Montgomery (Acanthus / Heskith)</dc:creator>
+        <dc:creator opf:role="nrt">Rebecca Newman (Helena)</dc:creator>
+        <dc:creator opf:role="nrt">John Stahl (Poseidon)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Thompson (The Epoch)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Turner (Urchin)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Wright (Shopper)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Atlantis has fallen. The Epoch are in command. And terrible decisions lie in wait for Bernice Summerfield.
+
+Bernice and her comrades will be put to the ultimate test – facing Neanderthals on prehistoric Earth; alien creatures on the streets of Victorian London; and the Epoch in the far, far future – but which world will they choose to make their home?
+
+Their journeys have been long and arduous. But soon, they will all end. Because Bernice Summerfield dies today… and, when she does, reality will fall apart around her.</dc:description>
+    </metadata>
+</package>

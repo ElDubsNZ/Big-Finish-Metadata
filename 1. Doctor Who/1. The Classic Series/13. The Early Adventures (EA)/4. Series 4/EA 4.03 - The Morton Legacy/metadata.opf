@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Morton Legacy</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-956-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Early Adventures - Series 4"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Justin Richards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Anneke Wills (Polly Wright / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Frazer Hines (Jamie McCrimmon / The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Elliot Chapman (Ben Jackson)</dc:creator>
+        <dc:creator opf:role="nrt">Ewan Bailey (Blazzard / Copeland)</dc:creator>
+        <dc:creator opf:role="nrt">Alan Blyton (Dexter)</dc:creator>
+        <dc:creator opf:role="nrt">Kerry Gooderson (Jemma Morton)</dc:creator>
+        <dc:creator opf:role="nrt">David Sibley (Josiah Morton)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the TARDIS lands in London, Ben and Polly are initially delighted to be back home… until they realise that they’re a hundred years too early. But this is nothing next to how the Doctor and Jamie feel when the TARDIS itself vanishes!
+
+Their attempts to locate their ship lead them to an antiquarian, Josiah Morton, possessed of a most unusual collection that is currently subjected to a legal dispute. But they’re not the only people interested in him. Dangerous criminals watch from the shadows, waiting for a moment to strike. And the police are calling too - accusing him of murder.
+
+An unusual series of deaths have been occurring across the capital, and all signs point to Morton as the culprit. But is he really a killer? Or is there something else at large in the city? Something… alien?</dc:description>
+    </metadata>
+</package>

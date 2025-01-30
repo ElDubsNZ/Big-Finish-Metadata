@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Similarity Engine</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-494-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jago & Litefoot - Series 1"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andy Lane</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Baxter (George Litefoot)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Ellie Higson)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Asquith (Sergeant Quick)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Longworth (Doctor Tulp)</dc:creator>
+        <dc:creator opf:role="nrt">Matt Steer (Smitty)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Lowe (Sergeant Lange/Ragamuffin)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Constable Lee)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Mallinson (Alf)</dc:creator>
+        <dc:creator opf:role="nrt">David Collings (Gabriel Sanders)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When Jago takes a tumble on an unseasonably icy road, he ends up in hospital. But this is no ordinary medical establishment, and the patients are suffering from no ordinary illnesses. At last, the fiendish scheme of Dr Tulp is drawing to its cataclysmic climax. The Similarity Engine is operational. And a new, improved model of mahogany murderers have been unleashed...</dc:description>
+    </metadata>
+</package>

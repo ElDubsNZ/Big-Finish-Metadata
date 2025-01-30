@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Great Space Elevator</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-351-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 3"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Deborah Watling (Victoria Waterfield / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Helen Goldwyn (Tara Kerley)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A new adventure with the Second Doctor as told by his companion, Victoria Waterfield.
+
+The Great Space Elevator is a marvel of human engineering; a transit tube stretching from the equator up to a space station held in geosynchronous orbit.
+
+When the TARDIS lands in Sumatra in the future, the Second Doctor, Jamie and Victoria are captured by guards just as the station loses power. Together with Security Officer Tara Kerley, the three travellers take a one-way trip on the elevator to fix the problem, and find themselves confronted by a powerful alien force that threatens to wreak chaos on Earth…</dc:description>
+    </metadata>
+</package>

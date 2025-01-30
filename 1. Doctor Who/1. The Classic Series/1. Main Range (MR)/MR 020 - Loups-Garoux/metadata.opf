@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Loups-Garoux</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2001-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-429-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="20"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Strickson (Vislor Turlough)</dc:creator>
+        <dc:creator opf:role="nrt">Eleanor Bron (Ileana de Santos)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Burke (Inez)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Victor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Gale (Rosa Caiman)</dc:creator>
+        <dc:creator opf:role="nrt">David Hankinson (Anton Lichtfuss)</dc:creator>
+        <dc:creator opf:role="nrt">Nicky Henson (Pieter Stubbe)</dc:creator>
+        <dc:creator opf:role="nrt">Burt Kwouk (Doctor Hayashi)</dc:creator>
+        <dc:creator opf:role="nrt">Alistair Lock (Greetings Card)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Pegg (Magistrate)</dc:creator>
+        <dc:creator opf:role="nrt">Marc Platt (Tourist)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Wright (Jorge)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Germany 1589: the townspeople of Cologne pronounce a sentence of death on a mass-murderer who has stalked the countryside in the guise of a ferocious wolf.
+
+Russia 1812: retreating from Napoleon's invading forces, a merchant's daughter is rescued from bandits by a handsome partisan with a ravenous appetite.
+
+Brazil 2080: The Doctor and Turlough arrive for the Rio de Janeiro carnival.
+
+Is wealthy heiress Ileana de Santos all that she seems? What sinister ailment afflicts her invalid son, tended by the mysterious Dr Hayashi? And who exactly is Rosa, engaged on a secret quest to fulfil the destiny of her extinct tribe?
+
+Time is running out for Rosa, Ileana and the Doctor, as the fearsome shadow of an ancient werewolf moves ever closer...</dc:description>
+    </metadata>
+</package>

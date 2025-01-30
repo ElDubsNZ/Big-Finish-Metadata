@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>I Went to a Marvellous Party</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-942-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Diary of River Song - Series 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Justin Richards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Alexander Vlahos (Bertie Potts)</dc:creator>
+        <dc:creator opf:role="nrt">Alexander Siddig (Marcus Gifford)</dc:creator>
+        <dc:creator opf:role="nrt">Imogen Stubbs (Isabella Clerkwell)</dc:creator>
+        <dc:creator opf:role="nrt">John Voce (Jenkins)</dc:creator>
+        <dc:creator opf:role="nrt">Letty Butler (Spritz)</dc:creator>
+        <dc:creator opf:role="nrt">Samuel West (Mr Song)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Navigation computer)</dc:creator>
+        <dc:creator opf:role="nrt">Aaron Neil (Departing guest)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>River Song always enjoys a good party, even when she's not entirely sure where or when the party is taking place. But the party she ends up at is one where not everything — or indeed everyone — is what it seems... 
+
+Being River, it doesn't take her too long to go exploring, and it doesn't take her too long to get into trouble. The sort of trouble that involves manipulating other civilisations, exploitation, and of course murder. 
+
+River is confident she can find the killer. But can she identify them before anyone else — or quite possibly everyone else — gets killed?</dc:description>
+    </metadata>
+</package>

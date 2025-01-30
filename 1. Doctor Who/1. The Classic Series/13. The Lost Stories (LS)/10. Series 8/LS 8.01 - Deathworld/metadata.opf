@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Deathworld</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-220-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 8"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Dave Martin</dc:creator>
+        <dc:creator opf:role="aut">Bob Baker</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jon Culshaw (Brigadier Lethbridge-Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Frazer Hines (Jamie McCrimmon)</dc:creator>
+        <dc:creator opf:role="nrt">Katy Manning (Jo Grant)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Noonan (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Treloar (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Troughton (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">David O'Mahony (Deadly Sins)</dc:creator>
+        <dc:creator opf:role="nrt">Dianne Pilkington (The President)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Shire (Death)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor was dead, to begin with. Killed alongside his beloved Jo Grant in an explosion in the UNIT labs. But Time Lords are notoriously hard to kill.
+
+Because with UNIT under siege, the Brigadier is rescued by two familiar faces... the Doctor he first encountered, fighting the Yeti, and Jamie McCrimmon. With yet one more waiting in the wings.
+
+They are all pawns in a deadly game of chess played by a being more powerful than any they’ve ever encountered before. And when you battle Death himself... can anyone even win?
+
+Adapted from the original treatment by Bob Baker and Dave Martin for what later became the TV episode The Three Doctors.</dc:description>
+    </metadata>
+</package>

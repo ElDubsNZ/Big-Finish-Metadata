@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Lost Son</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-977-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Susan's War - Series 2 - Family Ties"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Sarah Cassidy</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Carole Ann Ford (Susan)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Veklin)</dc:creator>
+        <dc:creator opf:role="nrt">Rosalyn Landor (Chief Shethan)</dc:creator>
+        <dc:creator opf:role="nrt">Heather Bleasdale (Priestess Vesselina)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Bleasdale (Luux / Petra)</dc:creator>
+        <dc:creator opf:role="nrt">Damian Lynch (Rasmus)</dc:creator>
+        <dc:creator opf:role="nrt">Sonny McGann (Alex)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathon Carley (The War Doctor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Still reeling from meeting her Grandfather back on Earth, Susan is assigned to assist a mother in search of her son. Priestess Vesselina is the new ruler of her world, and someone Gallifrey is keen to recruit as an ally.
+
+But strange forces are at work on Materos, and Susan's empathy becomes a weapon to be used against her...</dc:description>
+    </metadata>
+</package>

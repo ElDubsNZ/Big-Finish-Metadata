@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Twisted Folklore</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-169-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Stranded 3"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizzie Hopley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Hattie Morahan (Helen Sinclair)</dc:creator>
+        <dc:creator opf:role="nrt">Rebecca Root (Tania Bell)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Whitelock (Kallure / Riggs)</dc:creator>
+        <dc:creator opf:role="nrt">Rakie Ayola (Professor Victoria Wilks)</dc:creator>
+        <dc:creator opf:role="nrt">Aurora Burghart (Marifen)</dc:creator>
+        <dc:creator opf:role="nrt">Anjella Mackintosh (Kray-La)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Tracking the course of the future, the Doctor and friends arrive on Rarkelia - where human forces rule. Earth - and Divine Intervention - are shaping the universe in their own image.
+
+Helen, Liv and Tania embed themselves in society, while the Doctor starts a revolution.</dc:description>
+    </metadata>
+</package>

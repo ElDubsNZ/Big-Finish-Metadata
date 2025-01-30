@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>I, Kamelion</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-01-04</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - Interludes"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Dominic G. Martin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Dan Starkey (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The planet Tairot is a haven for technology, dedicated to improving the quality of life for its inhabitants one cerebral implant at a time. And yet with no memory to guide him, Kamelion finds himself to now be one of those inhabitants, taken from his self-imposed exile and forced into a human body. A seemingly permanent one. 
+
+With a new conspiracy unfolding around him, Kamelion begins his quest to find answers. Why have the Doctor and Turlough become public enemy number one? What is the truth behind the planet's technology? And most of all…how does an android dream of electric beasts?</dc:description>
+    </metadata>
+</package>

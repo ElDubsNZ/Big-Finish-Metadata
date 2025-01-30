@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Kingdom of Silver</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-321-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="112"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Swallow</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Cyber-Control / Cybermen / Guard 1)</dc:creator>
+        <dc:creator opf:role="nrt">James George (Merel / PA Voice)</dc:creator>
+        <dc:creator opf:role="nrt">Holly King (Etin)</dc:creator>
+        <dc:creator opf:role="nrt">Terry Molloy (Magus Riga / Guard 2)</dc:creator>
+        <dc:creator opf:role="nrt">Bunny Reed (Ardith)</dc:creator>
+        <dc:creator opf:role="nrt">Neil Roberts (Temeter)</dc:creator>
+        <dc:creator opf:role="nrt">Kate Terence (Sara)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Kingdom of Silver
+
+The Doctor arrives on Tasak in search of refreshment, armed with nothing more than a kettle.  But this is a time of crisis for a civilisation about to enter an industrial age. 
+
+Mindful that a devastating war is only recently over, the wise and revered Magus Riga will do almost anything to save his people from the follies of the past. But the road to hell is paved with good intentions. And the planet Tasak is host to ancient powers buried deep and long forgotten. Can visitors from another world avert disaster or will their intervention drag this innocent world into the Orion War?
+
+Keepsake (A One-Part Story)
+
+Sifting through the technological junk of Reclaim Platform Juliet-November-Kilo, the Doctor discovers evidence of a personal tragedy involving some friends of his. Where will the story of their fate lead?</dc:description>
+    </metadata>
+</package>

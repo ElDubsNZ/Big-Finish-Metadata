@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Exotron</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2007-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-177-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="95.1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Sutton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown / Soldier)</dc:creator>
+        <dc:creator opf:role="nrt">Isla Blair (Paula)</dc:creator>
+        <dc:creator opf:role="nrt">Nick Brimble (Shreeni / Ballentyne / Private)</dc:creator>
+        <dc:creator opf:role="nrt">Clare Calbraith (Trooper Calbraith / Scientist / Infected Patient)</dc:creator>
+        <dc:creator opf:role="nrt">John Duttine (Major Taylor)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Earl (Corporal Mozz / Christian / Sergeant / Pilot)</dc:creator>
+        <dc:creator opf:role="nrt">Douglas Hodge (Commander Edge / Customer)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Lloyd (Kettoo)</dc:creator>
+        <dc:creator opf:role="nrt">Barry McCarthy (Palgrave / Psychopath)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Coordinator Harom)</dc:creator>
+        <dc:creator opf:role="nrt">Claire Wyatt (Weiss / Farakosh / Tannoy / Computer)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Farakosh attack us - and my Exotrons defend us.'
+On a distant colonial outpost of Earth, a group of terraformers is under threat from the planet's most fearsome predator: the giant carnivorous Farakosh. All that stands between the colonists and a grisly death are the Exotrons - huge robots equipped with devastating firepower, designed by the outpost's leader, Major Taylor.
+
+But all is not as it seems. How are the Exotrons controlled, and where did the colonists find the resources to build them? The Doctor wants answers and Taylor is reluctant to provide them.
+
+Meanwhile, outside the compound, the Farakosh are massing...</dc:description>
+    </metadata>
+</package>

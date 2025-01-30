@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Zygon Who Fell to Earth</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-309-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Series 2"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Magrs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sheridan Smith (Lucie Miller)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Brooke-Taylor (Mims)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (DJ)</dc:creator>
+        <dc:creator opf:role="nrt">Lynsey Hardwick (Aunty Pat)</dc:creator>
+        <dc:creator opf:role="nrt">Katarina Olsson (Grakus)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Pacey (Trevor)</dc:creator>
+        <dc:creator opf:role="nrt">Malcolm Stoddard (Urtak)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>There are no monsters this time... are there?
+
+Ten years later and Aunty Pat is in her prime. She's snagged herself an ex-rock star at the Kendal Folk Festival and now, in the brave new world of the early 1980s they manage together a snazzy hotel on the poetic and shingly shore of Lake Grasmere. However, still waters run deep and friends from the past are returning, intent on milking the old cash-cow...</dc:description>
+    </metadata>
+</package>

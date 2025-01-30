@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Slaying of the Writhing Mass</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-720-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Charlotte Pollard - The Further Adventuress"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Yasmin Mwanza (Laorie)</dc:creator>
+        <dc:creator opf:role="nrt">Shiloh Coke (Constella)</dc:creator>
+        <dc:creator opf:role="nrt">Rhoda Ofori-Attah (Alicantis)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Onaldus)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Elstob (Kelyan)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and Charley become trapped in a temporal traffic jam, caused by time tourists come to witness the pivotal event in the history of the planet Ileiko: the Slaying of the Writhing Mass, the alien entity that enslaved the Ileikans in their infancy.
+
+The legendary hero Salan killed the Mass with a single stone, setting the Ileikans free. But what was the Mass, exactly? And what if the legend was wrong? </dc:description>
+    </metadata>
+</package>

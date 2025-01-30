@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The First Sontarans</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-588-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 3"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andrew Smith</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Fleet Marshal Jaka)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (The Gentleman)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Howell (Jacob Gilley)</dc:creator>
+        <dc:creator opf:role="nrt">Lizzie Roper (Jane Ross)</dc:creator>
+        <dc:creator opf:role="nrt">Cameron Stewart (Major Peter Thessinger)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A big, epic war story that reveals the hidden history of the Sontarans. It's also a tale with a heart, and one of the producer's favourites. From the pen of Doctor Who TV writer Andrew Smith...
+
+1872. After finding a strange signalling device on the moon, the Doctor and Peri travel to the depths of the English countryside to track down the source of its transmissions.
+
+But they're not the first aliens to arrive on the scene. Old enemies of the Doctor are drawing their battle lines in the forest and the local humans will be lucky to escape the conflagration unscathed.
+
+For hidden within this village is a deadly secret - a secret that could destroy the entire Sontaran race... and reveal the terrible mystery of their creation.</dc:description>
+    </metadata>
+</package>

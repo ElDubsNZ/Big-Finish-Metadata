@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Assassin in the Limelight</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-317-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="108"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Ross</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Stables (Dr Evelyn Smythe)</dc:creator>
+        <dc:creator opf:role="nrt">Lysette Anthony (Clara Harris / Console Voice)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Dubois (John Wilkes Booth)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Passenger)</dc:creator>
+        <dc:creator opf:role="nrt">Eric Loren (John Parker)</dc:creator>
+        <dc:creator opf:role="nrt">Alan Marriott (Henry Clay Ford / Heckler / Harry Hawk / Messenger Boy / Cabby / Stationmaster)</dc:creator>
+        <dc:creator opf:role="nrt">Mikey O'Connor (Thomas Eckert / Orator)</dc:creator>
+        <dc:creator opf:role="nrt">Leslie Phillips (Dr Robert Knox)</dc:creator>
+        <dc:creator opf:role="nrt">Madeleine Potter (Lizzie Williams / Governess)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Ford's Theatre, Washington. Friday, 14th April, 1865. The assassination of Abraham Lincoln.
+
+The place, the date and the event which made history. Or did it? Someone has been tampering with time, muddying the waters of history for his own purposes. Time itself is out of joint and the chief culprit is the enigmatic Doctor Knox.
+
+Somehow the Doctor and Evelyn must put history back on track before the future dissolves into chaos. But Knox, it turns out, may be the least of their worries...</dc:description>
+    </metadata>
+</package>

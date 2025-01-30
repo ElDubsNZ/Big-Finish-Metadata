@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Watchers</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Audio Novels"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matthew Waterhouse</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Matthew Waterhouse (Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the TARDIS is trapped in the Vortex, the Doctor and Adric realise that there is something immensely powerful that is draining time itself from the universe.
+
+The wrecks of other time ships - the products of countless experiments in time - exist in a fused cluster in the Vortex. None of them can escape and many of their crews are dead. As the Doctor tries to free the TARDIS, he and Adric encounter threats from other groups, desperate to escape, including a hostile reptile species, mechanically enhanced cyborgs - and Daleks!
+
+But there is someone from the Doctor's own world who is watching. Someone who will prove useful when this Doctor reaches the end of his life...
+
+This enhanced audiobook features specially composed music and sound effects.</dc:description>
+    </metadata>
+</package>

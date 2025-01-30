@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Signs</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-942-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Diary of River Song - Series 1"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Samuel West (Mr Song)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>River Song is on the trail of the mysterious, planet-killing SporeShips. 
+
+Nobody knows where they come from. Nobody knows why they are here. All they do know is that wherever the SporeShips appear, whole civilisations are reduced to mulch. 
+
+But River has help. Her companion is a handsome time-travelling stranger, someone with specialist knowledge of the oddities and dangers the universe has to offer. For Mr Song has a connection to River's future, and he would never want his wife to face those perils alone...</dc:description>
+    </metadata>
+</package>

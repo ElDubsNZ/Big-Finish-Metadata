@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Starborn</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-091-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 8"/>
+        <meta name="calibre:series_index" content="9"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jacqueline Rayner</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Maureen O'Brien (Vicki)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline King (Violet)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On a visit to early 20th Century Earth, Vicki receives a warning - if she leaves in the TARDIS, then she will die.
+
+Unable to join her friends, Vicki is given an audience by a psychic called Violet, who contacts voices beyond this mortal plain.
+
+And one of those voices is Vicki herself, who reveals what will happen at the ship’s next landing place - and what terrible fate awaits...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Brimstone Kid</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-102-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 16 - Missing Persons"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Llewellyn</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Ayesha Antoine (Ruth)</dc:creator>
+        <dc:creator opf:role="nrt">David Ames (Jack)</dc:creator>
+        <dc:creator opf:role="nrt">Geoffrey Beevers (Meriol)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Bird (Shepton Rothwell)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Doctor Springmore)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Copley (Jimmy Deel)</dc:creator>
+        <dc:creator opf:role="nrt">Ella Garland (Nexo)</dc:creator>
+        <dc:creator opf:role="nrt">Thomas Grant (Peter Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Handcock (Dressmaker / Sideshow Man)</dc:creator>
+        <dc:creator opf:role="nrt">Katharine Mangold (Miss Hannigan)</dc:creator>
+        <dc:creator opf:role="nrt">Katy Manning (Yokel Child)</dc:creator>
+        <dc:creator opf:role="nrt">Mac McDonald (Toothless Bob)</dc:creator>
+        <dc:creator opf:role="nrt">David Menkin (Brimstone)</dc:creator>
+        <dc:creator opf:role="nrt">Mimi Ndiweni (Ronnie Brockman)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Irving Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">Gary Russell (First Yokel)</dc:creator>
+        <dc:creator opf:role="nrt">Ellen Salisbury (Fortune Teller)</dc:creator>
+        <dc:creator opf:role="nrt">John Schwab (Cazador)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Sheward (Stylist / Crazy Hank)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Skinner (Theon)</dc:creator>
+        <dc:creator opf:role="nrt">Hamish Steele (Digger)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Thompson (The Epoch)</dc:creator>
+        <dc:creator opf:role="nrt">Brett Underwood (Vaughan / Shrynor / Second Yokel)</dc:creator>
+        <dc:creator opf:role="nrt">Susan Vidler (Krige)</dc:creator>
+        <dc:creator opf:role="nrt">David Warwick (Willem van der Heever)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>“Welcome to the White Rabbit. What’ll it be?”
+“You can start by locking and bolting the doors. Then everyone in here can keep real calm…”
+
+Bernice and Irving were expecting another quiet night at the White Rabbit saloon - their only customers a veteran prospector named Toothless Bob and timid schoolteacher Miss Hannigan. But the evening takes a sinister turn with the arrival of the Brimstone Kid, a wanted outlaw, and the terrifying bounty hunter Cazador hot on his trail...
+
+Soon, Bernice and Irving find themselves caught up in an adventure involving giant, flightless crows, buried treasure and the galaxy’s most ruthless detective agency.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Silent Priest</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-916-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - Classic Doctors, New Monsters - Series 4 - Broken Memories"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David K Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Silence)</dc:creator>
+        <dc:creator opf:role="nrt">Reda Elazouar (Carl Dassin)</dc:creator>
+        <dc:creator opf:role="nrt">Alistair Petrie (Albion Graves)</dc:creator>
+        <dc:creator opf:role="nrt">Luyanda Unati Lewis-Nyawo (Nalah Massi)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Elstob (Bud Shacket)</dc:creator>
+        <dc:creator opf:role="nrt">Mina Anwar (Kavita Aradhaha)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In search of solace from the Time War, the Eighth Doctor is caught between rival criminals and the law in the city of Sunset. 
+
+Who is the mysterious Priest with the key to ending the violence? And if the Doctor really has visited Sunset before, why can't he remember?</dc:description>
+    </metadata>
+</package>

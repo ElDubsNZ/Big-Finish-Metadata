@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Better Watch Out</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-552-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Ravenous 2"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Hattie Morahan (Helen Sinclair)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Newall (Shafranek)</dc:creator>
+        <dc:creator opf:role="nrt">Carla Mendonça (Waltraud Raither / Imp 1)</dc:creator>
+        <dc:creator opf:role="nrt">Kate Rawson (Inge / Imp 2)</dc:creator>
+        <dc:creator opf:role="nrt">Ewan Goddard (Christoph / Krampus Runner)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Whitelock (Bruno / Vagabond)</dc:creator>
+        <dc:creator opf:role="nrt">Siân Phillips (Pilgrim)</dc:creator>
+        <dc:creator opf:role="nrt">Raad Rawi (Bishop)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor hopes to take Liv’s mind off recent events by treating his companions to a traditional European Christmas. But not everybody is full of the spirit of Christmas when a wave of misery follows the Krampus as they run through the streets of Salzburg.</dc:description>
+    </metadata>
+</package>

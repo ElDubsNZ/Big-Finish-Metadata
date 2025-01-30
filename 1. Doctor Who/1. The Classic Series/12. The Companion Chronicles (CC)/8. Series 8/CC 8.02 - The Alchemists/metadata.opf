@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Alchemists</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-946-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 8"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Ian Potter</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Carole Ann Ford (Susan)</dc:creator>
+        <dc:creator opf:role="nrt">Wayne Forester (Pollitt)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS lands in Berlin in the 1930s, where Hitler and his National Socialist party are in the ascendant.
+
+Some of the greatest scientific minds are gathering here: Einstein, Heisenberg, Planck, Schrödinger, Wigner. The people who will build the future of planet Earth.
+
+But the Doctor and Susan have brought something with them. Something apparently harmless, something quite common. Yet something that could threaten the course of history...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Smoke and Mirrors</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-47131-171-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Destiny of the Doctor"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Steve Lyons</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Beckmann (Harry Houdini)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor answers a psionic distress call being sent from England in the 1920s. There, in the environs of a fairground, he is reunited with an old friend: Harry Houdini. To Adric and Nyssa the name means very little, but to the Doctor’s companion Tegan he is a legend. Escape artist extraordinaire, Houdini’s reputation will last for decades.
+
+But how does Harry knows so much about Tegan? Is it really just guesswork, as he says? Is Harry right to be concerned about the fairground’s fortune teller, who claims to have supernatural skills? Both he and the Doctor suspect an alien influence they know of old.
+
+What neither the Doctor nor his friends realise is that, somewhere in the shadows, a far more sinister and familiar presence is lying in wait for them...</dc:description>
+    </metadata>
+</package>

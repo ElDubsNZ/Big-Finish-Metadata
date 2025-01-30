@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Turn of the Screw</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 8"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Yee Jee Tso (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Charlie Sato has been chasing a bit of alien junk from England to Puerto Rico. He's finally got his hands on it - but now he's got to get it safely off the island. The aliens he stole it from want it back, and someone else has hired a group of thugs to get hold of it. And then there's the original owner - he might come looking too.
+
+All this for a screwdriver? Someone, somewhere must want to unscrew some pretty important screws.</dc:description>
+    </metadata>
+</package>

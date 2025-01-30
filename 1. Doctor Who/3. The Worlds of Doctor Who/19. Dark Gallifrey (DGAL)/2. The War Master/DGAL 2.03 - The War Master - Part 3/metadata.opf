@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Part 3</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-386-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Dark Gallifrey - Series 2 - The War Master"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathon Carley (The War Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Jacobi (The War Master)</dc:creator>
+        <dc:creator opf:role="nrt">James Marsters (Captain John Hart)</dc:creator>
+        <dc:creator opf:role="nrt">Jason Forbes (The Cardinal)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Lew Kum Hoi (The President)</dc:creator>
+        <dc:creator opf:role="nrt">Tariyé Peterside (The Imbomination)</dc:creator>
+        <dc:creator opf:role="nrt">Homer Todiwala (The TARDIS)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Master and Captain John are trapped amid the ruins of Dark Gallifrey, where familiar faces and infinite impossibilities gather.
+
+With his dream of the ultimate weapon almost within his grasp, the Master revels in the chaos. But all roads lead... to the Imbomination.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>A Matter of Conscience</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-042-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Robots - Series 3"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lisa McMullin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Claire Rushbrook (Tula Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Holly Jackson Walters (Shala)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Capp (Curtis / Security Voc / Service Voc)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (Vash Sorkov / SV77 / V300)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (SV86)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Sons of Kaldor are stepping up their anti-robot campaign as Liv and Tula are stepping up their search. But even as they get closer to the survivors of Storm Mine four, their understanding of events on Kaldor is about to change irrevocably. </dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Launch Date</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-018-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="73"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Aaron Lamont</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Gareth David-Lloyd (Ianto Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Wayne Forester (Angharad)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Hawkins (Geraint)</dc:creator>
+        <dc:creator opf:role="nrt">Gemma Knight Jones (Chrissie)</dc:creator>
+        <dc:creator opf:role="nrt">Callum Lloyd (Joe)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Geraint fails to notice Chrissie flirting with him. Too late to go back. That’s the story of Geraint’s life. A lot of missed opportunities. 
+
+Geraint’s fed up of it all - his dead-end job and his dead-end life. So, he asks his best mate for help. Sort his life out. And Ianto Jones is only too happy to help.</dc:description>
+    </metadata>
+</package>

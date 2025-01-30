@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Death of Peladon</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-722-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - Peladon"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mark Wright</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Mel)</dc:creator>
+        <dc:creator opf:role="nrt">Liz White (Helais)</dc:creator>
+        <dc:creator opf:role="nrt">Sara Powell (Queen Minaris)</dc:creator>
+        <dc:creator opf:role="nrt">Remmie Milner (Isabelda)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Goddard (Alpha Centauri / Guard Captain / Grandma)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Sixth Doctor and Mel arrive on Peladon to discover a world on the brink of environmental disaster. Civil war looms and a dark plot brews in the shadows of the court. Unless they can help avert catastrophe, there seems to be little hope left for one of the Doctor's favourite planets.</dc:description>
+    </metadata>
+</package>

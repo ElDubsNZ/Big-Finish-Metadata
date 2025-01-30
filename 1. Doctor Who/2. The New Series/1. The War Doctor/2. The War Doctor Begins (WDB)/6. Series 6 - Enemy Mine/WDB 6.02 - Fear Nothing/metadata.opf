@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Fear Nothing</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-115-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Doctor Begins - Series 6 - Enemy Mine"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mark Wright</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jonathon Carley (The War Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Ajjaz Awad (Case)</dc:creator>
+        <dc:creator opf:role="nrt">Adèle Anderson (Tamasan)</dc:creator>
+        <dc:creator opf:role="nrt">Becky Wright (Jodall)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Faulkner (Greyliss / Dreadnought)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The War Doctor's search for Case is diverted by Commodore Tamasan, summoning him against his will to a remote TARDIS drydock facility at the very edge of the War. Tamasan has a dangerous proposition, but what is her true agenda? Case has been unleashed by the Daleks to eliminate a key Time Lord asset, an asset who could change the course of the Time War. With nothing left to lose, Case has nothing left to fear...</dc:description>
+    </metadata>
+</package>

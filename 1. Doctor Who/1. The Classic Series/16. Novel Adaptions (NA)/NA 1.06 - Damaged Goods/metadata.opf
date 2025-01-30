@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Damaged Goods</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-439-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Novel Adaptations"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Russell T Davies</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Travis Oliver (Chris Cwej)</dc:creator>
+        <dc:creator opf:role="nrt">Yasmin Bannerman (Roz Forrester)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Barrett (The Capper)</dc:creator>
+        <dc:creator opf:role="nrt">Denise Black (Eva Jericho)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Brocklebank (David Daniels)</dc:creator>
+        <dc:creator opf:role="nrt">Michelle Collins (Winnie Tyler)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Duncan (Alfred Jericho / Dr James Greco / Mr Thomas)</dc:creator>
+        <dc:creator opf:role="nrt">Georgie Fuller (Bev Tyler)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Hope (Harry Harvey / Jack Leather)</dc:creator>
+        <dc:creator opf:role="nrt">Damian Lynch (Scott Delaney)</dc:creator>
+        <dc:creator opf:role="nrt">Tayler Marshall (Gabriel Tyler / Steven Jericho)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The year is 1987 and there's a deadly new narcotic on the streets of London. As part of their investigations, the Doctor and his companions Chris and Roz move into the Quadrant, a rundown housing estate. An ancient alien menace has been unleashed, a menace somehow linked to a local gang leader known as The Capper, a charmed young boy called Gabriel and his mother Winnie, the enigmatic Frei Foundation, and Eva Jericho, a woman driven to the brink of madness.
+
+As London descends into an apocalyptic nightmare, the Doctor must uncover the truth about the residents of the Quadrant and a desperate bargain made one dark Christmas Eve.</dc:description>
+    </metadata>
+</package>

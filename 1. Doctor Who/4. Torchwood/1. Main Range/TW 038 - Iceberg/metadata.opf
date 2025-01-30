@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Iceberg</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-100-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="38"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Grace Knight</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Burn Gorman (Owen Harper)</dc:creator>
+        <dc:creator opf:role="nrt">Maya Saroya (Amira Hussein)</dc:creator>
+        <dc:creator opf:role="nrt">Lowri Walton (Lucy Sheppard)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Dr Owen Harper's called to the hospital. There's a ward full of remarkable coma patients and more are coming in. Each patient came in with a dead relative as their imaginary friend. 
+
+Has Owen really discovered a bridge between the living and the dead?</dc:description>
+    </metadata>
+</package>

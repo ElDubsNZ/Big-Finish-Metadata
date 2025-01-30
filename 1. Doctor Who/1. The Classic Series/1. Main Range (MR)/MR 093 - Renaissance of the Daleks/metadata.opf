@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Renaissance of the Daleks</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2007-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-214-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="93"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Christopher H Bidmead</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Stewart Alexander (Sergeant)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Greylish / The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Richie Campbell (Floyd)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Deal (Mulberry)</dc:creator>
+        <dc:creator opf:role="nrt">William Hope (General Tillington)</dc:creator>
+        <dc:creator opf:role="nrt">Regina Reagan (Alice)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Weinberg (Wilton)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A random landing in London and a trip to the Savoy Hotel yield unexpected results for the Doctor. Tea, scones, an American general who knows far too much, and the threat of a Dalek invasion of Earth.
+
+Meanwhile, the Doctor's companion Nyssa is in Rhodes during the time of the Crusades, where her position proves to be distinctly precarious.
+
+It seems the Doctor's deadliest foes have woven a tangled web indeed. And in order to defeat them, he must cross the forbidden barriers of time and walk into the very centre of their latest, most outlandish scheme of conquest.</dc:description>
+    </metadata>
+</package>

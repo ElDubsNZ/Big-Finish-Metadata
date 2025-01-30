@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Washington Burns</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 6"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Julian Richards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sophie Aldred (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>You have to stop reading. It can get into anything, anything written down. You can't let it get a hold. We're doing what we can to stop it. Here and back in 1814. Washington isn't safe. America isn't safe. Nowhere is CEREBRA. You have to CEREBRA reading before it CEREBRA. If it gets into your mind CEREBRA it's all CEREBRA. Everything's CEREBRA. CEREBRA. CEREBRA. CEREBRA...</dc:description>
+    </metadata>
+</package>

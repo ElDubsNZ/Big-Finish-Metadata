@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Drive</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-118-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="47"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Llewellyn</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Naoko Mori (Toshiko Sato)</dc:creator>
+        <dc:creator opf:role="nrt">Suzanne Packer (Fawzia)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Wilfort (Chris / Security Guard / Nigel Lawless)</dc:creator>
+        <dc:creator opf:role="nrt">Taylor Jay-Davies (Lee / The Bad Guy / Gary)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>They know everything about Cardiff – they hear the city's secrets, they move between its hidden places, they understand its nightmares. And they're the people you turn to if you're in trouble. They are taxi drivers. 
+
+Toshiko Sato, wounded and desperate, wakes up in the back of a cab. She's got one night to save the city, and the meter's running.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Plague of the Daleks</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-432-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="129"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mark Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Keith Barron (Isaac Barclay)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Susan Brown (Mrs Withers / Mrs Sowerby / Computer / Conditioned Human)</dc:creator>
+        <dc:creator opf:role="nrt">Richenda Carey (Alexis Linfoot)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Cordery (Professor Rinxo Jabbery)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Courtney (Sir Alistair Lethbridge-Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">David Dobson (Dobson / Cricketer / Conditioned Human)</dc:creator>
+        <dc:creator opf:role="nrt">Russell Floyd (Gerry Lenz)</dc:creator>
+        <dc:creator opf:role="nrt">Barry McCarthy (Vincent Linfoot)</dc:creator>
+        <dc:creator opf:role="nrt">John Pickard (Thomas Brewster)</dc:creator>
+        <dc:creator opf:role="nrt">Liza Tarbuck (Lysette Barclay)</dc:creator>
+        <dc:creator opf:role="nrt">Anneke Wills (Polly Wright)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Stockbridge used to be such a lovely place. The loveliest village in all England, according to the guide books. But hardly anyone visits Stockbridge now: a few tourists, a couple of Trust guides, the odd beady-eyed raven.
+
+But something is coming to Stockbridge. Something which turns village cricketers into ravening zombies – a plague such as the Earth has never seen, falling through history from a time when humanity's greatest enemy was a race known as the Daleks.
+
+The Doctor and Nyssa visit Stockbridge for the final time, to confront the terrible secret buried at its heart. The storm clouds are gathering…</dc:description>
+    </metadata>
+</package>

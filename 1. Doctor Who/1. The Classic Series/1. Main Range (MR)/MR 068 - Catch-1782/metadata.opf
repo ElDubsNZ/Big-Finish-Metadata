@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Catch-1782</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2005-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-135-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="68"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alison Lawson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Melanie Bush)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Benfield (John Hallam)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Chance (Dr Wallace)</dc:creator>
+        <dc:creator opf:role="nrt">Keith Drinkel (Henry Hallam)</dc:creator>
+        <dc:creator opf:role="nrt">Iain Fairbairn (Professor Munro)</dc:creator>
+        <dc:creator opf:role="nrt">Rhiannon Meades (Rachel)</dc:creator>
+        <dc:creator opf:role="nrt">Jillie Meers (Mrs McGregor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the Doctor and Mel visit the National Foundation for Scientific Research as it celebrates its centenary, Mel expects only to be able to catch up with her uncle. She doesn’t expect to meet her own ancestors...
+
+What is buried in the grounds of the Foundation? What secret has Henry Hallam kept from his descendants for three hundred years? Can Mel escape her own past?
+
+Visiting your relatives can sometimes be trying, but surely it should never be this difficult?</dc:description>
+    </metadata>
+</package>

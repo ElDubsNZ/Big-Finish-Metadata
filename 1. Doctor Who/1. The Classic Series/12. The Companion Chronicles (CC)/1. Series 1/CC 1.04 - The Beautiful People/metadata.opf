@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Beautiful People</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2007-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-266-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 1"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (Romana II)</dc:creator>
+        <dc:creator opf:role="nrt">Marcia Ashton (Karna)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Put all your worries behind you. 
+
+Situated in fifty acres of relaxing sculpted gardens, the Vita Novus Health Spa offers a sanctuary from the stresses and strains of 32nd century life. Our exclusive programme of weight loss therapy is celebrated throughout the galaxy for its ease, simplicity and one-hundred-per-cent success rate. No matter how full-figured you may be, we can make you slimmer, healthier - and happier. 
+
+In fact, you will leave Vita Novus feeling like an entirely new person. And that's guaranteed. 
+
+We cater for all endoskeletal carbon-based life-forms. All major credit cards accepted. Parties welcome.</dc:description>
+    </metadata>
+</package>

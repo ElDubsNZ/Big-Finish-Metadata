@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>An Extraterrestrial Werewolf in Belgium</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-778-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Iris Wildthyme - Series 5"/>
+        <meta name="calibre:series_index" content="7"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Scott Handcock</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Katy Manning (Iris Wildthyme)</dc:creator>
+        <dc:creator opf:role="nrt">Geoffrey Breton (Captain Edwin Turner)</dc:creator>
+        <dc:creator opf:role="nrt">Tracey Childs (Nora)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Fewell (Tour guide)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>After an unexpected incident with a transdimensional entity in the 1970s, Iris makes an emergency landing in Flanders, where legends of an ancient wolf-like bogeyman soon prove to be frighteningly real.</dc:description>
+    </metadata>
+</package>

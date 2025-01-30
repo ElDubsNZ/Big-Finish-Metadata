@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Sabotage</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-032-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="80.2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Clayton (Mr Colchester)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Hanson (Dyson)</dc:creator>
+        <dc:creator opf:role="nrt">Shaheen Khan (Sabriya)</dc:creator>
+        <dc:creator opf:role="nrt">Anant Varman (Jamal)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Vultura has started mining some mountains in a state in India. The local villagers are displaced into a resettlement camp, and are retaliating. Brought in to stop the sabotage is Mr Colchester, who finds that the camp is overseen by Ace. Who is causing the sabotage? His suspicions are aroused. Ace always was good with explosives.</dc:description>
+    </metadata>
+</package>

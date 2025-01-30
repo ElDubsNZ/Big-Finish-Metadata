@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Future Pain</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-642-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - She Story Continues - Series 2 - God Among Us - Part 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Barrowman[1] (Captain Jack Harkness)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy-Ann Oberman[2] (Yvonne Hartman)</dc:creator>
+        <dc:creator opf:role="nrt">Alexandria Riley (Ng)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Clayton (Mr Colchester)</dc:creator>
+        <dc:creator opf:role="nrt">Samantha Béart (Orr)</dc:creator>
+        <dc:creator opf:role="nrt">Jonny Green (Tyler Steele)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Price (Andy Davidson)</dc:creator>
+        <dc:creator opf:role="nrt">Kai Owen[3] (Rhys Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Eve Myles[3] (Gwen Cooper)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline King[4] (God)</dc:creator>
+        <dc:creator opf:role="nrt">Ramon Tikaram (Colin Colchester-Price)</dc:creator>
+        <dc:creator opf:role="nrt">Rachel Atkins (Ro-Jedda)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Singleton[5] (Sally)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Torchwood pick up the pieces and move on. After all, there's a whole new set of alien threats to deal with. 
+
+While Yvonne Hartman is asserting her authority as the new leader of Torchwood, Jack Harkness is hunting an alien god in the sewers – but what's he really hiding from?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Primeval</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2001-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-451-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="26"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lance Parkin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Rita Davies (Janneus)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Greif (Kwundaar)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Hallard (Sabian)</dc:creator>
+        <dc:creator opf:role="nrt">Alistair Lock (Etrayk)</dc:creator>
+        <dc:creator opf:role="nrt">Billy Miller (Narthex)</dc:creator>
+        <dc:creator opf:role="nrt">Susan Penhaligon (Shayla)</dc:creator>
+        <dc:creator opf:role="nrt">Romy Tennant (Anona)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Woolgar (Hyrca)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Nyssa will die at dawn, and the Doctor doesn't even know why.
+
+To save her life, he must make a desperate journey to the only place in the universe where a cure might exist.
+
+When even that fails, the Doctor has a choice - let Nyssa die, or make a deal with the devil.
+
+After all, the road to hell is paved with good intentions...</dc:description>
+    </metadata>
+</package>

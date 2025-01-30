@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Project Destiny</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-475-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="139"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mark Wright</dc:creator>
+        <dc:creator opf:role="aut">Cavan Scott</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Olivier (Hex)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Chance (Sir William Abberton)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Dinsdale (Sergeant Jarrod)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie O'Neill (Captain Lysandra Aristedes)</dc:creator>
+        <dc:creator opf:role="nrt">Ingrid Oliver (Helen / Oracle)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>1999: Leaving her infant son behind, a young mother named Cassandra Schofield departs Bolton, seeking a better life amid the lights of London.
+
+2004: Despite the best efforts of the time-travelling Doctor, 'Cassie' Schofield dies on Dartmoor, a vampirised victim of the sinister organisation called The Forge.
+
+2021: All grown up, and a nurse at St Gart's Hospital, Thomas Hector Schofield – known as 'Hex' – meets, and becomes a companion to, that time-travelling Doctor… but remains unaware that his alien friend knew his mother, and watched her die.
+
+1854: In the Crimean War, Hex takes a bullet, and is seriously injured. The Doctor promises to return him to St Gart's.
+
+2025: Now. In a London ravaged by a deadly contagion… destiny awaits.</dc:description>
+    </metadata>
+</package>

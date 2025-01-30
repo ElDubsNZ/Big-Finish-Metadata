@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Guardians of Prophecy</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-586-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 3"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Johnny Byrne</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Graham Cole (Ebbko)</dc:creator>
+        <dc:creator opf:role="nrt">James George (Mura)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Lambert (Auga)</dc:creator>
+        <dc:creator opf:role="nrt">Victoria Pritchard (Felia)</dc:creator>
+        <dc:creator opf:role="nrt">Glynn Sweet (Horgan)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Thorne (Malador)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Williams (Guardian)</dc:creator>
+        <dc:creator opf:role="nrt">Duncan Wisbey (Escalus)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS materialises on Serenity, the last surviving world of the Traken Union. Peri expects a good place for a holiday - not tomb raiders, a labyrinth filled with terrifying monsters and a trap-laden necropolis.
+
+ For Serenity’s gentle name belies its history as the home planet of the Melkur, soldiers created to serve a long dead dark force, the embodiment of evil itself. Whilst they sleep, vicious thieves are after this force’s secrets, and will stop at nothing to find them.
+
+ But will they find more than they bargained for?</dc:description>
+    </metadata>
+</package>

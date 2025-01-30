@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Propaganda</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-280-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - She Story Continues - Series 3 - Among Us - Part 2"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Ash Darby</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Samantha Béart (Orr)</dc:creator>
+        <dc:creator opf:role="nrt">Amy Beth Hayes (Tania)</dc:creator>
+        <dc:creator opf:role="nrt">Milo Twomey (Robert)</dc:creator>
+        <dc:creator opf:role="nrt">Naomi McDonald (Ellen)</dc:creator>
+        <dc:creator opf:role="nrt">Maanuv Thiara (Gupta)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Jordan (The General)</dc:creator>
+        <dc:creator opf:role="nrt">Jonny Glynn (First Soldier)</dc:creator>
+        <dc:creator opf:role="nrt">David Menkin (Second Soldier)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Mother)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Wincott (The Old Man)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Orr is desperate to get to Voloshnik. The city's sealed off in the middle of a war the world's forgotten. There has to be someone left to save.</dc:description>
+    </metadata>
+</package>

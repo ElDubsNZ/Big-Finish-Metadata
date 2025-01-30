@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Traitors' Gate</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-629-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - Nemesis - Series 4 - Masters of Time"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jemma Redgrave (Kate Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Ingrid Oliver (Osgood)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Captain Josh Carter)</dc:creator>
+        <dc:creator opf:role="nrt">Harriet Kershaw (Sorgan)</dc:creator>
+        <dc:creator opf:role="nrt">Stewart Scudamore (Ashley Bassett)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Lew Kum Hoi (Lieutenant Jimmy Tan)</dc:creator>
+        <dc:creator opf:role="nrt">Alisdair Simpson (Varliss)</dc:creator>
+        <dc:creator opf:role="nrt">Donna Berlin (Lorraine Forrester)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Naylor (Vulpreen)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Osgood is a prisoner in the Tower of London, which is now a Vulpreen base. To rescue her friend, Kate must devise a plan to raid her former headquarters. 
+
+Inside the Tower, the Vulpreen are determined to access the Black Archive and the hugely dangerous alien technology it contains. How long can Osgood keep them out?</dc:description>
+    </metadata>
+</package>

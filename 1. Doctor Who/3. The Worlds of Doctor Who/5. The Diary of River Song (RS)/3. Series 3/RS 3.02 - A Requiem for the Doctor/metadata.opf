@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>A Requiem for the Doctor</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-493-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Diary of River Song - Series 3"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jacqueline Rayner</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Joanna Horton (Brooke)</dc:creator>
+        <dc:creator opf:role="nrt">Issy Van Randwyck (Giulia)</dc:creator>
+        <dc:creator opf:role="nrt">Rosanna Miles (Antoinette / Constanze)</dc:creator>
+        <dc:creator opf:role="nrt">Teddy Kempner (Viktor / Mozart / Stefan / Apothecary)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>River has joined the Doctor and his friend Brooke on their travels, and they stop off in 18th century Vienna. 
+
+Brooke thinks history is dull. Until people start dying. 
+
+Mozart's legacy is not just his music. River has more than one mystery to solve before a killer is let loose on the people of Vienna – and on the Doctor.</dc:description>
+    </metadata>
+</package>

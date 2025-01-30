@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Legacy of Death</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-733-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 5"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Valchak)</dc:creator>
+        <dc:creator opf:role="nrt">Emma Campbell-Jones (Shola)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Chadbon (Embery)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Panting (Fyrax)</dc:creator>
+        <dc:creator opf:role="nrt">Bryan Pilkington (Lostar)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Rees (Tyrus)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Rouse (Drang)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Medea)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor, Romana and K9 have found themselves trapped in a temporal war. On Aoris, the past battles the future - and the future fights back!
+
+With both sides of the war now capable of time travel, the conflict is about to enter a deadly stage. As the pieces of history lock into place, there is little the Doctor can do.
+
+With more Time Tanks moving into combat, the endgame is approaching. The people of Aoris risk extinction at their own hand.
+
+Can even the Doctor save the same planet twice in the same day?</dc:description>
+    </metadata>
+</package>

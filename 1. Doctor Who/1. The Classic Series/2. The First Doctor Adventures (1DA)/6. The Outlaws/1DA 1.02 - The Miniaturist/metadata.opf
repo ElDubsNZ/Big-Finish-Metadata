@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Miniaturist</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-734-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The First Doctor Adventures - Volume 6 - The Outlaws"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizzie Hopley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Stephen Noonan (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lauren Cornelius (Dodo Chaplet)</dc:creator>
+        <dc:creator opf:role="nrt">Annette Badland (The Miniaturist)</dc:creator>
+        <dc:creator opf:role="nrt">Yasmin Mwanza (Professor Medra)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Copley (Mick Huff)</dc:creator>
+        <dc:creator opf:role="nrt">Benedict Briggs (Child Voice)</dc:creator>
+        <dc:creator opf:role="nrt">Caroline Hrycek-Robinson (Child Voice)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Coulton Salt Mine: a rare environment for geological exploration on the North Yorkshire coast. The Doctor is fascinated by the experiments of Professor Medra on the Zechstein seabed, but Dodo is distracted. Didn’t her family settle in this part of Yorkshire?
+
+As the Doctor delves deeper into the work of Professor Medra, Dodo is helped by security guard Mick Huff, who is concerned about the strange happenings in recent weeks. Who are the children that keep appearing around the mine workings? Why are local landmarks vanishing? And how can the bedrock of a geological ‘quiet place’ be screaming?</dc:description>
+    </metadata>
+</package>

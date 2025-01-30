@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Time of the Daleks</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2002-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-461-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="32"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Justin Richards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Jem Bassett (Kitchen Boy)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Boyce (Viola)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Brooker (Professor Osric)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Curbishley (Marcus)</dc:creator>
+        <dc:creator opf:role="nrt">Julian Harries (Major Ferdinand)</dc:creator>
+        <dc:creator opf:role="nrt">Clayton Hickman (additional Dalek voices)</dc:creator>
+        <dc:creator opf:role="nrt">Mark McDonnell (Priestly)</dc:creator>
+        <dc:creator opf:role="nrt">Lee Moone (Hart)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Potter (Mark Anthony / Army Officer)</dc:creator>
+        <dc:creator opf:role="nrt">Dot Smith (General Mariah Learman)</dc:creator>
+        <dc:creator opf:role="nrt">Don Warrington (The Orator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor has always admired the work of William Shakespeare. So he is a little surprised that Charley doesn't hold the galaxy's greatest playwright in the same esteem. In fact she's never heard of him.
+
+Which the Doctor thinks is quite improbable.
+
+General Mariah Learman, ruling Britain after the Eurowars, is one of Shakespeare's greatest admirers, and is convinced her time machine will enable her to see the plays' original performances.
+
+Which the Doctor believes is extremely unlikely.
+
+The Daleks just want to help. They want Learman to get her time machine working. They want Charley to appreciate the first ever performance of Julius Caesar. They believe that Shakespeare is the greatest playwright ever to have existed and venerate his memory.
+
+Which the Doctor knows is utterly impossible.</dc:description>
+    </metadata>
+</package>

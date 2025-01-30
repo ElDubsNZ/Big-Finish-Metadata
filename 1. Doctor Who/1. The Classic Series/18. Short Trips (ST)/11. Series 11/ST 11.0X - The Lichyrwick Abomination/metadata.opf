@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Lichyrwick Abomination</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 11"/>
+        <meta name="calibre:series_index" content="0"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Joe Vevers</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jacob Dudman (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Every night, a creature stalks the streets of Lichyrwick. Everyone in town knows that catching sight of it is a death sentence, and no one knows this better than Malcolm. Yet, he won't be able to hide away much longer. The Doctor's in town, and it's time Malcolm finally faced the Lichyrwick Abomination.
+
+Even if it kills him.</dc:description>
+    </metadata>
+</package>

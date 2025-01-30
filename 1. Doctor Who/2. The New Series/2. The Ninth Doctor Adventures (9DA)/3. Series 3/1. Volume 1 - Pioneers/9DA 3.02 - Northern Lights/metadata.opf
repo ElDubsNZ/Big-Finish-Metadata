@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Northern Lights</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-128-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Ninth Doctor Adventures - Series 3 - Volume 1 - Pioneers"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Valentine</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Eccleston (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Conningham (Fridtjof Nansen)</dc:creator>
+        <dc:creator opf:role="nrt">Gerard Kearns (Hjalmar Johansen)</dc:creator>
+        <dc:creator opf:role="nrt">Ginnia Cheng (The Aurora)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Cerqueira (Frederick Jackson)</dc:creator>
+        <dc:creator opf:role="nrt">Homer Todiwala (Steward)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor crashes to Earth and finds himself in the Arctic - but not quite alone. The Aurora Borealis are even more unearthly than usual...
+
+Intrepid explorer Fridtjof Nansen is trying to get home as alien forces close in. The Doctor knows Nansen has a part to play in history - can he save the future?</dc:description>
+    </metadata>
+</package>

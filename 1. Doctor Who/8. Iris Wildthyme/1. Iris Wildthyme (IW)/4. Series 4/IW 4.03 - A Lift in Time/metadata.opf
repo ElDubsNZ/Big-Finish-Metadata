@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>A Lift in Time</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-105-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Iris Wildthyme - Series 4"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Bryher</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Katy Manning (Iris Wildthyme)</dc:creator>
+        <dc:creator opf:role="nrt">David Benson (Panda)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Fisher-Becker (Lift)</dc:creator>
+        <dc:creator opf:role="nrt">Rebecca Gethings (Susie Hepcat)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Handcock (Roland)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Ever get a tune stuck in your head? Annoying, isn't it? Especially when it transforms you into a mindless, murderous zombie. After years of righting wrongs and wronging rights, is the fat lady about to sing for Iris Wildthyme? As Panda becomes the next big thing and the bus is stolen by an insane artificial intelligence, Iris's future finally catches up with her. Ding ding, going down...</dc:description>
+    </metadata>
+</package>

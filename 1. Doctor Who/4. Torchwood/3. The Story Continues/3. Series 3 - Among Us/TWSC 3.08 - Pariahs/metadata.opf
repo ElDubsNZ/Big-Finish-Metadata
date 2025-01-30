@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Pariahs</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-280-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - She Story Continues - Series 3 - Among Us - Part 2"/>
+        <meta name="calibre:series_index" content="8"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tracy-Ann Oberman (Yvonne Hartman)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Clayton (Mr Colchester)</dc:creator>
+        <dc:creator opf:role="nrt">Alexandria Riley (Ng)</dc:creator>
+        <dc:creator opf:role="nrt">Jonny Green (Tyler Steele)</dc:creator>
+        <dc:creator opf:role="nrt">Samantha Béart (Orr)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Clifford (Graham Graves)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (Kyle Lansman)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (The Chair)</dc:creator>
+        <dc:creator opf:role="nrt">Maanuv Thiara (Official)</dc:creator>
+        <dc:creator opf:role="nrt">Jonny Glynn (Assassin)</dc:creator>
+        <dc:creator opf:role="nrt">David Menkin (Border Officer)</dc:creator>
+        <dc:creator opf:role="nrt">Naomi McDonald (Airport Tannoy)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Jordan (Police)</dc:creator>
+        <dc:creator opf:role="nrt">Mia Hope (The Child)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>We've all spent the last two years sticking our DNA in jars and sending it off in the post. What happened to it? Two people know the secrets of the Phlobos Scandal, and Torchwood have to keep them alive.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Timeless Passages</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2006-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-190-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 7"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Daniel O'Mahony</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Keith Drinkel (Archibald Spool)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Longworth (Samuel Wolfe)</dc:creator>
+        <dc:creator opf:role="nrt">Katarina Olsson (Hermione)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>For years the great Labyrinth of Kerykeion has been home to one of the largest libraries of human incunabula in the galaxy. Here, otherwise lost volumes are all carefully preserved.
+
+From tomorrow, it's under new management.
+
+Professor Bernice Summerfield is sent to acquire some of the rarest books for the Braxiatel Collection before the new corporate owners bulldoze their way in.
+
+She's hoping for a quiet time searching the archives. Some chance. Soon she's investigating a horrible murder, and is caught up in a last-ditch scheme to save the entire library.
+
+There's a vicious, insane killer cyborg on Benny's heels. And then ancient subterranean powers begin to stir...</dc:description>
+    </metadata>
+</package>

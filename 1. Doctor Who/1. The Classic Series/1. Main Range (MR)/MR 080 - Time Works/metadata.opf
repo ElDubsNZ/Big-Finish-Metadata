@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Time Works</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2006-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-168-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="80"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Steve Lyons</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Westmaas (C'rizz)</dc:creator>
+        <dc:creator opf:role="nrt">Tracey Childs (The Figurehead)</dc:creator>
+        <dc:creator opf:role="nrt">Phillip Edgerley (Collis)</dc:creator>
+        <dc:creator opf:role="nrt">Merryn Owen (Revnon)</dc:creator>
+        <dc:creator opf:role="nrt">Ronald Pickup (Kestorian)</dc:creator>
+        <dc:creator opf:role="nrt">Adrian Schiller (Zanith)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Vyse (Vannet)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>“You want to know about the Time Keepers?"
+
+“We work in their shadow, every tick and tock of our lives. We hear them in the workings of the Great Clock. We work hard, turn our hands – but we all wind down in time, and that is when they come for us: when our time is up.”
+
+The TARDIS lands in between times, in a time where this is no time. A time in which nothing can possibly be. But something is…
+
+The Doctor, Charley and C’rizz are rats in the wheelwork, a threat to the schedule of a world where timing is everything. And the seconds are counting down to a fateful future that has already happened. Unless they can beat the clock.
+
+Tick, tock.</dc:description>
+    </metadata>
+</package>

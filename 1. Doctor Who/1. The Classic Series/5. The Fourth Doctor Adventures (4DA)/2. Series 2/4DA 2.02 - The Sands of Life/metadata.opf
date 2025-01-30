@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Sands of Life</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-055-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 2"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Mary Tamm (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">Hayley Atwell (President Moorkurk)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Bob Caveer)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Soldier)</dc:creator>
+        <dc:creator opf:role="nrt">John Dorney (Soldier)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Hadoke (Mr Dorrick)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (The Laan)</dc:creator>
+        <dc:creator opf:role="nrt">David Warner (Cuthbert)</dc:creator>
+        <dc:creator opf:role="nrt">Duncan Wisbey (General Vincent / Air Traffic Control)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Sheridan Moorkurk has just been elected president of Earth... but the harsh realities of who really runs the planet are just beginning to dawn on her. And what's more, she's starting to hear voices.
+
+Meanwhile, the Doctor and Romana encounter a mass of aliens heading to Earth... Aliens who have already made the mistake of upsetting the infamous Cuthbert, all-powerful CEO of The Conglomerate, by destroying one of his space platforms.
+
+Will the Doctor and Romana be able to avert inter-species war that will destroy all life on Earth?</dc:description>
+    </metadata>
+</package>

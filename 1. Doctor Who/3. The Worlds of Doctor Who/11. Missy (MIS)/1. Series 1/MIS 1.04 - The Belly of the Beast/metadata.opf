@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Belly of the Beast</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-672-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Missy - Series 1"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Michelle Gomez (Missy)</dc:creator>
+        <dc:creator opf:role="nrt">Abbie Andrews (Aleyna)</dc:creator>
+        <dc:creator opf:role="nrt">John Scougall (Cort / Guards)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Goldie (Sath / Mother)</dc:creator>
+        <dc:creator opf:role="nrt">Jason Nwoga (Doctor Goodnight)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Laird (Mr Bryce / Father)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Missy's scheme nears completion. All she must do is subjugate one little planet and bend the inhabitants to her will. Not too much to ask... 
+
+But slaves will keep rebelling. It's almost as if they don't want to unearth an ancient artefact to fulfil Missy's plans for universal domination. 
+
+She'll have to do something about that.</dc:description>
+    </metadata>
+</package>

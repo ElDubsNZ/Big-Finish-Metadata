@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Antidote to Oblivion</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-298-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="182"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Philip Martin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Greenwood (Flip Jackson)</dc:creator>
+        <dc:creator opf:role="nrt">Mary-Ann Cafferkey (Cerise)</dc:creator>
+        <dc:creator opf:role="nrt">David Dobson (Pan / Lord Mav)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Joseph (Boscoe / Voda / Knight Marshal)</dc:creator>
+        <dc:creator opf:role="nrt">Dawn Murphy (Cordelia)</dc:creator>
+        <dc:creator opf:role="nrt">Nabil Shaban (Sil)</dc:creator>
+        <dc:creator opf:role="nrt">Mandy Weston (Kristal / Mistress Na / Velena)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Future Britain is bankrupt, its corporate owners facing financial ruin. Fortunately, the Universal Monetary Fund, and its slimy representative Sil, are willing to give its President a multi-billion credit bail-out... but terms and conditions apply, and Sil's proposed austerity measures go far beyond mere benefit cuts.
+
+Responding to a distress call, the Doctor and his companion Flip land in a London whose pacified population has been driven largely underground. But the horrors down there in the dark are as nothing to the horrors that await them at ConCorp HQ, where a young biochemist in Sil's employ is working on a permanent solution to the nation's terminal unprofitability.
+
+Because in the final account, Sil plans to make a killing...</dc:description>
+    </metadata>
+</package>

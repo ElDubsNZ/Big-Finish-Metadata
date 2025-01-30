@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Part 2</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-378-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Dark Gallifrey - Series 1 - Morbius"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Samuel West (Morbius / Interface)</dc:creator>
+        <dc:creator opf:role="nrt">Mina Anwar (Rolko)</dc:creator>
+        <dc:creator opf:role="nrt">Rachel Atkins (Captain Argento)</dc:creator>
+        <dc:creator opf:role="nrt">Justin Avoth (The Shimmering Man)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Bonnar (The Eleven)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew French (Veritas)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Henfrey (Narrata)</dc:creator>
+        <dc:creator opf:role="nrt">Lara Lemon (Gilda)</dc:creator>
+        <dc:creator opf:role="nrt">Hywel Morgan (Mr Middlewitch)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When disaster strikes the Proteus, Captain Argento and her crew must fight for their lives and the fate of all Time Lords.
+
+What is out there on the ice? Who hides in the impossible temple?
+
+As loyalties shift and secrets emerge, the cult of Morbius lies in wait to bring about the General's return...</dc:description>
+    </metadata>
+</package>

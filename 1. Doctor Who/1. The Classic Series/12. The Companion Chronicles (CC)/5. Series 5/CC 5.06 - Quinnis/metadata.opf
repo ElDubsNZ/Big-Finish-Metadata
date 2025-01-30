@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Quinnis</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-504-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 5"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Carole Ann Ford (Susan)</dc:creator>
+        <dc:creator opf:role="nrt">Tara-Louise Kaye (Meedla)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Before Totter’s Yard, before Ian Chesterton and Barbara Wright, before the Chameleon Circuit was broken… the Doctor and Susan travelled alone.
+
+The planet Quinnis in the Fourth Universe appears, at first glance, to be an agreeable, exotic refuge for the two travellers. But the world is experiencing a terrible drought, and the Doctor becomes its unwilling rainmaker.
+
+Meanwhile, Susan makes an ally in a young girl called Meedla. But friends are not always what they appear, and the long-awaited rain isn’t necessarily good news…</dc:description>
+    </metadata>
+</package>

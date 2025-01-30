@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Doomsday Quatrain</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-579-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="151"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Emma Beeby</dc:creator>
+        <dc:creator opf:role="aut">Gordon Rennie</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Brors / Captain of the Guard / Bernardo)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Carlyle (Kren / Second Nuncio)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Chambers (Larrett / Milo / First Nuncio)</dc:creator>
+        <dc:creator opf:role="nrt">Caroline Keiff (Garilund / Computer Voice)</dc:creator>
+        <dc:creator opf:role="nrt">David Schofield (Nostradamus / Conclave Leader)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"When the river is gone, ships shall sail in the sky, monsters bring fire from the heavens. All will fall into a grey and endless sea, and Doomsday has come."
+
+Florence, the sixteenth century. No one thought to pay much attention to the prophecies of the so-called seer Michel de Nostradame, otherwise known as Nostradamus. Until the canals of Venice dried. Until the soothsayer's sayings started coming true...
+
+Because Master Nostradamus is right, in all respects. The end of the world is nigh. The ships are coming. The monsters are coming. The fire is coming. There's only one thing he didn’t see coming, in fact: the sudden apparition of a certain strange Doctor, in his even stranger TARDIS. Today, the Earth dies screaming. And all the Doctor can do is watch.</dc:description>
+    </metadata>
+</package>

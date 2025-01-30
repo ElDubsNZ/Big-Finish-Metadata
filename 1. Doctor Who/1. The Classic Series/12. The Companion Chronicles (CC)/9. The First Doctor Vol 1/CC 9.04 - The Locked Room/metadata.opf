@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Locked Room</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-435-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - The First Doctor - Volume 1"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Purves (Steven Taylor)</dc:creator>
+        <dc:creator opf:role="nrt">Alice Haig (Sida)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Vardan)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Steven Taylor left the Doctor and the TARDIS to become king of an alien world. But it's now many years since he gave up the throne and went to live in a cell in the mountains, out of sight of his people. He's not escaping his past — quite the opposite, in fact. As his granddaughter, Sida, is about to discover...</dc:description>
+    </metadata>
+</package>

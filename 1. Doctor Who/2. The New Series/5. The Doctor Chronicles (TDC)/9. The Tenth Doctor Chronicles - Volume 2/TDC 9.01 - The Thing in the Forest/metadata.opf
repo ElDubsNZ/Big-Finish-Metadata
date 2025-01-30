@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Thing in the Forest</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-014-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Tenth Doctor Chronicles - Volume 2"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Trevor Baxendale</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jacob Dudman (The Doctor / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Camilla Arfwedson (Ilsa)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Norway, 1943. Resistance fighter Ilsa Johansen was sent to locate a British agent. Instead, she stumbles across the Doctor. Pursued through the woods by enemy forces, it'll take all their cunning to survive.
+
+But it isn't just the Nazis that are hunting them. Something else stalks the forest. Something that could change the course of the war forever.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>House of Silents</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-616-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - The New Series - Series 3 - Silenced"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jemma Redgrave (Kate Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Ingrid Oliver (Osgood)</dc:creator>
+        <dc:creator opf:role="nrt">Ramon Tikaram (Colonel Vikram Shindi)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Captain Josh Carter)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy Wiles (Jacqui McGee)</dc:creator>
+        <dc:creator opf:role="nrt">Joanna Wake (Miss Helena Faversham)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Day (Kenneth LeBlanc)</dc:creator>
+        <dc:creator opf:role="nrt">Aaron Neil (Homeless Man / News Reporter)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Soldier)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Silence)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>There is no record of the presence of an alien species known as 'The Silents' on Earth. UNIT has never engaged hostiles capable of editing themselves from observers' memories. 
+
+There is no evidence that such an opponent, if real, is regrouping and beginning a new plan of infiltration and manipulation. 
+
+Kate Stewart and her team are in no mortal danger. How can they be, when they don't even know the enemy exists?</dc:description>
+    </metadata>
+</package>

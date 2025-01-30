@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Nerves</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-401-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood One - Series 5 - I Hate Mondays"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Joseph Lidster</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Gareth David-Lloyd (Ianto Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Bentinck (Tommy Pierce)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy-Ann Oberman (Yvonne Hartman)</dc:creator>
+        <dc:creator opf:role="nrt">Lu Corfield (Pam McDonald)</dc:creator>
+        <dc:creator opf:role="nrt">James G Nunn (Harvey Pockett)</dc:creator>
+        <dc:creator opf:role="nrt">Anniwaa Buachie (Sue Cassidy)</dc:creator>
+        <dc:creator opf:role="nrt">Ed White (Dom Peters-Day)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Another Monday morning, another mission for Torchwood. Ianto and Tommy have to transport a canister of deadly Euphorian nerve agent to an underground bunker in the South Downs. It should be an easy straight-forward job but other forces are gathering...</dc:description>
+    </metadata>
+</package>

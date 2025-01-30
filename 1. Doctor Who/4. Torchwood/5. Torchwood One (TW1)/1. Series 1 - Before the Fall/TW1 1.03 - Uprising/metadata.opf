@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Uprising</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-008-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood One - Series 1 - Before the Fall"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tracy-Ann Oberman (Yvonne Hartman)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth David-Lloyd (Ianto Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Bentinck (Thomas/Millidar)</dc:creator>
+        <dc:creator opf:role="nrt">Damian Lynch (Kieran)</dc:creator>
+        <dc:creator opf:role="nrt">Gerard McCarthy (Cashpoint User)</dc:creator>
+        <dc:creator opf:role="nrt">Nisha Nayar (Guleraana)</dc:creator>
+        <dc:creator opf:role="nrt">Rachid Sabitri (Hank)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Winkleman (Rachel Allan)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"Torchwood. It's taken the best part of a month, but I've finally got things running how they should be. How they should have been all along." 
+
+Torchwood has experienced some radical changes, but things are finally settling down. Everyone has pulled together and is trying to put the past behind them. Well, except for Yvonne Hartman – she's out to win the future. 
+
+There's one problem. Someone seems to have started an interstellar war. Someone who knows Torchwood from the inside out.</dc:description>
+    </metadata>
+</package>

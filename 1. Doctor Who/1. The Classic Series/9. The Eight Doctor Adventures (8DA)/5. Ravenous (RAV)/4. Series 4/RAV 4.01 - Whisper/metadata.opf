@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Whisper</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-556-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Ravenous 4"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Walker (Liv)</dc:creator>
+        <dc:creator opf:role="nrt">Hattie Morahan (Helen)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Bonnar (The Eleven)</dc:creator>
+        <dc:creator opf:role="nrt">Natalie Simpson (Vonn)</dc:creator>
+        <dc:creator opf:role="nrt">Clifford Samuel (Kinner / Drey)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Seeking respite after their battle with the Ravenous and hoping to find a quiet place where the Eleven can recuperate, the TARDIS crew visit the Still Foundation. But all they find is a small band of survivors under siege from a terrifying predator. A predator that hunts by sound. </dc:description>
+    </metadata>
+</package>

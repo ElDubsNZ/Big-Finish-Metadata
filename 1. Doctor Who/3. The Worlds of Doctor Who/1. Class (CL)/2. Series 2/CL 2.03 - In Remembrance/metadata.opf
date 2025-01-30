@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>In Remembrance</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-640-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Class - Series 2"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Katherine Kelly (Miss Quill)</dc:creator>
+        <dc:creator opf:role="nrt">Greg Austin (Charlie)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When an alarm is triggered at Coal Hill Academy, Quill and Charlie encounter a mysterious intruder prowling around school premises. Worse, they also encounter a Dalek. Their only hope of survival lies with the stranger: a woman who calls herself 'Ace'... </dc:description>
+    </metadata>
+</package>

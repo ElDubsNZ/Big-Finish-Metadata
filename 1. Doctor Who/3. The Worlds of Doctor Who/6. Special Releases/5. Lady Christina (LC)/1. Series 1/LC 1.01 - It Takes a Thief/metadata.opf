@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>It Takes a Thief</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-594-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Lady Christina - Series 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Michelle Ryan (Lady Christina)</dc:creator>
+        <dc:creator opf:role="nrt">Warren Brown (Sam Bishop)</dc:creator>
+        <dc:creator opf:role="nrt">Matt Barber (Ivo Fraser-Cannon)</dc:creator>
+        <dc:creator opf:role="nrt">Cristina Barreiro (Flavia Santos / Operator)</dc:creator>
+        <dc:creator opf:role="nrt">Holly Jackson Walters (Carla / Maud Hunter)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth Corke (Taxi driver)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Brenher (Conceirge)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The French Riviera has always provided rich pickings for the aristocratic cat-burglar. Lady Christina is enjoying the high life while adding to her collection. 
+
+But when suspicion falls on her after a robbery-turned-murder, Christina decides to catch the culprit herself...</dc:description>
+    </metadata>
+</package>

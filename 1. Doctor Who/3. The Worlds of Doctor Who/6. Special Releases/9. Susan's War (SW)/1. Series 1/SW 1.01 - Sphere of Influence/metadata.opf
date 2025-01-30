@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Sphere of Influence</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-223-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Susan's War - Series 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Carole Ann Ford (Susan)</dc:creator>
+        <dc:creator opf:role="nrt">William Russell (Ian Chesterton)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Veklin)</dc:creator>
+        <dc:creator opf:role="nrt">Claire Vousden (Investigator / First Elder)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Fraser (Second Elder)</dc:creator>
+        <dc:creator opf:role="nrt">Damian Lynch (Rasmus)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Brooker (Strato / Sensorite / Guard / Parasite)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Susan’s first mission is one of diplomacy. The Sense-Sphere could prove a valuable ally to Gallifrey. 
+
+But she is not the only one who knows the Sensorites of old. Susan will have the support of an old friend. 
+
+Ian Chesterton is about to rejoin the adventure he left a lifetime ago!</dc:description>
+    </metadata>
+</package>

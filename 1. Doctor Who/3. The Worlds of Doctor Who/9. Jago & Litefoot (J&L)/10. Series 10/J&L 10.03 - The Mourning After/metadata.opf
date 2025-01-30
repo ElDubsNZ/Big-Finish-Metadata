@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Mourning After</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-360-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jago & Litefoot - Series 10"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Trevor Baxter (Professor George Litefoot)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Asquith (Inspector Quick)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Ellie Higson)</dc:creator>
+        <dc:creator opf:role="nrt">David Warner (Doctor Luke Betterman)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Hadoke (Carruthers Summerton)</dc:creator>
+        <dc:creator opf:role="nrt">Camilla Power (Adella)</dc:creator>
+        <dc:creator opf:role="nrt">Ewan Bailey (Priest)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Litefoot is surprised to meet an old friend. But celebrations are rather muted as he and Ellie have just been to the funeral of Henry Gordon Jago. But is Jago really dead? Or has he somehow been transported into a nightmarish future? The truth is both elusive and deeply worrying...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Day Zero</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-646-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - She Story Continues - Series 2 - God Among Us - Part 3"/>
+        <meta name="calibre:series_index" content="11"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Barrowman (Captain Jack Harkness)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy-Ann Oberman (Yvonne Hartman)</dc:creator>
+        <dc:creator opf:role="nrt">Alexandria Riley (Ng)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Clayton (Mr Colchester)</dc:creator>
+        <dc:creator opf:role="nrt">Samantha Béart (Orr)</dc:creator>
+        <dc:creator opf:role="nrt">Jonny Green (Tyler Steele)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Price (Andy Davidson)</dc:creator>
+        <dc:creator opf:role="nrt">Ramon Tikaram (Colin Colchester-Price)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline King (God)</dc:creator>
+        <dc:creator opf:role="nrt">Taj Atwal (Sal)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Dalgleish (Faye)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Blore (Security Guard)</dc:creator>
+        <dc:creator opf:role="nrt">William Kirk (Bay Soldier)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Heap (Angry Boy)</dc:creator>
+        <dc:creator opf:role="nrt">Gabin Kongolo (Angry Man)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>They've been warning about it for ages. Poisonous mould in the water supply. But it's finally got out of hand. It's day zero – the day Cardiff runs out of drinking water. 
+
+As people start fighting over the last remaining supplies, the Disaster Recovery Committee takes drastic action. Because there's one place that still has clean water. And Torchwood will do anything to stop them from getting it.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Grand Theft Cosmos</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-306-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Series 2"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sheridan Smith (Lucie Miller)</dc:creator>
+        <dc:creator opf:role="nrt">Sebastian Armesto (Anders / Museum Porter / Waiter)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Benjamin (Tardelli)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (The Guardian)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Fullerton (Karen)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Maloney (Simonsson / Museum Porter / Diner / Cab Driver)</dc:creator>
+        <dc:creator opf:role="nrt">Katarina Olsson (The Headhunter)</dc:creator>
+        <dc:creator opf:role="nrt">Colin Spaull (Henrik)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Here's to crime, Doctor!'
+
+The Doctor and Lucie visit nineteenth-century Sweden and become embroiled in an attempt to steal the infamous Black Diamond of Claudia Tardelli. But they are not the only would-be thieves attempting the heist of the century; the Headhunter is back and this time she's brought a friend!
+
+The Stone, however, is guarded by forces not of this world...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>A Blind Eye</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2004-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-091-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 1"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (President Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Cecilia Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Coodinator Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Susan Engel (Ms Joy)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Hogarth (Waiter)</dc:creator>
+        <dc:creator opf:role="nrt">Hugo Myatt (Arkadian)</dc:creator>
+        <dc:creator opf:role="nrt">David Warwick (Erich)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>
+Earth, September 1939. With Europe sliding into war, a young Englishwoman, her loyalties torn, comes to a terrible decision. But what does the intergalactic secrets broker Mephistopheles Arkadian want with the fascist sympathiser Cecilia 'Sissy' Pollard on the last day of her life?
+
+ 
+
+Still searching for the facts about the Gryben debacle, President Romana makes a deal with the devil. So begins a chain of consequence that can only end in tragedy for the passengers aboard the Vienna to Calais Transcontinental Express, the woman called Leela included.
+
+ 
+
+By journey's end, the truth will out but at what cost to Romana and Leela? To Gallifrey's empire, even?
+
+ 
+
+THIS RELEASE IS NOW OUT OF PRINT ON CD.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Sky Man</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-393-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Master - Series 1 - Only the Good"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Derek Jacobi (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Jonny Green (Cole Jarnish)</dc:creator>
+        <dc:creator opf:role="nrt">Emily Barber (Elidh)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Daws (Anvar)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When his new companion decides to save a planet, the Master indulges this most futile of requests. Materialising on a primitive, agrarian world, both the strangers quickly find their place in it… until fallout from the War invades their happy paradise.</dc:description>
+    </metadata>
+</package>

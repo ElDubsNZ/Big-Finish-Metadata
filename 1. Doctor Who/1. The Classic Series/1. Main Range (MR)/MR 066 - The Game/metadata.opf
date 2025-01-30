@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Game</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2005-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-100-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="66"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Darin Henry</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Steve Berry (Robot Butler)</dc:creator>
+        <dc:creator opf:role="nrt">Ursula Burton (Ambassador Faye Davis)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Curbishley (Ockle Dirr)</dc:creator>
+        <dc:creator opf:role="nrt">Greg Donaldson (Coach Bela Destry)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Ellison (Morian)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Kubiak (Mr Jelluhjee)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Lothian (Hollis Az)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Pearce (Garny Diblick)</dc:creator>
+        <dc:creator opf:role="nrt">William Russell (Lord Carlisle)</dc:creator>
+        <dc:creator opf:role="nrt">Dickon Tolson (Coach Sharz Sevix)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On the planet Cray, it's game time.
+
+The Gora and the Lineen are set to face off in the grudge match to end all grudge matches. The players are limbering up, the commentators are preparing, the fans are daubing themselves in their team's colours. The arena is set, and the kick-off is approaching.
+
+When the Doctor and Nyssa arrive, however, they find that Naxy is a sport that anyone can play - whether they want to or not. Cray's entire future depends on the match's outcome, but the time travellers soon realise that it is anything but just a game.</dc:description>
+    </metadata>
+</package>

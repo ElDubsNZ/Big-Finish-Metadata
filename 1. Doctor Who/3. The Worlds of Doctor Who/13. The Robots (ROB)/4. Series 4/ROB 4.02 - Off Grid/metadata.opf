@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Off Grid</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-044-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Robots - Series 4"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Sarah Grochala</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Claire Rushbrook (Tula Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Whitelock (Skellen)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (Vash Sorkov)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy Wiles (SV49 / Jadia)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (Computer)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When a Supervoc is found on the streets, claiming responsibility for a recent explosion, it’s clear to Liv and Tula that the Sons of Kaldor are attempting to frame robots for their murderous attacks. But where are they? And how to stop them? 
+
+As they try to smuggle the Supervoc out of the city, it’s clear that finding the enemy will be the least of their worries as tonight... the lights are going out.</dc:description>
+    </metadata>
+</package>

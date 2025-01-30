@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Three Companions</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-551-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 6"/>
+        <meta name="calibre:series_index" content="0.1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Anneke Wills (Polly Wright / Alice Warner / Florrie Cooper)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Courtney (Brigadier Lethbridge-Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">John Pickard (Thomas Brewster)</dc:creator>
+        <dc:creator opf:role="nrt">Russell Floyd (Gerry "G. L." Lenz / Garry Lendler / Announcer)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Polly Wright has tracked down an old friend of the Doctor's... Alistair Gordon Lethbridge-Stewart, former Brigadier at UNIT. As they trade stories of their time travelling in the TARDIS, it soon becomes clear that their pasts are intertwined, and linked to a current crisis on the planet Earth. And there's a third companion, watching them from a distance. A certain Thomas Brewster...</dc:description>
+    </metadata>
+</package>

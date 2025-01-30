@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Suburban Hell</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-350-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 4"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Annette Badland (Thelma)</dc:creator>
+        <dc:creator opf:role="nrt">Raymond Coulthard (Ralph / Second Acolyte)</dc:creator>
+        <dc:creator opf:role="nrt">Alix Dunmore (Penny / Acolyte)</dc:creator>
+        <dc:creator opf:role="nrt">David Ricardo-Pearce (Pete / Priest)</dc:creator>
+        <dc:creator opf:role="nrt">Katy Wix (Belinda)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Somewhere in a suburb of North London, there's a crisis. More than a crisis, a positive disaster: Belinda and Ralph are expecting four for supper, and there's no Marie Rose sauce for the Prawns Marie Rose. All in all, the evening couldn't possibly get any worse...
+
+Until the doorbell rings, bringing the Doctor and Leela to the dinner party. They've got a crisis, too – temporal ruckage has sent the TARDIS to another time zone entirely. Meaning they might have to endure a whole evening in Belinda's company.
+
+But the Doctor and Leela aren't the only uninvited guests tonight. There's a strange fog falling, out in the road. And in that fog: savage blue-skinned monsters, with dinner party plans of their own. Because it's not Prawns Marie Rose on their menu – it's people!</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Casualties of Time</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-741-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 5"/>
+        <meta name="calibre:series_index" content="8"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Conglom-Net Computer)</dc:creator>
+        <dc:creator opf:role="nrt">Jez Fielder (Drudger / Ecidien Cerebus Bird / Albert Chatterton / Salonu Prime)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Hadoke (Mr Dorrick)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (The Laan / Salonu)</dc:creator>
+        <dc:creator opf:role="nrt">David Troughton (The Black Guardian / Edge)</dc:creator>
+        <dc:creator opf:role="nrt">David Warner (Cuthbert)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS crew have unknowingly become embroiled in a web of deceit. A trap has been laid across time and they have no possible means of escape. Destiny has ensnared them.
+
+The Doctor is finally getting the chance to see the Conglomerate's work at first-hand. Romana is working to save the alien Laan once and for all. K9 is returning to Ancient Britain in search of an unusual power source.
+
+The Doctor, Romana and K9.
+
+Today one of them will die.</dc:description>
+    </metadata>
+</package>

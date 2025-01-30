@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Resistance</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-378-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 3"/>
+        <meta name="calibre:series_index" content="9"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Steve Lyons</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Anneke Wills (Polly Wright / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">John Sackville (The Pilot)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>February 1944: France is occupied by the Third Reich, the French Gestapo has an iron grip and the native resistance attempts to overthrow the invaders. On one quiet winter's night, a British plane crashes to the ground, leaving a flying officer desperate to escape via the evasion lines.
+
+Separated from the TARDIS, Ben and Jamie, the Doctor and Polly find themselves with enemies on all sides. Trapped in one of the darkest times in history, Polly discovers that humanity can be just as dangerous as any threat from outer space. She resolves to make a difference - even if it means leaving the Doctor forever...</dc:description>
+    </metadata>
+</package>

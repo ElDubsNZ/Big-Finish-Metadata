@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Impossibly Glamorous</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-267-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Vienna - Series 3"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Steve Lyons</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Chase Masterson (Vienna Salvatori)</dc:creator>
+        <dc:creator opf:role="nrt">Samantha Béart (Jexie Reagan)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Kensington Fox)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Bottomley (Drew Mulligan)</dc:creator>
+        <dc:creator opf:role="nrt">Kerry Gooderson (Beautician)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Vienna Salvatori used to be somebody else. She used to dream that she had an impossibly glamorous life, and then one day she met someone who made her dreams true. 
+
+Now she has a new mission. She wants to help make your dreams a reality, help you become the person you always wanted to be. Even if it kills you.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Beast of Orlok</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-395-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Series 3"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Barnaby Edwards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sheridan Smith (Lucie Miller)</dc:creator>
+        <dc:creator opf:role="nrt">Samuel Barnett (Hans)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Lügner / Wolf)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Cooper (Judah / Coachman / Grinsen)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Guinness (Baron Teufel)</dc:creator>
+        <dc:creator opf:role="nrt">Miriam Margolyes (Frau Tod)</dc:creator>
+        <dc:creator opf:role="nrt">Alison Thea-Skot (Greta)</dc:creator>
+        <dc:creator opf:role="nrt">Nick Wilton (Otto Pausbacken)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>With fangs like splinters, claws like knives, the Beast of Orlok gobbles lives.
+ With brimstone breath and eyes aglow, he'll eat your soul - to Hell you'll go!
+
+Germany, 1827. The town of Orlok is under a curse, haunted by the memory of a spate of grisly murders that shattered the community twenty years before. At the time, townsfolk blamed the legendary Beast of Orlok, a nightmarish creature from medieval folklore.
+
+And now, it seems, the Beast has returned. As the killings begin again, the people of Orlok are understandably suspicious of two strangers newly arrived in their midst. The Doctor and Lucie must face their darkest fears as they find themselves plunged into a decidedly grim fairytale.</dc:description>
+    </metadata>
+</package>

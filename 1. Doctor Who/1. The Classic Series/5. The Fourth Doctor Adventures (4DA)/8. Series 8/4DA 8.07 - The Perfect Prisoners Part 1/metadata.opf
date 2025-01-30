@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Perfect Prisoners Part 1-2</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 8"/>
+        <meta name="calibre:series_index" content="7"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Ann Kelso)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Bubb (Jodor Colwyn)</dc:creator>
+        <dc:creator opf:role="nrt">Francesca Hunt (C / G / Drar)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (M / S / Trooper / Worker)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Speyer (T / B)</dc:creator>
+        <dc:creator opf:role="nrt">Ronan Vibert (Zaal)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor, Ann and K9 are hot on the trail of the Syndicate, and straight into trouble.
+
+After contending with killer robots and dangerous aliens, the clues lead straight to a machine that can literally make your dreams come true. A device that in the wrong hands could lead to misery for billions.
+
+But who’s the real villain here? And what exactly is their master plan?</dc:description>
+    </metadata>
+</package>

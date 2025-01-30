@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Last of the Titans</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2001-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Seventh Doctor Adventures - Specials"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Vilgreth)</dc:creator>
+        <dc:creator opf:role="nrt">Lennox Greaves (Professor Patrick Trethui)</dc:creator>
+        <dc:creator opf:role="nrt">Holly King (Mrs Burden)</dc:creator>
+        <dc:creator opf:role="nrt">Alistair Lock (Stelpor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Once again, the TARDIS displays its preference for the grimy, the odious and the dangerous - and, finding himself lost and alone in the dark heart of a gigantic spacecraft, the Doctor has no way of knowing that a cosmic catastrophe is waiting to happen...</dc:description>
+    </metadata>
+</package>

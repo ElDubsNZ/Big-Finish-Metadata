@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>A Thing of Guile</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-189-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Doctor - Series 2 - Infernal Devices"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Phil Mulryne</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Hurt (The War Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline Pearce (Cardinal Ollistra)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Hands (Captain Solex)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Newall (Co-ordinator Jarad)</dc:creator>
+        <dc:creator opf:role="nrt">Oliver Dimsdale (Commander Trelon)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Harding (Navigator Valis)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks, Kaled-006)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Daleks are developing a secret weapon on Asteroid Theta 12. It is imperative that their plans are uncovered.
+
+Cardinal Ollistra has her hands full studying the range of ancient and mysterious armaments the universe has to offer, but she makes it a personal mission to investigate the Dalek project.
+
+On this dangerous assignment, there is one particular Time Lord she wants at her side - and he will be accompanying her whether he wants to or not.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Backtrack</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-225-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Tenth Doctor Chronicles - Volume 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matthew J Elliott</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jacob Dudman (The Doctor / Narrator / Martha Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (Nathan Hobb)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the TARDIS crashes in the vortex, Martha and the Doctor find themselves on board the time-ship The Outcome, where the host offers temporal cruises at reasonable prices.
+
+But time travellers must never cut corners. Dangerous forces have been unleashed, and Martha finds her medical skills put to the test as she deals with some lethal fall-out.
+
+Time is running out, and the clock is ticking towards disaster!</dc:description>
+    </metadata>
+</package>

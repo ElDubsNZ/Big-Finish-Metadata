@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Return to Telos</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-352-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 4"/>
+        <meta name="calibre:series_index" content="8"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Frazer Hines (Jamie McCrimmon)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Cybermen)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Cochrane (Geralk)</dc:creator>
+        <dc:creator opf:role="nrt">Bernard Holley (Peter Haydon)</dc:creator>
+        <dc:creator opf:role="nrt">Veronica Roberts (Relly)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor reveals to Leela that they’re heading for the planet Telos. And K9 has new masters...
+
+On Telos, in the past, the Second Doctor and Jamie are exploring the ‘tomb of the Cybermen’.
+
+Meanwhile, the Cyber-Controller and Cyber-Planner consolidate their plans. Spare parts from Krelos are being used to construct a mighty Cyber army. The Doctor must be captured.
+
+Out of control, the TARDIS tumbles down a chasm and the Doctor and Leela find themselves caught up in full-scale planetary invasion.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Colony of Strangers</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-509-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Diary of River Song - Series 7"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Charles Armstrong (Karl)</dc:creator>
+        <dc:creator opf:role="nrt">Wanda Opalinska (Gudrun / Espen)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (Robosurgeon / Creature / Tors)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On the bleak Nordic colony of Bondar, bodies are washing up on the beach. 
+
+The Mayor and the police are mystified. But then a prime suspect turns up. A suspect who might be their best hope of solving the case.</dc:description>
+    </metadata>
+</package>

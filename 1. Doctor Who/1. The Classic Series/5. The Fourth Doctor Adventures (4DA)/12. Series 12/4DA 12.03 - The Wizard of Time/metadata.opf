@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Wizard of Time</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 12"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Roy Gill</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Nerys Hughes (Margaret)</dc:creator>
+        <dc:creator opf:role="nrt">Ronald Pickup (Jacob Harmer)</dc:creator>
+        <dc:creator opf:role="nrt">Sara Powell (Moira Tenaka)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Jameson (Young Jacob Harner)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Panting (Nate Duffy / Mr Fennec)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It’s time for a story.
+
+Jacob Harmer was one of the greats. His fantasy novels for children entranced a generation. But how much of their stories were fantasy and how much of them was the truth? At last he's ready to tell the tale of what really happened.</dc:description>
+    </metadata>
+</package>

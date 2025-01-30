@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Blood on Santa's Claw and Other Stories</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-867-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="259"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alan Terigo</dc:creator>
+        <dc:creator opf:role="aut">Susan Dennom</dc:creator>
+        <dc:creator opf:role="aut">Andrew Lias</dc:creator>
+        <dc:creator opf:role="aut">Nev Fountain</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Luke Allen-Gale (Joe Carnaby)</dc:creator>
+        <dc:creator opf:role="nrt">Heather Bleasdale (Cordelia / Fecunda / President)</dc:creator>
+        <dc:creator opf:role="nrt">Cliff Chapman (Iago / Kren / Paul / Robot Attendant)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Elder (Lord Lycaon / Rudolph)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Kempton (Selene)</dc:creator>
+        <dc:creator opf:role="nrt">Dawn Murphy (Cordeline / Dorrit / Ratty)</dc:creator>
+        <dc:creator opf:role="nrt">Roger Parrott (Balan / Toad)</dc:creator>
+        <dc:creator opf:role="nrt">Becky Wright (Shreela / Jana / Pip / Mole / Witch / Janey)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Blood on Santa’s Claw by Alan Terigo 
+
+The Doctor, Peri and Joe land on the planet Naxios, where they discover the body of Father Christmas.
+
+Who killed him? The strange individuals dressed in Shakespearian costume or the talking animals wearing waistcoats digging in the tunnels?
+
+The Baby Awakes by Susan Dennom 
+
+The Doctor, Peri and Joe visit the Ishtar institute, where the term 'designer babies' takes on a new and sinister meaning. Will our heroes survive Christmas day?
+
+I Wish It Could Be Christmas Every Day by Andrew Lias
+
+A Christmas party that's been going on for three years. Strange silver robots who guard the Christmas decorations with lethal force. What is the secret behind the festivities on Tate Galactic?
+
+Brightly Shone The Moon That Night by Nev Fountain 
+
+The TARDIS crew encounters a shameful secret of the Time Lords. History has been rewritten, and this time it's all the Doctor's fault.</dc:description>
+    </metadata>
+</package>

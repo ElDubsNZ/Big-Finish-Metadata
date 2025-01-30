@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Dalek Trap</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-740-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Series 5 - The Further Adventures of Lucie Miller"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sheridan Smith (Lucie Miller)</dc:creator>
+        <dc:creator opf:role="nrt">Matt Lloyd Davies (Jik Gelliska)</dc:creator>
+        <dc:creator opf:role="nrt">Amanda Hurwitz (Raz Kalisto)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The thing about black holes is, they’re big and they’re black and they’re deadly, and you’d have to be mad to go anywhere near them. Because anything that falls inside a black hole ends up crushed in the singularity.
+
+Unfortunately, the Doctor just went mad, or so it seems, and flew his TARDIS beyond a black hole’s event horizon, causing him and his companion Lucie Miller to end up marooned on a planetoid just inside the event horizon. Along with a Dalek saucer… and something else. Because this is no ordinary black hole...
+
+This is the Cradle of the Darkness.</dc:description>
+    </metadata>
+</package>

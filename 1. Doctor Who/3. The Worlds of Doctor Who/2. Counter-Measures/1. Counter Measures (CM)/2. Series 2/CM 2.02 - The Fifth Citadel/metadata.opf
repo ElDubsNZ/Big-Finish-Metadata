@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Fifth Citadel</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-082-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Counter Measures - Series 2"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Simon Williams (Group Captain Ian Gilmore)</dc:creator>
+        <dc:creator opf:role="nrt">Pamela Salem (Rachel Jensen)</dc:creator>
+        <dc:creator opf:role="nrt">Karen Gledhill (Allison Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Ross (Sir Toby Kinsella)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Pope (Templeton)</dc:creator>
+        <dc:creator opf:role="nrt">Celia Imrie (Dr Elizabeth Bradley)</dc:creator>
+        <dc:creator opf:role="nrt">Mandi Symonds (Bridget)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Mr Ackroyd)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Price (Ben / Medic / First Soldier)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Lonsdale (Jenkins / Freeman / Second Soldier / Guard)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>People are falling ill near Holborn and displaying a sickness with all the hallmarks of radiation poisoning. While Gilmore and Allison look into a graveyard, Sir Toby and Rachel venture underground to meet an old friend with a desperate scheme. </dc:description>
+    </metadata>
+</package>

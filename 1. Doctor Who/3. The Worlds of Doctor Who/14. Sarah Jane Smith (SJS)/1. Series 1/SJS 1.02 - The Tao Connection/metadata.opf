@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Tao Connection</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2002-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-493-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Sarah Jane Smith - Series 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Barry Letts</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Elisabeth Sladen (Sarah Jane Smith)</dc:creator>
+        <dc:creator opf:role="nrt">Jeremy James (Josh Townsend)</dc:creator>
+        <dc:creator opf:role="nrt">Sadie Miller (Natalie Redfern)</dc:creator>
+        <dc:creator opf:role="nrt">Caroline Burns-Cook (Claudia Coster)</dc:creator>
+        <dc:creator opf:role="nrt">Juliet Warner (Ellie Martin)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Donovan (DI Morrison)</dc:creator>
+        <dc:creator opf:role="nrt">Alistair Lock (DC Johnson)</dc:creator>
+        <dc:creator opf:role="nrt">Moray Treadwell (Will Butley)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Ron Sharpe)</dc:creator>
+        <dc:creator opf:role="nrt">Jane McFarlane (Nurse Jephson)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Curbishley (Read)</dc:creator>
+        <dc:creator opf:role="nrt">Wendy Albiston (Meg)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Longworth (Wong Chu)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Stables (Mrs Lythe)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>BILLIONAIRE RECLUSE BUYS HOLTOOTH HALL 
+
+The body of an old man is found floating in the Thames — although the corpse's DNA corresponds to an 18-year old friend of Josh and Ellie. Sarah heads towards West Yorkshire in a bid to discover what killed the man, why someone is kidnapping homeless teenage boys and whether there is a link between that and philanthropist Will Butley's retreat which hosts The Huang Ti Clinic. Sarah discovers that there is more to ancient Dark Sorcery than she may have otherwise believed...</dc:description>
+    </metadata>
+</package>

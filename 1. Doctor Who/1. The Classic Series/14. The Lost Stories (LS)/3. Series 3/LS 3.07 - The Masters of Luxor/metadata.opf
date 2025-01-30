@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Masters of Luxor</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-589-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 3"/>
+        <meta name="calibre:series_index" content="7"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Anthony Coburn</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Carole Ann Ford (Susan)</dc:creator>
+        <dc:creator opf:role="nrt">William Russell (Ian Chesterton / The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Kloska (The Perfect One)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS is drawn to a mysterious signal emanating from a seemingly dead world. Trapped within a crystalline structure, the Doctor and his friends inadvertently wake a vast army of robots that have lain dormant for many, many years. Waiting… for the Masters of Luxor.
+
+ The Perfect One wants to become more than just a mockery of a man, and will stop at nothing to achieve it. But will the cost prove too great?
+
+ The travellers are about to uncover a horrifying tragedy. A tragedy that threatens to engulf them all.</dc:description>
+    </metadata>
+</package>

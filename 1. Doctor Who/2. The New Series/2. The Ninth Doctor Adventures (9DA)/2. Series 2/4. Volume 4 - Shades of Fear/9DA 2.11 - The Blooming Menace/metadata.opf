@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Blooming Menace</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-762-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Ninth Doctor Adventures - Series 2 - Volume 4 - Shades of Fear"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Kettle</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Eccleston (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Dave Hearn (Toby Entwhistle)</dc:creator>
+        <dc:creator opf:role="nrt">Milanka Brooks (Phil)</dc:creator>
+        <dc:creator opf:role="nrt">Rachel Stanley (Nanny Lewis)</dc:creator>
+        <dc:creator opf:role="nrt">Luke Kempner (Bulstrode / Eulalia)</dc:creator>
+        <dc:creator opf:role="nrt">Clive Hayward (Birkett / Wycombe-Bassett)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Toby Entwhistle and his bachelor chums in the Fellows Club are falling victim to a plague - of marriage!
+
+The chaps are all besotted by giant flowers - but Toby’s new valet seems to know what’s going on. The Doctor could be London's only hope…</dc:description>
+    </metadata>
+</package>

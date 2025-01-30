@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Ordeal of Peladon</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-722-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - Peladon"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Troughton (King Peladon)</dc:creator>
+        <dc:creator opf:role="nrt">Moyo Akandé (Harfair / Skanlar)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Ixmari)</dc:creator>
+        <dc:creator opf:role="nrt">David Sturzaker (Raarlan)</dc:creator>
+        <dc:creator opf:role="nrt">Ashley Zhangazha (Skarn / Guard Captain)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Goddard (Alpha Centauri)</dc:creator>
+        <dc:creator opf:role="nrt">David Tennant (The Doctor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When King Peladon hears of a holy man with seemingly magical powers and the gift of foresight, he resolves to discover the truth of it for himself. But his quest to understand the shifting loyalties of his people is one from which he cannot return unchanged.</dc:description>
+    </metadata>
+</package>

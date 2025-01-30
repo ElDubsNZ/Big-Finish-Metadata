@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Invasion of E-Space</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-486-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 5"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andrew Smith</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Suanne Braun (Marni Tellis)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Trapped within E-Space, the Doctor, Romana and Adric are searching for a Charged Vacuum Emboitment – the gateway back to our universe. It’s like looking for a needle in a haystack...
+
+Then, by pure chance, a brand new CVE rips into being. Its makers are The Farrian, a warlike race who possess the technology to break into E-Space. But they have come to invade and plunder this new territory, and the riches of the planet Ballustra are their first target…</dc:description>
+    </metadata>
+</package>

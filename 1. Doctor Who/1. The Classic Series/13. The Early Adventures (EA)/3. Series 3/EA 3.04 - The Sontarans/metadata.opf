@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Sontarans</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-381-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Early Adventures - Series 3"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Purves (Steven Taylor / The Doctor / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Jean Marsh (Sara Kingdom)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Corporal Gage)</dc:creator>
+        <dc:creator opf:role="nrt">Jemma Churchill (Captain Papas)</dc:creator>
+        <dc:creator opf:role="nrt">Rosanna Miles (Tinder / Human Soldier)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Corporal Ellis / Slite / Shrok / Stack / Commander)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS arrives on a moon-sized asteroid orbiting two gas giants. With an amazing view, it’s a chance for the Doctor, Steven and Sara to unwind after their recent adventures.
+
+But they quickly find themselves in the midst of battle - on one side: a familiar group of space-suited soldiers - members of the Space Security Service. On the other: strange, squat aliens in body armour.
+
+Surviving the initial hostilities, the Doctor and his friends discover that the SSS squad is on a terrifying mission. With many lives at stake, they have to venture deep inside the asteroid in search of a hideous weapon. But who can they trust in the battle against these Sontarans?</dc:description>
+    </metadata>
+</package>

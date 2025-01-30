@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Fugitive in Time</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-385-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Time War - Volume 3"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Roland Moore</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Rakhee Thakrar (Bliss)</dc:creator>
+        <dc:creator opf:role="nrt">Adèle Anderson (Major Tamasan)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Newall (Vashko)</dc:creator>
+        <dc:creator opf:role="nrt">Jude Owusu (Dransino)</dc:creator>
+        <dc:creator opf:role="nrt">Wendy Craig (Shonnath)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Daleks / Time Strategist)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy Wiles (Servant)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Jayston (The Valeyard)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Returning a favour for Major Tamasan, the Doctor and Bliss accompany her to extract a dangerous fugitive from an isolated medieval world.
+
+Shonnath is the last of her kind and has her reasons to be wary of Time Lords. What’s more, the Daleks are also on her trail - and when the Doctor and friends arrive, the enemy is already closer than they think.</dc:description>
+    </metadata>
+</package>

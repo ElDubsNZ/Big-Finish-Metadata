@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Screaming Skull</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-341-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Worlds of Doctor Who"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Daphne Ashbrook (Captain Ruth Matheson)</dc:creator>
+        <dc:creator opf:role="nrt">Yee Jee Tso (Warrant Officer Charlie Sato)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Franklin (Mike Yates)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Glover (Mr Rees)</dc:creator>
+        <dc:creator opf:role="nrt">Rachel Atkins (Lieutenant Jane Lucas)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Critchlow (Soldier)</dc:creator>
+        <dc:creator opf:role="nrt">Rory Keenan (Soldier)</dc:creator>
+        <dc:creator opf:role="nrt">Sinead Keenan (Terravore)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Baxter (Professor George Litefoot)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Disgraced soldiers Ruth Matheson and Charlie Sato are called back into action by Captain Mike Yates, when the UNIT Vault is mysteriously locked down by a deadly force. Together they must infiltrate the Vault and get those trapped out alive. But what enemy are they facing?</dc:description>
+    </metadata>
+</package>

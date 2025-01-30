@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Garden of Storms</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-290-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fifth Doctor Adventures - Volume 2 - Wicked Sisters"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Ciara Janson (Abby)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Doddington (Zara)</dc:creator>
+        <dc:creator opf:role="nrt">Pandora Clifford (Zeeb / Zeet)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Mahy (Brody)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Smoke Creatures)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In pursuit of Abby and Zara, Leela pilots the TARDIS to the eye of a violent storm in time. Yet she and the Doctor find themselves in an idyllic garden city, the people contented and happy. They soon discover that this bliss comes at a terrible cost, and that Abby and Zara are determined to put things right... so how can Leela and the Doctor stop them?</dc:description>
+    </metadata>
+</package>

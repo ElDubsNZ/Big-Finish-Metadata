@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Auton Infinity</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-712-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fifth Doctor Adventures - Forty - Series 2"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Strickson (Vislor Turlough)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (Brigadier Lethbridge-Stewart / Kamelion)</dc:creator>
+        <dc:creator opf:role="nrt">Juliet Aubrey (Prodigal)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Fleming (Veronica Holmes)</dc:creator>
+        <dc:creator opf:role="nrt">Fiona Hampton (Sergeant Janet Wharry)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (Dodson / Autons)</dc:creator>
+        <dc:creator opf:role="nrt">Oscar Pearce (Captain Ted Mears)</dc:creator>
+        <dc:creator opf:role="nrt">Homer Todiwala (Corporal Vikram Palmer)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Snowdonia. UNIT is running a training exercise with the Brigadier in attendance. Except it isn’t long before things start to go badly wrong. The fake aliens primed to attack the troops might not be so fake after all, and a temporal disturbance attracts the Doctor, Tegan and Turlough into the fray.
+
+Old enemies are on the scene with a deadly plan - but they might be the least of the Doctor’s worries.
+
+Because he’s recently been sent backwards and forwards through his own lifetime… and he’s finally going to find out why.</dc:description>
+    </metadata>
+</package>

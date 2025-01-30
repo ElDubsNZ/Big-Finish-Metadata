@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Fever Island</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 8"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Ann Kelso)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">Gethin Anthony (Jason Vane)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Desmond Kettley)</dc:creator>
+        <dc:creator opf:role="nrt">Bettrys Jones (Miss Pocket / Dr Caroline Pursglove)</dc:creator>
+        <dc:creator opf:role="nrt">David Rintoul (Dr Leon Jessel)</dc:creator>
+        <dc:creator opf:role="nrt">Carolyn Seymour (The Commodore / Mrs Kidd)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Jason Vane is England’s suavest secret agent, and today he’s on his deadliest mission yet. Tracking down the evil Okulov... before he destroys the world.
+
+The Doctor, Ann and K9 are, in contrast, finding their own mission a little hard to complete. A strange storm in the vortex has swept them back in time, back to Earth in 1978 and a strange place called ‘Fever Island’.
+
+A place where their worst nightmares are about to come true...</dc:description>
+    </metadata>
+</package>

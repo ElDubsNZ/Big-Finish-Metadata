@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Daybreak</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-590-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - The First Doctor - Volume 3"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Pritchard</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Maureen O'Brien (Vicki)</dc:creator>
+        <dc:creator opf:role="nrt">Clive Hayward (The Judge / Markus)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Everyone knows their story. They were heroes, who struck a blow for freedom at the cost of their own lives. Vicki grew up reading of their exploits. She's always hoped to be as brave as them. Now the TARDIS has brought her to their dark and desperate era. The war is still unfinished, and the story's end has not been written yet.</dc:description>
+    </metadata>
+</package>

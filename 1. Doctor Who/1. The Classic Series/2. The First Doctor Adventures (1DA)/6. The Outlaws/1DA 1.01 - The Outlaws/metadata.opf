@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Outlaws</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-734-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The First Doctor Adventures - Volume 6 - The Outlaws"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizbeth Myles</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Stephen Noonan (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lauren Cornelius (Dodo Chaplet)</dc:creator>
+        <dc:creator opf:role="nrt">Rufus Hound (The Monk)</dc:creator>
+        <dc:creator opf:role="nrt">Glynis Barber (Nicholaa de la Haye)</dc:creator>
+        <dc:creator opf:role="nrt">Christian Edwards (William of Berkshire / Gregory)</dc:creator>
+        <dc:creator opf:role="nrt">Carly Day (Idonea de Camville)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Stafford (Sir Hugh de Courtney / Eustace)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (The Messenger)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Landing in 13th-century Lincoln, the Doctor and Dodo are soon caught up in the battle between Sheriff Nicholaa de la Haye and outlaw gangs in the nearby forest. King John requires funds for his conflict with France, and Nicholaa is determined to provide them, whatever the efforts of William of Berkshire and his gang of wolves’ heads…
+
+After taking refuge in Lincoln Castle, the Doctor and Dodo are separated. The Doctor is detained at the pleasure of the Sheriff, while Dodo indulges her adventurous spirit and plays forest outlaw with William’s gang.
+
+But William is not acting alone. The outlaws’ true leader knows the Doctor and has a plan for revenge. A man with a passion for meddling. A man who wears a monk’s habit…</dc:description>
+    </metadata>
+</package>

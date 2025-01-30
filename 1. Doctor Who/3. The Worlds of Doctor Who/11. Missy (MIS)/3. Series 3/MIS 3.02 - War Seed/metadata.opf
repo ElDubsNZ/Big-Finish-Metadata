@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>War Seed</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-638-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Missy - Series 3 - Missy and the Monk"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Johnny Candon</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Michelle Gomez (Missy)</dc:creator>
+        <dc:creator opf:role="nrt">Rufus Hound (The Monk)</dc:creator>
+        <dc:creator opf:role="nrt">John Telfer (Richard Temple)</dc:creator>
+        <dc:creator opf:role="nrt">Lynsey Murrell (Anastasia Temple)</dc:creator>
+        <dc:creator opf:role="nrt">Samuel Collings (The Seed)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Missy takes the Monk to Earth to make a point – she can be nice if she wants. In fact, she can save the planet! While the Monk tries to charm the corporate sharks, Missy makes them a better offer. To supply the ultimate warrior, created in the ultimate war...</dc:description>
+    </metadata>
+</package>

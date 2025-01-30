@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Very Dark Thing</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-360-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The New Adventures of Bernice Summerfield - Volume 3 - The Unbound Universe"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Una McCormack</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">David Warner (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Kerry Gooderson (Megatz)</dc:creator>
+        <dc:creator opf:role="nrt">Deirdre Mullins (Fleet Admiral Effenish)</dc:creator>
+        <dc:creator opf:role="nrt">George Blagden (Colonel Neave)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Earl (Gallario)</dc:creator>
+        <dc:creator opf:role="nrt">Aaron Neil (Aramatz)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Doddington (Idratz)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Tramatz is an idyllic world – the rivers hum to themselves, unicorns prance through the emerald forests, and, at the very corner of your eye, is a horrible secret.</dc:description>
+    </metadata>
+</package>

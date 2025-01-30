@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Authentic Experience</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 8"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Dan Starkey</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Nicola Bryant (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Tired of the old 9 to 5? The daily grind getting you down? Step this way to discover a universe of possibilities! If you're fed up with looking at screens all day, we can offer the authentic experience: whether you want to be as rich as Croesus and swim in gold, or feel the dirt and sweat of honest toil we're ready for your business. Forget the "Same Old", embrace the "New Old"!
+
+(Terms and conditions apply.)</dc:description>
+    </metadata>
+</package>

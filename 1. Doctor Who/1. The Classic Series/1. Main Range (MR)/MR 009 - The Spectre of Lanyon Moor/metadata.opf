@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Spectre of Lanyon Moor</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2000-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-071-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="9"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Pegg</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Stables (Evelyn Smythe)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Courtney (Brigadier Lethbridge-Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">James Bolam (Sir Archibald Flint)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Philip Ludgate)</dc:creator>
+        <dc:creator opf:role="nrt">Helen Goldwyn (Nikki Hunter / Pelagia Stamatis Corporal Croft)</dc:creator>
+        <dc:creator opf:role="nrt">Susan Jameson (Mrs Moynihan)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Longworth (Professor Morgan)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Pegg (Captain Ashforde)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In a desolate Cornish landscape littered with relics of prehistoric man, the Doctor and Evelyn uncover a catalogue of mysteries.
+
+What is the secret of the fog? Can the moor be haunted by a demonic host of imps? And what is Brigadier Lethbridge-Stewart doing in Pengriffen?
+
+Teaming up with his old friend, the Doctor realises that an ancient conflict is nearing its conclusion - and Lanyon Moor is set to be the final battleground.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>An Unearthly Woman</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-507-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Diary of River Song - Series 6"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Claudia Grant (Susan Foreman)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Glover (Ian Chesterton)</dc:creator>
+        <dc:creator opf:role="nrt">Jemma Powell (Barbara Wright)</dc:creator>
+        <dc:creator opf:role="nrt">Lizzie Stables (Sheila Page / Nightstalker)</dc:creator>
+        <dc:creator opf:role="nrt">Edward Dede (Lloyd Walker)</dc:creator>
+        <dc:creator opf:role="nrt">Owen Aaronovitch (Mr Newbold / Mitchell)</dc:creator>
+        <dc:creator opf:role="nrt">David Bradley (The Doctor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Coal Hill School has a new member of staff: an educated woman, who seems to specialise in every subject. Meanwhile, teachers Ian Chesterton and Barbara Wright have concerns over the behaviour of one of their pupils. 
+
+Susan Foreman is intrigued by Dr Song, but something else is stalking her in the darkness and fog of London, 1963...</dc:description>
+    </metadata>
+</package>

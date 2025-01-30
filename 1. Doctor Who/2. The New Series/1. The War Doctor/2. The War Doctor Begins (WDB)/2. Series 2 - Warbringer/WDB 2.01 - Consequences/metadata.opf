@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Consequences</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-550-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Doctor Begins - Series 2 - Warbringer"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Timothy X Atack</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jonathon Carley (The War Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Ajjaz Awad (Case / Auto Case)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Commander Veklin)</dc:creator>
+        <dc:creator opf:role="nrt">Jessica Temple (Iansa)</dc:creator>
+        <dc:creator opf:role="nrt">Angela Bruce (Oya / Andarta, Incipient Mother)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Belus, Germinal Princeps)</dc:creator>
+        <dc:creator opf:role="nrt">Adèle Anderson (Commodore Tamasan)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The War Doctor and Veklin crash on a ravaged planet. On the fringes of the Time War, this world has its own battles raging. Elsewhere, a survivor works out how she came to be here.
+
+But these newcomers are harbingers of something terrible, following in their wake...</dc:description>
+    </metadata>
+</package>

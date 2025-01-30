@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Vortex Ice / Cortex Fire</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-799-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="225"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+        <dc:creator opf:role="aut">Ian Potter</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Greenwood (Flip Jackson)</dc:creator>
+        <dc:creator opf:role="nrt">Monty D'Inverno (Jannik Woolf)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Kane (Halus)</dc:creator>
+        <dc:creator opf:role="nrt">Shobu Kapoor (Sai Chopra)</dc:creator>
+        <dc:creator opf:role="nrt">Youssef Kerkour (Dakeem / Ambulance Pilot)</dc:creator>
+        <dc:creator opf:role="nrt">Orlando Seale (Dylan Argent)</dc:creator>
+        <dc:creator opf:role="nrt">Katherine Senior (Holly Whitfield)</dc:creator>
+        <dc:creator opf:role="nrt">Rebecca Todd (Khoralia)</dc:creator>
+        <dc:creator opf:role="nrt">Eve Webster (Bav / Cortex / Enforcer)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Vortex Ice by Jonathan Morris
+
+In search of ‘exotic particles’, the Doctor and Flip arrive 700 feet underground, in a mine in Northern Mexico – only to run into a scientific expedition. Among their number, an exobiologist. They’re all on the hunt for alien life! Deep underground, the team finally uncovers a cave of vast crystals – like ice, despite the heat. And inside the crystal: something frozen. Something trapped in time. If only it were something simple, like a monster. But it’s far, far worse than that.
+
+Cortex Fire by Ian Potter
+
+The Doctor brings Flip to the futuristic city of Festin, the best vantage point to witness a unique astronomical light show. In a city governed by the all-powerful network known as the Cortex, they’re soon identified as outsiders – nihilists, perhaps, responsible for a wave of terror that’s been sweeping the city… But the truth is different. The people of Festin are burning up. Spontaneously combusting. And no-one knows why.</dc:description>
+    </metadata>
+</package>

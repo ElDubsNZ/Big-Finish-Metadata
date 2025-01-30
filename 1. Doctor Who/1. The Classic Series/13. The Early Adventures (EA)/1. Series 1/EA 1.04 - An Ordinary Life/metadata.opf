@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>An Ordinary Life</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-339-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Early Adventures - Series 1"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Purves (Steven Taylor/Narrator/The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jean Marsh (Sara Kingdom)</dc:creator>
+        <dc:creator opf:role="nrt">Ram John Holder (Joseph Roberts)</dc:creator>
+        <dc:creator opf:role="nrt">Damian Lynch (Michael Newman)</dc:creator>
+        <dc:creator opf:role="nrt">Sara Powell (Audrey Newman)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Critchlow (Billy Flint)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>1950s London: newcomers arrive daily on British shores seeking a fresh start, new opportunities, or simply the chance of a different life. However, some are from much further afield than India or Jamaica... 
+
+After an emergency landing, the TARDIS crew must make the best of it, and look to their new neighbours for help. But the Newman family has more than the prejudices of the time to contend with. A sinister force grows in strength amid the pubs, docks and backstreets of London... 
+
+And without the Doctor, marooned in a time and place as alien as anything they've ever encountered, Steven and Sara may well face their greatest challenge yet. To live an ordinary life.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Retribution - Part 2</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-450-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Vienna - Series 4 - Retribution"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Chase Masterson (Vienna Salvatori)</dc:creator>
+        <dc:creator opf:role="nrt">Samantha Béart (Lieutenant Jexie Reagan)</dc:creator>
+        <dc:creator opf:role="nrt">Annette Badland (Mama Val)</dc:creator>
+        <dc:creator opf:role="nrt">Emma Cunniffe (Sharwell Ness)</dc:creator>
+        <dc:creator opf:role="nrt">Samuel Harris (Ratz)</dc:creator>
+        <dc:creator opf:role="nrt">Edward Harrison (Prosecutor Grover)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Jordan (News Anchor / Drones / Prisoner / Police)</dc:creator>
+        <dc:creator opf:role="nrt">Colin McFarlane (Rex Needle)</dc:creator>
+        <dc:creator opf:role="nrt">Adam Redmore (Judge / Drones)</dc:creator>
+
+        <!-- Description -->
+        <dc:description></dc:description>
+    </metadata>
+</package>

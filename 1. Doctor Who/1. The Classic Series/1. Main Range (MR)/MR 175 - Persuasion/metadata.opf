@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Persuasion</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-075-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="175"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Tracey Childs (Dr Elizabeth Klein)</dc:creator>
+        <dc:creator opf:role="nrt">Christian Edwards (Will Arrowsmith)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Chahidi (The Shepherd / Bondsman Tango-Veldt)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Forbes (Lukas Hinterberger)</dc:creator>
+        <dc:creator opf:role="nrt">Miranda Raison (The Shepherdess / Acquisitor Prime)</dc:creator>
+        <dc:creator opf:role="nrt">David Sibley (Kurt Schalk)</dc:creator>
+        <dc:creator opf:role="nrt">Gemma Whelan (Castra / The Sylph / Khlecht Voice)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Umbrella Man is back. But when the Doctor recruits UNIT's Scientific Adviser Elizabeth Klein for an off-the-books mission to the apocalyptic final days of Hitler's Germany, he isn't expecting Klein's hapless young assistant, Will Arrowsmith, to be joining them too.
+
+The Doctor isn't the only alien creature seeking to loot a very particular secret from a Nazi base in Dusseldorf, however. Strange and sinister beings are converging on the same time/space location in search of the scientist Schalk, whose experiments are the key to a devastating power...
+
+The power of Persuasion.</dc:description>
+    </metadata>
+</package>

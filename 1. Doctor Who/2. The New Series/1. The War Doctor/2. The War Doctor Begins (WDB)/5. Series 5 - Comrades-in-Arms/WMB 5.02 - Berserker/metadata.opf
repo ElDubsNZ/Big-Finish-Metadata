@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Berserker</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-113-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Doctor Begins - Series 5 - Comrades-in-Arms"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Timothy X Atack</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jonathon Carley (The War Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Ajjaz Awad (Case)</dc:creator>
+        <dc:creator opf:role="nrt">Lynsey Murrell (Alm)</dc:creator>
+        <dc:creator opf:role="nrt">Deeivya Meir (Pera)</dc:creator>
+        <dc:creator opf:role="nrt">Esmonde Cole (Yorkin)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Berserker)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Sunspire was devastated by the Daleks centuries ago. The last of its people are returning to seek out their heritage in an underground bunker, and save their species from extinction. Case and the War Doctor join the mission, posing as a Dalek-Killer and her squire.
+
+But the bunker has an occupant: a single Berserker Dalek, driven insane by four hundred years of solitude...</dc:description>
+    </metadata>
+</package>

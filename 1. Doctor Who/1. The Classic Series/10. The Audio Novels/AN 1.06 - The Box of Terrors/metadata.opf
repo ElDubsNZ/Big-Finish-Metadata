@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Box of Terrors</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Audio Novels"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizzie Hopley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jon Culshaw (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>After being framed for the destruction of an entire civilisation, the Third Doctor and Sarah Jane follow a strange comet to planet Earth.
+
+Meanwhile, the Fourth Doctor and his Sarah Jane are called to an intergalactic emergency: the beacons protecting the 'Sand Box', are failing.
+
+When the TARDIS crashes to earth before his eyes, the Fourth Doctor is reunited with his former self and another Sarah Jane. But are the four of them enough to keep the Sand Box closed and whatever is within from getting out?</dc:description>
+    </metadata>
+</package>

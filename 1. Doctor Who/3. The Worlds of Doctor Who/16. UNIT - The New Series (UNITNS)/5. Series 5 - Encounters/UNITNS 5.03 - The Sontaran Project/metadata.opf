@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Sontaran Project</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-967-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - The New Series - Series 5 - Encounters"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andrew Smith</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jemma Redgrave (Kate Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Ingrid Oliver (Osgood)</dc:creator>
+        <dc:creator opf:role="nrt">Ramon Tikaram (Colonel Shindi)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Marshal Skar / Commander Merx / Sontaran Escapee)</dc:creator>
+        <dc:creator opf:role="nrt">James Wilby (Professor John Torrance)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Goddard (Christine Colley)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Cottle (Overseer)</dc:creator>
+        <dc:creator opf:role="nrt">Jot Davies (Aide / Soldier)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On a routine reconnaissance mission, Colonel Shindi finds more than he bargains for in the Forest of Ardennes. Back in England, an old colleague makes Osgood an offer she cannot refuse. The chance to take part in an exciting new scientific advance. Before long, UNIT is on collision course with a force of alien clones, and Kate must forge an unlikely alliance.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Arbitration</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-958-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 5"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Llewellyn</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (Supreme Leader Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Outcast Leader Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (High Chancellor Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Lord Zakar)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Arthur (Guard Commander Lukas)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Fisher-Becker (Science Minister Kavil)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Sheward (Castellan Slyne)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Councillor Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">Marcus Harris (Councillor Rahvon)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Perring (Commentator Matthias)</dc:creator>
+        <dc:creator opf:role="nrt">Jack Baggs (Jamalan)</dc:creator>
+        <dc:creator opf:role="nrt">Andy Coleman (Andred)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Dalek)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Romana's secret is in danger of being exposed by those she trusts, and the only hope of escape is through the Axis. But will Leela's forthright determination to see justice done, whatever the costs, mean their chance to get home will be lost forever...? 
+
+And if they are able to regain access the Axis, is the world they left behind any better than the society they have built here? 
+
+Time will tell.</dc:description>
+    </metadata>
+</package>

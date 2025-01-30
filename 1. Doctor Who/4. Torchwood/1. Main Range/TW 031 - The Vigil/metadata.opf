@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Vigil</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-696-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="31"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lou Morgan</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Naoko Mori (Toshiko Sato)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Skinner (Sebastian)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Robinson (Madeline)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Lowe (Roderick)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Sebastian Vaughan is the brightest, newest recruit to Torchwood. He's come from a very good family, an excellent school, and with a degree from the finest College. He's the kind of person bred for Torchwood. 
+
+Sebastian Vaughan is exactly the person Torchwood needs. He's charming, he's smart, and he's good in a fight. He's taken Torchwood's other new recruit under his wing. With his help, Toshiko Sato will make something of herself and fit in at Torchwood. 
+
+Sebastian Vaughan is dead. Toshiko Sato's been given permission to bring his body home to give him the send-off he deserves. How will Torchwood cope without him?</dc:description>
+    </metadata>
+</package>

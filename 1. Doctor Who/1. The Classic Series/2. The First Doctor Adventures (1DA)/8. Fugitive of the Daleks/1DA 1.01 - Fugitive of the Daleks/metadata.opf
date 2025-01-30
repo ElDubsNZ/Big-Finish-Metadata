@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Fugitive of the Daleks</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-163-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The First Doctor Adventures - Volume 8 - Fugitive of the Daleks"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Stephen Noonan (The Doctor / Robot Duplicate)</dc:creator>
+        <dc:creator opf:role="nrt">Maureen O'Brien (Vicki)</dc:creator>
+        <dc:creator opf:role="nrt">Lauren Cornelius (Dodo Chaplet)</dc:creator>
+        <dc:creator opf:role="nrt">Genevieve Gaunt (Hedra)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Elstob (General Custer / Oltan / Charlie / Savage Leader)</dc:creator>
+        <dc:creator opf:role="nrt">Gary Turner (Captain Myles / Fred / Savage Priest)</dc:creator>
+        <dc:creator opf:role="nrt">Ashley Cousins (Tarmis / Antiphus / Lieutenant James / Savage Guard / Young Frenchman)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks / Arnold)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Years after ending her travels with the Doctor, Vicki finds herself back in the TARDIS. The Doctor desperately needs her help, and she’s only too happy to oblige. But in the process, the two of them fall into a series of perilous encounters, with the dreaded Daleks never far behind them.
+
+What is the mysterious presence inside the TARDIS? And precisely what damage do the Daleks and their agents intend to cause to the flow of Earth’s history?
+
+The Doctor and Vicki must call upon all their guile and bravery to discover the truth and save the day.</dc:description>
+    </metadata>
+</package>

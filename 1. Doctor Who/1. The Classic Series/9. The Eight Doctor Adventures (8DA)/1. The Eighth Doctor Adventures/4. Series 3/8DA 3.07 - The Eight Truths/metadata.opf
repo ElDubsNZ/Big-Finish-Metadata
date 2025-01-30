@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Eight Truths</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-399-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Series 3"/>
+        <meta name="calibre:series_index" content="7"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sheridan Smith (Lucie Miller)</dc:creator>
+        <dc:creator opf:role="nrt">Sanjeev Bhaskar (Dr Avishka Sangakkara)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Queen / Nurse)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Earl (Rob / Receptionist)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Newsreader)</dc:creator>
+        <dc:creator opf:role="nrt">Kerry Godliman (Karen)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Moore (Clark Goodman)</dc:creator>
+        <dc:creator opf:role="nrt">Katarina Olsson (The Headhunter)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Spargo (David / Driver)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Winkleman (Kelly Westwood)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>London, 2015. The Doctor’s looking for a lost space probe. Lucie Miller’s feeling just plain lost, on a world she no longer quite belongs to.
+
+Perhaps there’s someone who can help. A chance encounter with an old sparring partner leads Lucie to the Eightfold Truth – a bunch of crystal-bearing cranks who reckon a rebel sun is on its way to purge the Earth. As if!
+
+But what if they’re right?
+
+The apocalypse is upon us. As humankind counts down the last days of its existence, the Doctor races to unmask the Eightfold Truth – and uncovers an old and deadly enemy.
+
+Note: The adventure continues in Doctor Who: Worldwide Web</dc:description>
+    </metadata>
+</package>

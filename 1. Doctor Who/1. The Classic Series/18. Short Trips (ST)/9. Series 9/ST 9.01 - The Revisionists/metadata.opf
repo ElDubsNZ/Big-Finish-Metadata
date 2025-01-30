@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Revisionists</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 9"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andy Frankham-Allen</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Louise Jameson (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Guests at the Hôtel des Rois are being haunted by ancestors that never existed. The Brigadier was only in Geneva to finalise his retirement, but how could he resist? Investigating, the Brigadier quickly finds something unusual. A warrior in leathers. A warrior called Leela…
+
+History is about to catch up with both of them. History that neither of them thinks is real.
+
+
+ Creative Director for the Haisman Estate Andy Frankham-Allen
+Brigadier Alistair Lethbridge-Stewart © Haisman & Lincoln and used under licence With thanks to Hannah Haisman and Candy Jar.</dc:description>
+    </metadata>
+</package>

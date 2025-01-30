@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Serenity</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-481-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="29"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Moran</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Barrowman (Captain Jack Harkness)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth David-Lloyd (Ianto Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Shire (Bob)</dc:creator>
+        <dc:creator opf:role="nrt">Deirdre Mullins[1] (Mary / Kelly)</dc:creator>
+        <dc:creator opf:role="nrt">Ellie Darvill (Vanessa)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Serenity Plaza is the most exclusive gated community in South Wales. 
+
+You'd kill to live there. Jack and Ianto have gone undercover as a happily married couple. There are rumours that something's wrong at Serenity Plaza and they're determined to investigate. But the problem is that Serenity Plaza is just so rigidly normal. 
+
+Suddenly, Jack and Ianto have to confront the problems that normal couples face. Sharing a house together, doing the washing up, entering the residents' baking contest, and hoping to win the Best Kept Lawn. 
+
+Competition is fierce. Because this is Serenity Plaza. And you'd kill to live there.</dc:description>
+    </metadata>
+</package>

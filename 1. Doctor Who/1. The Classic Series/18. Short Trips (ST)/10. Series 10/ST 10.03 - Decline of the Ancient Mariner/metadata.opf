@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Decline of the Ancient Mariner</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 10"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Rob Nisbet</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Mark Reynolds (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When NASA has a problem they can’t quite understand, they quickly turn to the Doctor and Sarah Jane Smith to investigate. Their Mariner 10 probe disappeared for 30 minutes, with no apparent explanation. What starts out as quick investigation ends up having catastrophic consequences for the time travellers.
+
+But the reason for the probe’s disappearance sounds a little too familiar for the Doctor...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Transit of Venus</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-356-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 3"/>
+        <meta name="calibre:series_index" content="7"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jacqueline Rayner</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">William Russell (Ian Chesterton / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Hallard (Joseph Banks)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The year is 1770, and daring explorer Captain James Cook and his crew on the Endeavour are navigating the Pacific Ocean.
+
+Into their midst come strangers: the Doctor and Ian Chesterton, who are believed to have come from Venus. But the TARDIS is lost to them - along with both Susan and Barbara - and Ian makes an enemy of the ship's chief scientist, Joseph Banks.
+
+Why is Banks acting strangely? Could it be that the travellers are not the only visitors from the stars?</dc:description>
+    </metadata>
+</package>

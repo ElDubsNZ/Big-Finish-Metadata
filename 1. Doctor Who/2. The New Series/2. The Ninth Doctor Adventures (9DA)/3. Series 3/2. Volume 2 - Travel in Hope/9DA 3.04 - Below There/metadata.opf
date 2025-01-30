@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Below There</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-130-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Ninth Doctor Adventures - Series 3 - Volume 2 - Travel in Hope"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lauren Mooney</dc:creator>
+        <dc:creator opf:role="aut">Stewart Pringle</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Eccleston (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Kelly Adams (Vyx Leeson)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Cerqueira (Tom Francis)</dc:creator>
+        <dc:creator opf:role="nrt">Homer Todiwala (Computer / Jocob Ojo)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Vyx works on a teleport relay station in the darkest depths of space - and she’s afraid. Strange voices crackle through comms channels, shapes gather outside the starless viewing ports, and visions of death and destruction plague her dreams.
+
+Then she gets a call from the Doctor, who warns Vyx that her worst nightmares are about to become a reality.</dc:description>
+    </metadata>
+</package>

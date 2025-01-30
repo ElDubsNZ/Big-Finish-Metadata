@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Entropy Plague</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-449-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="197"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Strickson (Vislor Turlough)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Duncan (Pallister)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Finney (Raldarin / Sentinals / Sandmen / Trader)</dc:creator>
+        <dc:creator opf:role="nrt">Alastair MacKenzie (Adric)</dc:creator>
+        <dc:creator opf:role="nrt">Catherine Skinner (Cherryanne)</dc:creator>
+        <dc:creator opf:role="nrt">John Voce (Branarack / Refugee / Dancer)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A Great Darkness is spreading over E-Space. Entropy increases. In search of a last exit to anywhere, the TARDIS arrives on the power-less planet of Apollyon, where the scientist Pallister guards the only way out – a mysterious portal. But the portal needs power to open, and the only power Pallister can draw on is the energy contained within the molecular bonds of all living tissue...
+
+ The Doctor, Nyssa, Tegan and Turlough soon learn that neither Pallister nor his ally, the space pirate Captain Branarack, will stop at murder to ensure their escape. But they're not the only menace on Apollyon. The Sandmen are coming – creatures that live on the life force; that live on death.
+
+ Death is the only way out into N-Space. Death, or sacrifice.
+
+ But whose death?
+
+ Whose sacrifice?</dc:description>
+    </metadata>
+</package>

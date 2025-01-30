@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Apocalypse Element</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2000-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-401-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="11"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Stephen Cole</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Stables (Evelyn Smythe)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">James Campbell (Assistant Monitor Ensac)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Fettes (Vrint / Captain Reldath)</dc:creator>
+        <dc:creator opf:role="nrt">Karen Henson (Monitor Trinkett)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Keetch (Coordinator Vansell)</dc:creator>
+        <dc:creator opf:role="nrt">Alistair Lock (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Longworth (Monan Host)</dc:creator>
+        <dc:creator opf:role="nrt">Andrea Newland (Commander Vorna)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Wade (The President)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the planet Archetryx is threatened by a Dalek assault squad, the Doctor and Evelyn become embroiled in an ever-deepening mystery. What has become of President Romana, missing for twenty years? What lurks in the vast gravity wells of Archetryx? What is the secret of the ancient element the Daleks are synthesising - and how does Gallifrey feature in the plans?
+
+The Doctor finds that if his oldest enemies cannot conquer the universe they will watch it go up in flames...</dc:description>
+    </metadata>
+</package>

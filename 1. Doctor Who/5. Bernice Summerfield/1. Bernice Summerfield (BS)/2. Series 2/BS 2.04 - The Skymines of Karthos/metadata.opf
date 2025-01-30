@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Skymines of Karthos</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2001-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-414-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 2"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Bailey</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Rebecca Jackson (Caitlin Peters)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Irving Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">Johnson Willis (Doctor Konstantin)</dc:creator>
+        <dc:creator opf:role="nrt">Jimmy Wilson (Michael Peters)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When Bernice receives a message from her old friend Caitlin, saying that she's found evidence of a ruined civilisation on the mining colony of Karthos, the good professor is naturally intrigued. After all, the planet is meant to be barren, with no life other than the colonists.
+
+Arriving on Karthos, Bernice finds that Caitlin is missing, and the colony is under attack from vicious creatures that seem to have come from nowhere. Bernice has no choice but to set out for the heart of the ruins to discover just why Karthos seems to have sprung to life once more...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Foxglove Cylinders</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-983-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Master - Series 11 - Future Phantoms"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Derek Jacobi (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Jason Hogan (Merton Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Celine Buckens (Amanda Blake)</dc:creator>
+        <dc:creator opf:role="nrt">George Naylor (Anthony Bagshot)</dc:creator>
+        <dc:creator opf:role="nrt">Milo Twomey (Porter)</dc:creator>
+        <dc:creator opf:role="nrt">Lorne MacFadyen (Auctioneer)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Blore, Mark Elstob, Ruth Lass (Voices)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When Merton, a young academic, investigates the Foxglove Acquisition, he uncovers a set of cylinders that could conceal voices of ancient cultures. But are they recordings or transmissions? </dc:description>
+    </metadata>
+</package>

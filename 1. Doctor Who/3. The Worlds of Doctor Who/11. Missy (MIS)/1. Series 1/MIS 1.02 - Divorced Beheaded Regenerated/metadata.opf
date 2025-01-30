@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Divorced, Beheaded, Regenerated</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-672-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Missy - Series 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Michelle Gomez (Missy)</dc:creator>
+        <dc:creator opf:role="nrt">Rufus Hound (The Meddling Monk)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Service (Catherine Parr)</dc:creator>
+        <dc:creator opf:role="nrt">Leighton Pugh (Sir Foxcroft / Gramoryan 1 / Priest)</dc:creator>
+        <dc:creator opf:role="nrt">Graham Seed (Gramoryan 2 / Taverner / Squire)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Missy arrives in Tudor England, throwing the plans of another renegade Time Lord into chaos. 
+
+King Henry VIII is on the throne, and aliens are stomping through the countryside. Missy just wants to be Queen. 
+
+And the Monk? Once he knows who else is on the scene, he'll be glad just to stay alive...</dc:description>
+    </metadata>
+</package>

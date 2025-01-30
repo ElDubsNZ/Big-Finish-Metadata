@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Viyran Solution</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-612-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Charlotte Pollard - Series 1"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Maloney (Viyran Commander/Rogue Viyran/Other Viyrans)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Robert Buchan)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Bert Buchan)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Brealey (Dr Millicent Belanger III)</dc:creator>
+        <dc:creator opf:role="nrt">Nadia Kamil (Miss Griffin)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Charlotte Pollard has been located. The Lamentation Cipher has been contained. Or so the Viyrans believe. Charley thinks her destiny is inescapable, but discovers that the mysterious Ever-and-Ever-Prolixity brings the Viyrans closer to completing their mission than ever before. 
+
+Bert Buchan Senior didn't get to be the head of a multi-galactic corporation by missing opportunities. So when his protege, the brilliant and ruthless Dr Millicent Belanger, discovers an advanced alien medical facility hidden in the Brouhaha galaxy, he's determined to seize it. The disappearance of his son, meanwhile, hardly merits a second thought... 
+
+The Viyrans have a solution to everything. Buchan Industries is out to make a killing. And Charlotte Pollard is caught in the middle</dc:description>
+    </metadata>
+</package>

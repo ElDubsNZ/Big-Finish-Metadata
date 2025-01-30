@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Forty-Five</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-324-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="115"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mark Morris</dc:creator>
+        <dc:creator opf:role="aut">Nick Scovell</dc:creator>
+        <dc:creator opf:role="aut">Mark Michalowski</dc:creator>
+        <dc:creator opf:role="aut">Steven Hall</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Olivier (Hex)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Adams (Jane Templeton / Mrs Crisp)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Audrey / Miss Merchant / System)</dc:creator>
+        <dc:creator opf:role="nrt">Benedict Cumberbatch (Howard Carter / Thing 2)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Dickens (PC Miller / Captain James Hurst)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Glover (Creodont / Dr Verryman)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Lincoln (Robert Charles / Robot / Thing 1 / Private Fenton)</dc:creator>
+        <dc:creator opf:role="nrt">Linda Marlowe (May / Commander Claire Spencer)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Reynolds (Joey Carlisle / Nobody No-One)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Four interlinked adventures in time and space to mark Doctor Who's 45th anniversary, featuring the Seventh Doctor, Ace and Hex.
+
+In Egypt, archaeologist Howard Carter unearths an ancient secret buried in the Valley of the Kings. On an island of Mendolovinia, a deranged academic attempts to push back the frontiers of the human mind. In war-torn London, a cockney spiv takes possession of a bizarre alien object. And in a military bunker in the cold heart of Antarctica, the strangest and deadliest of the Doctor's many enemies lies in wait...
+
+False Gods by Mark Morris
+
+In the blistering heat of the Egyptian desert Howard Carter and his team search for the lost tomb of Userhat, a servant of the god Amun. What they discover sheds new light on the history of the world as we know it.
+
+Order of Simplicity by Nick Scovell
+
+Dr Verryman has devoted his life to the advancement of knowledge. When his experiments on a remote planet threaten the entire human race only the Doctor can help - if he puts his mind to it.
+
+Casualties of War by Mark Michalowski
+
+Opportunity knocks in postwar London. But when a tea leaf steals from the wrong woman it becomes a race against time to discover the truth. Only some truths are best left untold.
+
+The Word Lord by Steven Hall
+
+In a top-secret military bunker deep beneath the Antarctic ice a mysterious death threatens peace negotiations and could spell disaster for the inhabitants of Earth. Can the Doctor cross the t's and dot the i's? Or will his efforts get lost in translation?</dc:description>
+    </metadata>
+</package>

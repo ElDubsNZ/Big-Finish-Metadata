@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Quantum of Axos</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-589-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Tenth Doctor Adventures - Tenth Doctor, Classic Companions"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Roy Gill</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Tennant (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9 Mark II / Voice of Axos)</dc:creator>
+        <dc:creator opf:role="nrt">Amaka Okafor (Aurora)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Parker (Anthony / Ed)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Goldie (Kayla McGuire)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Ace investigates a new tech company which seems too good to be true and meets the Doctor and K9 as Axos escapes its trap.</dc:description>
+    </metadata>
+</package>

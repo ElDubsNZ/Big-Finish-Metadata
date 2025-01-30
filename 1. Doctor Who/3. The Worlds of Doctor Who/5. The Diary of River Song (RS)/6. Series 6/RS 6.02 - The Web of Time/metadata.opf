@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Web of Time</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-507-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Diary of River Song - Series 6"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Ralph Watson (Captain Ben Knight)</dc:creator>
+        <dc:creator opf:role="nrt">Kathryn Drysdale (Erin Harris)</dc:creator>
+        <dc:creator opf:role="nrt">Mandi Symonds (Maude / Neon)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Clemens (Corporal Buscombe / The Intelligence)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The capital has been evacuated. Monsters stalk the Underground. For River, it's the perfect opportunity to steal a priceless artwork, so long as she can avoid looters, soldiers and an alien invasion. 
+
+With the gallant Captain Knight at her side, River faces the Great Intelligence and its Yeti army. But her biggest challenge may be keeping time itself on track...</dc:description>
+    </metadata>
+</package>

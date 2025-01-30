@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Gladiator</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-429-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lone Centurion - Volume 1 - Rome"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Llewellyn</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Arthur Darvill (Rory Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Joanna Van Kampen (Augusta)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Tweedale (Caesar)</dc:creator>
+        <dc:creator opf:role="nrt">Omar Baroud (First Gladiator)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Blore (Second Gladiator)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (Third Gladiator)</dc:creator>
+        <dc:creator opf:role="nrt">Max Hutchinson (Overseer)</dc:creator>
+        <dc:creator opf:role="nrt">Jacob Dudman (Lepidus)</dc:creator>
+        <dc:creator opf:role="nrt">Terry Molloy (Tacitus)</dc:creator>
+        <dc:creator opf:role="nrt">Inès de Clercq (Marcella)</dc:creator>
+        <dc:creator opf:role="nrt">Rhys Jennings (Announcer)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Kidnapped, Rory is taken to Rome and thrown into the arena, where his hapless inability to die brings him to the attention of the Emperor.</dc:description>
+    </metadata>
+</package>

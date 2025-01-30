@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Saviour</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-550-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Doctor Begins - Series 2 - Warbringer"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jonathon Carley (The War Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Ajjaz Awad (Case)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Commander Veklin)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Hofmeier (Lance Corporal Albert Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Frost (Rondig / Robotic Pod)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Prince (Mo)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The truth of how events on Tharius were set in motion is revealed. On a mission to destroy a Dalek Harvester vessel, the War Doctor discovers a new breed of Dalek.
+
+Whatever action he takes next, we have seen the consequences - and they are devastating for everyone.</dc:description>
+    </metadata>
+</package>

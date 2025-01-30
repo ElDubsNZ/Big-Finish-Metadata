@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Absolution</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2007-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-183-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="101"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Scott Alan Woodard</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Westmaas (C'rizz)</dc:creator>
+        <dc:creator opf:role="nrt">Tony Barton (Straith)</dc:creator>
+        <dc:creator opf:role="nrt">Geoff Breton (Phelgreth)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Glenister (Aboresh)</dc:creator>
+        <dc:creator opf:role="nrt">Natalie Mendoza (Lolanthia)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Villiers (Cacothis)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Confession. Penance. Absolution.
+
+The TARDIS breaks down in a forbidden sector of space. Ghostly voices cry out for salvation and only C'rizz, the Doctor's Eutermesan companion can answer their call - for only he knows the secret of the Absolver. But will he use it to rescue his friends or save the universe?
+
+The Doctor's sins are catching up with him and the infernal beast Borarus is hungry. Time is running out and Judgement Day is at hand.
+
+Welcome to Hell.</dc:description>
+    </metadata>
+</package>

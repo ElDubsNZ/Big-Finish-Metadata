@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Theatre of Dreams</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-512-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jago & Litefoot - Series 2"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Baxter (George Litefoot)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Ellie Higson)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Asquith (Sergeant Quick)</dc:creator>
+        <dc:creator opf:role="nrt">Jennie Stoller (Madame Deuteronomy)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Mallinson (Fosco)</dc:creator>
+        <dc:creator opf:role="nrt">Duncan Wisbey (Doctor Ormond Sacker)</dc:creator>
+        <dc:creator opf:role="nrt">David Collings (Gabriel Sanders)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"Roll up gentlemen and ladies, roll up! Welcome to Deuteronomy's Theatre De Fantasie, the show where your dreams come true!" 
+
+Henry Gordon Jago believes he has made a killer booking for the New Regency Theatre. Unfortunately, he is absolutely correct...</dc:description>
+    </metadata>
+</package>

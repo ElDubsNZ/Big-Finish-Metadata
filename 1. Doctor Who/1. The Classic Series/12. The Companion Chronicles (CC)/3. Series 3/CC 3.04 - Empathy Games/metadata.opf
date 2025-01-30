@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Empathy Games</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-353-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 3"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nigel Fairs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Louise Jameson (Leela / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">David Warner (Co-ordinator Angell)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A new adventure with the Fourth Doctor as told by his companion, Leela.
+
+The present: Leela is doomed, trapped inside a prison cell of a dead race.
+
+The past: After a disaster aboard the TARDIS, the Doctor and Leela arrive at the capital city of Synchronis, a world renowned for peace and civility. But an attack by a vicious creature leaves the Doctor in a coma, and Leela is persuaded to fight in the forthcoming Empathy Games, where she discovers that nothing on this world is as it seems.</dc:description>
+    </metadata>
+</package>

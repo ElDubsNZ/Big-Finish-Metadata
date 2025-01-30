@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Real Time</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2002-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-478-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Sixth Doctor Adventures - Specials"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Gary Russell</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Stables (Evelyn Smythe)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Professor Osborn / Cybermen Voices)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Curbishley (President)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Goddard (Doctor Nicola Savage)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Hair (Fantham)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Herring (Taylor Renchard)</dc:creator>
+        <dc:creator opf:role="nrt">William Johnston (Leiutenant Krueger)</dc:creator>
+        <dc:creator opf:role="nrt">Stewart Lee (Ryan Carey)</dc:creator>
+        <dc:creator opf:role="nrt">Alistair Lock (Hoyer)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Scott (Administrator David Isherwood)</dc:creator>
+        <dc:creator opf:role="nrt">Yee Jee Tso (Doctor Reece Goddard)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Wright (Dean)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On a planet known only as Chronos, two scientific survey teams have vanished. Inexplicably. Without warning. But with just one clue supplied - a single screamed word: "Cybermen!"
+
+The University they worked for has called in the Earth security forces who despatch a third team, a mix of military and scientific might, under the auspices of a University Administrator. If that kind of volatile grouping isn't bad enough, three strangers have been added to the mix - a young human expert in Cybermen and a mysterious traveller in space and time, the Doctor, along with his companion, Dr Evelyn Smythe.
+
+But can they solve the riddle of the vanished survey teams before the Cybermen harness Chronos' unique temporal gifts and rewrite the history of the galaxy?
+
+This double-CD features the audio-only version of Real Time but includes extra scenes not in the original BBCi broadcast.</dc:description>
+    </metadata>
+</package>

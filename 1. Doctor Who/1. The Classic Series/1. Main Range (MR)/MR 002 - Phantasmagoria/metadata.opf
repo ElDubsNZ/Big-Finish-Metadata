@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Phantasmagoria</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>1999-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-409-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mark Gatiss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Strickson (Vislor Turlough)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Henry Gaunt)</dc:creator>
+        <dc:creator opf:role="nrt">Julia Dalkin (Hannah Fry)</dc:creator>
+        <dc:creator opf:role="nrt">Jez Fielder (Poltrot / Librarian / Major Billy Lovemore)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Gatiss (Jasper Jeake)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Rigby (Edmund Carteret)</dc:creator>
+        <dc:creator opf:role="nrt">David Ryall (Sir Nikolas Valentine)</dc:creator>
+        <dc:creator opf:role="nrt">David Walliams (Quincy Flowers)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Dr Samuel Holywell)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS takes the Doctor and Turlough to the London of 1702 where a mysterious highwayman roams the streets, a local occultist has made contact with the dead and gentlemen of fashion are disappearing, only to find themselves in a chamber whose walls weep blood...
+
+The time-travellers become enmeshed in the hideous plan of Sir Nikolas Valentine, a gambler at the mysterious Diabola Club who always seems to have a winning hand...</dc:description>
+    </metadata>
+</package>

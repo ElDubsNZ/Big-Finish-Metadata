@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Appropriation</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2006-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-206-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 3"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Sutton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (Ex-President Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela of the Sevateem)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9 Mk II)</dc:creator>
+        <dc:creator opf:role="nrt">Lynda Bellingham (Inquisitor-Prime Darkel)</dc:creator>
+        <dc:creator opf:role="nrt">Colin Baker (Commander Maxil)</dc:creator>
+        <dc:creator opf:role="nrt">Anne Bird (Phaidon Ambassador Égopolis)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Coodinator Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">John Dorney (Captain Henzil)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Fettes (Commander Raldeth)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Hogarth (Nekkistani Ambassador Blastern)</dc:creator>
+        <dc:creator opf:role="nrt">Roger Parrott (Lord Delox)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Perring (Cardinal Matthias)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Ross (Captain Janartis)</dc:creator>
+        <dc:creator opf:role="nrt">Dickon Tolson (Captain Annos)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Unwin (Sunari Ambassador Tooz)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Acting-President Valyes)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Didn't take the Temporal Powers long to realise that Pandora's war was over, and come here to start a new one.'
+
+In the wake of Civil War, Gallifrey stands more vulnerable than at any time in its controversial history. The other temporal powers orbit the ancient Time Lord society, poised and ready to take control.
+
+And then, as a terrifying legacy, the residual traces of the Pandora virus bring down the transduction barriers...
+
+While Romana lies exhausted and powerless in the medical station, Lord Matthias fights desperately to negotiate a peace. But Gallifreyans are dying.
+
+Can Leela find K9? Is retribution about to be visited upon the oldest race in the universe for untold millennia of manipulation and interference? And what is behind Valyes' decision to recall the High Council?</dc:description>
+    </metadata>
+</package>

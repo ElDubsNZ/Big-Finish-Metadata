@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Retail Therapy</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-223-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Ninth Doctor Chronicles"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Camille Coduri (Jackie Tyler)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Narrator / Ninth Doctor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Jackie Tyler is a success. Every home should have a Glubby Glub, and Jackie is star saleswoman on the Powell Estate. At last, she’s found her calling and it's only a matter of time before she can give Rose the life she deserves. But the Doctor isn't impressed. Jackie Tyler isn't just filling peoples’ houses with useless clutter. He believes she’s launching an alien invasion…</dc:description>
+    </metadata>
+</package>

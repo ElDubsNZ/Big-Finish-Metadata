@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Homecoming</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-565-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 12 - Time War 4"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Pippa Bennett-Warner (Livia)</dc:creator>
+        <dc:creator opf:role="nrt">Samuel Clemens (Mantus)</dc:creator>
+        <dc:creator opf:role="nrt">Samuel Gosrani (Eris)</dc:creator>
+        <dc:creator opf:role="nrt">Francois Pandolfo (Time Lord)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Armitage (Rassilon)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Rassilon receives an ultimatum from an envoy of the Dalek Emperor while Leela and Narvin return with a dangerous strategy to end the Time War. 
+
+All roads lead to Gallifrey. For some, this is where the fight will end.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Dust Breeding</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2001-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-433-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="21"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mike Tucker</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Geoffrey Beevers (Seta)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Donovan (Klemp)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Faulkner (Bev Tarrant)</dc:creator>
+        <dc:creator opf:role="nrt">Jez Fielder (Skredsvig)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Goddard (Maggie)</dc:creator>
+        <dc:creator opf:role="nrt">Caroline John (Madame Salvadori)</dc:creator>
+        <dc:creator opf:role="nrt">Alistair Lock (Albert Bootle)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Ricketts (Guthrie)</dc:creator>
+        <dc:creator opf:role="nrt">Gary Russell (Jay Binks)</dc:creator>
+        <dc:creator opf:role="nrt">Johnson Willis (Damien Pierson)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On 19th century Earth artist Edvard Munch hears an infinite scream pass through nature. Centuries later his painting of that scream hangs in a gallery on the barren dust world Duchamp 331.
+
+Why is there a colony of artists on a planet that is little more than a glorified garage? What is the event that the passengers of the huge, opulent pleasure cruiser 'Gallery' are hoping to see? And what is hidden in the crates that litter the cargo hold?
+
+The Doctor's diary indicates that the painting is about to be destroyed in 'mysterious circumstances', and when he and Ace arrive on Duchamp 331, those circumstances are well underway.</dc:description>
+    </metadata>
+</package>

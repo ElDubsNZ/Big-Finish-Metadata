@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Sweet Salvation</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-550-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Ravenous 1"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Hattie Morahan (Helen Sinclair)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Bonnar (The Eleven)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Rowe (The Kandyman)</dc:creator>
+        <dc:creator opf:role="nrt">Pippa Bennett-Warner (Ruzalla)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Condou (Jarl / System)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Goddard (Ludina Braskell)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Eleven has the authorities in the palm of his hand and an entire world held to ransom when the Kandyman cooks up a deadly confection containing a secret ingredient. In a last-ditch attempt to prevent disaster Liv teams up with a desperate criminal, and the Doctor must decide whether Helen is still his friend.</dc:description>
+    </metadata>
+</package>

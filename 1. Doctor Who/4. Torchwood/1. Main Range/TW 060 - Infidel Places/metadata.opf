@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Infidel Places</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-543-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="60"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Una McCormack</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Rowena Cooper (Queen Victoria)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Glover (Sir James)</dc:creator>
+        <dc:creator opf:role="nrt">Jade Gordon (Honora Tapley)</dc:creator>
+        <dc:creator opf:role="nrt">Amy Green (Suffragette)</dc:creator>
+        <dc:creator opf:role="nrt">Vanessa Milchrahm (Votes For Women)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Myers (Fellow)</dc:creator>
+        <dc:creator opf:role="nrt">Duncan Wisbey (The Rector)</dc:creator>
+        <dc:creator opf:role="nrt">Sion Daniel Young (Ronnie)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>With demons on the loose and dons bursting into flames, Queen Victoria visits Cambridge on the eve of a historic vote that could change the university forever. 
+
+She finds the city a den of suspicion and devil worship. A force from beyond reality is hunting down the university's leading academics. Her Majesty enlists the help of a gifted young mathematician to save not just the university, but the universe itself.</dc:description>
+    </metadata>
+</package>

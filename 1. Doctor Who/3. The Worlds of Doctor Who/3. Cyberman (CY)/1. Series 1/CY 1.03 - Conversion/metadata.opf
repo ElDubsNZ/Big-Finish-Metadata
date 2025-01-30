@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Conversion</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2005-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-119-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Cyberman - Series 1"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sarah Mowat (Karen Brett / Welsh Citizen)</dc:creator>
+        <dc:creator opf:role="nrt">Mark McDonnell (Liam Barnaby)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Cybermen / Cyber Planner / Cyber Leader)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Brooker (Hendry / Spavin)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Paul Hunt / Android)</dc:creator>
+        <dc:creator opf:role="nrt">Lizzie Hopley (Brinna / Secretary / Comp)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Longworth (Prime Reordin / Studio Manager)</dc:creator>
+        <dc:creator opf:role="nrt">Hannah Smith (Samantha Thorn)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Fear is Humanity's greatest enemy. The Cybermen can free us from it.
+
+The Cybermen... The great civilisation we could have been... if we'd taken another path. A purer path. The Scorpius strategy is now in full operation. There will be victory in Orion...
+
+There is nothing to fear...</dc:description>
+    </metadata>
+</package>

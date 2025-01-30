@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Haunting of Malkin Place</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-717-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 6"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Phil Mulryne</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Denise Black (Mrs Mountford)</dc:creator>
+        <dc:creator opf:role="nrt">Benedict Briggs (Child)</dc:creator>
+        <dc:creator opf:role="nrt">Gunnar Cauthery (Maurice)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Jones (Talbot)</dc:creator>
+        <dc:creator opf:role="nrt">Rikki Lawton (Tom)</dc:creator>
+        <dc:creator opf:role="nrt">Phil Mulryne (Jack)</dc:creator>
+        <dc:creator opf:role="nrt">Fiona Sheehan (Beatrice)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Whilst on the way to visit the town where Henry James lived, a chance encounter with a spiritualist on a train sends the Doctor and Romana on the trail of a ghost. It's the most convincing case of haunting he's ever heard of, he tells them. And so, on their arrival, does it appear to be.
+
+Things go bump in the night at Malkin Place. The voice of a crying child. Birds bursting into flight. Strange movements in a seance.
+
+The Doctor is determined there must be a rational explanation. But is science always the answer to everything?</dc:description>
+    </metadata>
+</package>

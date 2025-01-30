@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Night of the Stormcrow</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-070-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 2"/>
+        <meta name="calibre:series_index" content="0"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Ann Bell (Professor Gesima Cazalet)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Forbes (Trevor Gale)</dc:creator>
+        <dc:creator opf:role="nrt">Chase Masterson (Peggy Brooks)</dc:creator>
+        <dc:creator opf:role="nrt">Mandi Symonds (Erica MacMillan)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>High atop Mount McKerry sits the observatory. For years now it's been watching the skies. Now something's watching back. Something dark and huge that blots out the stars. Something with giant wings. Something that kills.
+
+When the TARDIS is struck mid-flight, the Doctor and Leela crash-land on the mountain to find they are not the only aliens to be visiting. Beings of nothing infest the complex, staff members are dead or mad. As the survivors argue amongst themselves and attempt to take advantage of the situation, a creature vast and terrible is coming ever closer.
+
+A creature called... Stormcrow.</dc:description>
+    </metadata>
+</package>

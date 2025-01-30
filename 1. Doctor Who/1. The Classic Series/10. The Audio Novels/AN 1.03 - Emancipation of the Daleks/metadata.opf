@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Emancipation of the Daleks</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Audio Novels"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Dan Starkey (Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Bill Potts has an unexpected visitor: another Bill Potts from twenty years in the future. Bill summons the Doctor, who confirms that the other Bill is the genuine article. She has come to see her younger self for a reason... but she can’t say what it is without creating a paradox!
+
+Moments later, the TARDIS Cloister Bell sounds. A damaged Dalek war saucer is travelling back through the time vortex on a collision course. The Doctor dematerialises the TARDIS to avoid it, only to cause the spaceship to crash-land in Earth’s recent past. When it re-materialises, the TARDIS is now in a world altered beyond recognition. The city of Bristol has been reduced to rubble, save for an interstellar rocket construction site and a top-security research complex. The complex is guarded by ‘Robomen’ and flying security drones piloted by Dalek mutants.
+
+The Doctor quickly realises what has happened. History has been changed, and the Daleks have conquered the Earth, enslaving the human race.
+
+He couldn’t be more wrong. And Bill is about to discover that her past, present and future are no longer her own.</dc:description>
+    </metadata>
+</package>

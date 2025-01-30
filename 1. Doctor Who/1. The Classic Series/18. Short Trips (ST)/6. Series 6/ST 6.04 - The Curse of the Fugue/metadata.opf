@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Curse of the Fugue</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 6"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alice Cavender</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sheridan Smith (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>February 1974 is grimmer than usual for the British. Huddling together by candlelight the nation endures regular power cuts, however the situation is far worse for one old woman. Out of the dark come visitors who know of her terrible burden of wartime secrets. All she fought to save is threatened. Whom can she trust? The troubled ghosts which plague her, a young man who has befriended her, or her new carer Lucie and her strange friend, The Doctor?</dc:description>
+    </metadata>
+</package>

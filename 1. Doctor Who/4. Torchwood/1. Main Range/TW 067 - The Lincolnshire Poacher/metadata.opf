@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Lincolnshire Poacher</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-806-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="67"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lauren Mooney, Stewart Pringle</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Gareth David-Lloyd (Ianto Jones)</dc:creator>
+        <dc:creator opf:role="nrt">David Shaw-Parker (Greg)</dc:creator>
+        <dc:creator opf:role="nrt">Tania Rodrigues (The Numbers Station)</dc:creator>
+        <dc:creator opf:role="nrt">Hywel Morgan (Doctor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Mysterious signals lead Torchwood to the Moil. 4-1-8-4. Greg likes countryside walks and recording the songs of birds. 3-6-2-7. No one knows the secret of the numbers stations. 1-2-0-5. 
+
+How long has Ianto Jones been trapped in the boiler room? 9-7-2-3. Reality is collapsing. 3-5-8-1. 
+
+The Lincolnshire Poacher is waiting.</dc:description>
+    </metadata>
+</package>

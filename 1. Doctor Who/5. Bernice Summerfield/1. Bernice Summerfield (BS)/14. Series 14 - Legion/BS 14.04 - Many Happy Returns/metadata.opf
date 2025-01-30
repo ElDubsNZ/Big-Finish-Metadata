@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Many Happy Returns</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 14 - Legion"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Xanna Eve Chown</dc:creator>
+        <dc:creator opf:role="aut">Stephen Cole</dc:creator>
+        <dc:creator opf:role="aut">Paul Cornell</dc:creator>
+        <dc:creator opf:role="aut">Stephen Fewell</dc:creator>
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+        <dc:creator opf:role="aut">Scott Handcock</dc:creator>
+        <dc:creator opf:role="aut">Rebecca Levene</dc:creator>
+        <dc:creator opf:role="aut">Jacqueline Rayner</dc:creator>
+        <dc:creator opf:role="aut">Justin Richards</dc:creator>
+        <dc:creator opf:role="aut">Miles Richardson</dc:creator>
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+        <dc:creator opf:role="aut">Dave Stone</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Fewell (Jason Kane)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Irving Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">John Ainsworth (Casino Robot)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Dave Stone)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Allen (Adam)</dc:creator>
+        <dc:creator opf:role="nrt">David Ames (Jack)</dc:creator>
+        <dc:creator opf:role="nrt">Ayesha Antoine (Ruth)</dc:creator>
+        <dc:creator opf:role="nrt">David Benson (Panda)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Curator)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Faulkner (Bev Tarrant)</dc:creator>
+        <dc:creator opf:role="nrt">Thomas Grant (Peter Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Marcus Hutton (Leonidas)</dc:creator>
+        <dc:creator opf:role="nrt">Katy Manning (Iris Wildthyme)</dc:creator>
+        <dc:creator opf:role="nrt">Sylvester McCoy (Late Arrival)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Myers (Adrian Wall)</dc:creator>
+        <dc:creator opf:role="nrt">Gary Russell (Vice Chancellor)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Joseph)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A special feature-length charity adventure celebrating twenty years of archaeologist and adventurer Bernice Summerfield! Written by Xanna Eve Chown, Stephen Cole, Paul Cornell, Stephen Fewell, Simon Guerrier, Scott Handcock, Rebecca Levene, Jacqueline Rayner, Justin Richards, Miles Richardson, Eddie Robson and Dave Stone.
+
+All involved gave their time for free, and all proceeds go to the charity Invest in ME. If you'd like to make a donation to the charity, visit www.investinme.org</dc:description>
+    </metadata>
+</package>

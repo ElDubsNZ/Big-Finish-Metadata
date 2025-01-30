@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Forest of Penitence</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-779-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Master - Series 7 - Self-Defence"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lou Morgan</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Derek Jacobi (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Phil Dunster (Scarp)</dc:creator>
+        <dc:creator opf:role="nrt">Sara Powell (Blythe)</dc:creator>
+        <dc:creator opf:role="nrt">Cecilia Appiah (Ellie)</dc:creator>
+        <dc:creator opf:role="nrt">Deirdre Mullins (Dalfin)</dc:creator>
+        <dc:creator opf:role="nrt">Adetomiwa Edun (Corvell)</dc:creator>
+        <dc:creator opf:role="nrt">Abigail Thaw (Salaskin)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Waking in an unusual forest with no memory of how he arrived there, the Master has little choice but to seek help from other survivors. But what is it they've all survived?</dc:description>
+    </metadata>
+</package>

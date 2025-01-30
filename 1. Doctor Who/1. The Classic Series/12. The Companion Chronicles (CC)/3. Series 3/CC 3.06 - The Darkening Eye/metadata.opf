@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Darkening Eye</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-355-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 3"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Stewart Sheargold</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Carlyle (The Dar Traders / The Patient)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A new adventure with the Fifth Doctor as told by his companion, Nyssa.
+
+While investigating a debris-littered battlefield in deep space, the TARDIS crew are salvaged by an ancient race of collectors known as Dar Traders.
+
+Separated from the Doctor after an accident, Adric, Tegan and Nyssa find themselves at the mercy of the Traders’ curiosity. But the Traders have salvaged a cabinet from the battle that could be very dangerous indeed.
+
+What does the suave assassin, Damasin Hyde, know of the cabinet? And why is everybody so interested in the missing Time Lord?
+
+To find the Doctor, the TARDIS crew will have to enter a violent inter-planetary war. Where someone will die, and it will change everything.
+
+**THIS CD IS NOW OUT OF PRINT**</dc:description>
+    </metadata>
+</package>

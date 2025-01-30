@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Dawn of an Everlasting Peace</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-137-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Doom's Day - Dying Hours"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jacqueline Rayner</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sooz Kempner (Doom)</dc:creator>
+        <dc:creator opf:role="nrt">Becky Wright (Terri / Fynix)</dc:creator>
+        <dc:creator opf:role="nrt">Susie Riddell (Lonnet)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Littledale (Klorin / Compuvac)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Reed (Karlton / Trantis / Malver)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Venus, 3975. The day of the non-aggression pact. The perfect ironic location for an assassination! But Doom’s mission is about to become much more complicated thanks to an explosive plot to undermine the treaty itself.</dc:description>
+    </metadata>
+</package>

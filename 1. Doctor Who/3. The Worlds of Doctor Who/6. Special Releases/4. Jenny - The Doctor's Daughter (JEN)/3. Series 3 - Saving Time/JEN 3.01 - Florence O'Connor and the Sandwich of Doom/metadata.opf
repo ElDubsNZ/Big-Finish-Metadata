@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Florence O'Connor and the Sandwich of Doom</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-458-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jenny - The Doctor's Daughter - Series 3 - Saving Time"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Georgia Tennant (Jenny)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Biggerstaff (Noah)</dc:creator>
+        <dc:creator opf:role="nrt">Jessica Regan (Florence O'Connor)</dc:creator>
+        <dc:creator opf:role="nrt">Elizabeth Bower (Margosia)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Paul (Coleen)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Jenny has solved her immediate problem of being hunted by the cyborg COLT-5000 bounty hunter once known as Geraldine. Jenny's new problem is that she is being hunted by a cyborg COLT-5000 once known as her best friend, Noah.
+
+The timelines are in chaos. There is only one way to fix things. And it involves cheese and pickle...</dc:description>
+    </metadata>
+</package>

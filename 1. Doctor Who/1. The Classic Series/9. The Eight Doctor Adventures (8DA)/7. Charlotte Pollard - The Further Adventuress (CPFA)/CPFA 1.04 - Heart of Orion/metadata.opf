@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Heart of Orion</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-720-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Charlotte Pollard - The Further Adventuress"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Michelle Livingstone (Deeva Jansen)</dc:creator>
+        <dc:creator opf:role="nrt">Rakie Ayola (Dakota Bly)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew James Spooner (Kedge Ampston)</dc:creator>
+        <dc:creator opf:role="nrt">Lara Lemon (Selka / Klinkator / Dilly)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Drudgers)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS intercepts a strange signal, returning the Doctor and Charley to the Garazone System - where once they had a terrifying encounter with the Cybermen, and foiled a bid to change the course of a terrible android-human war.
+
+Now, people are going missing from all over Garazone Central. The Orion War is far from over, and the Doctor and Charley have landed at the heart of it, again!</dc:description>
+    </metadata>
+</package>

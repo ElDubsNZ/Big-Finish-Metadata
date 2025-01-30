@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Self Improvement</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-432-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Vienna - Series 3"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Ian Potter</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Chase Masterson (Vienna Salvatori)</dc:creator>
+        <dc:creator opf:role="nrt">Samantha Béart (Jexie Reagan)</dc:creator>
+        <dc:creator opf:role="nrt">Terry Molloy (Doctor Ludovic Glospan)</dc:creator>
+        <dc:creator opf:role="nrt">Elizabeth Morton (Constanza)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Doctor Ludovic Glospan has a secret. He has made a scientific discovery that could change the galaxy forever, which is why he wants to keep it out of the wrong hands. 
+
+Vienna Salvatori and Jexie Reagan have been hired to keep Glospan's secret safe. On a good day that will be an easy job, but this is anything but a good day.</dc:description>
+    </metadata>
+</package>

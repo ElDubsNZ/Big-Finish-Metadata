@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Acheron Pulse</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-020-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="166"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Rick Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Boritz)</dc:creator>
+        <dc:creator opf:role="nrt">Kirsty Besterman (Empress Cheni)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Kloska (Dukhin)</dc:creator>
+        <dc:creator opf:role="nrt">Carol Noakes (Olerik / Nanny)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Porter (Vincol)</dc:creator>
+        <dc:creator opf:role="nrt">Chook Sibtain (Athrid)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Teesha)</dc:creator>
+        <dc:creator opf:role="nrt">James Wilby (Tenebris)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The planet Cawdor. Deep in the heart of the Drashani Empire.
+
+The Doctor lands thirty years after the Succession of Blood brought Empress Cheni to the throne. For most of her reign there has been peace and prosperity. The Empire flourished. But five years ago, the War came. And nothing was ever the same again. Now the Drashani are at war with the mysterious alien race known as the Wrath, led by the Warlord Tenebris.  As more and more planets fall to their advance events are rushing to a head.
+
+What exactly does Tenebris want? What is the secret of the Wrath's weapon, the terrifying Acheron Pulse? As the Doctor races to save an Empire, he may not like the answers he finds.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Ultimate Evil</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-815-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 5"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Wally K Daly</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Guy Burgess (Escoval)</dc:creator>
+        <dc:creator opf:role="nrt">Kim Durham (Abatan)</dc:creator>
+        <dc:creator opf:role="nrt">Jack Forsyth-Noble (Locas)</dc:creator>
+        <dc:creator opf:role="nrt">Jack Myers (Shankel)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Panting (Ravlos)</dc:creator>
+        <dc:creator opf:role="nrt">Robin Sebastian (Mordant)</dc:creator>
+        <dc:creator opf:role="nrt">Issy Van Randwyck (Koreelya)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>With the TARDIS working perfectly, the Doctor and Peri decide to take a holiday. But where? A long-forgotten piece of equipment in the TARDIS storage locker sends them to the peaceful and idyllic continent of Tranquela - home of the Doctor’s old friend Ravlos.
+
+But the land where they emerge is far from peaceful. A hate ray is regularly sweeping Tranquela, turning its inhabitants into savage beasts, and there is only one place it can originate - the planet’s other continent, home of Tranquela’s old enemies, the Amelierans.
+
+Or is that the only place? Because somewhere far above the planet events are watched by the slimy super-salesman, Mordant, who has his own unscrupulous plans.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Devouring</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-896-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Audacity"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lisa McMullin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jaye Griffiths (Audacity Montague)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Millson (Ignatius Montague)</dc:creator>
+        <dc:creator opf:role="nrt">Emily Woodward (Clementine Inglewood / Dolly)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Reed (Bogderry / Carmichael / The Devouring)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Lady Audacity Montague - strong-minded and unconventional - has been gazing at the stars. But unfortunately for her - and everybody she knows - they've been staring back. She's made inadvertent, intergalactic eye contact with a malevolence known as The Devouring. Now it wants to consume her. But Audacity is already consumed. With rage.</dc:description>
+    </metadata>
+</package>

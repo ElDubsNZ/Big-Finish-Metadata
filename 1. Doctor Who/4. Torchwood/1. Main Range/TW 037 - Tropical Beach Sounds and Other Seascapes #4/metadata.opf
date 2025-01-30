@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Tropical Beach Sounds and Other Relaxing Seascapes 4</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-098-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="37"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sir Michael Palin (The Voice)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>You are listening to a self-help tape. You are hearing a soothing voice. You have always wanted to do something with your life, haven't you? Oh, how you've ached to be a better person. 
+
+Well now. This is your chance. Go on. Sit back. Close your eyes. Relax. You're going to learn all about Captain Jack Harkness. You're going to learn all about Torchwood. 
+
+You're going to change the world.</dc:description>
+    </metadata>
+</package>

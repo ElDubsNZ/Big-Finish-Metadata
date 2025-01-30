@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The House of Kingdom</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-356-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Tenth Doctor Adventures - Dalek Universe 1"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andrew Smith</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Tennant (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Anya Kingdom)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Sims (Mark Seven)</dc:creator>
+        <dc:creator opf:role="nrt">Kevin McNally (Merrick Kingdom)</dc:creator>
+        <dc:creator opf:role="nrt">Maria Teresa Creasey (Dr Abigail Crane)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Mechonoids)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and his friends are trying to locate a scientist to help them on their quest... but an attack on a space-station alters their plans.
+
+Rescued by Anya's grandfather, Merrick, and taken to Neptune, the Doctor and Mark discover her family history. A story of betrayal and loss.
+
+Will the Kingdoms be reconciled? Or are they destined to continue the mistakes of the past?</dc:description>
+    </metadata>
+</package>

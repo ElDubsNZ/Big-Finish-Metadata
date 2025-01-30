@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Dining with Death</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-801-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Paternoster Gang - Heritage 2"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Dan Starkey</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Neve McIntosh (Madame Vastra)</dc:creator>
+        <dc:creator opf:role="nrt">Catrin Stewart (Jenny Flint)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Strax)</dc:creator>
+        <dc:creator opf:role="nrt">Hywel Morgan (Baron Gallos Flambo / Robot Crab)</dc:creator>
+        <dc:creator opf:role="nrt">Polly Kemp (Duchess Callys Flambo / Golp / Brummagem Betty)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (Auditor-General Otak Lame / Reyn)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When negotiations between two warring alien races are sabotaged, Madame Vastra offers Paternoster Row as neutral ground upon which to continue their diplomacy – and to celebrate the treaty with a feast. 
+
+While Strax frets about hosting two species with very different dietary needs, Jenny investigates the dissenters who want to halt the peace process. 
+
+But a deadly plot is brewing, and the diners may not survive the cheese course...</dc:description>
+    </metadata>
+</package>

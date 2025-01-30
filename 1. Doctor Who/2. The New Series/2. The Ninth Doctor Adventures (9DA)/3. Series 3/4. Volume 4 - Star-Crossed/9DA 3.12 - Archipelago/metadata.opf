@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Archipelago</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-134-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Ninth Doctor Adventures - Series 3 - Volume 4 - Star-Crossed"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Eccleston (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Cooper (Captain Thaddeus Grey)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Dr Harvey Grey)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>River Song has one last request. If the Doctor undertakes a dangerous journey with her on the planet Fortuna, she’ll never bother him again. But this is no ordinary voyage.
+
+As the storms batter their tiny vessel, the travellers are confronted with some brutal home truths. There is a captain in search of a husband. There is a ship in need of a light. And there are lovers lost in the maelstrom who will always be islands apart...</dc:description>
+    </metadata>
+</package>

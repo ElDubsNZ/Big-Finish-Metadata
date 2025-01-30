@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Ice Heist!</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 12"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Nerys Hughes (Margaret Hopwood)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Ice Warriors)</dc:creator>
+        <dc:creator opf:role="nrt">Oliver Chris (Dorn Callister / Security Guard)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Goddard (Allerdyce Benexa / Pangladasha)</dc:creator>
+        <dc:creator opf:role="nrt">Adele Lynch (Kaltakk)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Whitelock (Stringer / Skoob)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Recently, the world changed for Margaret Hopwood. Everything she knew was turned upside down by the arrival of a strange man in a blue box. And now nothing in her life seems the same. So when he comes back with a lady called Leela and an invitation to an unusual art gallery, she's more than happy to join him for the ride. And what a ride it is. Because it’s an art gallery on a distant world… where a deadly plan is about to commence - one involving creatures called Ice Warriors.</dc:description>
+    </metadata>
+</package>

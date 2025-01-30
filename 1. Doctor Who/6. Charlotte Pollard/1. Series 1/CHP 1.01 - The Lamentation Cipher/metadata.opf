@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Lamentation Cipher</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-612-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Charlotte Pollard - Series 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">India Fisher (Charley Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Maloney (Viyran Commander / Rogue Viyran / Other Viyrans)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Robert Buchan / Computer)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Bert Buchan Snr / Computer / Phone Alarm / Docking Station Loudspeaker Voice)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Charlotte Pollard — once the greatest adventuress of her generation — is terminally bored. She is tired of life as an emissary of that powerful and mysterious race, the Viyrans. She has grown weary of her role as an expendable agent in their ceaseless quest to eliminate contagion across the universe. Her work is repetitive and gruelling and has come to feel as if she hardly recognises herself. Very quietly, and without fuss, her heart is breaking. 
+
+So when the Viyrans arrive at the edge of galaxy Brouhaha-Nine-Nine-Five, besides the bizarre and enigmatic space-time anomaly known as the Ever-and-Ever Prolixity, Charley is overjoyed at an opportunity for escape. It is a chance that she will be grateful to seize — but given what awaits her, she may, before long, come to wonder if she might not have been more careful about just what it is she has wished for...</dc:description>
+    </metadata>
+</package>

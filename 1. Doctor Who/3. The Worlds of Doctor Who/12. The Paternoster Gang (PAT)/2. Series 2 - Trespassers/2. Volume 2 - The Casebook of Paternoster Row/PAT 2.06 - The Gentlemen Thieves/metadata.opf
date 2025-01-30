@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Gentlemen Thieves</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-119-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Paternoster Gang - Trespassers 2 - The Casebook of Paternoster Row"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lauren Mooney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Neve McIntosh (Madame Vastra)</dc:creator>
+        <dc:creator opf:role="nrt">Catrin Stewart (Jenny Flint)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Strax)</dc:creator>
+        <dc:creator opf:role="nrt">Cassian Bilton (Rackham)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth Armstrong (Lord Ives)</dc:creator>
+        <dc:creator opf:role="nrt">Leighton Pugh (Officer Hornung)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Madame Vastra reviews the case of a 'one-man crime wave' - break-ins and burglaries, committed by the same handsome and daring thief, even when they were committed at exactly the same time. 
+
+Unravelling the secrets of these doppelganger ne’er-do-wells, the Gang touch on the fringe of a bigger conspiracy. But as Vastra recalls the past, the dangers of the present are closing in.</dc:description>
+    </metadata>
+</package>

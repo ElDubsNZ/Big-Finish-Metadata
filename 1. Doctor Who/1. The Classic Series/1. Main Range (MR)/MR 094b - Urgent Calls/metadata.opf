@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Urgent Calls</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2007-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="94.2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Kate Brown (Lauren)</dc:creator>
+        <dc:creator opf:role="nrt">David Dobson (DJ)</dc:creator>
+        <dc:creator opf:role="nrt">Kerry Skinner (Connie)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Earth, 1974. An innocent phone call. Okay, it was a wrong number, but there can't be any harm in that. Can there?</dc:description>
+    </metadata>
+</package>

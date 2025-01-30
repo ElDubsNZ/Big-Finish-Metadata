@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Eternal Battle</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-711-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 6"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Cavan Scott</dc:creator>
+        <dc:creator opf:role="aut">Mark Wright</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Brennan / Trooper Varn)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Captain Nina Albiston / Sycon Computer)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Field Major Lenk / Sergeant Major Stom)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS has landed in a war zone. The Doctor, Romana and K9 find themselves traipsing through an inhospitable battlefield. Strange lights flicker in the sky, and stranger creatures lurk in the darkness.
+
+When rescued from an attack by a Sontaran tank, the time-travellers discover they’re facing a far more dangerous foe than the battle-hungry clones. This terrifying fight has been going on longer than anyone can remember… and shows no signs of stopping.
+
+With the TARDIS missing and their luck running thin, the Doctor and his friends’ only hope of survival is to uncover the truth about what is happening on this planet. If they can discover the secret of the eternal battle they might just survive… but it might just mean the end of them all.</dc:description>
+    </metadata>
+</package>

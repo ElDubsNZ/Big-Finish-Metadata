@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>God of War</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-710-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fifth Doctor Adventures - Forty - Series 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Sarah Grochala</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Waterhouse (Adric)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Grand Marshall Xasslyr)</dc:creator>
+        <dc:creator opf:role="nrt">Belinda Lang (Revna Ulfsdottir)</dc:creator>
+        <dc:creator opf:role="nrt">Matilda Tucker (Inga Kundsdottir / Gudrun)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor is still being jolted through his own timeline, and has now found himself with Nyssa, Tegan and Adric in ninth century Iceland near a Viking settlement on the edge of a volcano. A settlement whose leader has just found a god in the ice.
+
+The TARDIS crew are soon in a battle with the fearsome Ice Warriors. There are a lot of lives to save… and not just those of their new friends.
+
+The Doctor’s about to find that his biggest battle may be with his own conscience.</dc:description>
+    </metadata>
+</package>

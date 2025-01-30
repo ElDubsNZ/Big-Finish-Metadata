@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Tivolian Who Knew Too Much</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-914-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - Classic Doctors, New Monsters - Series 3 - The Stuff of Nightmares"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Valentine</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Daws (Timble Feebis / First Thug)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Howell (Volen Steasel / Second Thug)</dc:creator>
+        <dc:creator opf:role="nrt">Damian Lynch (Mr Quave / White Lightning)</dc:creator>
+        <dc:creator opf:role="nrt">Emily Casey (Letícia Giallo)</dc:creator>
+        <dc:creator opf:role="nrt">Imogen Church (Dr Kleeb / Krevellon General / Envoy Gilbar)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Taking an Italian holiday, the Fourth Doctor and Leela encounter another tourist very far from home. Timble Feebis is a particularly timid Tivolian, but he has much to be fearful about!
+
+Guarding a vital data-chip, the three visitors are soon caught up in the machinations of a crime boss and his gang, and a dangerous alien assassin...</dc:description>
+    </metadata>
+</package>

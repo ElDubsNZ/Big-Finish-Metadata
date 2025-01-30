@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Last Party on Earth</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-808-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Rose Tyler - The Dimension Cannon - Series 1"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Billie Piper (Rose)</dc:creator>
+        <dc:creator opf:role="nrt">Camille Coduri (Jackie)</dc:creator>
+        <dc:creator opf:role="nrt">Syrus Lowe (Patrice Okereke)</dc:creator>
+        <dc:creator opf:role="nrt">Waleed Akhtar (Mook Jayasundera)</dc:creator>
+        <dc:creator opf:role="nrt">Elizabeth Uter (Odessa Smith)</dc:creator>
+        <dc:creator opf:role="nrt">Amerjit Deu (Roni Bandara)</dc:creator>
+        <dc:creator opf:role="nrt">Shaun Dingwall (Pete)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Rose and Jackie visit a home very close to the one they left behind. But some old friends are missing, and some are unexpectedly present... Rose meets two young men she knows should be together - it can sometimes take the end of the world to see what's right in front of you. 
+
+Meanwhile, the Powell Estate faces Armageddon in the only way it can – by throwing a party.</dc:description>
+    </metadata>
+</package>

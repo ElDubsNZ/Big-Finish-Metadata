@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Line</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-609-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Graceless - Series 2"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Ciara Janson (Abby)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Doddington (Zara)</dc:creator>
+        <dc:creator opf:role="nrt">Fraser James (Marek)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Griffiths (Manchu Golding)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Surly Steve)</dc:creator>
+        <dc:creator opf:role="nrt">Daisy Ashford (Helen)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>“The moment we stop, the moment we let the past catch up with us... We're done for.” 
+
+Marek has brought Abby and Zara home to the city where he grew up. They're wary at first – they're meant to keep a low profile. But Marek assures them that everyone he knows here is dead. 
+
+There's a Rune Festival approaching, an excuse for a wild party – and it's like there's something in the air. Abby and Zara are soon swept up in the crowd, but Marek hasn't told them the whole truth. 
+
+Why has he brought them here? What can they do to help? And why is everyone so terrified of Manchu Golding?</dc:description>
+    </metadata>
+</package>

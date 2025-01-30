@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Cloisters of Terror</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-346-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 4"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Richenda Carey (Sister Frances Beckett)</dc:creator>
+        <dc:creator opf:role="nrt">Rowena Cooper (Emily Shaw)</dc:creator>
+        <dc:creator opf:role="nrt">Claudia Grant (Megan Matthews)</dc:creator>
+        <dc:creator opf:role="nrt">Allison McKenzie (Lynn Pickering)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Ancient Nun / Brenda)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>St Matilda’s College, Oxford is haunted. The building was formerly a convent and, so the story goes, three ghostly nuns wander its passages during the hours of darkness. The story goes on to say that anyone who sees the ‘three sisters’ will not be long for this world.
+
+When one of the students mysteriously disappears, the Dean of the College, Dame Emily Shaw, has no option but to call in the police. Her call appears to be answered when a Police Box arrives in her study; the Doctor and Leela have come to investigate and uncover the dark secret that has lain buried beneath the college for almost a thousand years...</dc:description>
+    </metadata>
+</package>

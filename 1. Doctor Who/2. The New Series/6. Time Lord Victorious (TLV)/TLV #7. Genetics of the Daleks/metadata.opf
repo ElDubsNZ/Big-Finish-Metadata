@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Genetics of the Daleks</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-496-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Time Lord Victorious"/>
+        <meta name="calibre:series_index" content="7"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Dalek / Dalek Mutant)</dc:creator>
+        <dc:creator opf:role="nrt">Pippa Haywood (Captain Graff)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Kloska (Pilot Finlay)</dc:creator>
+        <dc:creator opf:role="nrt">Clive Mantle (Medical Officer Chuke)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew James Spooner (Professor Brooke)</dc:creator>
+        <dc:creator opf:role="nrt">Nina Toussaint-White (Security Officer Swann)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>There are 10,000 humans in stasis aboard Starship Future. Ten thousand humans expecting to wake up on a distant planet, their new home. But twenty years into their journey, Starship Future takes on board fuel – and something else. Something that’s been waiting, frozen in space, for a very long time.
+
+Something malevolent.
+
+Something with a plan.
+
+Unless the Doctor can help, it looks like the people of Starship Future have no future at all...</dc:description>
+    </metadata>
+</package>

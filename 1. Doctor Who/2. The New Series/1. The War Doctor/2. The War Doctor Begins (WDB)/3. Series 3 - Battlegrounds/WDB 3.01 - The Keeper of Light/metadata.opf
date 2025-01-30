@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Keeper of Light</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-552-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Doctor Begins - Series 3 - Battlegrounds"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Phil Mulryne</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jonathon Carley (The War Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Emma Campbell-Jones (Layla Bridge)</dc:creator>
+        <dc:creator opf:role="nrt">Adèle Anderson (Dorothy / Tamasan)</dc:creator>
+        <dc:creator opf:role="nrt">Ken Bones (David / Anders Kristiansen)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Ross (Malcolm / The Keeper)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and his faithful companion are on the trail of strange psionic signals...
+
+At a remote costal cottage, holidaymakers David and Dorothy think there’s something strange about the lighthouse. But the Doctor can’t shake the sense of an even bigger mystery to solve...</dc:description>
+    </metadata>
+</package>

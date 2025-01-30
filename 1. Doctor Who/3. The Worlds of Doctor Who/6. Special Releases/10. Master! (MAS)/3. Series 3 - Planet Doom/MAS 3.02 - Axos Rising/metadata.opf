@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Axos Rising</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-148-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Master! - Series 3 - Planet Doom"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Barnaby Kay</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Eric Roberts (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Chase Masterson (Vienna Salvatori / Axon Vienna)</dc:creator>
+        <dc:creator opf:role="nrt">Teri Ann Bobb-Baxter (Passion / Raptor 5)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Whitmey (Phillips / Raptor 8)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Li (Mike Chaoxiang / Raptor 6 / General Kramer)</dc:creator>
+        <dc:creator opf:role="nrt">Beverly Longhurst (Alvara / Raptor 7 / Lab Technician / Computer)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Kay (Axos)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Master and Vienna are joined at the hip as they head into the alien labyrinth. But deadlier things than ancient booby-traps await them. Deep in the subterranean darkness, they discover the terrifying entity that has been waiting for millennia to be set free. Vienna is horrified...but the Master knows an opportunity when he sees one.</dc:description>
+    </metadata>
+</package>

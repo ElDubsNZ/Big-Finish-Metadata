@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Stuff of Legend - The Live Show</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-617-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Series 12 - The Stuff of Legend"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Valentine</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Macqueen (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Gabriel Clark (Jory / Robomen / Dark Bucca)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Jago Penrose / Foley)</dc:creator>
+        <dc:creator opf:role="nrt">Jason Forbes (Captain Montgomerie Césaire)</dc:creator>
+        <dc:creator opf:role="nrt">Nisha Nayar (Emily Barnfather)</dc:creator>
+        <dc:creator opf:role="nrt">Carolyn Seymour (Old Emily / Light Bucca)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Something is afoot in the lonely Cornish village of Merrymaid Bay. Rumours of dead men working in the tin mines have sent a chill through the community, and it's up to the Doctor and Charley to get to the bottom of the mystery.
+
+Can the legends of the Bucca that haunts the mines be true? And just what awesome power do the Doctor's greatest enemies - the Daleks! - threaten to unleash upon the universe?
+
+Recorded live at the Cadogan Hall in London in September 2024.</dc:description>
+    </metadata>
+</package>

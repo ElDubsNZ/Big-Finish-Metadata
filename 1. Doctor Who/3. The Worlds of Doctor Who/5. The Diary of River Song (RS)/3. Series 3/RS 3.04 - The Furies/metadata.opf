@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Furies</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-493-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Diary of River Song - Series 3"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Frances Barber (Madame Kovarian)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nina Toussaint-White (Brooke 2)</dc:creator>
+        <dc:creator opf:role="nrt">Francesca Zoutewelle (H-One / H-Two / Mission Captain)</dc:creator>
+        <dc:creator opf:role="nrt">Pippa Bennett-Warner (O / The Deterrent)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Davison[1] (Andrew Edwardson)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Stories of the Furies abound across the cosmos: vengeful spirits hounding guilty souls to death. Madame Kovarian taught them to a child raised in fear, trained to kill, and placed inside a spacesuit. 
+
+Kovarian knows the universe’s greatest threat, the Doctor must be eliminated. An assassin was created for that purpose. 
+
+But if Melody Pond has failed, Kovarian will simply have to try again...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Black Thursday / Power Game</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-845-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="248"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jamie Anderson</dc:creator>
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Strickson (Vislor Turlough)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (Kamelion)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Aubrey (Gwyn Hughes)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Hutchinson (Geoff Evans)</dc:creator>
+        <dc:creator opf:role="nrt">Bettrys Jones (Judith Matson)</dc:creator>
+        <dc:creator opf:role="nrt">Harriet Kershaw (The Hostess)</dc:creator>
+        <dc:creator opf:role="nrt">Dougie McMeekin (Stuart)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (James Hudd)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Popple (Richard)</dc:creator>
+        <dc:creator opf:role="nrt">Lizzie Roper (Eira Hughes)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Tregear (Sadia)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Treloar (John Hughes)</dc:creator>
+        <dc:creator opf:role="nrt">Natalie Winter (Una)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Black Thursday by Jamie Anderson
+
+1902. Deep beneath the Welsh village of Abertysswg, men have worked the black seam for generations. Until the day of the disaster. The day that a blue box from the future materialised inside the mine.... and things would never be the same again.
+
+Power Game by Eddie Robson 
+
+Welcome to the Incredible Power Game, in which three brave Earthlings enter the Void Pit in search of strange gems to help return the alien Hostess to her home dimension. Today's contestants include Graham, Sadia... and Tegan, an air stewardess from Brisbane!</dc:description>
+    </metadata>
+</package>

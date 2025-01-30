@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Anne of a Thousand Light Years</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-119-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Paternoster Gang - Trespassers 2 - The Casebook of Paternoster Row"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Neve McIntosh (Madame Vastra)</dc:creator>
+        <dc:creator opf:role="nrt">Catrin Stewart (Jenny Flint)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Strax)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Karen Archer (Countess of Warminster)</dc:creator>
+        <dc:creator opf:role="nrt">Anna Critchlow (Lady Anne / Empress)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Reed (Albert / Glossophant)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The course of true love never does run smooth - especially when it involves a high-born young lady, a humble farmhand and extra-terrestrial chameleons on the lookout for breeding stock. 
+
+Will Lady Anne Warminster marry the man of her dreams? Will the amorphous Glossophants secure their chosen spawn bride? Will Jenny ever finish reading a novel by Anthony Trollope? 
+
+In the heart of the English countryside, the Gang tackle an assignment involving romance, skulduggery and horse manure.</dc:description>
+    </metadata>
+</package>

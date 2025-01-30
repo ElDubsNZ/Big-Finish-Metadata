@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>To the Death</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-503-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Series 4"/>
+        <meta name="calibre:series_index" content="10"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sheridan Smith (Lucie Miller)</dc:creator>
+        <dc:creator opf:role="nrt">Niky Wardley (Tamsin Drew)</dc:creator>
+        <dc:creator opf:role="nrt">Carole Ann Ford (Susan Campbell)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Crewman)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Captain)</dc:creator>
+        <dc:creator opf:role="nrt">Graeme Garden (The Meddling Monk)</dc:creator>
+        <dc:creator opf:role="nrt">Jake McGann (Alex Campbell)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>He can't be alive...'
+
+After a last, futile fight-back against the Daleks, Lucie, Susan and Alex are heading home to England in the desperate hope of saving the Doctor's life. But the true, terrible nature of the Daleks' plan is beginning to emerge and the Monk has blood on his hands.
+
+To defeat the Daleks, it can only be a struggle… to the death.
+
+Note: This adventure continues from Doctor Who: Lucie Miller</dc:description>
+    </metadata>
+</package>

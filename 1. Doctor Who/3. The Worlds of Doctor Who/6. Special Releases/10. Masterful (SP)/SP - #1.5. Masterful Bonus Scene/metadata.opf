@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Masterful</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-220-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Masterful"/>
+        <meta name="calibre:series_index" content="1.1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Simm (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Gatiss (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Jacobi (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Macqueen (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Milo Parker (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Eric Roberts (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Geoffrey Beevers (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Michelle Gomez (Missy)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (Kamelion)</dc:creator>
+        <dc:creator opf:role="nrt">Katy Manning (Jo Grant)</dc:creator>
+        <dc:creator opf:role="nrt">Gina McKee (The Lumiat)</dc:creator>
+        <dc:creator opf:role="nrt">Aurora Burghart (Achim / Carola)</dc:creator>
+        <dc:creator opf:role="nrt">Zaqi Ismail (Sardo)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (Butler / Castellan / Drones)</dc:creator>
+        <dc:creator opf:role="nrt">Abigail McKern (Kitty)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Master's finally done it. He's won. He summons his other selves to a celebration of his ultimate victory. And they come - from across time and dimensions. But he's forgotten to invite someone. And Missy's not happy.
+
+Has the Master really conquered the universe? Or has something more awful been unleashed? Something that even all the Masters cannot stop?
+
+Missy is determined to reveal the truth. Because one fact about the Master's existence never changes. No-one can trust the Master.
+
+Not even the Master.</dc:description>
+    </metadata>
+</package>

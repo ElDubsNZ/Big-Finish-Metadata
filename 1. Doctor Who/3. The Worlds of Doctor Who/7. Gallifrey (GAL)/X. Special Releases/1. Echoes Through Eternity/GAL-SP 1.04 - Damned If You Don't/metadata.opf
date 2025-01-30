@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Damned If You Don't</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Echoes Through Eternity"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Gary Russell</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Seán Carlsen (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>As the Time War rages, Narvin is at the heart of the action - but he has lost so much, he may not have the will to carry on. Until his past returns to haunt him…</dc:description>
+    </metadata>
+</package>

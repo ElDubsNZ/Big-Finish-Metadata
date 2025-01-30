@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Faith Stealer</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2004-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-103-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="61"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Graham Duff</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Westmaas (C'rizz)</dc:creator>
+        <dc:creator opf:role="nrt">Neil Bett (Director Garfolt)</dc:creator>
+        <dc:creator opf:role="nrt">Jenny Coverack (Miraculite)</dc:creator>
+        <dc:creator opf:role="nrt">Ifan Huw Dafydd (Bishop Parrash)</dc:creator>
+        <dc:creator opf:role="nrt">John Dorney (Bakoan)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Hills (L'da)</dc:creator>
+        <dc:creator opf:role="nrt">Helen Kirkpatrick (Jebdal)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Perring (The Kro'ka)</dc:creator>
+        <dc:creator opf:role="nrt">Christian Rodska (Laan Carder)</dc:creator>
+        <dc:creator opf:role="nrt">Tessa Shaw (The Bordinan)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Walter-Evans (The Bordinan's Assistant)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the Doctor, Charley and C'rizz find their journey through the Interzone interrupted by a nightmarish vision, they are surprised to find the Kro'ka offering the perfect solution.
+
+The Multihaven, a vast array of religions and faiths housed in one harmonious community, appears to offer the perfect sanctuary in which to convalesce. But under the guidance of the charismatic Laan Carder, one religion seems to be gathering disciples at an alarming rate.
+
+With the Doctor and Charley catching glimpses of an old friend and C'rizz on the receiving end of some unorthodox religious practices, their belief, hope and faith are about to be tested to the limit.</dc:description>
+    </metadata>
+</package>

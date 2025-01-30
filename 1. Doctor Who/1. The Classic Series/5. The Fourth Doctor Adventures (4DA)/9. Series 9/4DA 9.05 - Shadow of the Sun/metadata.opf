@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Shadow of the Sun</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-319-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 9"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Valentine</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9 / Professor Nicely)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (First Officer Hix / Autopilot)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Herzberg (Dr Suleiman Zorn)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (Captain Brandis)</dc:creator>
+        <dc:creator opf:role="nrt">Fenella Woolgar (Lady Malina Rigel-Smythe)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>After an accident, the TARDIS lands on a luxury star-liner. Leaving their ship to repair itself, the Doctor, Leela and K9 find themselves facing a great terror: mingling at a cocktail party.
+
+Something seems awry behind the pleasantries, however. Guests are going missing, and equipment is breaking down. When the Doctor investigates further he discovers that the star-liner is literally on course for disaster.
+
+But no-one seems surprised by this information, still less troubled. What’s going on? And can the Doctor and his friends save everyone... when nobody wants to be saved?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Enemy Aliens</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-47131-174-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Destiny of the Doctor"/>
+        <meta name="calibre:series_index" content="8"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">India Fisher (Charley Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Maloney (Hilary Hammond)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>1935: a message from a Time Lord in trouble sends the Eighth Doctor and Charlotte Pollard to the streets of London’s West End, in search of a mysterious alien adversary- unaware that something monstrous is already on their trail.
+
+They soon discover that an insidious conspiracy is indeed at work, its tentacles extending the length of the British Isles. Proving its existence won’t be easy, however, after a confrontation in a music hall ends up with the Doctor under arrest and Charley on the run, suspected of murder. All their hopes rest in a musical clue and a man named Hilary - neither of which are much consolation, with the two time travellers the object of a nationwide manhunt.
+
+And all the while, the enemy aliens are drawing closer and closer still...</dc:description>
+    </metadata>
+</package>

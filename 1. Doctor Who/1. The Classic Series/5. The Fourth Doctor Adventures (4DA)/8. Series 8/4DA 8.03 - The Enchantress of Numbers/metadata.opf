@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Enchantress of Numbers</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 8"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Morris</dc:creator>
+        <dc:creator opf:role="aut">Simon Barnard</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Ann Kelso)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Mr Hobhouse)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Havill (Colonel Wildman)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (Edvard Scheutz / Lord Byron / Harry)</dc:creator>
+        <dc:creator opf:role="nrt">Eve Webster (Hettie / Lady Cleverley)</dc:creator>
+        <dc:creator opf:role="nrt">Finty Williams (Ada Lovelace)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS lands in the grounds of Newstead Abbey, Nottinghamshire, in 1850. Mistaken for a medic and his maid, the Doctor and Ann are brought to meet Ada Lovelace - the mother of computing and daughter of Lord Byron - who has recently fallen ill
+
+But the travellers are not here by chance. Something odd is happening on Earth, and they’ve determined that this place is the centre of it
+
+Strange figures are walking the land. Strange figures wearing bird-like masks. What do they want with Ada? And how will it change the future of humanity?</dc:description>
+    </metadata>
+</package>

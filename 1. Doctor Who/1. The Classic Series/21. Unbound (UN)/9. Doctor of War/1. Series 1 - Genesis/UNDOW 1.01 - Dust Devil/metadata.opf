@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Dust Devil</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-843-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Doctor of War - Series 1 - Genesis"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor / The Warrior)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri / Miss Brown)</dc:creator>
+        <dc:creator opf:role="nrt">David Holt (Chooban / Bullet 1 / Driver)</dc:creator>
+        <dc:creator opf:role="nrt">Sasha Behar (Talarn / Bullet 2 / Thayla)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Baker (Fourth Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (Harry Sullivan)</dc:creator>
+        <dc:creator opf:role="nrt">Sadie Miller (Sarah Jane Smith)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS crew are on the run, pursued by an unstoppable force. But who is hunting them? And why? Will they find the answers on Aridius? Or just more questions? </dc:description>
+    </metadata>
+</package>

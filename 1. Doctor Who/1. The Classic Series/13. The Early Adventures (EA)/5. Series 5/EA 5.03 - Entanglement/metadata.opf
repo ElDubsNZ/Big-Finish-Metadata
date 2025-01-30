@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Entanglement</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-964-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Early Adventures - Series 5"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Khan</dc:creator>
+        <dc:creator opf:role="aut">Tom Salinsky</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Maureen O'Brien (Vicki / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Purves (Steven Taylor / The Doctor / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Braine (Professor Linus Woolf)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Edel-Hunt (Guy)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Fox (Professor Charles Lewis)</dc:creator>
+        <dc:creator opf:role="nrt">John Rowe (Sir Isiah Hardy)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Woolf (Kim)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Cambridge, England, the mid 1930s. When the Doctor, Steven and Vicki get separated from the TARDIS they are forced to spend some time amongst the ancient spires of Sedgwick College. The college is mid-way through a leadership crisis following the unexplained disappearance of the Master of Sedgwick, Sir Isaiah Hardy. An election for his replacement is now taking place.
+
+But is that all that’s happening in this seemingly peaceful location? The Proctors are behaving in mysterious ways and the students are prone to bursts of unexplained violence. When one of his companions also vanishes, the Doctor realises that there’s more at stake here than control of an educational establishment. A dark plan is underway - one that threatens the entire future of humanity itself!</dc:description>
+    </metadata>
+</package>

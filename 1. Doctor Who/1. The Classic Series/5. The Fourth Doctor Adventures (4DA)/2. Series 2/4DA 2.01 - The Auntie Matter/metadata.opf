@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Auntie Matter</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-054-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 2"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Mary Tamm (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Alan Cox (Grenville)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Griffiths (Mabel)</dc:creator>
+        <dc:creator opf:role="nrt">Julia McKenzie (Florence)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Portal (Reggie)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Ligeia)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>England in the 1920s.
+
+Whilst K9 is off in the TARDIS leading the Black Guardian on a wild goose chase, the Doctor and Romana are enjoying a leisurely lifestyle as the Lord and Lady of a London townhouse. But trouble never stays away from them for long, and before they know it a chance discovery of alien technology leads them deep into the heart of the English countryside where a malign presence lurks.
+
+As the Doctor dodges deadly butlers and ferocious gamekeepers, Romana is faced with a malevolent Aunt and an even deadlier peril - marriage.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Blood Furnace</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-805-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="228"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Melanie Bush)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Jade Anouka (Danuta)</dc:creator>
+        <dc:creator opf:role="nrt">Ignatius Anthony (Lee)</dc:creator>
+        <dc:creator opf:role="nrt">Clare Calbraith (Orla)</dc:creator>
+        <dc:creator opf:role="nrt">Julie Graham (Carolyn)</dc:creator>
+        <dc:creator opf:role="nrt">Todd Heppenstall (Stuart Dale)</dc:creator>
+        <dc:creator opf:role="nrt">Louis Tamone (Vinny)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS brings the Doctor, Ace and Mel to a recently reopened shipyard in Merseyside. It's 1991, the hardest of times - but now they're shipbuilding once again, thanks to the yard's new owners, the Dark Alloy Corporation. A miracle of job creation - but is it too good to be true?
+
+While the Doctor and Ace go in search of an alien assassin at loose in the yard, Stuart Dale, discoverer of the near-magical Dark Alloy material, has an extraordinary proposition to make to his old college friend, Mel.
+
+But who is the Corporation’s mysterious client? Who does she really represent? And what's the secret of the Blood Furnace? Seeking answers, the Doctor and friends are about to find themselves in very deep water…</dc:description>
+    </metadata>
+</package>

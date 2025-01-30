@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Silurian Candidate</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-807-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="229"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matthew J Elliott</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Melanie Bush)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Ignatius Anthony (Gorrister)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Asbury (Chairman Bart Falco)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Chardok)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Mai Newberry (Director Shen)</dc:creator>
+        <dc:creator opf:role="nrt">Fiona Sheehan (Ruth Drexler / Avvox)</dc:creator>
+        <dc:creator opf:role="nrt">Caitlin Thorburn (Karlas)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The year is 2085, and planet Earth remains on the edge of a nuclear precipice. At any moment, either of two vast rival power blocs, to the West and the East, might unleash a torrent of missiles, bringing about the terrible certainty of Mutual Assured Destruction.
+
+But there is another way - or so Professor Ruth Drexler believes. Hence her secret mission deep in Eastern bloc territory, to uncover a hidden city, never before glimpsed by human eyes: the Parliament of the Silurians, the lizard people who ruled the Earth before humankind.
+
+There, she’ll encounter a time-travelling Doctor, who knows the Silurians well. A Doctor on a secret mission of his own.</dc:description>
+    </metadata>
+</package>

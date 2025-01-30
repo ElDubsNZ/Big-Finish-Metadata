@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The False Dimitry</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-756-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Ninth Doctor Adventures - Series 2 - Volume 1 - Back to Earth"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Sarah Grochala</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Eccleston (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Alexander Arnold (Dimitry Ivanovich)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Tsar Boris Fyodorovich Godunov / Captain Mikhail Mikhailovich Zubov)</dc:creator>
+        <dc:creator opf:role="nrt">Katy Brittain (Oksana Vladimirovna Kuznetsova / Robot)</dc:creator>
+        <dc:creator opf:role="nrt">Jack Myers (Aleksander (Sasha) Petrovich Kuznetsov)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Moscow, 1605: the old Tsar is dead - but some blame unnatural forces. Perhaps the mysterious Doctor in the palace can help?
+
+A successor advances on the Kremlin with an army, preparing the country for war. But Tsarevich Dimitry is not what he seems…</dc:description>
+    </metadata>
+</package>

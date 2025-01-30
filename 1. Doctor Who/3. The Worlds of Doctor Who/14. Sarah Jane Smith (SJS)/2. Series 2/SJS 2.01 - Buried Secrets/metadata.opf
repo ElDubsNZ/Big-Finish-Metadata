@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Buried Secrets</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2005-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-200-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Sarah Jane Smith - Series 2"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Bishop</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Elisabeth Sladen (Sarah Jane Smith)</dc:creator>
+        <dc:creator opf:role="nrt">Jeremy James (Josh Townsend)</dc:creator>
+        <dc:creator opf:role="nrt">Sadie Miller (Natalie Redfern)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Chadbon (Will Sullivan)</dc:creator>
+        <dc:creator opf:role="nrt">Ivor Danvers (Professor Gareth Edmons)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Barzotti (Luca Parenti)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline Pearce (The Keeper)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Greif (Sir Donald Wakefield)</dc:creator>
+        <dc:creator opf:role="nrt">David Gooderson (Gavin Dexter)</dc:creator>
+        <dc:creator opf:role="nrt">Patricia Leventon (Maude Fletcher)</dc:creator>
+        <dc:creator opf:role="nrt">Shaun Ley (Newsreader)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Weinberg (Other roles)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Sarah Jane Smith believes her days as a crusading investigator are behind her, safe from those who tried to destroy her. But others believe she has a destiny and they will stop at nothing to prevent her fulfilling it. A trip to Florence to help an old friend leads to the unearthing of a murderous conspiracy buried within the city's catacombs...</dc:description>
+    </metadata>
+</package>

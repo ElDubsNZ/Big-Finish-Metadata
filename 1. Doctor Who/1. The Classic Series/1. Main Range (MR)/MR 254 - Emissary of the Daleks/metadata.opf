@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Emissary of the Daleks</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-857-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="254"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andrew Smith</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Bruce Alexander (Hingus)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Ray Cezan (Kalib / Scientist)</dc:creator>
+        <dc:creator opf:role="nrt">William Ellis (Aldo Rega)</dc:creator>
+        <dc:creator opf:role="nrt">Natasha Karp (Shayna / Tasha)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Keith (Watcher / Operative)</dc:creator>
+        <dc:creator opf:role="nrt">John Rayment (Gordus)</dc:creator>
+        <dc:creator opf:role="nrt">Saskia Reeves (Carmen Rega)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On the planet Omnia, a young man leads the Doctor and Peri through the battle-scarred ruins of a city. Among the rubble he shows them proof that their invaders and new masters, thought to be invincible, can be defeated. The proof is the blasted, burnt-out remains of a Dalek.
+
+But this is a Dalek-occupied world like few others. For one thing, there are few Daleks to be seen. And for another, the Daleks have appointed an Omnian, Magister Carmen Rega, to govern the planet as their emissary.
+
+Why are the Daleks not present in force? And can the Doctor and Peri risk helping the Omnians, when the least show of resistance will be met with devastating reprisals from space?</dc:description>
+    </metadata>
+</package>

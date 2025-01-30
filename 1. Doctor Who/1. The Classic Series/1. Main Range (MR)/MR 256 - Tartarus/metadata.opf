@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Tartarus</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-861-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="256"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Llewellyn</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Samuel Barnett (Cicero)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy-Ann Oberman (Tartarus)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Riseborough (Terentia)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Shire (Septus)</dc:creator>
+        <dc:creator opf:role="nrt">George Watkins (Marc)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>63BC. Following the overthrow of Catiline, Cicero and his wife retire to the coastal town of Cumae, safe from the threats of Rome.
+
+But when a stranger and his companions arrive at Cicero’s villa, new dangers lie in wait and Cicero finds himself plunged into a realm of gods and monsters.
+
+His only hope of returning home lies with a man known as the Doctor. But can Cicero trust him?</dc:description>
+    </metadata>
+</package>

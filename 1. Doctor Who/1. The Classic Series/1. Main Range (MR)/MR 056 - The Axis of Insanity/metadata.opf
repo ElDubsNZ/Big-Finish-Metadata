@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Axis of Insanity</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2004-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-094-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="56"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Furman</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Caroline Morris (Erimem)</dc:creator>
+        <dc:creator opf:role="nrt">Marc Danbury (Tog)</dc:creator>
+        <dc:creator opf:role="nrt">Garrick Hagon (The Jester)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Hogarth (Carnival Barker)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Mansfield (Bird Trader)</dc:creator>
+        <dc:creator opf:role="nrt">Roy North (The Overseer)</dc:creator>
+        <dc:creator opf:role="nrt">Liza Ross (Jarra To)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>What is the Axis?
+
+For the Doctor and his travelling companions, Peri and Erimem, it's a twisted playground, where reality, morality and sanity no longer apply. Stranded within a dimensional nexus, beset by the molten fury of the Firedbreed, they must unwrap a terrifying mystery of damaged timelines and dark science, before the corruption of the Axis spreads and reality itself crumbles.
+
+Pitted against a warped and deadly mind, the Doctor faces his own past transgressions, and the very nature of what it is to be a Time Lord.</dc:description>
+    </metadata>
+</package>

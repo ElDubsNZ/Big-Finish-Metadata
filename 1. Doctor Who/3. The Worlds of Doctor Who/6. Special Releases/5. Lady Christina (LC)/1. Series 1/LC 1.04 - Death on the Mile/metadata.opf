@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Death on the Mile</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-594-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Lady Christina - Series 1"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Donald McLeary</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Michelle Ryan (Lady Christina de Souza)</dc:creator>
+        <dc:creator opf:role="nrt">Warren Brown (Sam Bishop)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy Wiles (Jacqui McGee)</dc:creator>
+        <dc:creator opf:role="nrt">Melissa Collier (Elaine / Janice / Slitheen Janice)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Hansell (Robin / Slitheen Robin)</dc:creator>
+        <dc:creator opf:role="nrt">Ewan Bailey (Sir Edward Scott Cameron / Slitheen Edward / Biggs)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Ryan (Handley / Slitheen Handley)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth Corke (Policeman)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Lady Christina has been offered a job: the heist of a lifetime. She simply has to break into Edinburgh Castle. 
+
+At the same time, UNIT are investigating alien activity at the Military Tattoo. And where there's treasure and treachery, there are also Slitheen...</dc:description>
+    </metadata>
+</package>

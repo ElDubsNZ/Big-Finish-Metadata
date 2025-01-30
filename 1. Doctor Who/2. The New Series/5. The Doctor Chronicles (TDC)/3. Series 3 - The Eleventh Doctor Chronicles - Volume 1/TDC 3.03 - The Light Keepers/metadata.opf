@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Light Keepers</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-227-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eleventh Doctor Chronicles - Volume 1"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Roy Gill</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jacob Dudman (The Narrator / The Doctor / The Lux)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Fisher-Becker (Dorium Maldovar)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Dorium Maldovar has a problem. The self-styled ‘Beacon People’ are bad for business, and now they’re in his shuttle park, digging for mysterious minerals.
+
+When the Doctor crashes into his life once again, Dorium enlists him to find out what these scavengers are really up to inside their lighthouse.
+
+But a lighthouse signals danger – and this beacon was placed to warn of something more ancient and powerful than anyone knows. Something that is returning… </dc:description>
+    </metadata>
+</package>

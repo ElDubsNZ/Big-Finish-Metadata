@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Valhalla</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2007-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-198-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="96"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Michelle Gomez (Jevvan)</dc:creator>
+        <dc:creator opf:role="nrt">Donna Berlin (Tin-Marie / Nurse)</dc:creator>
+        <dc:creator opf:role="nrt">Dominic Frisby (Groom / Drone Guard / Resolute Pilot / Worker 1 / Marketeer)</dc:creator>
+        <dc:creator opf:role="nrt">Jack Galagher (Worker 2)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Jackson (Laxton)</dc:creator>
+        <dc:creator opf:role="nrt">Fraser James (Gerium)</dc:creator>
+        <dc:creator opf:role="nrt">Duncan Wisbey (Clerk / Sergeant / Pilot / Tannoy)</dc:creator>
+        <dc:creator opf:role="nrt">Susannah York (Our Mother / Tannoy / Registry Nurse)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Welcome to Valhalla, Capital of Callisto, Jupiter's premier moon, where anything and everything is up for sale. But Valhalla isn't quite what it says in the brochures – not since Earth granted independence and cut off the supplies.
+
+The former Doctor (FOR SALE. EXCELLENT CONDITION) visits the Job Centre and finds power cuts, barcoded citizens and monthly riots (ALL BOOKABLE).
+
+And then there's the problem with the termites…</dc:description>
+    </metadata>
+</package>

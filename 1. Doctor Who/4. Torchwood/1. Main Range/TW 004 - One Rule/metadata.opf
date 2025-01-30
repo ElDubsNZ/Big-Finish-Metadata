@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>One Rule</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-922-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Joseph Lidster</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tracy-Ann Oberman (Yvonne Hartman)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth Armstrong (Barry Jackson)</dc:creator>
+        <dc:creator opf:role="nrt">Rebecca Lacey (Helen Evans)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Ross Bevan)</dc:creator>
+        <dc:creator opf:role="nrt">Catrin Stewart (Meredith Bevan)</dc:creator>
+        <dc:creator opf:role="nrt">Eve Myles (Gwen Cooper)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Price (Andy Davidson)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It's been three weeks since the Mayor of Cardiff was killed by a shop dummy and the fight is on to see who will replace him. 
+
+Yvonne Hartman is visiting the city to retrieve an invaluable alien device. She's in charge of Torchwood One, she's saving the British Empire and she doesn't care about local politics. But she is going to find herself caught up in that fight. There's a bloodthirsty alien stalking the streets and there's a special offer on at the all-you-can-eat Chinese buffet. 
+
+It's the 26th of March 2005 and it's the day that everything changes.</dc:description>
+    </metadata>
+</package>

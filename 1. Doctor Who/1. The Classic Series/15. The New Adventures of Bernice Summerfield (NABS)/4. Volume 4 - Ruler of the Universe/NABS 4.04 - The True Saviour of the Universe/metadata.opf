@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The True Saviour of the Universe</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-360-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The New Adventures of Bernice Summerfield - Volume 4 - Ruler of the Universe"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">David Warner (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Kisgart (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Rowena Cooper (Mother Superior)</dc:creator>
+        <dc:creator opf:role="nrt">Ben Crystal (Hood)</dc:creator>
+        <dc:creator opf:role="nrt">Wilf Scolding (Mogron)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Critchlow (Leonard)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Bernice finds that time has run out for the Doctor and the universe. Is this really the end of everything? Help is on hand from an unlikely quarter.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Crowmarsh Experiment</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 7"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Llewellyn</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">John Dorney (Gary)</dc:creator>
+        <dc:creator opf:role="nrt">Damian Lynch (Colin Marshall)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Linus Strang)</dc:creator>
+        <dc:creator opf:role="nrt">Cathy Tyson (Jennifer)</dc:creator>
+        <dc:creator opf:role="nrt">Julian Wadham (Dr Holman)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>
+
+When attacked on an alien world, Leela falls unconscious… only to wake in another time, another place.
+
+She is in the Crowmarsh Institute on Earth, in London, in 1978, and everyone is calling her Doctor Marshall. They tell her the world she has known is but a fantasy, a delusion, and that this place is the one that is real.
+
+Surrounded by familiar faces on unfamiliar people, Leela knows what is true and what is false. But how long can she believe when everyone around her says it’s a dream? What’s really happening here?</dc:description>
+    </metadata>
+</package>

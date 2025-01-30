@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Red</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2006-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-176-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="85"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Stewart Sheargold</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Melanie Bush)</dc:creator>
+        <dc:creator opf:role="nrt">Denise Hoey (Nuance)</dc:creator>
+        <dc:creator opf:role="nrt">Ann Jenkins (Leterel)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Oliver (Chief Blue)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Rae (Draun)</dc:creator>
+        <dc:creator opf:role="nrt">Kellie Ryan (Celia Fortunate)</dc:creator>
+        <dc:creator opf:role="nrt">John Stahl (Whitenoise)</dc:creator>
+        <dc:creator opf:role="nrt">Sandi Toksvig (Vi Yulquen)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Uviol)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Subject 2660 ­ Celia Fortunatè, designated citizen of the needle. Subject experiencing traumatic, violent delusions during waking moments. Subject remains passified and under control of Whitenoise. Medication has been prescribed.
+
+Subject 0357 Vi Yulquen, designated Matriarch of the needle. Subject is under constant surveillance due to her wish to experience harm. This is in direct contravention of Whitenoise's programming. Also supplier of the drug classified as Slow. Editing is required.
+
+Subject 0841 ­Chief Blue. Technician in symbiotic relationship with this Whitenoise system. Knowledgeable in human psychological evaluation. Subject has been diagnosed a voyeur, and has a dangerous obsession with the Red Tape. Machine augmentation is favoured to curb this defect.
+
+Subject [error] ­Melanie Bush, designated companion of subject 3999. Subject [error] is not chipped and is a threat. Her ability to harm has not been checked, compromising the continued security programming of this Whitenoise system. She must be inhibited.
+
+Subject 3999 ­The Doctor. Subject has committed homicide. This subject now in constant redline. His propensity for violence remains unchecked. Analysis suggests synchronisation with the killer. The Doctor will attempt to kill again. He must be stopped.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Sink or Swim</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-907-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Rose Tyler - The Dimension Cannon - Series 3 - Trapped"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizzie Hopley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Billie Piper (Rose Tyler)</dc:creator>
+        <dc:creator opf:role="nrt">Camille Coduri (Jackie Tyler)</dc:creator>
+        <dc:creator opf:role="nrt">Em Thane (Danni)</dc:creator>
+        <dc:creator opf:role="nrt">Bailey Patrick (Chand)</dc:creator>
+        <dc:creator opf:role="nrt">Robert McCafferty (Sweeney / Abbas)</dc:creator>
+        <dc:creator opf:role="nrt">Lorraine Horgan (Kaitlin / Alana)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Rose is trapped and alone, at sea in an unfamiliar world, where a strange entropy eats away at those struggling to survive. But she finds family, and hope, as she starts her quest to escape...</dc:description>
+    </metadata>
+</package>

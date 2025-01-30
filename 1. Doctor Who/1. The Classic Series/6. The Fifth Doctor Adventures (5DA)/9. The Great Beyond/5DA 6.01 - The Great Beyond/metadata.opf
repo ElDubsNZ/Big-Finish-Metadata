@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Great Beyond</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-173-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fifth Doctor Adventures - Volume 7 - The Great Beyond"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Kettle</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Waterhouse (Adric)</dc:creator>
+        <dc:creator opf:role="nrt">Anna Crichlow (Nairobi Starclair / Princess 1)</dc:creator>
+        <dc:creator opf:role="nrt">John Hopkins (Fairfield)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Hurd-Wood (Ivan)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Service (Alison Starclair / Barker)</dc:creator>
+        <dc:creator opf:role="nrt">Paksie Vernon (Ocean Starclair / Princess 2)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Wincott (Beyond / Jardan)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor has been sent to Beyond - for the rest of his natural lives.
+
+In the years after a devastating intergalactic war, a prison facility was set up on a distant planet. To preserve the fragile peace, the most dangerous former combatants are sentenced to life in Beyond. Like the notorious Starclair sisters, whose involvement on both sides of the war is the stuff of legend - as well as a certain Time Lord with a reputation for interfering in things that don’t concern them.
+
+But there’s something else on the planet too. Something that adds an infinite variety of agony to a life sentence on Beyond, and makes the inmates wish for the relative comfort of death. Because what's coming to those who stay too long in Beyond is almost too hideous to contemplate. Alive and conscious, deprived of your senses and all movement. Just locked in, alone in a darkness that lasts forever.</dc:description>
+    </metadata>
+</package>

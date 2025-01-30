@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Death of Captain Jack</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-241-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="19"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Llewellyn</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Barrowman (Captain Jack Harkness)</dc:creator>
+        <dc:creator opf:role="nrt">James Marsters (Captain John Hart)</dc:creator>
+        <dc:creator opf:role="nrt">Eve Myles (Gwen Cooper)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth David-Lloyd (Ianto Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Kai Owen (Rhys Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Price (Sgt Andy)</dc:creator>
+        <dc:creator opf:role="nrt">Samuel Barnett (Norton Folgate)</dc:creator>
+        <dc:creator opf:role="nrt">Rowena Cooper (Queen Victoria)</dc:creator>
+        <dc:creator opf:role="nrt">Rick Yale (Christopher Marlowe)</dc:creator>
+        <dc:creator opf:role="nrt">Aly Cruickshank (Alexander the Great)</dc:creator>
+        <dc:creator opf:role="nrt">Marilyn Le Conte (Catherine the Great)</dc:creator>
+        <dc:creator opf:role="nrt">Luke Williams (Hephaeston)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Elfyn (Field Marshal)</dc:creator>
+        <dc:creator opf:role="nrt">Kerry Joy Stewart (Flat Holm Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Kristy Philipps (Royal Servant)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Captain Jack is finally dying, and it's time for his oldest friend to visit his deathbed. King John has come to tell him a story. The story of the life he should have had. 
+
+It's the story of Alexander the Great, sinking ships, falling empires, robot dinosaurs, and alien invasions. It's a story of love, royal weddings, murder, mass murder, genocide, and very tight trousers. 
+
+It's the story of the life of Captain John and it's the story of Torchwood. Be careful what you wish for.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Something Inside</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2006-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-172-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="83"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Trevor Baxendale</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Westmaas (C'rizz)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Brooker (Garth Twyst)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Collins (Jane Thirgood)</dc:creator>
+        <dc:creator opf:role="nrt">Liz Crowther (Tessa Waylund)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Elder (Eryk Rawden)</dc:creator>
+        <dc:creator opf:role="nrt">John Killoran (Gorden Latch)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>WARNING!
+ YOU ARE ABOUT TO ENTER THE CUBE
+ ALL FORMS OF TELEPATHY ARE PROHIBITED
+ DO NOT ATTEMPT TELEPORTATION UNDER ANY CIRCUMSTANCES
+ PSYCHIC POWERS WILL BE FORCIBLY REMOVED
+ (MENTAL SURGERY IS COMPULSORY)
+
+CAUTION!
+ YOU HAVE NO RIGHTS
+ YOU HAVE NO POWERS
+ YOU HAVE NO DEFENCE
+ YOU ARE NOW INSIDE THE CUBE</dc:description>
+    </metadata>
+</package>

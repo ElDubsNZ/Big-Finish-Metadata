@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Secrets of Telos</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-710-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fifth Doctor Adventures - Forty - Series 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Timothy (Professor Parry)</dc:creator>
+        <dc:creator opf:role="nrt">Tamzin Outhwaite (Morton)</dc:creator>
+        <dc:creator opf:role="nrt">Ronan Summers (Captain Hopper)</dc:creator>
+        <dc:creator opf:role="nrt">Barbara Flynn (Professor Vansom)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Cybermen)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Waterhouse (Adric)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Professor Parry’s expedition to the tombs of Telos was hardly an unmitigated success. The handful of survivors limp home in a spaceship… unaware that the deadly peril they faced from the Cybermen is not yet banished.
+
+Into this situation stumble the Fifth Doctor and his friends Nyssa and Tegan - and they’re soon in a deadly fight for their lives.
+
+Except things aren’t quite that simple - something odd is happening to the Doctor. He’s suddenly in a different part of his own timeline inhabiting his future self with no idea of why or how this has happened.
+
+Who is bouncing him through time? And what could they possibly want?</dc:description>
+    </metadata>
+</package>

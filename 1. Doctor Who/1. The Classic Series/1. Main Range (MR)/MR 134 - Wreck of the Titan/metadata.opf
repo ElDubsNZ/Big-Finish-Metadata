@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Wreck of the Titan</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-458-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="134"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Barnaby Edwards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Frazer Hines (Jamie McCrimmon)</dc:creator>
+        <dc:creator opf:role="nrt">Matt Addis (Teddy Truman / John Rowland)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Fairbank (Professor Aronnax)</dc:creator>
+        <dc:creator opf:role="nrt">Miranda Raison (Tess Pilkington / Myra Selfridge)</dc:creator>
+        <dc:creator opf:role="nrt">Alexander Siddig (Captain Nemo)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It's the biggest ship the world has known - and in just twenty minutes' time it's going to hit an iceberg the size of Ben Nevis!
+
+The North Atlantic is a treacherous place at the best of times. 14 April 1912 is the very worst of times. The Doctor and Jamie find themselves trapped aboard the RMS Titanic, 400 miles off Newfoundland and heading towards a conclusive appointment with destiny.
+
+But the iceberg isn't their only problem. Down in the inky depths, something is hunting: something huge, hostile and hungry. This should certainly be A Night To Remember.</dc:description>
+    </metadata>
+</package>

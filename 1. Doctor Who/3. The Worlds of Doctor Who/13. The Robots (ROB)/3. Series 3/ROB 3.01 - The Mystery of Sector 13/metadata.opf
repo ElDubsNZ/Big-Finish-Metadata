@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Mystery of Sector 13</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-042-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Robots - Series 3"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Whitelock</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Claire Rushbrook (Tula Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Whitelock (Skellen / SV56 / Computer)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (Vash Sorkov)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (V42)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Liv is investigating the Sons of Kaldor - looking out for any unusual activity on Kaldor. But when her hunt leads her to an abandoned warehouse, she may have bitten off more than she can chew...And while she’s away, Tula is finding that some problems lie a little closer to home.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Elevation</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-635-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Sixth Doctor Adventures - The Eleven"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Chris Chapman</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Miranda Raison (Constance Clarke)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Bonnar (The Eleven)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Gaskell (Miskavel)</dc:creator>
+        <dc:creator opf:role="nrt">Luke Barton (Tulun)</dc:creator>
+        <dc:creator opf:role="nrt">Annabelle Dowler (Burr)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Molaruss has a new ruler: the wise and benevolent Eleven - alongside his loving consort Miskavel - his many minds guiding every aspect of successful government. But the Eleven has a plan to elevate his people to a new level of consciousness. And he cannot resist inviting the Doctor and Constance to witness his ultimate triumph...</dc:description>
+    </metadata>
+</package>

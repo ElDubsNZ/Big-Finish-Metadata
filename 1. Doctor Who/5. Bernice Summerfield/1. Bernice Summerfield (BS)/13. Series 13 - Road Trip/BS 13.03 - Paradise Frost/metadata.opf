@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Paradise Frost</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-599-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 13 - Road Trip"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Llewellyn</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Ayesha Antoine (Ruth)</dc:creator>
+        <dc:creator opf:role="nrt">David Ames (Jack)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Arthur (Yukon 9)</dc:creator>
+        <dc:creator opf:role="nrt">Liam Cooper (CRS Commander)</dc:creator>
+        <dc:creator opf:role="nrt">Arthur Darvill (Jared Jones)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Doctor Carol Bauer)</dc:creator>
+        <dc:creator opf:role="nrt">Thomas Grant (Peter Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Roger Hammond (Harry Burtenshaw)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Handcock (Clive)</dc:creator>
+        <dc:creator opf:role="nrt">Marcus Harris (Brian)</dc:creator>
+        <dc:creator opf:role="nrt">Alice Ingham (Sister Hettie)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Jones (The DJ / Brother Mumford)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline King (Mother Aurelia)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Lambert (Bishop Synesius)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Langdell (Sister Marianne)</dc:creator>
+        <dc:creator opf:role="nrt">Robbie Lester (Federico Dominicci)</dc:creator>
+        <dc:creator opf:role="nrt">Anjli Mohindra (Gabriella Dominicci)</dc:creator>
+        <dc:creator opf:role="nrt">Charlotte Parkyn (Sister Ermintrude)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Irving Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">Alan Ruscoe (Ray)</dc:creator>
+        <dc:creator opf:role="nrt">Ian H Watkins (Professor Melville Trout)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Kaff Zarnak was once the holiday destination of choice for the rich and famous. At least, it was until the planet spun off its axis, and a deadly virus wiped out its population.
+  
+Now it’s absolutely the last place anyone wants to visit: a barren, ice-encrusted wasteland, sitting amongst the stars. So when Bernice and her loud-mouthed cab driver Ray are drawn off course, it’s fair to say that they’ve both had better days.
+  
+Taking refuge inside the Xanadu Tower resort, the trio encounter Kaff Zarnak’s only survivors… and maybe the only remaining clue to what took place there. But food supplies are low, Sandroaches are attacking on every side, and the only hope of their survival seems to be locked at the top of the Tower.
+  
+Perhaps there’s a reason what happens on Kaff Zarnak stays on Kaff Zarnak...</dc:description>
+    </metadata>
+</package>

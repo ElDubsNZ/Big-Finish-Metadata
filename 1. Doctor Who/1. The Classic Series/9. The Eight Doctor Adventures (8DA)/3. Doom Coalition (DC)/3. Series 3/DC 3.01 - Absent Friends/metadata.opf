@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Absent Friends</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-622-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Doom Coalition 3"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Hattie Morahan (Helen Sinclair)</dc:creator>
+        <dc:creator opf:role="nrt">Jeremy Clyde (George)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Puleston-Davies (Angus Selwyn)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Hope (Phillip Cook / Kal)</dc:creator>
+        <dc:creator opf:role="nrt">Anna Acton (Kate Drury)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Earth. The late 20th century. Across the world, the mobile phone is gaining popularity as more and more people decide to join the digital age. But for the residents of a sleepy English town sitting in the shade of a new transmission mast, that ubiquity has a troubling cost.
+
+When the TARDIS veers off-course, the Doctor and his companions find themselves in the middle of a mystery. Sometimes the past comes back to haunt you. And sometimes the future does as well.</dc:description>
+    </metadata>
+</package>

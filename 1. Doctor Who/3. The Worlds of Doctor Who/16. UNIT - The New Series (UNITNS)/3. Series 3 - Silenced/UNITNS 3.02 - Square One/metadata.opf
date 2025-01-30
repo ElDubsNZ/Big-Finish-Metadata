@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Square One</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-616-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - The New Series - Series 3 - Silenced"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jemma Redgrave (Kate Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Ingrid Oliver (Osgood)</dc:creator>
+        <dc:creator opf:role="nrt">Warren Brown (Lieutenant Sam Bishop)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Captain Josh Carter)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy Wiles (Jacqui McGee)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Day (Kenneth LeBlanc)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Alexander (Cecil / Derek)</dc:creator>
+        <dc:creator opf:role="nrt">Aaron Neil (News Reporter / David)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Silence)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It's business as usual at UNIT, and thankfully, Kate Stewart has no immediate threats to concern her. Or so she believes. 
+
+But when Sam Bishop returns from leave, he notices things aren't quite as they seem. Soon he and Osgood are on the trail of an elusive enemy. 
+
+Meanwhile, Kenneth LeBlanc and his controversial political movement gather momentum, and one UNIT team member isn't quite themselves...</dc:description>
+    </metadata>
+</package>

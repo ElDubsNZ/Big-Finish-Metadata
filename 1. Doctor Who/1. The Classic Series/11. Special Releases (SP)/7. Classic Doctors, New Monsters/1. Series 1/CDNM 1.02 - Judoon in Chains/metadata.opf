@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Judoon in Chains</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-946-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - Classic Doctors, New Monsters - Series 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Barnard</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Captain Kybo / Commander)</dc:creator>
+        <dc:creator opf:role="nrt">Kiruna Stamell (Eliza Jenkins)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Cooper (Jonathan Jaggers Esq / Mr Preddle)</dc:creator>
+        <dc:creator opf:role="nrt">Tony Millan (Justice Burrows / Jonty)</dc:creator>
+        <dc:creator opf:role="nrt">Sabina Franklyn (President Beel / Aetius/Herculania)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Pegg (Meretricious Gedge / Billy)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Judoon Computer)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Sixth Doctor is no stranger to courtroom drama, but faces a very different challenge when he prepares to defend a most unusual Judoon. 
+
+After an environmental clearance mission goes wrong, Captain Kybo of the Nineteenth Judoon Interplanetary Force is stranded in Victorian England, bound in chains, an exhibit in a circus show. But he has allies: Eliza Jenkins — known to audiences as "Thomasina Thumb" — and the larger-than-life "clown" in the colourful coat. 
+
+Uncovering a trail of injustice and corruption, the Doctor and Kybo soon find themselves on trial for their lives...</dc:description>
+    </metadata>
+</package>

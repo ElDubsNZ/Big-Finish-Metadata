@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Good Master</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-393-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Master - Series 1 - Only the Good"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Derek Jacobi (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Rachel Atkins (Major Desra)</dc:creator>
+        <dc:creator opf:role="nrt">Hannah Barker (Phila)</dc:creator>
+        <dc:creator opf:role="nrt">Jonny Green (Cole Jarnish)</dc:creator>
+        <dc:creator opf:role="nrt">Jacob Dudman (Arcking 12 Computer)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Time War rages around Arcking - a planet serving as a sanctuary for the sick and injured. But Arcking is protected by a mysterious, powerful force: a force the Master will stop at nothing to harness... even if time itself is against him.</dc:description>
+    </metadata>
+</package>

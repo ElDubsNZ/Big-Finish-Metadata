@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Davros Mission</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-681-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="I, Davros - Special"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Terry Molloy (Davros)</dc:creator>
+        <dc:creator opf:role="nrt">Miranda Raison (Lareen)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Connolly (Alydon / Gus)</dc:creator>
+        <dc:creator opf:role="nrt">Gregg Newton (Computer / Raz)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>After his capture on Necros, Davros is destined to face the justice of the Daleks. He sits alone, isolated in his cell. His creations will no longer listen to him. But out of the darkness comes a voice... Davros is no longer alone in his torment. Before he faces trial on the planet Skaro, he must go through an ordeal that will force him to the very limits of his sanity. But where do his true loyalties lie? How will he face the future?</dc:description>
+    </metadata>
+</package>

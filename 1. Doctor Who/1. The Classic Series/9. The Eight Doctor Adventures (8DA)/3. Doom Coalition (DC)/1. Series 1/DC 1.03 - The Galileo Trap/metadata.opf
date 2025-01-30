@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Galileo Trap</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-620-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Doom Coalition 1"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Hattie Morahan (Helen Sinclair)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Bonnar (The Eleven)</dc:creator>
+        <dc:creator opf:role="nrt">Ewan Bailey (Count Licori)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Monk / Youth)</dc:creator>
+        <dc:creator opf:role="nrt">Gunnar Cauthery (Cavalli)</dc:creator>
+        <dc:creator opf:role="nrt">Esther Hall (Virginia)</dc:creator>
+        <dc:creator opf:role="nrt">Lizzie Mounter (Beggar Woman)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Myers (Cleaver)</dc:creator>
+        <dc:creator opf:role="nrt">John Woodvine (Galileo Galilei)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Helen Sinclair doesn't know what hit her. One moment she was trapped in a dead-end job in 1960s London, and now she is transported back to Renaissance Italy over three centuries before. Florence is a city in turmoil. A new plague stalks the streets. A ferocious behemoth rampages through the vineyards. And Galileo Galilei, celebrated scientist, astronomer and old friend of the Doctor, is imprisoned in his own villa for heresy.
+
+But why has Galileo summoned the Doctor? Who are the mysterious Fortuna and Cleaver? Why have they been sent to Earth? And what is Galileo's secret? Is it the last thing he saw before he went blind?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>No Place Like Home</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-759-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Tenth Doctor Adventures - Series 3"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Tennant (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Catherine Tate (Donna Noble)</dc:creator>
+        <dc:creator opf:role="nrt">Bernard Cribbins (Wilfred Mott)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline King (Sylvia Noble)</dc:creator>
+        <dc:creator opf:role="nrt">Joel Fry (Justin)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Singh (Jas)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It's ‘Haunted Makeovers!’ The home improvement show with a spooky twist.
+
+The Noble family are hoping to cast out a few spirits along with the old bathroom suite. Presenter Justin joins Donna, Wilf, Sylvia and the Doctor for the latest edition of his reality TV series.
+
+Of course, Justin knows that any supernatural phenomena can be faked. Ghosts can't possibly be real. Can they..?</dc:description>
+    </metadata>
+</package>

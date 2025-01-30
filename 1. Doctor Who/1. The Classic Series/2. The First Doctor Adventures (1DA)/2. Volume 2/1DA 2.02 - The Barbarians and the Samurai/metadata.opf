@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Barbarians and the Samurai</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-454-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The First Doctor Adventures - Volume 2"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andrew Smith</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Bradley (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Claudia Grant (Susan)</dc:creator>
+        <dc:creator opf:role="nrt">Jemma Powell (Barbara Wright)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Glover (Ian Chesterton)</dc:creator>
+        <dc:creator opf:role="nrt">Jozef Aoki (Toda Eiji / Yoshita Hiroshi)</dc:creator>
+        <dc:creator opf:role="nrt">Susan Hingley (Keiko)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Li (Okada Shumei)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (Captain Hamilton)</dc:creator>
+        <dc:creator opf:role="nrt">Sadao Ueda (Takagi Mamoru)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Wincott (Casper Knox)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In 19th Century Japan, Westerners are forbidden. So when the TARDIS arrives near Lord Mamoru’s castle, the daimyo’s Samurai are soon on their trail.
+
+Uncovering secrets at court and treachery in the ranks, the Doctor and his friends are drawn into intrigue. And, as a battle begins, they are caught in the middle.</dc:description>
+    </metadata>
+</package>

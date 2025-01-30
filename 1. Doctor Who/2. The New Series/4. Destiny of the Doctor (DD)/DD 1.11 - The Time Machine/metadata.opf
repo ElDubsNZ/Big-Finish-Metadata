@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Time Machine</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-319-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Destiny of the Doctor"/>
+        <meta name="calibre:series_index" content="11"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jenna Coleman (Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Cochrane (Professor Chivers)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Creevix)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>23 November 2013. In an Oxford laboratory, graduate Alice Watson helps Professor Chivers assemble the final pieces of an impossible machine. A time machine.
+
+The scientist and his assistant believe they are making history, little suspecting that the project’s completion will threaten the existence of the entire universe. But someone has sensed the danger, and when the mysterious Doctor arrives, Alice is taken on a desperate race from libraries and dreaming spires all the way to the nightmare world of Earth’s future.
+
+The monstrous Creevix are coming. They seek control of time itself and are certain that the Doctor is already too late to stop them.  But can the key to saving the future lie in the Time Lord’s past lives?</dc:description>
+    </metadata>
+</package>

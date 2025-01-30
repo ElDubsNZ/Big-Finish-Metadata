@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Time Schisms!</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-995-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Rani Takes on the World - Volume 2 - The Revenge of Wormwood"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizbeth Myles</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Anjli Mohindra (Rani Chandra)</dc:creator>
+        <dc:creator opf:role="nrt">Tommy Knight (Luke Smith)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Jordan (Louis Marchand / Napoleon Bonaparte)</dc:creator>
+        <dc:creator opf:role="nrt">Norah Lopez Holden (Anna Wilson)</dc:creator>
+        <dc:creator opf:role="nrt">Carla de Wansey (Hadley)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Anthony (Clyde Langer)</dc:creator>
+        <dc:creator opf:role="nrt">Samantha Bond (Mrs Wormwood)</dc:creator>
+        <dc:creator opf:role="nrt">Raghad Chaar (Samira Rustami)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Podcast fan Anna thinks there's a time traveller working in her local post office. So, who else should she ask to investigate other than Rani Chandra? Unconvinced at first, Rani is shocked when an old friend warns her off. If UNIT don't want her looking into it, there must be something to the phenomena...But will Rani's quest for the truth drive a wedge between her and Luke?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Pandora</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2005-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-123-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 2"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Justin Richards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (President Romana)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Lynda Bellingham (Inquistor Prime Darkel)</dc:creator>
+        <dc:creator opf:role="nrt">John Ainsworth (Time Lord)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Beresford (Student Gillestes)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Gold Usher)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Coodinator Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Andy Coleman (Andred)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Cuckson (Commander Hallan)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Fairs (Time Lord)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Hallard (Castellan Wynter)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Hrycek-Robinson (Time Lord)</dc:creator>
+        <dc:creator opf:role="nrt">Brenda Longman (Pandora)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Cardinal Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Cardinal Valyes)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A rogue TARDIS that should not exist... A mutilated, comatose Time Lord who cannot be identified... A new Castellan desperate to make his mark... Evils of the past, events of the present, and echoes of the future conspire to destroy the very heart of Gallifrey's civilisation.
+
+Only Romana can understand it - but she is haunted by her own ghosts. Only Leela can sense it - but she has unfinished business. Only Braxiatel can stop it - but he cannot begin to guess the personal cost.
+
+With both Narvin and Darkel waiting for Romana to make a mistake, the President must take decisions that will change Gallifrey forever. And an ancient evil is ready and waiting for just that moment?</dc:description>
+    </metadata>
+</package>

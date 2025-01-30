@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Time's Horizon</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-304-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Dark Eyes 2"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Ruth Bradley (Molly O'Sullivan)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">David Sibley (The Eminence)</dc:creator>
+        <dc:creator opf:role="nrt">Adrian MacKinder (Captain Dal Brock)</dc:creator>
+        <dc:creator opf:role="nrt">Jo Castleton (Sciencetech Vi Kruger)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Hallard (Comtech Bron Kell)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline King (Computer)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Dalek Time Controller)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Macqueen (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Natalie Burt (Dr Sally Armstrong)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and Molly find themselves at the very edge of creation. But something dangerous seems to be heading back into the known universe from the very end of time.
+
+The crew of the cryo-ship Orpheus, including its medical officer Liv Chenka, have their mission parameters to adhere to; but the arrival of the Doctor and Molly changes everything. An ancient and terrible force is on a collision course with them all and the outcome seems to be a matter of divine destiny.</dc:description>
+    </metadata>
+</package>

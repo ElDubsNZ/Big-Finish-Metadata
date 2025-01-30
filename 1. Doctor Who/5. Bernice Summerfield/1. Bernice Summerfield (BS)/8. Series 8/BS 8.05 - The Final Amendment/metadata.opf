@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Final Amendment</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2007-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-276-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 8"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Joseph Lidster</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Fewell (Jason Kane)</dc:creator>
+        <dc:creator opf:role="nrt">Ann Bryson (Fiona)</dc:creator>
+        <dc:creator opf:role="nrt">Sara Carver (Kadiatu)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Faulkner (Bev)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Glaves (Howard)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Myers (Adrian)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Joseph)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Forget the war and death and boring stuff like that with another trip to the Braxiatel Collection!
+
+"A welcome return of an old favourite!" – Earth Empire News
+
+"A moving parable on what it is to be human in these ever-changing times." – BFM
+
+"Glorious, crukking filth! Hooray!" – Moonmaker
+
+"Something of a curate's egg." – Fandomania
+
+Joined by friends old and new, Jason Kane returns for his 15th series! Will Benny find out about him and Bev? Or about him and Adrian? What is the mysterious connection between Joseph and Doggles? Will Brax ever reveal his sinister plans?
+
+And just who the hell is Kadiatu Lethbridge-Stewart?</dc:description>
+    </metadata>
+</package>

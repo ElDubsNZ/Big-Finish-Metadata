@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>We Are the Daleks</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-541-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="201"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Melanie Bush)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Kirsty Besterman (Serena Paget)</dc:creator>
+        <dc:creator opf:role="nrt">Mary Conlon (Celia Dunthorpe)</dc:creator>
+        <dc:creator opf:role="nrt">Lizzie Roper (Shari)</dc:creator>
+        <dc:creator opf:role="nrt">Robbie Stevens (Niles Bunbury / Frank Lewis)</dc:creator>
+        <dc:creator opf:role="nrt">Dominic Thorburn (Afrid)</dc:creator>
+        <dc:creator opf:role="nrt">Angus Wright (Alek Zenos)</dc:creator>
+        <dc:creator opf:role="nrt">Ashley Zhangazha (Brinsley Heaton)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The year is 1987, and Britain is divided. In Bradford, strikers are picketing and clashing with the police. In the City of London, stockbrokers are drinking champagne and politicians are courting the super-rich. The mysterious media mogul Alek Zenos, head of the Zenos Corporation, is offering Britain an economic miracle. His partners wish to invest – and their terms are too good to refuse.
+
+While the Doctor investigates Warfleet, a new computer game craze that is sweeping the nation, Mel goes undercover to find out the truth about Zenos’s partners.
+
+The Daleks have a new paradigm. They intend to conquer the universe using economic power. The power of the free market!</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Spaceport Fear</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-052-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="170"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">William Gallagher</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Melanie Bush)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Wailer / Spaceport Announcer / Passenger)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Galpan / Beauty Swanson)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Information Booth)</dc:creator>
+        <dc:creator opf:role="nrt">Isabel Fay (Naysmith)</dc:creator>
+        <dc:creator opf:role="nrt">Gwilym Lee (Pretty Swanson)</dc:creator>
+        <dc:creator opf:role="nrt">Adrian MacKinder (Rogers / Game Voice)</dc:creator>
+        <dc:creator opf:role="nrt">Ronald Pickup (Elder Bones)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Welcome to Tantane Spaceport – where the tribes of Business and Economy have been at war for all of four hundred years...
+
+Welcome to Tantane Spaceport – where a terrible creature called the Wailer prowls the corridors around the Control Tower, looking to eat the unwary...
+
+Welcome to Tantane Spaceport – where there is one Arrival: a battered blue Police Box containing the time-travelling Doctor and his companion, Mel...
+
+Welcome to Tantane Spaceport – where there are no Departures. Ever.</dc:description>
+    </metadata>
+</package>

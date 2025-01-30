@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Barrister to the Stars</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-509-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Diary of River Song - Series 7"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Kettle</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">David Rintoul (Hodgkiss)</dc:creator>
+        <dc:creator opf:role="nrt">Annabelle Dowler (Integers / Contingent / Queen)</dc:creator>
+        <dc:creator opf:role="nrt">Annette Badland (Judge / Computer)</dc:creator>
+        <dc:creator opf:role="nrt">Clive Hayward (Emperor of Eternal Abundance / Duke of Ferrox / Last of the Unnatural Children)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Whitelock (Stark / Prosecutor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>River stands accused of murder. Her one hope is being allowed to choose the legal system under which she’ll be tried. 
+
+Enter Roger Hodgkiss: curmudgeonly barrister, plucked from a 20th Century English courtroom. He may be out of his depth, but he’ll always stand up for the underdog.</dc:description>
+    </metadata>
+</package>

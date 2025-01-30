@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Oseidon Adventure</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-617-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 1"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor / Android Doctor[u])</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Geoffrey Beevers (The Master / Android Master[u])</dc:creator>
+        <dc:creator opf:role="nrt">Michael Cochrane (Colonel Hugh Spindleton)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Marshal Grinmal / Captain Clarke)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Tyngworg / Warner / UNIT R/T Operator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The first time the fearsome Kraals attempted to take over the Earth, with the help of their android agents, things didn't go quite according to plan - thanks to the time-travelling alien Doctor and his allies at UNIT.
+
+This time, Marshal Grinmal and his belligerent cohorts are ready for them. This time, they'll make no mistakes. This time, Chief Scientist Tyngworg has not just one plan, but a back-up plan, and a back-up back-up plan worked out...
+
+With the Doctor a prisoner on the Kraals' radiation-blasted home planet of Oseidon, only his companion Leela can save the day - alongside a most unlikely ally.</dc:description>
+    </metadata>
+</package>

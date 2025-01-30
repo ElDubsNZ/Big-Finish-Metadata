@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Trial of the Valeyard</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-320-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Sixth Doctor Adventures - Specials"/>
+        <meta name="calibre:series_index" content="7"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alan Barnes</dc:creator>
+        <dc:creator opf:role="aut">Mike Maddox</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Jayston (The Valeyard)</dc:creator>
+        <dc:creator opf:role="nrt">Lynda Bellingham (The Inquisitor)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Hermit)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>There is some evil in all of us – even the Doctor. Transported aboard the Time Lords' orbiting courtroom, the Doctor once again encounters the Valeyard, an amalgamation of the darker sides of his nature.
+
+This time, however, the Doctor isn't in the dock. This time, the Valeyard is the defendant, accused of a crime so terrible that the presiding Inquisitor is forbidden to reveal it even to the court, nor even to his counsel for the defence... the Doctor.
+
+If the Valeyard is found guilty, he'll be executed. Execute the Valeyard, and the secret of his origins dies with him. A secret that the Doctor is desperate to know... and which the Time Lords will stop at nothing to protect.</dc:description>
+    </metadata>
+</package>

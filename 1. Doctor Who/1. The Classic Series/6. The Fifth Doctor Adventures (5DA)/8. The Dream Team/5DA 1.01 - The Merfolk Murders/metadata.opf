@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Merfolk Murders</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-171-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fifth Doctor Adventures - Volume 6 - The Dream Team"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Waterhouse (Adric)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan)</dc:creator>
+        <dc:creator opf:role="nrt">Pearl Appleby (Athena McDonnell / Anna)</dc:creator>
+        <dc:creator opf:role="nrt">Josie Lawrence (Professor Margo Hodgson)</dc:creator>
+        <dc:creator opf:role="nrt">Will Kirk (Henry Cuthbertson)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Alexander (Private Aurek Kowalski)</dc:creator>
+        <dc:creator opf:role="nrt">Angus Imrie (Sebastian Callow)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>St Andrews, Scotland, 1940. The Merfolk are a university society meeting through the summer to discuss murder mystery stories. Innocent escapism during wartime, they say. Their latest book is The Casebook of Orion Hood - whose hero is all-too-familiar to the Doctor...
+
+When a real-life murder occurs soon after their gathering, the Doctor’s friends encourage him to investigate. Is one of the Merfolk responsible? Was this crime the result of espionage or envy? The Doctor must embrace his deerstalker once more and solve this wartime mystery - before the killer can strike again!</dc:description>
+    </metadata>
+</package>

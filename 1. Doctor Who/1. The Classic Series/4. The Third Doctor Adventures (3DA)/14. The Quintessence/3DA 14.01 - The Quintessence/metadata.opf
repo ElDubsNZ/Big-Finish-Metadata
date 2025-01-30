@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Quintessence</dc:title>
+        <dc:publisher></dc:publisher>
+        <dc:date>2024-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-169-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Third Doctor Adventures - Volume 13 - The Quintessence"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lauren Mooney, Stewart Pringle</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tim Treloar (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Katy Manning (Jo Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Larkin (Arthur Pepperdine)</dc:creator>
+        <dc:creator opf:role="nrt">Felicity Cant (Emmeline Pepperdine / Cyber-Planner)</dc:creator>
+        <dc:creator opf:role="nrt">Emily Joyce (Lucy Pepperdine)</dc:creator>
+        <dc:creator opf:role="nrt">Gary Turner (Drexel)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Cybermen)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and Jo Jones arrive at 'Always', a Victorian manor house perched impossibly on the distant storm-world of Nethara Reach. 
+
+Greeted by the peculiar Pepperdines, a couple frantic with worry about their ailing daughter, they discover terrible secrets hiding within the panelled walls and gruesome oil paintings. 
+
+Secrets that will bring the Doctor face to face with one of his most ancient and implacable enemies, and put his relationship with Jo to the ultimate test.</dc:description>
+    </metadata>
+</package>

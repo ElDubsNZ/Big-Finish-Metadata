@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Escaping the Future</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-527-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 11"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Irving Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">Thomas Grant (Peter)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Faulkner (Bev Tarrant)</dc:creator>
+        <dc:creator opf:role="nrt">Rachel Laurence (Lianna)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Myers (Adrian Wall)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Stevens (Doggles)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Joseph)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Wolfe (Hass)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The galaxy has been torn apart by merciless invaders from the future. A coalition of worlds set up by Braxiatel has been comprehensively defeated by the superior technology of the Deindum. Only a few scattered pockets of resistance are still active.
+
+Bev is running the Braxiatel Collection as a refugee camp, living in daily fear of attack. Adrian and Doggles hide in a bunker on the Moon, trying to launch covert attacks on the enemy with limited resources. And Hass is stranded on the occupied planet Maximediras.
+
+Bernice and Peter are free for the moment, travelling around in time in an attempt to learn more about the Deindum. Where did they come from? What do they want? And can Bernice find a way to strike back at them?</dc:description>
+    </metadata>
+</package>

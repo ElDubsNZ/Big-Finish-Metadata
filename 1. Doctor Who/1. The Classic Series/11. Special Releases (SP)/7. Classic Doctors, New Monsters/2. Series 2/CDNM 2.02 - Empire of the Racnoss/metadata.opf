@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Empire of the Racnoss</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-427-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - Classic Doctors, New Monsters - Series 2"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Scott Handcock</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Adjoa Andoh (Racnoss Empress)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Planer (Old Racnoss Emperor / Herrax)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew French (Racnoss Consort)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Kay (Alayna)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When a distress call rips the TARDIS from the Vortex, dragging it back through time, it arrives in the midst of a conflict between Gallifrey and an ancient foe. 
+
+The Doctor, as ever, wants to help, but in returning a wounded combatant home, he becomes further and further entangled in a web of deceit and recrimination. A web spun by an eight-legged Empress and her minions... 
+
+The Empire of the Racnoss is at war, and wherever he stands, the Doctor is on the wrong side.</dc:description>
+    </metadata>
+</package>

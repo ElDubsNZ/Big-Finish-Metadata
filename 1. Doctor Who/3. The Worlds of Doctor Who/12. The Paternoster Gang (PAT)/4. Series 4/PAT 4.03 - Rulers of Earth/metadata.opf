@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Rulers of Earth</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-805-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Paternoster Gang - Heritage 4"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Neve McIntosh (Madame Vastra)</dc:creator>
+        <dc:creator opf:role="nrt">Catrin Stewart (Jenny Flint)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Strax)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Goddard (Vella)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Asbury (Tenebrae / Franz Albrecht Stuart)</dc:creator>
+        <dc:creator opf:role="nrt">Daisy Ashford (Edith Renner)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Asbury[1] (Ticket Collector)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Ancient forces have risen, Vastra and her friends are lost to each other, and a terrible prophecy is taking shape. 
+
+A pretender to the throne allies with a force from prehistory, while an unlikely ally searches for the Paternosters. 
+
+The Gang must face their destiny, as the fate of Earth is decided...</dc:description>
+    </metadata>
+</package>

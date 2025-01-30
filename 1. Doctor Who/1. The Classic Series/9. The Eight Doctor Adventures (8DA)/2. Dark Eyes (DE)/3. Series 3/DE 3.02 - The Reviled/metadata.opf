@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Reviled</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-305-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Dark Eyes 3"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Alex MacQueen (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Natalie Burt (Dr Sally Armstrong)</dc:creator>
+        <dc:creator opf:role="nrt">David Sibley (The Eminence)</dc:creator>
+        <dc:creator opf:role="nrt">Sacha Dhawan (Jaldam/Vaughan)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Mowat (Gajeeda)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Riseborough (Sharma)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Above the jungle world of Ramosa, the Eminence war is raging. Sensing the growing threat, the native Ramossans have risen up against the human colonists in their midst and regained control of their planet.
+
+While Sally Armstrong negotiates on behalf of her silent partner, Narvin sends in the Doctor and Liv Chenka to try and make a difference. But what is his true agenda? And can the Doctor really hope to save everyone on a world where humanity is despised?</dc:description>
+    </metadata>
+</package>

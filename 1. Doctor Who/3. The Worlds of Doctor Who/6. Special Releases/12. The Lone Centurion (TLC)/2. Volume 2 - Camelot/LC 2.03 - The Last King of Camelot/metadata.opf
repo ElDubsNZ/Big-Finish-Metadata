@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Last King of Camelot</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-431-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lone Centurion - Volume 2 - Camelot"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Kate Thorman</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Arthur Darvill (Rory Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Skinner (Sir Lancelot)</dc:creator>
+        <dc:creator opf:role="nrt">Luyanda Unati Lewis-Nyawo (Guinevere)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Stafford (King Arthur)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Clifford (Merlin)</dc:creator>
+        <dc:creator opf:role="nrt">Rosie Baker (Peasant)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Alexander (Mordred)</dc:creator>
+        <dc:creator opf:role="nrt">Maanuv Thiara (Knight)</dc:creator>
+        <dc:creator opf:role="nrt">Henry Nott (Enemy Knight)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Master of Ceremonies)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Camelot is under attack. Arthur and Guinevere have fled and Merlin's direst prophecies have come true. Can Rory prevail before the kingdom falls?</dc:description>
+    </metadata>
+</package>

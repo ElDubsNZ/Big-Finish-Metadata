@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Retirement Plan</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-953-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood One - Series 3 - Latter Days"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Gareth David-Lloyd</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tracy-Ann Oberman (Yvonne Hartman / Trico / Elena Borovsky / Sandra Pierce)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth David-Lloyd (Ianto Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Nathan Amzi (John)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Bentinck (Tommy)</dc:creator>
+        <dc:creator opf:role="nrt">Travis (Lola)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Torchwood's Head of Alien Acquisitions is retiring. But there's something very wrong in the idyll of El Cielo. And it's going to kill Ianto.</dc:description>
+    </metadata>
+</package>

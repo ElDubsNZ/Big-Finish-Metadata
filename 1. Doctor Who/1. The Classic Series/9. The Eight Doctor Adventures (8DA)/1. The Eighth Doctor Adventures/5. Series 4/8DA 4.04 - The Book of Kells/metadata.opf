@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Book of Kells</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-478-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Series 4"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Barnaby Edwards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Niky Wardley (Tamsin Drew)</dc:creator>
+        <dc:creator opf:role="nrt">Nick Brimble (Olaf Eriksson)</dc:creator>
+        <dc:creator opf:role="nrt">Jim Carter (Brother Bernard)</dc:creator>
+        <dc:creator opf:role="nrt">Graeme Garden (Abbot Thelonious / Cantor)</dc:creator>
+        <dc:creator opf:role="nrt">Terrence Hardiman (King Sitric)</dc:creator>
+        <dc:creator opf:role="nrt">Ash Hidminster (Brother Lucianus)</dc:creator>
+        <dc:creator opf:role="nrt">Ryan Sampson (Brother Patrick / Brother Timothy)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Anyone who's prepared to kill for a book interests me.'
+
+Ireland, 1006. Strange things have been happening at the isolated Abbey of Kells: disembodied voices, unexplained disappearances, sudden death. The monks whisper of imps and demons. Could the Lord of the Dead himself be stalking these hallowed cloisters?
+
+The Doctor and his companion find themselves in the midst of a medieval mystery. At its heart is a book: perhaps the most important book in the world. The Great Gospel of Columkille. The Liber Columbae.</dc:description>
+    </metadata>
+</package>

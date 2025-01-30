@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Borrow or Rob</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-764-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Time War - Volume 6 - Uncharted - Series 1 - Reflections"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Emma Campbell-Jones (Cass Fermazzi)</dc:creator>
+        <dc:creator opf:role="nrt">Sonny McGann (Alex Campbell)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Westmaas (The Captain)</dc:creator>
+        <dc:creator opf:role="nrt">Dempsey Bovell (Graff)</dc:creator>
+        <dc:creator opf:role="nrt">Amara Karan (Sinsa)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (The Intruders / Lord President)</dc:creator>
+        <dc:creator opf:role="nrt">Jon-Paul Rowden[source needed] (The Soldier)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and friends are traversing the Void, pursued by unknown forces - and their grip on reality is becoming ever more tenuous. As the enemy boards their ship, Alex and Cass edge closer to the truth. And the Doctor faces the consequences of his choices...</dc:description>
+    </metadata>
+</package>

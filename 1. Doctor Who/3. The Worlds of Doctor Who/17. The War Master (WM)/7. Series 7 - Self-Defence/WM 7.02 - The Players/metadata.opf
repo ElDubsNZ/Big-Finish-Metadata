@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Players</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-779-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Master - Series 7 - Self-Defence"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Una McCormack</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Derek Jacobi (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Ella Kenion (Lucia)</dc:creator>
+        <dc:creator opf:role="nrt">Robyn Addison (Gallia)</dc:creator>
+        <dc:creator opf:role="nrt">Ariyon Bakare (Cato)</dc:creator>
+        <dc:creator opf:role="nrt">Josh Berry (Theo)</dc:creator>
+        <dc:creator opf:role="nrt">Adetomiwa Edun (Block)</dc:creator>
+        <dc:creator opf:role="nrt">Sara Powell (Confederation Official)</dc:creator>
+        <dc:creator opf:role="nrt">Deirdre Mullins (Dissident)</dc:creator>
+        <dc:creator opf:role="nrt">Abigail Thaw (Salaskin)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On the planet Trabus, the Master discovers a society where nobody is innocent and the only true crime is to be a less successful villain than those around you.</dc:description>
+    </metadata>
+</package>

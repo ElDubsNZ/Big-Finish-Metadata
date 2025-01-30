@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Just War</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>1999-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-435-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 1"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lance Parkin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Fewell (Jason Kane)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Gatiss (Standardtenfuhrer Joachim Wolff)</dc:creator>
+        <dc:creator opf:role="nrt">Nicky Goldie (Nurse Rosa Kitzel)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Keetch (Private Franz Hutter)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Moore (Private Gerhard Flur)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Stables (Ma Doras)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Wade (Oberst Oskar Steinman)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>THE TIME RING TRILOGY: PART 3
+
+"Tomorrow belongs to us, not you. If you were really from the future, Miss Summerfield, you would be a Nazi." 
+
+The Nazis occupy British soil and British citizens are being deported to European concentration camps. Those who do not co-operate with the Germans are shot.
+
+This isn't a parallel universe: this is Guernsey, 1941, and it's where Bernice is stranded. With no sign of Jason, she has to endure the full horror of the situation, alone and afraid.
+
+And something, somewhere has gone wrong. The Nazis are building a secret weapon, one that will have a decisive effect on the outcome of the war - and it's up to Benny to put history back on course...</dc:description>
+    </metadata>
+</package>

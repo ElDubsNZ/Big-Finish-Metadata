@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Paper Cuts</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-413-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="125"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Soldier)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Prefect / The Deathless Red Emperor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Courtney (Sir Alistair Lethbridge-Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Sara Crowe (Queen Mother / Tombkeeper)</dc:creator>
+        <dc:creator opf:role="nrt">Russell Floyd (Gerry Lenz)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Glennon (Prince / The Red Emperor in his Youth)</dc:creator>
+        <dc:creator opf:role="nrt">John Pickard (Thomas Brewster)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Thornley (Gomori / Steward)</dc:creator>
+        <dc:creator opf:role="nrt">Anneke Wills (Polly Wright)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Empire is lost. The Deathless Emperors are dead. The future may never happen.
+
+An urgent summons returns the noble Doctor to a planet he saved from disaster long ago. But Draconia, so elegant and so savage, is in worse turmoil than ever.
+
+Who will be next Emperor? The highest Prince? The lowest peasant? The soldier with no name? Or the Doctor himself – his life at their command? Who controls the army of deadly origami warriors? And is the truth about Charley painted on paper walls in the Emperor’s tomb?
+
+History is taking revenge on the Doctor.</dc:description>
+    </metadata>
+</package>

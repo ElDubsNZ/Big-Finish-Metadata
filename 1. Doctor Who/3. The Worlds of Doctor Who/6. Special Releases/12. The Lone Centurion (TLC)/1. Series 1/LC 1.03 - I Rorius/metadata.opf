@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>I, Rorius</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-429-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lone Centurion - Volume 1 - Rome"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jacqueline Rayner</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Arthur Darvill (Rory Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Max Hutchinson (Marinus)</dc:creator>
+        <dc:creator opf:role="nrt">Mina Anwar (Juliana)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Béart (Anna)</dc:creator>
+        <dc:creator opf:role="nrt">Jacob Dudman (First Passer By / Hilarius)</dc:creator>
+        <dc:creator opf:role="nrt">Ayesha Antoine (Second Passer By)</dc:creator>
+        <dc:creator opf:role="nrt">Omar Baroud (Quinn)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Blore (Guard)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Tweedale (Workman)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (Varro)</dc:creator>
+        <dc:creator opf:role="nrt">Ayesha Antoine, Inès de Clercq, Robyn Holdaway, Rhys Jennings (Citizens)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Drowning in a sea of plots and conspiracies, Rory just wants his life back. But in Ancient Rome, people don't retire, they die. And that's a bit difficult when you're immortal.</dc:description>
+    </metadata>
+</package>

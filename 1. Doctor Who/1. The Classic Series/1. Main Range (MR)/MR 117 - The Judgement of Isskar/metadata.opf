@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Key 2 Time - The Judgement of Isskar</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-363-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="117"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Ciara Janson (Amy)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Doddington (Zara)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Isskar / Lord Izdal / Ice Warriors)</dc:creator>
+        <dc:creator opf:role="nrt">Raquel Cassidy (Mesca)</dc:creator>
+        <dc:creator opf:role="nrt">Jeremy James (Thetris / Ice Warriors)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Thomas Jones (Harmonious 14 Zinc)</dc:creator>
+        <dc:creator opf:role="nrt">Heather Wright (Wembik)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A new adventure in time and space for the Fifth Doctor and his companion, Amy as they search for the Key to Time.
+
+On a planet where Time stands still, the Doctor meets a woman who is just a few minutes old. She is a Tracer, sent into our Universe by her makers to locate the six segments of the Key to Time. This being without a name wants the Doctor to be her assistant, but she doesn’t tell him the whole truth. Not at first.
+
+Their first port of call is Mars, where a society that one day will become Ice Warriors lives in peace and civility. But the Doctor’s arrival will change all that. The universe is dying, a choice must be made, and the Judgement of Isskar will be declared. The price must be paid - even if it takes centuries...</dc:description>
+    </metadata>
+</package>

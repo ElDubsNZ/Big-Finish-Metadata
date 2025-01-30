@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Heavenly Paradigm</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-393-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Master - Series 1 - Only the Good"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Derek Jacobi (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Jonny Green (Cole Jarnish)</dc:creator>
+        <dc:creator opf:role="nrt">Nerys Hughes (Mrs Wilson)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Bailey (Marigold Lane Computer)</dc:creator>
+        <dc:creator opf:role="nrt">Emily Barber (Elidh)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>With his plans approaching fruition, the Master travels to Stamford Bridge in the 1970s: a location he believes might hold the key to his success. But what terrible secret lurks under the stairs of No. 24 Marigold Lane? And what sacrifices will the Master make in the name of ultimate victory?</dc:description>
+    </metadata>
+</package>

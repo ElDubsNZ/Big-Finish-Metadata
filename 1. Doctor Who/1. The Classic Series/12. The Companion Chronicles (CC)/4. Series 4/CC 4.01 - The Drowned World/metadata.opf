@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Drowned World</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-424-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 4"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jean Marsh (Sara Kingdom / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Niall MacGregor (Robert)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A new adventure for the First Doctor, as told by his companion Sara Kingdom.
+
+Space Security Agent Sara Kingdom is dead, her ashes strewn on the planet Kembel. But, in an old house in Ely, Sara Kingdom lives on…
+
+To the Elders of this ruined world, Sara is a ghost, a phantom that must be excised. She must prove her right to exist, and she does so with stories. Stories of a time when she travelled the universe with an ancient Doctor and his heroic companion Steven inside a magical space/time ship called the TARDIS.
+
+And one story, in particular, could make a difference. The one about their trip to a world covered in water, where a human expedition is being wiped out. It’s a battle to survive, as the travellers face the horrors of the drowned world...</dc:description>
+    </metadata>
+</package>

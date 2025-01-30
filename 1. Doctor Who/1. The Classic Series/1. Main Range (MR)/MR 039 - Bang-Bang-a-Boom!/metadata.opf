@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Bang-Bang-a-Boom!</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2002-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-477-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="39"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Gareth Roberts</dc:creator>
+        <dc:creator opf:role="aut">Clayton Hickman</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Melanie Bush)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Waiter)</dc:creator>
+        <dc:creator opf:role="nrt">Sabina Franklyn (Doctor Eleanor Harcourt)</dc:creator>
+        <dc:creator opf:role="nrt">Graeme Garden (Professor Ivor Fassbinder)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Goddard (Geri Pakhar)</dc:creator>
+        <dc:creator opf:role="nrt">Nickolas Grace (Mister Loozly)</dc:creator>
+        <dc:creator opf:role="nrt">Vidar Magnussen (Lieutenant Strindberg)</dc:creator>
+        <dc:creator opf:role="nrt">Patricia Quinn (Queen Angvia)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Spargo (Nicky Newman)</dc:creator>
+        <dc:creator opf:role="nrt">David Tughan (Commentator Logan)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Dark Space 8 - an advanced monitoring station floating serenely among the stars. Its crew - a dedicated and highly-skilled group of professionals, calmly going about their vital work. Its mission - to boldly host the Intergalactic Song Contest.
+
+With representatives from myriad worlds competing, the eyes of the universe are on the station. But dark deeds are afoot aboard Dark Space 8... and people are starting to die.
+
+The haughty Queen Angvia, the gaseous gestalt Gholos, disposable pop idol Nicky Neumann, erratic Professor Fassbinder and the icily-efficient Dr Helena Harcourt ­ all are suspects. Could old political rivalries be manifesting themselves among the contestants? Is this the work of a breakaway terrorist faction? Or has someone just got it in for singer-songwriters?
+
+With peace in the galaxy hanging by a thread, it's vital that the mystery is solved ­ and fast! Can Dark Space 8's unconventional new commander, with the help of his personal pilot, Mel, find the murderer in time to prevent a major intergalactic war?
+
+Or will it be nul points for the entire universe...?</dc:description>
+    </metadata>
+</package>

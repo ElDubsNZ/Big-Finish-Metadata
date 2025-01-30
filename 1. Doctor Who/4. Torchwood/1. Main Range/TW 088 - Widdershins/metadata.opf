@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Widdershins</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-409-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="88"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Cerith Flinn (Iain)</dc:creator>
+        <dc:creator opf:role="nrt">Catrin Powell (Mum)</dc:creator>
+        <dc:creator opf:role="nrt">Charles Dale (Dad)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>One night long ago, Iain tried to raise the Devil. He walked the wrong way round an ancient stone in the village graveyard. He didn't think anything would happen, not really. 
+
+But something did. Something far worse than the Devil came to Llandyth. 
+
+And now, many years later, Iain's trying to work out what really happened that night. Did Torchwood ruin his life?</dc:description>
+    </metadata>
+</package>

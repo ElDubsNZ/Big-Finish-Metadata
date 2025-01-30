@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Best-Laid Plans</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 9"/>
+        <meta name="calibre:series_index" content="13"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Ben Tedds</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jacob Dudman (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Dracksil Forg sells ideas. For the right price, he’s got a solution to every possible problem. His reputation is impeccable, and whilst his ideas aren’t flawless, he has a 100% money-back guarantee.
+
+Dracksil has started selling to a new type of customer. They are dictators, warlords; species having trouble conquering galaxies or controlling populations. However, for these clients, Dracksil’s ideas keep falling apart.
+
+There’s something that unites these failing ideas. A name, screamed and whispered angrily among the rants of Dracksil’s new clientele: the Doctor, the Doctor, the Doctor…</dc:description>
+    </metadata>
+</package>

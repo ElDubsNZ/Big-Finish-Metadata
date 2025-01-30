@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Friendly Invasion</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 12"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Chris Chapman</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Nerys Hughes (Margaret)</dc:creator>
+        <dc:creator opf:role="nrt">Chase Brown (Sergeant Ray Hunter)</dc:creator>
+        <dc:creator opf:role="nrt">Evie Killip (Edie Carter)</dc:creator>
+        <dc:creator opf:role="nrt">Jackson Milner (Private Joe Powell)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Stan Trubshaw / Private Massey / Edie's Dad / Old Reg)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It’s 1943 and the village of Westbourne has been invaded… not by the enemy, but by the allies. The American troops are ‘over here’ and enjoying themselves mightily.
+
+Except there’s someone else visiting the village. And not just the new barmaid, Margaret. Or her unusual friends, Leela and the Doctor. Something with a sinister agenda all its own.</dc:description>
+    </metadata>
+</package>

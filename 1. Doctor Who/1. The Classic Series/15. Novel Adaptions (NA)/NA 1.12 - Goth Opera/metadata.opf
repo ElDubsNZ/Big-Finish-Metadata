@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Goth Opera</dc:title>
+        <dc:publisher></dc:publisher>
+        <dc:date>2024-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-434-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Novel Adaptations"/>
+        <meta name="calibre:series_index" content="12"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Cornell</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Armitage (Rassilon)</dc:creator>
+        <dc:creator opf:role="nrt">Micah Balfour (Yarven)</dc:creator>
+        <dc:creator opf:role="nrt">Ewan Goddard (Jeremy / Bob)</dc:creator>
+        <dc:creator opf:role="nrt">Natalie Gumede (Ruath)</dc:creator>
+        <dc:creator opf:role="nrt">Nathan Jonathan (Jake)</dc:creator>
+        <dc:creator opf:role="nrt">Mathew McQuinn (Eric / Mike)</dc:creator>
+        <dc:creator opf:role="nrt">Lionelle Nsarhaza (Olivia / Newsreader)</dc:creator>
+        <dc:creator opf:role="nrt">John Schwab (Victor Lang)</dc:creator>
+        <dc:creator opf:role="nrt">Lydia Wilson (Maddy)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Manchester, 1993. The Time Lady Ruath, an old friend of the Doctor's, arrives on the planet to inform Earth's vampires that the arrival of their legendary messiah is imminent. His rising will herald an age of endless night where the undead reign supreme. All that is needed is the blood of a Time Lord.
+
+In Tasmania, the Doctor, Tegan, and Nyssa are enjoying the sun and plenty of cricket. When they are attacked by vampires, they escape unscathed, except for Nyssa who suffers two small puncture wounds to her neck. Compelled by her attacker to remain silent, she can tell no-one what she's turning into.
+
+Why is Ruath so determined to see the descendants of the Great Vampire rise to power? If only the Doctor knew the truth, she's certain he would turn to her side, and help to secure the future of Vampire kind, no matter how much humanity must suffer.
+
+Based on the 1994 Missing Adventures novel by Paul Cornell.</dc:description>
+    </metadata>
+</package>

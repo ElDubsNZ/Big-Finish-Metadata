@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Heart of the Battle</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-187-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Doctor - Series 1 - Only the Monstrous"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Hurt (The War Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline Pearce (Cardinal Ollistra)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Briggs-Owen (The Nursemaid)</dc:creator>
+        <dc:creator opf:role="nrt">Carolyn Seymour (The Slave)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Veklin)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Wyndham (Seratrix)</dc:creator>
+        <dc:creator opf:role="nrt">Kieran Hodgson (Bennus)</dc:creator>
+        <dc:creator opf:role="nrt">Mark McDonnell (Traanus)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Garv)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Trapped in a citadel swarming with Daleks, the Time Lord rescue force must find a way to overcome insurmountable odds. With the Daleks apparently planning to rule the Null Zone, perhaps their thirst for universal conquest and victory has been quenched…
+
+The War Doctor doesn’t believe so - but how can he prove it without destroying any chance of peace?
+
+As the countdown to the destruction of Keska proceeds, a deadly choice must be made... A choice that will define this Doctor, and perhaps forever cast him in the role of 'monster'.</dc:description>
+    </metadata>
+</package>

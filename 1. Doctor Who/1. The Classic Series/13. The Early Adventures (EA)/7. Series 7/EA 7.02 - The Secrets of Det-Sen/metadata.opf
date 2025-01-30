@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Secrets of Det-Sen</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-248-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Early Adventures - Series 7"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andy Frankham-Allen</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Purves (Steven Taylor / The Doctor/The Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Lauren Cornelius (Dodo Chaplet)</dc:creator>
+        <dc:creator opf:role="nrt">Jeremy Ang Jones (Norbu)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Courtenay Hyu (Oddiyana)</dc:creator>
+        <dc:creator opf:role="nrt">Kerry Gooderson (Pema Tsering)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Zubairi (Dorje Lingpa)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the Doctor, Steven and Dodo arrive in the Himalayas, they have no idea that they are about to set off a chain of events that will haunt the Doctor throughout his many lives. 
+
+Joining a pilgrimage to the nearby Det-Sen monastery, the travellers discover everything isn’t as it seems. As the situation grows increasingly dire, they will have to uncover the secrets of Det-Sen before it’s too late.</dc:description>
+    </metadata>
+</package>

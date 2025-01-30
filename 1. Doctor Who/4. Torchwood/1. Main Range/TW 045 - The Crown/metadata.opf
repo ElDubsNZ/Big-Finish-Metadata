@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Crown</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-114-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="45"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Rowena Cooper (Queen Victoria)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Riddell (Dr Gideon Parr)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Blaydon (Maddox)</dc:creator>
+        <dc:creator opf:role="nrt">Gwyneth Keyworth (Henrietta Parr / The Vagrant)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Ferryman stands in shadow and waits. 
+
+The Ferryman giggles, hungers and hates. 
+
+The Ferryman comes to carry away 
+
+All who behold the crown and disobey. 
+
+Christmas Eve. Dr Gideon Parr is summoned to an asylum to check on a patient. A patient who claims to be haunted by a terrible curse. A patient who claims to be Queen Victoria.</dc:description>
+    </metadata>
+</package>

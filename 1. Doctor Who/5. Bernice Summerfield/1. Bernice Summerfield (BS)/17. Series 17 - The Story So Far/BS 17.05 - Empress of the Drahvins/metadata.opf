@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Empress of the Drahvins</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-588-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 17 - The Story so Far"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Llewellyn</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield / Annis)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Jayston (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">David Warner (Professor)</dc:creator>
+        <dc:creator opf:role="nrt">Ayesha Antoine (Ruth)</dc:creator>
+        <dc:creator opf:role="nrt">Mina Anwar (Captain Varda)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Elstob (Chorus)</dc:creator>
+        <dc:creator opf:role="nrt">Ross Ford (The Caragot)</dc:creator>
+        <dc:creator opf:role="nrt">Eve Karpf (Shekkina)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Ludders (Magister Feris)</dc:creator>
+        <dc:creator opf:role="nrt">Luke MacGregor (Gorath)</dc:creator>
+        <dc:creator opf:role="nrt">Rosanna Miles (Zabel)</dc:creator>
+        <dc:creator opf:role="nrt">Hussina Raja (Magistra Alker)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Shire (Magister Temaire)</dc:creator>
+        <dc:creator opf:role="nrt">Liz Sutherland-Lim (Professor Liyi)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Benny and her friend Ruth honestly don't mean to cause a revolution. When they crashland on the planet Drahva, they just want to get off it immediately. But the fearsome matriarchy has other ideas for Benny and Ruth. For one thing, they need a new empress.</dc:description>
+    </metadata>
+</package>

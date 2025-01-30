@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Ringpullworld</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-428-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 4"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Magrs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Mark Strickson (Vislor Turlough / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Lowe (Huxley)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Vislor Turlough is in trouble again: piloting a stolen ship through a pocket universe on a mission that is strictly forbidden by the Doctor. He would be going it alone, but there is unwelcome company in the form of Huxley, one of the legendary novelisors of Verbatim Six, who is narrating and recording Turlough’s life.
+
+As they hurtle towards unknown peril, Turlough recalls his arrival in the TARDIS, and the circumstances that propelled himself, the Doctor and Tegan into the Ringpull universe. He has a story to tell. But only Huxley knows how it might end…</dc:description>
+    </metadata>
+</package>

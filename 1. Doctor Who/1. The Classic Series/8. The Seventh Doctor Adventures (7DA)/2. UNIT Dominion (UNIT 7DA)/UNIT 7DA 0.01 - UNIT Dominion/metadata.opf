@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>UNIT Dominion</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-976-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Seventh Doctor Adventures - UNIT Dominion"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jason Arnopp</dc:creator>
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Macqueen (The Other Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Raine Creevy / Sylvie's Mum)</dc:creator>
+        <dc:creator opf:role="nrt">Tracey Childs (Doctor Elizabeth Klein)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Time Lord)</dc:creator>
+        <dc:creator opf:role="nrt">Samuel Clemens (Major Wyland-Jones / Trooper / Castellan)</dc:creator>
+        <dc:creator opf:role="nrt">Julian Dutton (Colonel Lafayette)</dc:creator>
+        <dc:creator opf:role="nrt">Bradley Gardner (Sergeant Wilson / Tolians)</dc:creator>
+        <dc:creator opf:role="nrt">Martin Johnson (UNIT Operator)</dc:creator>
+        <dc:creator opf:role="nrt">Miranda Keeling (Sylvie Wilson / Liz Morrison / Nexus / Time Lord)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Mallinson (Private Maynard / Arunzell / Skyheads / Colonel Tennison / General Nakatomi)</dc:creator>
+        <dc:creator opf:role="nrt">Ben Porter (Private Phillips / John Starr / Tolians / Hauptmann Beyer / Medic / Nexus)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The universe stands on the brink of a dimensional crisis – and the Doctor and Raine are pulled into the very epicentre of it.
+
+Meanwhile, on Earth, UNIT scientific advisor Dr Elizabeth Klein and an incarnation of the Doctor she's never encountered before are tested to the limit by a series of bizarre, alien invasions.
+
+At the heart of it all is a terrible secret, almost as old as the Time Lords themselves. Reality is beginning to unravel and two Doctors, Klein, Raine and all of UNIT must use all their strength and guile to prevent the whole of creation being torn apart.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Conquest of Far</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-752-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Third Doctor Adventures - Volume 3"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tim Treloar (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Katy Manning (Jo Grant)</dc:creator>
+        <dc:creator opf:role="nrt">George Watkins (Delralis / Naltrox / Thruskan Special Ops)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Jickster / Kennet)</dc:creator>
+        <dc:creator opf:role="nrt">Amy Newton (Elaquon)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Daleks / Aslarn / Earth President / Medi-Robot / Troopers)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Earth Alliance, the future… Fleet commanders receive their orders from the President of Earth. Operation Far is ‘go’. As soon as the planets are suitably aligned, the attack will go ahead.
+
+The Doctor and Jo arrive on the planet Far. The Doctor wants to attend the grand opening of one of the human race’s greatest achievements. A huge Hyper Gateway built to make travel around Earth’s great empire more convenient, bringing relief to many starving outer colonies.
+
+But they land in the wrong time period, long after the Gateway has been in service, and the Daleks have conquered Far! It’s the middle of a war and a deadly game is underway. When everyone has an agenda, betrayal can happen at any time, from any side. The endgame is approaching and maybe this time no one will survive.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Master</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2003-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-031-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="49"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Joseph Lidster</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Geoffrey Beevers (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Barzotti (Man)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Bassett (Child)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Hayes (Jade)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Madoc (Victor Schaeffer)</dc:creator>
+        <dc:creator opf:role="nrt">Anne Ridler (Jacqueline Schaeffer)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Many years ago, on a dark and stormy night, the disfigured and enigmatic Doctor John Smith invited his closest friends, Inspector Victor Schaeffer and his wife, Jacqueline, to a dinner to celebrate his birthday. A few hours later all the occupants in that house had been changed, ­some were dead, others mentally scarred forever by the events of that night.
+
+So, what happened to the distinguished dinner guests on that evening? Perhaps, we¹ll never know. But two clues have led to much speculation ­ found outside the study window, a charred umbrella with a curved red handle and found inside the house, a blood-stained copy of Stevenson¹s The Strange Case of Dr Jekyll and Mr Hyde.
+
+For one person, this night represented an ending: an ending to one thousand years of darkness and an ending to ten years of light.
+
+But, for everyone else, is there no end to this one night of Hell?</dc:description>
+    </metadata>
+</package>

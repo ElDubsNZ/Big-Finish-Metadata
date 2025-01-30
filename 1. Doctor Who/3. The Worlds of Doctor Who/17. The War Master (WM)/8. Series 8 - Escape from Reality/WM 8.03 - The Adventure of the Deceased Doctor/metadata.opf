@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Adventure of the Deceased Doctor</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-781-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Master - Series 8 - Escape from Reality"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alfie Shaw</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Derek Jacobi (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Earl (Dr John Watson)</dc:creator>
+        <dc:creator opf:role="nrt">Burn Gorman (Lestrade)</dc:creator>
+        <dc:creator opf:role="nrt">Eleanor Jackson (Johanna)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Sherlock Holmes)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When Dr John Watson is informed of his own murder, only the world’s greatest consulting detective can assist. He just happens to come from a different world.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Red Dawn</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2000-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-070-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="8"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Justin Richards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Brenher (Lord Zzaal)</dc:creator>
+        <dc:creator opf:role="nrt">Hylton Collins (Sub Commander Sstast)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Fewell (Paul Webster)</dc:creator>
+        <dc:creator opf:role="nrt">Jason Haigh-Ellery (Sskann)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Jezek (Commander Lee Forbes)</dc:creator>
+        <dc:creator opf:role="nrt">Alistair Lock (Zizmar)</dc:creator>
+        <dc:creator opf:role="nrt">Georgia Moffett (Tanya Webster)</dc:creator>
+        <dc:creator opf:role="nrt">Maureen Oakeley (Pilot Susan Roberts)</dc:creator>
+        <dc:creator opf:role="nrt">Gary Russell (Razzburr)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Ares One: NASA's first manned mission to the dead planet Mars. But is Mars as dead as it seems?
+
+While the NASA team investigate an 'anomaly' on the planet's surface, the Doctor and Peri find themselves inside a strange alien building. What is its purpose? And what is frozen inside the blocks of ice that guard the doorways? If the Doctor has a sense of deja-vu, it's because he's about to meet some old adversaries, as well as some new ones...</dc:description>
+    </metadata>
+</package>

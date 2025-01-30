@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Fifth Traveller</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-379-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Early Adventures - Series 3"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Philip Lawrence</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">William Russell (Ian Chesterton / The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Maureen O'Brien (Vicki / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Jemma Powell (Barbara)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Jospa)</dc:creator>
+        <dc:creator opf:role="nrt">Kate Byers (Sharna)</dc:creator>
+        <dc:creator opf:role="nrt">Elliot Cowan (Gark)</dc:creator>
+        <dc:creator opf:role="nrt">Orlando Jones (Krube)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor, Ian, Barbara, Vicki and Jospa land the TARDIS on the homeworld of the Arunde. Emerging into the jungle that covers the planet and encountering the strange wildlife dwelling within, the travellers are unaware that the true rulers live high above them in the trees.
+
+The ape-like members of the tribe are in trouble. The last Matriar's nest has been lost to the surface, and the people are hungry... Maybe these strangers may be responsible. And some believe they may be salvation.
+
+The TARDIS crew are about to find themselves in the middle of somebody else's battle. But there's more at stake than even they can know.</dc:description>
+    </metadata>
+</package>

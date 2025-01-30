@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Stolen Goods</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-239-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jenny - The Doctor's Daughter - Series 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Georgia Tennant (Jenny)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Biggerstaff (Noah)</dc:creator>
+        <dc:creator opf:role="nrt">Stuart Milligan (Garundel)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Woodward (Vesh Taralesh)</dc:creator>
+        <dc:creator opf:role="nrt">Clare Corbett (Lukaku)</dc:creator>
+        <dc:creator opf:role="nrt">Siân Phillips (COLT-5000)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Jenny is new to the universe and keen to explore – but in unfamiliar spaceships, accidents happen. She's lucky to have someone on-hand to help. A slippery, fast-talking someone, called Garundel. 
+
+Soon, Jenny is mixed up in cons and explosions. But she also finds something strange, inexplicable, and as new to universe as she is. She'll call him Noah.</dc:description>
+    </metadata>
+</package>

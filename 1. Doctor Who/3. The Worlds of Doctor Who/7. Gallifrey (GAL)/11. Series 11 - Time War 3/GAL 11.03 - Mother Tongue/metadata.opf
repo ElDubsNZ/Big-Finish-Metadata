@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Mother Tongue</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-563-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 11 - Time War 3"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Helen Goldwyn</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Hallion (Sholan)</dc:creator>
+        <dc:creator opf:role="nrt">Will Kirk (Kraumer)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Douglas (Drah)</dc:creator>
+        <dc:creator opf:role="nrt">Maxine Evans (Renucha)</dc:creator>
+        <dc:creator opf:role="nrt">Wilf Scolding (Warrior)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Leela was thrown into a Vortex ravaged by the Time War, lost in space and time – but the Trell have shown her mercy... 
+
+She finds herself in another realm, another life. One where the warrior is also a mother. Where she must help her son to choose the path to avoid his world's destruction.</dc:description>
+    </metadata>
+</package>

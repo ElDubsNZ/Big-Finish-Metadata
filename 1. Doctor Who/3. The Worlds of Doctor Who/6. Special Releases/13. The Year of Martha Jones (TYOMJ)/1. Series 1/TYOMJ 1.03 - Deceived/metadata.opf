@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Deceived</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-242-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Year of Martha Jones"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Freema Agyeman (Martha Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Adjoa Andoh (Francine Jones / Francine Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Serin Ibrahim (Holly)</dc:creator>
+        <dc:creator opf:role="nrt">Julie Graham (Miss Beecham / Sovari)</dc:creator>
+        <dc:creator opf:role="nrt">Gethin Anthony (Mr Strand)</dc:creator>
+        <dc:creator opf:role="nrt">Ronan Summers (Dustin)</dc:creator>
+        <dc:creator opf:role="nrt">Clare Louise Connolly / Ellie Darvill (Toclafane)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Master's minions are competing to please him. And agents Beecham and Strand believe nothing would please him more than finding the Doctor’s stray companion. 
+
+As Martha and friends hide out in Vegas, the Toclafane arrive. How many levels of deception must be uncovered for Martha to reach the truth?</dc:description>
+    </metadata>
+</package>

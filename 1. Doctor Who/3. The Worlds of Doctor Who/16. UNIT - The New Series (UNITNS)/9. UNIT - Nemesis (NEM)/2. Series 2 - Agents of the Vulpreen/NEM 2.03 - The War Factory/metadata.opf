@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The War Factory</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-625-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - Nemesis - Series 2 - Angents of the Vulpreen"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizzie Hopley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jemma Redgrave (Kate Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Ingrid Oliver (Osgood)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Captain Josh Carter)</dc:creator>
+        <dc:creator opf:role="nrt">Angela Bruce (Brigadier Winifred Bambera)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Bonnar (The Eleven)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy Wiles (Jacqui McGee)</dc:creator>
+        <dc:creator opf:role="nrt">Yasmin Mwanza (Private Lauren Huff / Sorka)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Lew Kum Hoi (Jimmy Tan)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (Vulpreen Commander)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Temporal anomalies strike in the present and the past - 19th century infantry at Belmarsh Prison in the present day, and Brigadier Winifred Bambera is confronted by Tudor warships on the Thames in the late 20th century. 
+
+Enquiries by UNIT past and present lead them to the site of Woolwich Arsenal, where the Eleven is trying to create a bridge to another world. And UNIT will learn he's not the only one on the side of their alien adversaries.</dc:description>
+    </metadata>
+</package>

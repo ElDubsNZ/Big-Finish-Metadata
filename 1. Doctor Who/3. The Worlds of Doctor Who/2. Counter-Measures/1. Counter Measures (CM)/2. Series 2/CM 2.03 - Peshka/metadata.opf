@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Peshka</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-082-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Counter Measures - Series 2"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mark Wright</dc:creator>
+        <dc:creator opf:role="aut">Cavan Scott</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Simon Williams (Group Captain Ian Gilmore)</dc:creator>
+        <dc:creator opf:role="nrt">Pamela Salem (Rachel Jensen)</dc:creator>
+        <dc:creator opf:role="nrt">Karen Gledhill (Allison Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Ross (Sir Toby Kinsella)</dc:creator>
+        <dc:creator opf:role="nrt">Bo Poraj (Shurik Barkov / British Ambassador / Russian Guard)</dc:creator>
+        <dc:creator opf:role="nrt">Emily Tucker (Anya Barkov / Dutch Airport Tannoy Announcer)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Marcus Fremington / The Dutchman / The Steward / The Angry Man)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Lonsdale (St John / The Policeman)</dc:creator>
+        <dc:creator opf:role="nrt">Blake Ritson (Terrance Fleischer)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A visit to an international chess tournament isn't quite the relaxing experience the Counter-Measures team might have hoped for. With a defection to arrange and violence erupting on the streets it's time for a dangerous gambit. What pieces will be left on the table when the Endgame approaches? </dc:description>
+    </metadata>
+</package>

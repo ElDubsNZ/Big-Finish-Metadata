@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Body and Soulless</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-638-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Missy - Series 3 - Missy and the Monk"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Michelle Gomez (Missy)</dc:creator>
+        <dc:creator opf:role="nrt">Rufus Hound (The Monk)</dc:creator>
+        <dc:creator opf:role="nrt">Anjella Mackintosh (Soldier 2 / VAD Soldier / Medic)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (Kalvor Commander)</dc:creator>
+        <dc:creator opf:role="nrt">Ashley Zhangazha (Gasher)</dc:creator>
+        <dc:creator opf:role="nrt">Tania Rodrigues (VAD Prime)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Stuck with a co-pilot, Missy has taken extreme measures. After all, she only needs the Monk’s brain to fly his TARDIS. But when Missy and the bodiless Monk end up on different sides of a planetary war, they may need one another to survive...</dc:description>
+    </metadata>
+</package>

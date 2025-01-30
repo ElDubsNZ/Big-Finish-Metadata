@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Vanity Box</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2007-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-284-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="97.2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Magrs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Melanie Bush)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Connolly (Mildew / Ghost)</dc:creator>
+        <dc:creator opf:role="nrt">Diana Flack (Nesta)</dc:creator>
+        <dc:creator opf:role="nrt">Rachel Laurence (Female Ghost / Bessy)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Longworth (Wishing Beast / Monsieur Coffure)</dc:creator>
+        <dc:creator opf:role="nrt">Jean Marsh (Maria)</dc:creator>
+        <dc:creator opf:role="nrt">Christine Moore (Winnie / Lily)</dc:creator>
+        <dc:creator opf:role="nrt">Geraldine Newman (Eliza)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Sawyer (Daniel / Ghost Brother)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A strange beauty parlour has opened its doors for business in a dowdy Salford terrace circa 1965. Monsieur Coiffure is the talk of the street with his fabulous make-overs. When the Doctor arrives, however, he knows at once that there's been some unnatural titivation going on.</dc:description>
+    </metadata>
+</package>

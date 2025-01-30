@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Blazing Hour</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-022-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="274"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Kettle</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Strickson (Vislor Turlough)</dc:creator>
+        <dc:creator opf:role="nrt">Rakie Ayola (Violet Hardaker)</dc:creator>
+        <dc:creator opf:role="nrt">Donna Berlin (Montgomery / Prime Minister)</dc:creator>
+        <dc:creator opf:role="nrt">Raj Ghatak (Horobin / Bradley)</dc:creator>
+        <dc:creator opf:role="nrt">Lynsey Murrell (Ellison / Fionn)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS brings the Doctor and Turlough to a high-tech scientific installation on the planet Testament in the distant future. The human race have become intergalactic buccaneers, thanks to their ability to generate vast amounts of power for long-distance travel. Testament is the source of that power – and the Doctor has never quite understood how it works.
+
+But experiments are underway on Testament - experiments with potentially explosive and devastating consequences. And even the Doctor may be too late to stop it.
+
+With politicians and bureaucrats getting in the way, the race is on. Not to stop a disaster - but to save as many people as possible.</dc:description>
+    </metadata>
+</package>

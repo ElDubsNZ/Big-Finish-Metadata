@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Plague of Dreams</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-006-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - The First Doctor - Volume 2"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Anneke Wills (Polly)</dc:creator>
+        <dc:creator opf:role="nrt">Elliot Chapman (The Player/Ben Jackson)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"Pray welcome, one and all, to this, a fantasy in two acts, presented, most humbly, for your pleasure. We bring you drama and magic, angels and demons, a tale of mysterious plague... of nightmares made flesh... of a war fought both in this world and those immeasurably distant. A war, in fact, fought through the mists of time itself. It will make you gasp! It will make you weep! It may even make some of you wake-up..."</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Haunt</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-854-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - Brave New World - Series 2 - Visitants"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizzie Hopley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Angela Bruce (Brigadier Winifred Bambera)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Jordan (Sergeant Jean-Paul Savarin)</dc:creator>
+        <dc:creator opf:role="nrt">Yemisi Oyinloye (Dr Louise Rix)</dc:creator>
+        <dc:creator opf:role="nrt">Nathaniel Curtis (Dom McNeil)</dc:creator>
+        <dc:creator opf:role="nrt">Jason Forbes (Baghead)</dc:creator>
+        <dc:creator opf:role="nrt">Chandrika Chevli (Clare Yale)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Griffin (Nurse Bannister)</dc:creator>
+        <dc:creator opf:role="nrt">Lesley Ewen (Landau)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Blore (Talbot)</dc:creator>
+        <dc:creator opf:role="nrt">Liz Sutherland-Lim (Joyce)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Bambera joins Rix on an excursion up north to investigate strange goings on at the abandoned Greensands Hotel. Are local legends true that the hotel is haunted by a murderous bogeyman known as Baghead, or is there a more down-to-earth explanation? The only way to uncover the truth is to stay in the hotel overnight, but their digging into the building's past has awoken something that would have been better left alone.</dc:description>
+    </metadata>
+</package>

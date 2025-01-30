@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Masquerade</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-313-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="187"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Stephen Cole</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Brosnan (Dead Man / Maschera)</dc:creator>
+        <dc:creator opf:role="nrt">David Chittenden (Vicomte de Valdec)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Dickens (Steamroller Man / Jean / Maschera)</dc:creator>
+        <dc:creator opf:role="nrt">Victoria Hamilton (Marquise De Rimdelle)</dc:creator>
+        <dc:creator opf:role="nrt">Francesca Hunt (Hannah Bartholomew)</dc:creator>
+        <dc:creator opf:role="nrt">Rebecca Night (Helene)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>France, the year 1770: by special invitation, the famous 'Doctor', friend of Voltaire, arrives at the lonely estate of the lovely Marquise de Rimdelle – once a hostess to the highest of high society, now isolated by the strange, pernicious mist that lingers round the countryside.
+
+But there's more in that fog than mere vapour, confesses the Marquise's strange niece to the Doctor's ward, Nyssa. She senses some uncanny machine circling the fringes of the estate, in the space between the shadows. Watching. Always watching. She's given it a name: 'The Steamroller Man'.
+
+Meanwhile, the man in the cellar talks to the Doctor; a dead man, trapped behind the cellar walls. The Steamroller Man is coming, he says; coming to smash the place down. It seems the Doctor has been drawn into a very dangerous liaison…</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Helliax Rift</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-823-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="237"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Scott Handcock</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Blake Harrison (Lieutenant Daniel Hopkins)</dc:creator>
+        <dc:creator opf:role="nrt">Russ Bain (Lieutenant-Colonel Lewis Price)</dc:creator>
+        <dc:creator opf:role="nrt">Jacob Dudman (Samuel)</dc:creator>
+        <dc:creator opf:role="nrt">Genevieve Gaunt (Corporal Linda Maxwell)</dc:creator>
+        <dc:creator opf:role="nrt">Anna Louise Plowman (Dr Jennifer Harrison)</dc:creator>
+        <dc:creator opf:role="nrt">Robbie Stevens (Morris)</dc:creator>
+        <dc:creator opf:role="nrt">Deborah Thomas (Annabel Morden)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Daniel Hopkins thought he knew what he was letting himself in for when he joined the top-secret UNIT organisation as its latest Medical Officer.
+
+Racing about the countryside, chasing strange lights in the sky? Check. Defending the realm against extraterrestrial incursion? Check. Frequent ear-bashings from UNIT’s UK CO, the famously no-nonsense Lt-Col Lewis Price? Check. Close encounters of the First, Second and even Third kind? Check, check, check.
+
+But he had no idea what alien beings were really like. Until the day of the Fallen Kestrel. Until the day he met the Doctor.
+
+[Please note: this story is the first in a series of linked stories featuring UNIT and Daniel Hopkins, continuing with Hour of the Cybermen, and concluding with Warlock's Cross.]</dc:description>
+    </metadata>
+</package>

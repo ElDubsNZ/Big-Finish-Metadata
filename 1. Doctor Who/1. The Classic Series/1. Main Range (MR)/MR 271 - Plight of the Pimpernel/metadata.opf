@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Plight of the Pimpernel</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-016-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="271"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Chris Chapman</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Stewart Clarke (Z22 / Charlie / Guillaume / Frederic)</dc:creator>
+        <dc:creator opf:role="nrt">Rebecca Crankshaw (Babs / Bernadette / Lady Morton)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Howell (Donat / Devore / Lord Morton )</dc:creator>
+        <dc:creator opf:role="nrt">Joe Jameson (Oliver / Bisset / Andre / Computer)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Parker (Sir Percy / Terrance)</dc:creator>
+        <dc:creator opf:role="nrt">Becky Wright (Nancy / Lady Calisto / Hologram Tyrax)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It's 1793 and the Reign of Terror is slicing through the elite of Paris - but not if the Scarlet Pimpernel has anything to do with it! With a very British pluck, and daring bravado, he rescues French aristocrats from Madame Guillotine's embrace. But who hides beneath the Pimpernel’s mask? And isn’t the Scarlet Pimpernel just a fictional character?
+
+At Highmoor House, in England, Peri plays lady of the manor while the Doctor tends to the strange wounds of her ‘husband’, Sir Percy Blakeney. As Peri prepares to host a lavish ball in Sir Percy’s name, French agent Citizen Donat, and a sinister alien force are uninvited guests, both intent on unmasking the Scarlet Pimpernel and putting an end to his heroic escapades, forever!</dc:description>
+    </metadata>
+</package>

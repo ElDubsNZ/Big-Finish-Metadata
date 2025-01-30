@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>This Sleep of Death</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-973-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - The New Series - Series 8 - Incursions"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jemma Redgrave (Kate Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Ingrid Oliver (Osgood)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Captain Josh Carter)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew French (Sergeant Warren Calder)</dc:creator>
+        <dc:creator opf:role="nrt">Ajjaz Awad (Meghan)</dc:creator>
+        <dc:creator opf:role="nrt">Warren Brown (Lieutenant Sam Bishop)</dc:creator>
+        <dc:creator opf:role="nrt">Hywel Morgan (Jeff)</dc:creator>
+        <dc:creator opf:role="nrt">Alexandra Mathie (Businesswoman)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Abbey Marston. UNIT's dark secret. A place where the laws of space and time, life and death, can be suspended. Where remembering the departed has consequences... When UNIT faces a threat from a dead man, Kate has no choice but to return to Abbey Marston once more, to disturb the sleep of death. But the Static are waiting...</dc:description>
+    </metadata>
+</package>

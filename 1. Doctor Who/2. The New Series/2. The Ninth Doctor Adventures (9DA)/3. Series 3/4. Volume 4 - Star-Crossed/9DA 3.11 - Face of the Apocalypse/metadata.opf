@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Face of the Apocalypse</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-134-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Ninth Doctor Adventures - Series 3 - Volume 4 - Star-Crossed"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizzie Hopley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Eccleston (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Tighe (Abel)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Reynolds (Spore)</dc:creator>
+        <dc:creator opf:role="nrt">Nadia Albina (Keetree)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>After locking onto an unusual algorithm, the TARDIS lands in a hi-security Intergalactic Bank where the computerised system only recognises one face - River Song. The Doctor discovers River dismantling the main computer and immediately suspects her of something dodgy…
+
+But a case of stolen identity becomes far more serious as River’s face starts to appear throughout history and the Bank vaults start filling up with Temporal Prisoners. Is River the victim of a sting or a bored computer nerd? One thing’s for certain, the ‘glitch’ is no longer a glitch and is on its way to destroying all of spacetime, starting with Prisoner Number One.</dc:description>
+    </metadata>
+</package>

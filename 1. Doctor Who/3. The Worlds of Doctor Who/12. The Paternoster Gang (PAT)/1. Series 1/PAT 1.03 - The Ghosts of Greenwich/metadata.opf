@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Ghosts of Greenwich</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-799-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Paternoster Gang - Heritage 1"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Neve McIntosh (Madame Vastra)</dc:creator>
+        <dc:creator opf:role="nrt">Catrin Stewart (Jenny Flint)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Strax)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Kloska (Neville Plumstead / The Creature / Bobby Harris)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Briggs-Owen (Charlotte Mayfly)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Cooper (Sir Jasper Eagleton / Old Smallpiece / Jonathan Mayfly)</dc:creator>
+        <dc:creator opf:role="nrt">Daisy Ashford (Penny Lambeth / Angie Sangster / Archivist)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Strange things are happening to the people of Greenwich. Phantoms of the living appear, while others are aged beyond their years. A cloaked figure stalks the streets, and time is out of joint. 
+
+Madame Vastra, Jenny and Strax find all clues point towards the Meridian Line. Beneath the Royal Observatory lies a secret – something terribly ancient and horribly dangerous…</dc:description>
+    </metadata>
+</package>

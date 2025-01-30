@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Brood of Erys</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-299-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="183"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andrew Smith</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Greenwood (Flip Jackson)</dc:creator>
+        <dc:creator opf:role="nrt">Tori Hart (Lona / Jen / Mya)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Overton (Terrill / Beacon Warning Message / Levek)</dc:creator>
+        <dc:creator opf:role="nrt">Brian Shelley (Trenval / Erys)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Sian (Sarra Vanser / Female Drachee)</dc:creator>
+        <dc:creator opf:role="nrt">Glynn Sweet (Elgin Vanser)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Space travellers are warned to keep away from the area of the planet Asphya and its unremarkable moon Erys. Not the best place to materialise the TARDIS, then – as the Doctor discovers when his ship is raided by the imp-like Drachee, and his companion Flip is carried away…
+
+But the TARDIS isn’t the only stricken vessel in the region. Aboard a nearby space yacht, the Doctor encounters a woman who holds in her head the secret of Erys – a secret suppressed by amnesia, or worse.
+
+Flip, too, is about to learn Erys’ secret. But once you know Erys’ secret, you can never escape.</dc:description>
+    </metadata>
+</package>

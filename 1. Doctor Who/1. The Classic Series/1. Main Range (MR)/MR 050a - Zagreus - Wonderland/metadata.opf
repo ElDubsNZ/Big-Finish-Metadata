@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Zagreus - Wonderland</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2003-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-032-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="50.1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Gary Russell</dc:creator>
+        <dc:creator opf:role="aut">Alan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (Reverend Matthew Townsend)</dc:creator>
+        <dc:creator opf:role="nrt">Colin Baker (Lord Tepesh)</dc:creator>
+        <dc:creator opf:role="nrt">Sylvester McCoy (Walton Winkle)</dc:creator>
+        <dc:creator opf:role="nrt">Paul McGann (Zagreus)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Captain Duck)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Sergeant Gazelle)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Stone / Ouida)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Courtney (The TARDIS / Brigadier image)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Fewell (Corporal Heron)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Jezek (The Recorder)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Cassandra / Goldilocks)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">Caroline Morris (Mary Elson)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Perring (Receptionist)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Pertwee (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Cardinal Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">Elisabeth Sladen (Miss Lime)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Stables (The Great Mother)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Strickson (Captain MacDonnell)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Miss Foster)</dc:creator>
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Don Warrington (Rassilon)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Westmaas (The Cat)</dc:creator>
+        <dc:creator opf:role="nrt">Anneke Wills (Lady Louise Pollard)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Zagreus sits inside your head.
+
+Zagreus lives among the dead…
+
+Zagreus sees you in your bed
+
+And eats you when you're sleeping.</dc:description>
+    </metadata>
+</package>

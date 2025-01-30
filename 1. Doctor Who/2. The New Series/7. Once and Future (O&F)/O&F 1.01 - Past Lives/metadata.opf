@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Past Lives</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-076-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Once and Future"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Valentine</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sadie Miller (Sarah Jane Smith)</dc:creator>
+        <dc:creator opf:role="nrt">Jemma Redgrave (Kate Lethbridge-Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Ingrid Oliver (Petronella Osgood)</dc:creator>
+        <dc:creator opf:role="nrt">Rufus Hound (The Monk)</dc:creator>
+        <dc:creator opf:role="nrt">Ewan Bailey (‘Mr Mallory’ / Galavaunt / Baravoar)</dc:creator>
+        <dc:creator opf:role="nrt">Colin Baker (The Sixth Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Davison (The Fifth Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Seventh Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Noonan (The First Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Field Surgeon / Black Market Merchant)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Treloar (The Third Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Troughton (The Second Doctor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Time War. The Doctor has been injured and brought to a Time Lord field hospital. His body glows with energy, but this is no regeneration into a future form – instead, the Doctor’s past faces begin to appear as he flits haphazardly between incarnations...
+
+Staggering to his TARDIS, the Doctor sets out to solve the mystery of his ‘degeneration’. Who has done this to him? How? And why? From the Earth to the stars, across an array of familiar times and places, he follows clues to retrace his steps, encountering old friends and enemies along the way. Tumbling through his lives, the Doctor must stop his degeneration before he loses himself completely...
+
+Settling as his Fourth incarnation, the Doctor goes in search of the Monk, with a vague memory that he had something to do with his ‘degeneration’.
+
+On Earth, the Monk is meddling, bringing Sarah Jane Smith to the future UNIT HQ to steal a device for an alien race. The Doctor must help Kate Stewart and Osgood foil an invasion before he can confront the Monk about what he knows...</dc:description>
+    </metadata>
+</package>

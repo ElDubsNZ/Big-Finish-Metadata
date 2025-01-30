@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Run</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-130-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Ninth Doctor Adventures - Series 3 - Volume 2 - Travel in Hope"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Valentine</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Eccleston (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Goddard (Alpha Centauri)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Asher (Bellatrix Vega)</dc:creator>
+        <dc:creator opf:role="nrt">David Langham (Kramp / Tau Ceti)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Zzargol)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Pope (Speaker of the House / Cartel boss)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When heinous demagogue Bellatrix Vega threatens the stability of the Galactic Federation, the Doctor convinces newly elected representative Alpha Centauri to run against her for president.
+
+As Vega’s team mount a campaign of dirty tricks, the Doctor and Alpha must thwart a murderous conspiracy or see the galaxy’s greatest democracy become a brutal dictatorship.</dc:description>
+    </metadata>
+</package>

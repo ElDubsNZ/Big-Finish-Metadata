@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Luna Romana</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-089-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 8"/>
+        <meta name="calibre:series_index" content="7"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Juliet Landau (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Terry Molloy (Quadrigger Stoyn)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The search for the final segment of the Key to Time takes the Doctor and the First Romana to Ancient Rome. The Time Lady is appalled when her companion prefers to watch the latest Plautus comedy rather than complete their mission, and is even less delighted to meet the playwright himself.
+
+But all is not what it seems, either onstage or behind the scenes...;
+
+In the far, far future, the Second Romana is destined to have her own encounter with a legacy of Rome, but Stoyn has been waiting. And his actions will set Romana on a collision course with her own past.
+
+Quadrigger Stoyn wants his final revenge on the Doctor, and only Romana stands in his way.
+
+Both of her.
+
+This is the third story in a Companion Chronicles trilogy celebrating the 50th Anniversary of Doctor Who.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Holy Terror</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2000-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-410-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="14"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Shearman</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Jezek (Frobisher)</dc:creator>
+        <dc:creator opf:role="nrt">Stefan Atkinson (Pepin)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Guinness (Childeric)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Hogarth (Captain Sejanus)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Kelly (Eugene Tacitus)</dc:creator>
+        <dc:creator opf:role="nrt">Bruce Mann (Arnulf)</dc:creator>
+        <dc:creator opf:role="nrt">Helen Punt (Livilla)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Shearman (Sculptor)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Sowerbutts (Clovis)</dc:creator>
+        <dc:creator opf:role="nrt">Roberta Taylor (Berengaria)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS lands in a forbidding castle in a time of religious upheaval. The old god has been overthrown, and all heretics are to be slaughtered. Obviously it isn't the sort of thing which would happen there every day - just every few years or so.
+
+And when the Doctor and Frobisher are hailed as messengers from heaven, they quickly become vital to opposing factions in their struggle for power. But will they be merely the acolytes of the new order - or will they be made gods themselves?
+
+An evil destructive force is growing deep within the crypt. And the pair soon find out that they will be lucky to escape their new immortality with their lives.</dc:description>
+    </metadata>
+</package>

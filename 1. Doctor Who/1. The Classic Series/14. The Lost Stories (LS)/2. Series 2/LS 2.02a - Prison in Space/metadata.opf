@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Prison in Space</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-453-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 2"/>
+        <meta name="calibre:series_index" content="2.1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Dick Sharples</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Frazer Hines (Jamie McCrimmon)</dc:creator>
+        <dc:creator opf:role="nrt">Wendy Padbury (Zoe Heriot)</dc:creator>
+        <dc:creator opf:role="nrt">Susan Brown (Babs)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A relaxing break for the Doctor and his companions Jamie and Zoe becomes something decidedly more sinister when they are arrested for trespass. But what has happened to the planet Earth? And how has the malevolent Chairman Babs gained control? As the Doctor and Jamie are incarcerated in a prison that they can never escape from, Zoe is forced to change sides...</dc:description>
+    </metadata>
+</package>

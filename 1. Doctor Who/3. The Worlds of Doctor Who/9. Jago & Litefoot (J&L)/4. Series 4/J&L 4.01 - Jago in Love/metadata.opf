@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Jago in Love</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-562-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jago & Litefoot - Series 4"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nigel Fairs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Baxter (George Litefoot)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Ellie Higson)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Asquith (Sergeant Quick)</dc:creator>
+        <dc:creator opf:role="nrt">Elizabeth Counsell (Abigail Woburn)</dc:creator>
+        <dc:creator opf:role="nrt">Matt Addis (George Nevil)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Beeny (Mr Kempston)</dc:creator>
+        <dc:creator opf:role="nrt">Mike Grady (Mr Hardwick)</dc:creator>
+        <dc:creator opf:role="nrt">Colin Baker (Professor Claudius Dark)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Escaping the shadowy presence of the mysterious Professor Claudius Dark, Jago, Litefoot and Leela take a holiday in Brighton. There, Jago meets and falls for music hall singer Abigail Woburn, a relationship that threatens to split the infernal investigators apart, as dark forces gather on the beach...</dc:description>
+    </metadata>
+</package>

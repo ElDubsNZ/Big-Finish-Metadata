@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>I.D.</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2007-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-247-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="94.1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Helen Atkinson-Wood (Ms Tevez)</dc:creator>
+        <dc:creator opf:role="nrt">Gyles Brandreth (Doctor Marriott)</dc:creator>
+        <dc:creator opf:role="nrt">Kate Brown (Lauren)</dc:creator>
+        <dc:creator opf:role="nrt">David Dobson (DJ / Scandroids)</dc:creator>
+        <dc:creator opf:role="nrt">Sara Griffiths (Claudia Bridge)</dc:creator>
+        <dc:creator opf:role="nrt">Natasha Pyne (Denise Stillinger)</dc:creator>
+        <dc:creator opf:role="nrt">Kerry Skinner (Connie / Lake)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Thompson (Gabe Stillinger)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In the 32nd Century, the Doctor finds himself on a planet piled high with discarded computer technology. Picking over these remains are an army of Scandroids, a collection of unsavoury, illegal Data Pirates and a team of researchers from the mysterious Lonway Clinic. This is a world of organic-digital transfer and 'personality surgery' which the Doctor finds disturbing enough, until something far more deadly starts to emerge.</dc:description>
+    </metadata>
+</package>

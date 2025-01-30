@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Dog Hop</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-020-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="75"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lauren Mooney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Price (Andy Davidson)</dc:creator>
+        <dc:creator opf:role="nrt">Zadeiah Campbell-Davies (Nia)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth Armstrong (Ken)</dc:creator>
+        <dc:creator opf:role="nrt">Howard Ward (Dick)</dc:creator>
+        <dc:creator opf:role="nrt">Lissa Berry (Mary)</dc:creator>
+        <dc:creator opf:role="nrt">Leah Marks (Sandra)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Andy Davidson has stumbled across the last proper pub on Cardiff Bay. Sticky carpets, cut-glass mirrors, eccentric regulars and absolutely no food. He gets chatting to the bar manager Nia, who has a strange tale to tell. A tale about bizarre experiments on the local dog population, about booze-hounds transplanted into real hounds. 
+
+And the weirdest thing is, Andy might be starting to believe her.</dc:description>
+    </metadata>
+</package>

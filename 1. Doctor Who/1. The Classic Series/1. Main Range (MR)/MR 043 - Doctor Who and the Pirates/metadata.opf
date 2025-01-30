@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Doctor Who and the Pirates</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2003-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-024-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="43"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jacqueline Rayner</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Stables (Evelyn Smythe)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Barratt (Cabin Boy Jem)</dc:creator>
+        <dc:creator opf:role="nrt">Helen Goldwyn (Sally)</dc:creator>
+        <dc:creator opf:role="nrt">Bill Oddie (Red Jasper)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Pegg (Captain Emmanuel Swan)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Siney (Mr Merryweather)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Sutton (Mate / Sailor / Pirate)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>All aboard, me hearties, for a rip-roaring tale of adventure on the high seas! There'll be rum for all and sea shanties galore as we travel back in time to join the valiant crew of the good ship Sea Eagle, braving perils, pirates and a peripatetic old sea-dog known only as the Doctor!
+
+Gasp as our Gallifreyan buccaneer crosses swords with the fearsome Red Jasper, scourge of the seven seas and possessor of at least one wooden leg! Thrill as Evil Evelyn the Pirate Queen sets sail in search of buried treasure, with only a foppish ship's captain and an innocent young cabin boy by her side! Marvel at the melodious mayhem which ensues as we sail the ocean blue!
+
+And wonder why Evelyn still hasn't realised that very few stories have happy endings...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Extinction Event</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2001-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-412-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 2"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lance Parkin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Irving Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Brennan (Hulver)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Donovan (Gulfrarg Ambassador)</dc:creator>
+        <dc:creator opf:role="nrt">Alexis Khan (Davon)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>An exclusive auction house is offering the only known object to have survived the destruction of the planet Halstad.
+
+Professor Bernice Summerfield goes with Irving Braxiatel to secure this unique object for the Braxiatel Collection. But this is not a straightforward sale. There is a murderer on the loose, on the trail of whoever owns the Halstad Harp.</dc:description>
+    </metadata>
+</package>

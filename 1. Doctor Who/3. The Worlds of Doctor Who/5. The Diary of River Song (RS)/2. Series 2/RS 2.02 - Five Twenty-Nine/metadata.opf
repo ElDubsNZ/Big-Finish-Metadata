@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Five Twenty-Nine</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-425-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Diary of River Song - Series 2"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Salome Haertel (Rachel Burrows)</dc:creator>
+        <dc:creator opf:role="nrt">Ann Bell (Lisa Burrows)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Pugh (Emmett Burrows)</dc:creator>
+        <dc:creator opf:role="nrt">Aaron Neil (Steven Godbold)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Announcer)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>River has made a terrible discovery. 
+
+Billions of lives hang in the balance. But if she can save just a few, then it might just help her solve the conundrum of Earth's destruction. 
+
+But how can she win when survival becomes a race against time itself? A race against Five Twenty-Nine?</dc:description>
+    </metadata>
+</package>

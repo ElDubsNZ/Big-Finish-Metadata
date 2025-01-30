@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Starship of Theseus</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-195-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Time War - Volume 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Olivia Vinall (Sheena)</dc:creator>
+        <dc:creator opf:role="nrt">Rakhee Thakrar (Bliss)</dc:creator>
+        <dc:creator opf:role="nrt">Nimmy March (Rupa Maguire)</dc:creator>
+        <dc:creator opf:role="nrt">David Ganly (Quarren Maguire)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Murray (Captain Darvor)</dc:creator>
+        <dc:creator opf:role="nrt">Hywel Morgan (Koloth / Jefferson)</dc:creator>
+        <dc:creator opf:role="nrt">Laurence Kennedy (Purser Lunney / Aymor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and his companion, Sheena, land the TARDIS on the glamorous luxury space-liner Theseus just as it’s about to leave the Jupiter space-port. An opportunity for a holiday presents itself – and it’s one they’re very glad to take.
+
+But when a disturbance catches their attention, they realise sinister events are taking place on board. Passengers are vanishing on every trip. And unless they’re careful they may be next.
+
+Can the Doctor and Emma solve the mystery? Or is there something else they should be worrying about?</dc:description>
+    </metadata>
+</package>

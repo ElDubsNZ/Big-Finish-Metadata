@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Ghosts of Gralstead</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-363-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Philip Hinchcliffe Presents - Series 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Carolyn Seymour (Mordrega)</dc:creator>
+        <dc:creator opf:role="nrt">Gethin Anthony (Sir Edward Scrivener)</dc:creator>
+        <dc:creator opf:role="nrt">Martin Hutson (Professor Cedric Scrivener)</dc:creator>
+        <dc:creator opf:role="nrt">Emerald O'Hanrahan (Clementine Scrivener)</dc:creator>
+        <dc:creator opf:role="nrt">Alan Cox (Dr Gideon McDivett / Hill)</dc:creator>
+        <dc:creator opf:role="nrt">Ivanno Jeremiah (Abasi)</dc:creator>
+        <dc:creator opf:role="nrt">Andy Secombe (Jonas Bulmer)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Ned Davey)</dc:creator>
+        <dc:creator opf:role="nrt">Mandi Symonds (Mrs Targate)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew French (Obingo)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and Leela return to Victorian London, in the year 1860. 
+
+At St Clarence's Hospital, respected surgeon Sir Edward Scrivener requires the bodies of the dead... At Doctor McDivett's Exhibition of Living Wonders and Curiosities, miracles are afoot... And in Gralstead House, the ghost will walk again. Mordrega has come to Earth...</dc:description>
+    </metadata>
+</package>

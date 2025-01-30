@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Return of the Daleks</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2007-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-238-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Seventh Doctor Adventures - Specials"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth Thomas (Kalendorf)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Mowat (Susan Mendes)</dc:creator>
+        <dc:creator opf:role="nrt">Christine Brennan (Skerrill)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks / Ogrons / Talamar)</dc:creator>
+        <dc:creator opf:role="nrt">Hylton Collins (Mendac / Dorla / Zalerian / Ogrons)</dc:creator>
+        <dc:creator opf:role="nrt">Jack Galagher (Aytrax / Zalerian 2 / Ogrons)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>No one could ever know. We had to erase the past. Change everything. Start again.
+But even though it's been centuries now… in our hearts, none of us feels truly… safe. I think, even if our people were to survive until the end of time itself, we would still fear… the return of the Daleks.</dc:description>
+    </metadata>
+</package>

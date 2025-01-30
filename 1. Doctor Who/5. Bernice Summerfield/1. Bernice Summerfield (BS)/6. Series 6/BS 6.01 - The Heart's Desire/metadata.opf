@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Heart's Desire</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2005-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-130-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 6"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Bailey</dc:creator>
+        <dc:creator opf:role="aut">Neil Corry</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Beresford (Topsy Turvé)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Bugdale (Barron)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Westmaas (Hardy)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Christmas is a time for family, for feeling a bit sick after you've stuffed your face full of food and for forcing a smile at the musical socks that Braxiatel thought would amuse you. It's not a time for zipping halfway across the galaxy with the wafer-thin hope that you can save your home from being destroyed by a previously uncharted pulsar that's heading your way.
+
+And that's pulsing a message in Morse Code.
+
+Deciphering the message leads Bernice Summerfield to Marlowe's World, a place where death is irrelevant even though it lies at every corner, where the wildlife is just sooo cute - but lethal - and, most important of all, where you must be very, very careful what you wish for...</dc:description>
+    </metadata>
+</package>

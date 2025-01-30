@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Night Witches</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-952-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Early Adventures - Series 4"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Roland Moore</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Anneke Wills (Polly Wright / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Frazer Hines (Jamie McCrimmon / The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Kristina Buikaite (Lilya Grankin)</dc:creator>
+        <dc:creator opf:role="nrt">Elliot Chapman (Ben Jackson)</dc:creator>
+        <dc:creator opf:role="nrt">Anjella MacKintosh (Tatiana Kregki)</dc:creator>
+        <dc:creator opf:role="nrt">Wanda Opalinska (Nadia Vasney)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the TARDIS materialises north of Stalingrad in 1942, the Doctor, Jamie, Ben and Polly are captured by the Night Witches, an all-female unit of flyers tasked with disrupting the German forces nearing Moscow.
+
+They suspect that the travellers are spies - part of the Germans’ Operation Barbarossa. Despite their pleas they are locked up while it is decided what to do with them.
+
+Polly, however, is receiving strange looks from the pilots and clearly unnerving them. When the TARDIS crew discover why this is, it becomes clear that they’re about to get far more involved in the war than they could possibly have imagined.</dc:description>
+    </metadata>
+</package>

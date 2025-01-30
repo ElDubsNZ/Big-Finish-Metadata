@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Roof of the World</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2004-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-097-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="59"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Adrian Rigelsford</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Caroline Morris (Erimem)</dc:creator>
+        <dc:creator opf:role="nrt">Alan Cox (John Matthews)</dc:creator>
+        <dc:creator opf:role="nrt">William Franklyn (Pharoah Amenhotep II)</dc:creator>
+        <dc:creator opf:role="nrt">Sylvester Morand (General Alexander Bruce)</dc:creator>
+        <dc:creator opf:role="nrt">Adrian Rigelsford (Pyran)</dc:creator>
+        <dc:creator opf:role="nrt">Edward de Souza (Lord Mortimer Davey)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Tibet, 1917. It's a time of great exploration, with intrepid teams of adventurers heading blindly into uncharted territory, determined to beat inexplicable odds and overcome any challenge they encounter.
+
+But some things are not necessarily that easy to defeat.
+
+An ancient evil, perhaps older than time itself, is stirring deep within the heart of the Himalayas. It has always known it will return and finish off what it started so many centuries before.  But the time has to be right.
+
+As the TARDIS materialises, with the Doctor determined to take full advantage of an invite to a cricket match, the catalyst that the dark forces need unwittingly arrives.</dc:description>
+    </metadata>
+</package>

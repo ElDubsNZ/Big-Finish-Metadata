@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Man Who Wasn't There</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 6"/>
+        <meta name="calibre:series_index" content="11"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Ian Atkins</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">India Fisher (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Charlotte Pollard's innocent request to meet a historical hero seems the easiest thing for a friend with a time and space machine to make happen. But as Charley and the Doctor seek out the Victorian explorer, they uncover a sinister scheme to unravel Earth's future by affecting its past. But where in its history was the deed done? And is it already too late to put right?</dc:description>
+    </metadata>
+</package>

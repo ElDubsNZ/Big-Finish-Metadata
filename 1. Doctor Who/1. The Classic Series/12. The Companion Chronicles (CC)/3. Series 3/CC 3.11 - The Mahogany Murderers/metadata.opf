@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Mahogany Murderers</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-380-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 3"/>
+        <meta name="calibre:series_index" content="11"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andy Lane</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Trevor Baxter (Professor George Litefoot)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Ellie Higson)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Professor George Litefoot: the eminent pathologist who advises the police in some of their grisliest cases. Henry Gordon Jago: the master of ceremonies at the Alhambra Theatre. These are two very different men from contrasting strata in society who became firm friends and collaborators after their adventure with the Doctor and Leela battling the evil Weng-Chiang.
+
+Some years later, Jago and Litefoot have defeated dangerous denizens of the daemonic darkness together. They have stood side by side against threats to the British Empire. But when a body is found on the banks of the River Thames and Litefoot's post mortum reveals that it is actually a highly detailed wooden mannequin, their most dangerous adventure begins.
+
+Dr Tulp has masterminded a deadly scheme, Jack Yeovil and his murderous gang plan to live forever, and only Jago and Litefoot can stop them...</dc:description>
+    </metadata>
+</package>

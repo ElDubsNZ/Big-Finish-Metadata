@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Fearmonger</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2000-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-044-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Blum</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">John Ainsworth (Tannoy Voice)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Clarkson (Paul Tanner)</dc:creator>
+        <dc:creator opf:role="nrt">Jack Galagher (Alexsandr Karadjic)</dc:creator>
+        <dc:creator opf:role="nrt">Vince Henderson (Mick Thompson)</dc:creator>
+        <dc:creator opf:role="nrt">Mark McDonnell (Walter Jacobs)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline Pearce (Sherilyn Harper)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Walters (Roderick Allingham)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Wright (Stephen Keyser)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>One would-be assassin is in a mental ward. Another's on the run. Their intended victim is stirring up the mobs. Terrorists are planning a strike of their own. A talk-radio host is loving every minute of it. A Whitehall insider whispers about a mysterious UN operative, with a hidden agenda. Everyone's got someone they want to be afraid of. It'll only take a little push for the situation to erupt - and something is doing the pushing. But you can trust the Doctor to put things right. Can't you?</dc:description>
+    </metadata>
+</package>

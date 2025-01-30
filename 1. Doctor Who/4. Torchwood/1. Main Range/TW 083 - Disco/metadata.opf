@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Disco</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-038-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="83"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Gareth David-Lloyd</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Gareth David-Lloyd (Ianto Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Rhys ap Trefor (Disco)</dc:creator>
+        <dc:creator opf:role="nrt">Sara McGaughey (Dezzy)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth John Bale (Ginge)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It's 1987 and "Disco" Jones is still dancing. Life and soul, bab, life and soul. Wednesdays is darts at The Merry Miller, Thursdays - shove ha'penny at The Boilermakers, Fridays played by ear, and Saturdays it's the Disco at Cinderella's. 
+
+So who is Tom and why does he want to build a fence with him?</dc:description>
+    </metadata>
+</package>

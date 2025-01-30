@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Rhys & Ianto's Excellent Barbecue</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-112-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="44"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Gareth David-Lloyd (Ianto Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Kai Owen (Rhys Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Youssef Kerkour (Badger)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Rhys is planning a lads' night in. Barbie in the back yard, few tins, mates and bants. But the only person who turns up is Ianto – who hasn't been invited. Hell is other people, especially when they've brought board games. 
+
+Something goes wrong. The two of them could be trapped together for eternity at a barbecue where the sausages never cook, and worse, the brewskis remain forever out of reach.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Kaldor Nights</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-594-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Robots - Series 5"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Claire Rushbrook (Tula Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Jemma Churchill (Louisha Deltarto / Executive)</dc:creator>
+        <dc:creator opf:role="nrt">Yasmin Mwanza (Shinko Caprice)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Asbury (Hari Ventross)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (Vash Sorkov)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Kaldor Nights is the most popular reality tv series on the planet...and it now has two new people on set. As danger approaches outside, Liv and Tula are there to ensure the show must go on. Because it’s just tv isn’t it? There can’t be anything sinister going on...can there?</dc:description>
+    </metadata>
+</package>

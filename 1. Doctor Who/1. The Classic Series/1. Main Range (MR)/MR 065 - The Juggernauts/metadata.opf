@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Juggernauts</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2005-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-101-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="65"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Scott Alan Woodard</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Melanie Bush)</dc:creator>
+        <dc:creator opf:role="nrt">Terry Molloy (Davros)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks / Mechonoids)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Forbes (Kryson)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Grunert (Brauer)</dc:creator>
+        <dc:creator opf:role="nrt">Julia Houghton (Loewen)</dc:creator>
+        <dc:creator opf:role="nrt">Bindya Solanki (Sonali)</dc:creator>
+        <dc:creator opf:role="nrt">Klaus White (Geoff)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In a small mining colony on the dark and distant planet of Lethe, events are occurring the results of which could dramatically affect things on a universal scale. For within the dingy corridors of the artificial biosphere, the lone survivor of a devastating crash has expertly wormed his way into the lives of the colony's personnel. A scientist known as Davros.
+
+Separated from one another across space and time, the Doctor and Mel find themselves in very different predicaments: Mel has been employed on Lethe, while the Doctor has been imprisoned aboard an alien spacecraft. Both situations are inexorably linked, however, and at the apex of the two sits Davros and the terrifying possibility of a new threat even more powerful than the Daleks!
+
+Rescuing Mel and stopping Davros should be the Doctor's primary goals, but could it be that this time, Mel does not wish to be rescued? And might Davros actually be working on something for the benefit of the civilised galaxies?'</dc:description>
+    </metadata>
+</package>

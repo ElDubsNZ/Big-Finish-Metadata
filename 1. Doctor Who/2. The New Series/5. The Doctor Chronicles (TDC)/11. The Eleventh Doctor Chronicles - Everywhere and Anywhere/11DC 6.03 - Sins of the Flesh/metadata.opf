@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Sins of the Flesh</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-998-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eleventh Doctor Chronicles - Volume 6 - Everywhere and Anywhere"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alfie Shaw</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jacob Dudman (The Doctor / Harry)</dc:creator>
+        <dc:creator opf:role="nrt">Safiyya Ingar (Valarie Lockwood)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Cyberleader / The Cybermen)</dc:creator>
+        <dc:creator opf:role="nrt">Maddison Bulleyment (Carmen)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Connolly (McIntosh)</dc:creator>
+        <dc:creator opf:role="nrt">Alexandra D'Sa (Lilly)</dc:creator>
+        <dc:creator opf:role="nrt">Brad Shaw (Jason)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Is your child exhibiting sinful behaviour? Have they set themselves on the road of eternal damnation? Has everything you tried failed? Feel like you’re out of options?
+
+Don't worry. We can help. Bring them to the Rebirth Organisation today. Bring them to be converted.</dc:description>
+    </metadata>
+</package>

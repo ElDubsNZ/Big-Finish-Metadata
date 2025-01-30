@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>See No Evil</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-642-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - She Story Continues - Series 2 - God Among Us - Part 1"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Barrowman (Captain Jack Harkness)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy-Ann Oberman (Yvonne Hartman)</dc:creator>
+        <dc:creator opf:role="nrt">Alexandria Riley (Ng)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Clayton (Mr Colchester)</dc:creator>
+        <dc:creator opf:role="nrt">Samantha Béart (Orr)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Price (Andy Davidson)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline King[1] (God)</dc:creator>
+        <dc:creator opf:role="nrt">Ramon Tikaram (Colin Colchester-Price)</dc:creator>
+        <dc:creator opf:role="nrt">Ri Richards (Shopper)</dc:creator>
+        <dc:creator opf:role="nrt">Melanie Stevens[2] (Policewoman)</dc:creator>
+        <dc:creator opf:role="nrt">Adam Turns[3] (Policeman)</dc:creator>
+        <dc:creator opf:role="nrt">Jonnie Smith (Tim)</dc:creator>
+        <dc:creator opf:role="nrt">Connor Calland (David)</dc:creator>
+        <dc:creator opf:role="nrt">Justin Davies (Scott)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Cardiff goes blind. 
+
+There's a hunter out there in the darkness. With no escape, and the screaming getting louder, Jack Harkness and Yvonne Hartman each set out to save the city in their own ways.</dc:description>
+    </metadata>
+</package>

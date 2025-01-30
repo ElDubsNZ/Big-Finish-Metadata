@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>No More Lies</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2007-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-260-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Series 1"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Sutton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sheridan Smith (Lucie Miller)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Tennis Player)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Chadbon (Gordon Davidson)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Havers (Nick)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Hudson (Tar-Modowk Leader / Tar-Modowk)</dc:creator>
+        <dc:creator opf:role="nrt">Julia McKenzie (Rachel)</dc:creator>
+        <dc:creator opf:role="nrt">Katarina Olsson (Tennis Player / The Headhunter)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>What links a disintegrating spaceship to a posh garden party, where a wealthy couple are celebrating their love for each other in style? Gatecrashers the Doctor and Lucie think they know the answer. But they're not the only uninvited guests - ferocious alien warriors riding pterodactyl-like Vortisaurs are about to make their entrance!
+
+Featuring the song Bucimeana, sung by Julia McKenzie with music by Tim Sutton and lyrics by Paul Sutton from a traditional Hungarian poem.</dc:description>
+    </metadata>
+</package>

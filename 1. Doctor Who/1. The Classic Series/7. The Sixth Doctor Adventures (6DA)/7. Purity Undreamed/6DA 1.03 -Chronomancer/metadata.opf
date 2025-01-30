@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Chronomancer</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-744-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Sixth Doctor Adventures - Purity Undreamed"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Valentine</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Mel Bush)</dc:creator>
+        <dc:creator opf:role="nrt">Ruth Madeley (Hebe Harrison)</dc:creator>
+        <dc:creator opf:role="nrt">Imogen Stubbs (Patricia McBride / Time Suit)</dc:creator>
+        <dc:creator opf:role="nrt">Cherylee Houston (Elise)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Kloska (Tannus Vallon / Vallon's Suit)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Brenher (Khavûl / Khavûl's Suit)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Hadoke (Ron / Stanley)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor, Mel and Hebe take Patricia to see 26th century Sheffield, but their trip is cut unexpectedly short. Caught in the crossfire between time-criminal, Khavûl, and dashing ‘chronomancer’, Tannus Vallon, the TARDIS crash-lands back in the present.
+
+With a dimensionally transcendental artefact lost somewhere in the city, the Doctor and his friends must find it before Khavûl can... but with resentments and prejudices finally unmasked, is an even bigger threat about to engulf the world?</dc:description>
+    </metadata>
+</package>

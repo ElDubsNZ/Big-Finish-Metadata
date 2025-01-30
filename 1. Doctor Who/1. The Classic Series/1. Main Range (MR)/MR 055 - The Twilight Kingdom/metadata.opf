@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Twilight Kingdom</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2004-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-037-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="55"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Will Shindler</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Westmaas (C'rizz)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Lieutenant Fraxin)</dc:creator>
+        <dc:creator opf:role="nrt">Anna Carus-Wilson (Commander Vayla)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Fewell (Lieutenant Deral)</dc:creator>
+        <dc:creator opf:role="nrt">Dale Ibbotson (Sub-Commander Quillan)</dc:creator>
+        <dc:creator opf:role="nrt">Jeremy James (Sergeant Bryn)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Keating (Major Koth)</dc:creator>
+        <dc:creator opf:role="nrt">Vivien Parry (Captain Tysus)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Perring (The Kro'ka)</dc:creator>
+        <dc:creator opf:role="nrt">Alan Rothwell (Byzar Janto)</dc:creator>
+        <dc:creator opf:role="nrt">Gary Russell (Corporal Orvik)</dc:creator>
+        <dc:creator opf:role="nrt">Alison Sterling (Tarrith Koth)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The blood of innocents has been spilt, a terrible sequence of events has been set in motion. The forces of darkness are on the move.
+
+Deep underground, an army of light prepares itself for the oncoming war.
+
+The Doctor's used to winning. Stumbling in, reading the face of the enemy, and then beating the odds but what if this time he's got it wrong? Charley and C'rizz think he has.
+
+Stripped of all that is familiar, just who is the Doctor? Major Koth thinks he knows.
+
+Lost among the dark caverns of an unknown world, has the Doctor finally met his match?</dc:description>
+    </metadata>
+</package>

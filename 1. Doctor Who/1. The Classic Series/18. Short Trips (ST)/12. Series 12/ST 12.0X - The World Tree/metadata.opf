@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The World Tree</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 12"/>
+        <meta name="calibre:series_index" content="0"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nick Slawicz</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Nora Wicker is forgetful. Not big things - not yet, anyway. She remembers her address and where the shops are. She remembers people when they come to visit, no matter how rare that is.
+
+But she doesn’t remember where the bush with the red leaves in her garden came from - and she definitely doesn’t remember asking for a house call from the Eleventh Doctor.</dc:description>
+    </metadata>
+</package>

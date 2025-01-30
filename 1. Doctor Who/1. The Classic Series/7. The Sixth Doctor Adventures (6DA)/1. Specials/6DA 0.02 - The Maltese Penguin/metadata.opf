@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Maltese Penguin</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2002-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-490-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Sixth Doctor Adventures - Specials"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Shearman</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Jezek (Frobisher)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Goddard (Alicia Mulholland)</dc:creator>
+        <dc:creator opf:role="nrt">Alistair Lock (Chandler)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Longworth (Josiah W Dogbolter)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It was just another quiet day on the mean streets for Frobisher, private eye. But then a dame walks into his office and into his life. A dame who is drop dead gorgeous and drop dead deadly, offering him a case he just can't refuse.
+
+Well, he could refuse it. If he really wanted to. But he has to pay the rent.
+
+When their paths cross, Frobisher finds himself involved in a web of mayhem and intrigue. A web of gangland killings, corrupt cops, sentient bloodstains, and very rude hotel receptionists. A web of murder and deceit, treachery and fisticuffs.
+
+That sort of web. You know. The sticky kind.</dc:description>
+    </metadata>
+</package>

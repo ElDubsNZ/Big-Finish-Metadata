@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Operation Werewolf</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-222-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 8"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Kitts</dc:creator>
+        <dc:creator opf:role="aut">Douglas Camfield</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Michael Troughton (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Frazer Hines (Jamie McCrimmon)</dc:creator>
+        <dc:creator opf:role="nrt">Wendy Padbury (Zoe Heriot)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Blore (SS Gruppenführer Ulrich Schneider)</dc:creator>
+        <dc:creator opf:role="nrt">Al Coppola (Pierre DuBois)</dc:creator>
+        <dc:creator opf:role="nrt">Stéphane Cornicard (Jules Perrier)</dc:creator>
+        <dc:creator opf:role="nrt">Raffaello Degruttola (Philippe Foiret)</dc:creator>
+        <dc:creator opf:role="nrt">Dimitri Gripari (German Soldier 2)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Higgs (Sir Aubrey Fanshaw-Smith)</dc:creator>
+        <dc:creator opf:role="nrt">Jordan Loughran (Françoise Perrier)</dc:creator>
+        <dc:creator opf:role="nrt">David O'Mahony (Doctor Fergus McCrimmon)</dc:creator>
+        <dc:creator opf:role="nrt">Dale Rapley (Kommandant Kurt Müller / Sheldon Murchison)</dc:creator>
+        <dc:creator opf:role="nrt">Leonie Schliesing (Hauptsturmfüher Leni Bruckner)</dc:creator>
+        <dc:creator opf:role="nrt">Branko Tomovic (Professor Hans Richter)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS has brought the Doctor, Jamie and Zoe to Normandy in France, not in 1066 as intended, but in 1944, three days before the Allies are due to launch the D-Day landings.
+
+Joining forces with French partisans, they learn that the Germans have been conducting secret experiments at a nearby chateau. These experiments form part of a plan that German high command believe will enable them to win the Second World War. The name of that plan? Operation Werewolf.</dc:description>
+    </metadata>
+</package>

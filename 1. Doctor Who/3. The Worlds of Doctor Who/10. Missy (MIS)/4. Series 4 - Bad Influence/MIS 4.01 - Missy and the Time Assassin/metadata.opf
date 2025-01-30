@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Missy and the Time Assassin</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-211-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Missy - Series 4 - Bad Influence"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Michelle Gomez (Missy)</dc:creator>
+        <dc:creator opf:role="nrt">Paterson Joseph (The Time Assassin James Blakelock)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Missy gets to meet a hero. But James Blakelock, Time Assassin doesn’t quite live up to the legend – although he is very easy on the eye. 
+
+Although she has places to be and species to annihilate, Missy can’t help herself, so she tags along on James’ next mission. After all, a little bit of assassination never hurt anyone…</dc:description>
+    </metadata>
+</package>

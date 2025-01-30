@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Robophobia</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-577-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="149"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka / Elicien)</dc:creator>
+        <dc:creator opf:role="nrt">Matt Addis (Tal Karus / SV10 / Robot)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Robot)</dc:creator>
+        <dc:creator opf:role="nrt">John Dorney (Leebar / Computer Voice / Robot)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Hadoke (Farel / Robots)</dc:creator>
+        <dc:creator opf:role="nrt">William Hazell (Bas Pellico)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Pegg (Selerat)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Cravnet / Robot)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Nothing has ever been officially confirmed, but there is a rumour that on a Sandminer, bound for Kaldor City, the robots somehow turned homicidal and nearly wiped out the entire crew. Can that really be true?
+
+ The robot transport ship Lorelei has a cargo of over 157,000 robots on board, all deactivated. So even if there were any truth in the rumour of that massacre, there'd still be no danger. Surely, there wouldn't...
+
+ But then, the Doctor witnesses a murder.</dc:description>
+    </metadata>
+</package>

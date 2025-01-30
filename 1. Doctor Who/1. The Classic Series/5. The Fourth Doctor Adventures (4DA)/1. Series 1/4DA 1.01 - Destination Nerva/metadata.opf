@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Destination Nerva</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-607-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Raquel Cassidy (Dr. Alison Foster)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Bentinck (Giles Moreau / Jenkins / Construction Worker)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Graham (Henry McMullan / Pilot / Construction Worker)</dc:creator>
+        <dc:creator opf:role="nrt">Tilly Gaunt (Laura Craske / Construction Worker)</dc:creator>
+        <dc:creator opf:role="nrt">Kim Wall (Jim Hooley / Drelleran 1 / Security Guard / Construction Worker)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Treloar (Lord Jack Corrigan / Drudgers / Drelleran 2 / Construction Worker)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>After saying their goodbyes to Professor Litefoot and Henry Gordon Jago, the Doctor and Leela respond to an alien distress call beamed direct from Victorian England. It is the beginning of a journey that will take them to the newly built Space Dock Nerva… where a long-overdue homecoming is expected.
+
+A homecoming that could bring about the end of the human race.</dc:description>
+    </metadata>
+</package>

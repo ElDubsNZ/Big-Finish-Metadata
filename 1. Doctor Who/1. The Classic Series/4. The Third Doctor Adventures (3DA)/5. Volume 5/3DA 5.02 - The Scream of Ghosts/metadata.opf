@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Scream of Ghosts</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-795-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Third Doctor Adventures - Volume 5"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tim Treloar (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Katy Manning (Jo Grant)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (Brigadier Lethbridge-Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">John Levene (Sergeant Benton)</dc:creator>
+        <dc:creator opf:role="nrt">Dominic Wood (Warren)</dc:creator>
+        <dc:creator opf:role="nrt">Rosalyn Landor (Caldicott)</dc:creator>
+        <dc:creator opf:role="nrt">David Dobson (Armitage)</dc:creator>
+        <dc:creator opf:role="nrt">Guy Adams (The Vardans / Bob Ellis)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the Brigadier and Jo are called in to look into a breakthrough in the field of portable communication, the Doctor has to stay behind with communications problems of his own – a strange signal coming through the TARDIS console that’s burned out its circuits.
+
+When Benton approaches the Doctor with an odd story about an old friend, the Time Lord realises his troubles and the Brigadier’s investigations may be connected, and hot-foots it in pursuit.
+
+Soon they discover that terrifying sounds are walking in the woods of the English countryside... but what lurks behind those sounds may be even more dangerous...</dc:description>
+    </metadata>
+</package>

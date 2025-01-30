@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Buying Time</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-356-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Tenth Doctor Adventures - Dalek Universe 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Tennant (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Anya Kingdom)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Sims (Mark Seven)</dc:creator>
+        <dc:creator opf:role="nrt">Juliet Aubrey (Esther Malkin)</dc:creator>
+        <dc:creator opf:role="nrt">Gemma Whelan (The Newcomer)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Jarman (Vesht / The Pastor)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Gatiss (George Sheldrake)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The far future. Anya Kingdom of the Space Security Service is on a mission investigating an SSS ship crashing on a distant jungle planet. Unknown to her superiors, she’s searching for something very specific... but what she finds is completely unexpected. Her old friend, the Doctor. With a completely different face and no idea what he’s doing there.
+
+The Time Lord soon finds himself drawn into a conspiracy involving voracious predators, time travel and a malevolent businessman.
+
+History itself is breaking down. If he makes a mistake, it could mean the end of everything...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Lost Museum</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2005-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-133-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 6"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Claire Carroll (Enil)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Chance (Markwood)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Fewell (Jason Kane)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>January 2606. TribCity is at war with itself. The old dictatorship has been crushed, but the population have turned on each other. The army cannot stop the fighting, nor the ever-mounting casualties. They can merely clean up the mess.
+
+In the midst of all this, Professor Bernice Summerfield and her ex-husband Jason Kane try to assess the damage done to the TribMuseum. The building has been used as a bulwark, and one of the most important collections in the galaxy lies strewn about the floor. Prized relics are missing, and even the kids on the street seem to know more about who took them than the museum's director.
+
+Benny and Jason struggle to find answers amid the farrago, but all they can unearth are more questions.
+
+In a city where no one speaks the same language, in a city with no shared identity but the horrors of its recent past, in a city where nothing can ever be simple, everyone has something to hide.</dc:description>
+    </metadata>
+</package>

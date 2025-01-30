@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Key 2 Time - The Chaos Pool</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-365-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="119"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Peter Anghelides</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Ciara Janson (Amy / The Grace)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Doddington (Zara / The Grace)</dc:creator>
+        <dc:creator opf:role="nrt">Will Barton (Maddenjot)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (The APs / The Grace)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Grace)</dc:creator>
+        <dc:creator opf:role="nrt">Kate Hamer (The Voice)</dc:creator>
+        <dc:creator opf:role="nrt">Jeremy James (The Grace)</dc:creator>
+        <dc:creator opf:role="nrt">Ben Jones (Captain Pargrave)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Longworth (Commander Hectocot)</dc:creator>
+        <dc:creator opf:role="nrt">David Troughton (The Black Guardian)</dc:creator>
+        <dc:creator opf:role="nrt">Lalla Ward (Madam President)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The ageless leader of a dying race believes that salvation lies within The Chaos Pool, a place that even the Guardians of Time have been unable to locate. Meanwhile Commander Hectocot and his Teuthoidian followers move in for the kill - again and again and again... 
+
+Two different races from opposite ends of Time - so how can they co-exist?
+
+In their search for the final segment of the Key to Time, the Doctor and Amy become caught in the crossfire. As the end of everything approaches, old friends and enemies reveal themselves and the final battle between the forces of Chaos and Order ignites...</dc:description>
+    </metadata>
+</package>

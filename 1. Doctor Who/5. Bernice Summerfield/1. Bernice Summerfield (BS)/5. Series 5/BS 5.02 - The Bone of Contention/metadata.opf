@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Bone of Contention</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2004-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-073-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 5"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon A Forward</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Robin Bowerman (Mordecan)</dc:creator>
+        <dc:creator opf:role="nrt">Tracey Childs (Director Tseshra)</dc:creator>
+        <dc:creator opf:role="nrt">Steffan Rhodri (Commander Korshal)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It's good to get away from the joys of motherhood once in a while. So when the Perloran government call upon Bernice Summerfield to recover a state treasure, she readily obliges.
+
+Trouble is, the previous Perloran government traded the artefact away to the Galyari, and to the Galyari, a deal is a deal. So when Benny arrives on the Clutch to ask if the Perlorans can have their Bone back, she soon realises she has her work cut out for her.
+
+Work that's complicated significantly by a frightened young Galyari who latches onto her, as if to prove that when it comes to the joys of motherhood, there is no escape.
+
+And the growing pains of this particular youngster are set to prove very painful indeed.</dc:description>
+    </metadata>
+</package>

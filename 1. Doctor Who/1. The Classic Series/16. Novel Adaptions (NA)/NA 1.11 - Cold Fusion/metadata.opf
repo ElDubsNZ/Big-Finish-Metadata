@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Cold Fusion</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-707-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Novel Adaptations"/>
+        <meta name="calibre:series_index" content="11"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lance Parkin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Waterhouse (Adric)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan)</dc:creator>
+        <dc:creator opf:role="nrt">Yasmin Bannerman (Roz Forrester)</dc:creator>
+        <dc:creator opf:role="nrt">Travis Oliver (Chris Cwej)</dc:creator>
+        <dc:creator opf:role="nrt">Christine Kavanagh (Patience)</dc:creator>
+        <dc:creator opf:role="nrt">Jeremy Hitchen (Medford / Quint / Quant / Ziyou Wanle / Ferutu)</dc:creator>
+        <dc:creator opf:role="nrt">Sharon Maughan (Whitfield)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Caulfield (Adam / Falconstock / Sam / Concierge / Robot Voices)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A newly regenerated Fifth Doctor arrives on an occupied ice planet – where the Seventh Doctor is investigating dangerous energy experiments conducted by the Earth Empire. But events spin out of control when a refugee from the distant past arrives - Patience, the Doctor's Wife!</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Asking for a Friend</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-250-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The New Adventures of Bernice Summerfield - Volume 4 - Ruler of the Universe"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">David Warner (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Annette Badland (Guilana)</dc:creator>
+        <dc:creator opf:role="nrt">Hattie Hayridge (Ebbis)</dc:creator>
+        <dc:creator opf:role="nrt">Wilf Scolding (Radio)</dc:creator>
+        <dc:creator opf:role="nrt">Guy Adams (Host)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Vast wars are raging across the stars, planets are dying, and the Doctor is sat on a psychiatrist's couch. What's it like to be the Doctor's therapist?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Consequences</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-104-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Graceless - Series 3"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Ciara Janson (Abby)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Doddington (Zara)</dc:creator>
+        <dc:creator opf:role="nrt">Fraser James (Marek)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Cochrane (Brondle)</dc:creator>
+        <dc:creator opf:role="nrt">Joanna Van Gyseghem (Wing)</dc:creator>
+        <dc:creator opf:role="nrt">Geraldine James (Chi)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (The Archive/Receptionist)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Once upon a time there were two sisters. 
+
+They were created by beings called the Grace. Both sisters had magic powers. When they were together, they could do anything. Go anywhere and when. Reach into people's minds, even influence their thoughts. 
+
+They tried to be good. They tried to do what was right. But even when they tried their hardest to help people there were unintended consequences. 
+
+They still did terrible things. So many people still died. The sisters lost people they loved. There was a man... They thought they'd lost him forever. 
+
+There are lots of stories about the two sisters. But that story – their last story, about the day they chose to die... Those who knew what really happened are all dead. 
+
+Except for one. A man. Living by the sea. And he promised never to tell...</dc:description>
+    </metadata>
+</package>

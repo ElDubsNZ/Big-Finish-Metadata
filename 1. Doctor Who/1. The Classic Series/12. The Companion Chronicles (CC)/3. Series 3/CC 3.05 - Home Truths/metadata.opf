@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Home Truths</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-354-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 3"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jean Marsh (Sara Kingdom / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Niall MacGregor (Robert)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A new adventure with the First Doctor as told by his companion, Sara Kingdom.
+
+There’s a house across the waters at Ely where an old woman tells a strange story.
+
+About a kind of night constable called Sara Kingdom. And her friends, the Doctor and Steven. About a journey they made to a young couple’s home, and the nightmarish things that were found there. About the follies of youth and selfishness. And the terrible things even the most well-meaning of us can inflict on each other.
+
+Hear the old woman's story. Then decide her fate.</dc:description>
+    </metadata>
+</package>

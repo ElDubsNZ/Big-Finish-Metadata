@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Sitter</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-983-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Master - Series 11 - Future Phantoms"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Derek Jacobi (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Maya Saroya (Dr Marina Khatri)</dc:creator>
+        <dc:creator opf:role="nrt">Annette Badland (Dorothy Stubbs)</dc:creator>
+        <dc:creator opf:role="nrt">Lorne MacFadyen (Alan Stubbs)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Elstob (Barry Morgan)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Blore (Dr Matthew Grange)</dc:creator>
+        <dc:creator opf:role="nrt">George Naylor (Reporter)</dc:creator>
+        <dc:creator opf:role="nrt">Omar Baroud, Lewis Grimshaw, Abigail Matthews (Students)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Dorothy Stubbs is plagued by an entity: a man who comes to her house in the dead of night and sits downstairs. Is it just a figment of her imagination? Or is the Sitter of Waterfront Close a thing to be feared? </dc:description>
+    </metadata>
+</package>

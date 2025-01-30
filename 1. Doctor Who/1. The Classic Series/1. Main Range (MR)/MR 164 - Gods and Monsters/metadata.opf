@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Gods and Monsters</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-945-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="164"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mike Maddox</dc:creator>
+        <dc:creator opf:role="aut">Alan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Olivier (Hex)</dc:creator>
+        <dc:creator opf:role="nrt">Elizabeth Bennett (Peggy)</dc:creator>
+        <dc:creator opf:role="nrt">Gus Brown (Weyland)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie O'Neill (Captain Lysandra Aristedes)</dc:creator>
+        <dc:creator opf:role="nrt">Amy Pemberton (Private Sally Morgan)</dc:creator>
+        <dc:creator opf:role="nrt">Blake Ritson (Hurmzid)</dc:creator>
+        <dc:creator opf:role="nrt">John Standing (Fenric)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Treloar (The Ancient One)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS travellers arrive in a bizarre landscape seemingly immune to the physical laws governing the rest of the universe. Ace, Hex, Sally and Lysandra battle to rescue the Doctor from the trap he's walked into… soon realising that the odds are stacked against them.
+
+Because the Doctor is playing an old adversary again: Fenric, shatterer of worlds. But the gods and monsters who inhabit this strange realm loaded the dice against them long ago, in the dim and distant past – and defeat's their only option.</dc:description>
+    </metadata>
+</package>

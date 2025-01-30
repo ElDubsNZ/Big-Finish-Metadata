@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Zone 10</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-209-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="8"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Llewellyn</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Naoko Mori (Toshiko Sato)</dc:creator>
+        <dc:creator opf:role="nrt">Krystian Godlewski (Maxim Ivanov)</dc:creator>
+        <dc:creator opf:role="nrt">Ella Garland (Anna Volokova)</dc:creator>
+        <dc:creator opf:role="nrt">Geoffrey Breton (FSB Agent)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>They call it "Pulse" — a radio signal which has puzzled the world for 40 years. But now Toshiko Sato has solved it. 
+
+She's uncovered a message which leads her to Russia, and into an uneasy alliance with the KVI — the Russian equivalent of Torchwood. Toshiko needs to get into Zone 10 - a frozen wasteland which officially doesn't exist. 
+
+An intergalactic war was once fought in Zone 10. And it turns out there's a survivor.</dc:description>
+    </metadata>
+</package>

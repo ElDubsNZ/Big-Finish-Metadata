@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Emancipation</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-958-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 5"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Peaty</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (Supreme Leader Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Outcast Leader Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (High Chancellor Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Ollerenshaw (Councillor Allora)</dc:creator>
+        <dc:creator opf:role="nrt">Marcus Harris (Councillor Rahvon)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Sheward (Castellan Slyne)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Arthur (Guard Commander Lukas)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Envoy Valyes)</dc:creator>
+        <dc:creator opf:role="nrt">Jack Baggs (Jamalan)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Handcock (Guard Jevon)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Fisher-Becker (Science Minister)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Perring (Commentator Matthias)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Supreme Leader of Gallifrey - the Lady President Romana - is making a series of decisions that are costing her allegiances within the Inner Council.
+
+Lord High Chancellor Narvin is trying to protect the truth behind their presence there.
+
+Emissary Leela is trying to secure basic rights for her allies, the Outsiders, now freed from generations of bondage to their masters, the Regenerators of Gallifrey.
+
+But their enemies plan to expose the truth and let society rise or fall by the consequences of their political ambitions...</dc:description>
+    </metadata>
+</package>

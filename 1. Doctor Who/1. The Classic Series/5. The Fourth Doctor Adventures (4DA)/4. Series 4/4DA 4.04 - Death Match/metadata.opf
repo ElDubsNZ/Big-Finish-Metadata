@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Death Match</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-348-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 4"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">Geoffrey Beevers (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Susan Brown (Kastrella)</dc:creator>
+        <dc:creator opf:role="nrt">Damian Lynch (Marshall)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Porter (The Red Knight)</dc:creator>
+        <dc:creator opf:role="nrt">Andy Secombe (Vargrave)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Death-Match is under new management. The Hunt Master's Champion has been installed. All regular players are welcomed back to the Pursuit Lounge to observe the contest in luxurious surroundings. Privacy is assured. For this reason we ask our elite guests to abide by the strict security protocols. Please note, the house has no limits.
+
+In the Gallery, your combatants can be observed on the orbiting Quarry Station. A purpose-built environment filled with deadly traps and hidden dangers. Prizes are offered for every kill, with bonuses for rogue elements. Only an elite hunter can survive the End-Game. Do you have a worthy champion? Kill or be killed: the only rule of the Death-Match...</dc:description>
+    </metadata>
+</package>

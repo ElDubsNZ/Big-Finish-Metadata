@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Manhunt</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-981-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Master - Series 10 - Rogue Encounters"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Derek Jacobi (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Loreece Harrison (Alison)</dc:creator>
+        <dc:creator opf:role="nrt">Shai Matheson (Wilson)</dc:creator>
+        <dc:creator opf:role="nrt">Agnes Nyama (Mercer)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Haran (Andy)</dc:creator>
+        <dc:creator opf:role="nrt">Nisha Nayar (Waitress)</dc:creator>
+        <dc:creator opf:role="nrt">Damian Lynch (Hospital Tannoy)</dc:creator>
+        <dc:creator opf:role="nrt">Ayesha Antoine and Luke Nunn (Cabin Victims)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>After her boyfriend disappears on an American road trip, Alison Walker instantly becomes the prime suspect. But are the abductors from further afield than Earth?</dc:description>
+    </metadata>
+</package>

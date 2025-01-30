@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Circuit Breaker</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-042-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Robots - Series 3"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Pamela Salem (Lish Toos)</dc:creator>
+        <dc:creator opf:role="nrt">David Collings (Ander Poul)</dc:creator>
+        <dc:creator opf:role="nrt">Carolyn Seymour (Ullmann)</dc:creator>
+        <dc:creator opf:role="nrt">Roger May (Rann / Damaged Voc)</dc:creator>
+        <dc:creator opf:role="nrt">Susan Penhaligon (Dorka / Mummy Voc)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (Bendis)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Poul has returned to Kaldor City...and Toos is doing her best to help his recovery. After troubling events in a local hotel, he finds himself with another crime to investigate. But are there some mysteries that shouldn’t be solved?</dc:description>
+    </metadata>
+</package>

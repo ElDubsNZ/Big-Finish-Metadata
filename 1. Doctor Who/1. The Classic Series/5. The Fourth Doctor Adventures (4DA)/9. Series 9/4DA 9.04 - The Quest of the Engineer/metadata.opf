@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Quest of the Engineer</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 9"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andrew Smith</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Waterhouse (Adric)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Blore (Jonas)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Hansell (The Enforcers / Captain of the Guard)</dc:creator>
+        <dc:creator opf:role="nrt">George Layton (Regis Tel)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Woodeson (The Engineer)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Woodward (Anla Jessik)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS crew’s attempts to escape E-Space lead them to a strange planet with a surface that shifts and changes constantly.
+
+Losing their ship down a fissure, they venture into the depths of this world and encounter the man who rules this place – a man known only as ‘the Engineer’. He tells them that he’s on a quest for illumination, and to find a rumoured portal in space that may lead to another reality, with knowledge unknown in this universe.
+
+It seems he may be on the same quest as the Doctor and his friends. But can he be trusted? And who is he really?</dc:description>
+    </metadata>
+</package>

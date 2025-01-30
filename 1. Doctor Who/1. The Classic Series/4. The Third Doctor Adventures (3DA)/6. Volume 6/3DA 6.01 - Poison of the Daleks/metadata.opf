@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Poison of the Daleks</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-160-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Third Doctor Adventures - Volume 6"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tim Treloar (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Katy Manning (Jo Grant)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (Brigadier Lethbridge-Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">John Levene (Sergeant Benton)</dc:creator>
+        <dc:creator opf:role="nrt">Elli Garnett (Davis-Hunt)</dc:creator>
+        <dc:creator opf:role="nrt">Clive Hayward (Brock / Roboman / Frasi)</dc:creator>
+        <dc:creator opf:role="nrt">Abigail McKern (Skwoj / Ari)</dc:creator>
+        <dc:creator opf:role="nrt">Alexandria Riley (Red)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>UNIT has been seconded to handle security at Breathe Industries’ revolutionary new air filtration plant. The Doctor is initially dismissive… but when a man seems to appear out of thin air and die, his curiosity is piqued.
+
+The Doctor soon discovers that the plant is connected to another time, another place. Stranded with Jo, the Brigadier and Benton on a distant planet, the Doctor discovers the terrible truth behind Breathe Industries' new technology. His oldest enemies, the Daleks.
+
+Can even the Doctor and UNIT manage to save two worlds at the same time?</dc:description>
+    </metadata>
+</package>

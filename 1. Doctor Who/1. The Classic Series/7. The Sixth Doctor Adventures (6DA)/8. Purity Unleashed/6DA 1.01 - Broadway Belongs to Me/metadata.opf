@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Broadway Belongs to Me</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-888-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Sixth Doctor Adventures - Purity Unleashed"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matthew Sweet</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Mel)</dc:creator>
+        <dc:creator opf:role="nrt">Rosalie Craig (Frances Drouet)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie-Louise Dann (Lydia Putti)</dc:creator>
+        <dc:creator opf:role="nrt">Graham Vick (Julian Arnstein)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Pegg (Karel Lombard / Chorus Boy / Stage Door Man)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Stafford (Billy / Bystander / Customer / Tannoy)</dc:creator>
+        <dc:creator opf:role="nrt">Helen Goldwyn (Ticket Lady)</dc:creator>
+        <dc:creator opf:role="nrt">Martin O'Neill (Arthur Lee)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and Mel begin their search for Hebe in 1930s New York, where history is taking a dark turn all of its own. On Broadway, they discover a genuine aberration of the timestreams: Behold America! - a hot shoe show set in a future Fascist United States. Starring Melanie Bush. Opening tonight...</dc:description>
+    </metadata>
+</package>

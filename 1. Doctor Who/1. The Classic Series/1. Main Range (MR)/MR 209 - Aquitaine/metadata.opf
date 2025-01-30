@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Aquitaine</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-879-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="209"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Barnard</dc:creator>
+        <dc:creator opf:role="aut">Paul Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Cottle (Hargreaves)</dc:creator>
+        <dc:creator opf:role="nrt">Gerald Kyd (Lt Maurizio Savinio)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Myers (Dr Sergei Akunin)</dc:creator>
+        <dc:creator opf:role="nrt">Danusia Samal (Lt Freya Jennings)</dc:creator>
+        <dc:creator opf:role="nrt">Nina Sosanya (Captain Anna Maynard)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Today should be much like every other day for Hargreaves, the computer consciousness that co-ordinates daily life aboard the spaceship Aquitaine, stationed on the outer fringes of a black hole. Water the plants, run the diagnostics, cook the Captain’s breakfast; then tidy the plates away, rotate the ship, clean the windows of the observation deck. When at last the day’s work is done, Hargreaves will dim the lights in the sleeping quarters. But no-one will sleep aboard the Aquitaine tonight. Because the Aquitaine’s crew is missing.
+
+But today will be different. Today, a space/time ship called the TARDIS will materialise in the botanical section, bringing the Doctor, Nyssa and Tegan aboard the Aquitaine. Together, they’ll seek to discover the truth of what happened to Hargreaves’ crew…
+
+… if only the ghosts will let them.</dc:description>
+    </metadata>
+</package>

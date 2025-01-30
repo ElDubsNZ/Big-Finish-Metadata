@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Well-Mannered War</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-443-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Novel Adaptations"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Gareth Roberts</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Harmock)</dc:creator>
+        <dc:creator opf:role="nrt">Russell Bentley (Seskwa)</dc:creator>
+        <dc:creator opf:role="nrt">Gunnar Cauthery (Viddeas)</dc:creator>
+        <dc:creator opf:role="nrt">Jessica Claire (Liris / Newsreader)</dc:creator>
+        <dc:creator opf:role="nrt">Hamish Clark (Fritchoff)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Glover (Jafrid)</dc:creator>
+        <dc:creator opf:role="nrt">Tim McInnerny (Admiral Dolne)</dc:creator>
+        <dc:creator opf:role="nrt">Elizabeth Rider (Galatea)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Cadinot / Tea Lady)</dc:creator>
+        <dc:creator opf:role="nrt">David Troughton (The Black Guardian)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Troughton (Menlove Stokes)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The edges of space, the far distant future, an era even the Time Lords are not supposed to visit.
+
+Laid claim to by disputing factions of humans and Chelonians, the planet Barclow has become the catalyst for an unusual war. In two hundred years of hostilities not a shot has been fired, and the opposing combatants are the best of friends.
+
+But when the Doctor, Romana and K9 arrive, they discover the peace is not going to last. Something dangerous is happening behind the scenes. An election looms. Bodies are piling up. Tensions are growing. Someone, somewhere is trying to make this well-mannered war very angry indeed.
+
+Only the time-travellers can save the day. But that might be their biggest mistake.</dc:description>
+    </metadata>
+</package>

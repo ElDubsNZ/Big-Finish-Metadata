@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Emperor of Eternity</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-464-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 4"/>
+        <meta name="calibre:series_index" content="8"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nigel Robinson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Frazer Hines (Jamie McCrimmon)</dc:creator>
+        <dc:creator opf:role="nrt">Deborah Watling (Victoria Waterfield)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>After colliding with a meteor in space, the TARDIS is forced to make an emergency landing on Earth. The place is China around 200 BC, during the reign of the first emperor, Qin.
+
+When the Doctor is taken away to the imperial city, it’s up to Victoria and Jamie to save him. Their friend is now a prisoner of Qin, who intends to extract the secret of eternal life, so that he may rule the world forever...</dc:description>
+    </metadata>
+</package>

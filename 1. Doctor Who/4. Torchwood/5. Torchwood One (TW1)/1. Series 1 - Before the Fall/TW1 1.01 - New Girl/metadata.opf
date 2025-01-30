@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>New Girl</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-008-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood One - Series 1 - Before the Fall"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Joseph Lidster</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tracy-Ann Oberman (Yvonne Hartman)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth David-Lloyd (Ianto Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Bentinck (Thomas/Millidar)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Hickson (Colin)</dc:creator>
+        <dc:creator opf:role="nrt">Lorelei King (Pippa/Lift)</dc:creator>
+        <dc:creator opf:role="nrt">Damian Lynch (Kieran)</dc:creator>
+        <dc:creator opf:role="nrt">Gerard McCarthy (Dean)</dc:creator>
+        <dc:creator opf:role="nrt">Nisha Nayar (Guleraana)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Winkleman (Rachel Allan)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"They've been coming to us for years. And we’ve been kept in the dark. My name's Rachel Allan. And I’m Torchwood" 
+
+It's Rachel Allan's first day at Torchwood. Torchwood only takes the brightest and the best – and Rachel’s wondering if Yvonne Hartman’s made a terrible mistake in picking her. 
+
+Plunged into a world of alien invasions and office politics, Rachel's desperate to fit in. For one thing, she really wants this job. And, for another, she knows what happens at Torchwood if you fail.</dc:description>
+    </metadata>
+</package>

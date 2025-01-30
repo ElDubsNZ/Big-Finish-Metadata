@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Animal Instinct</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-505-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Diary of River Song - Series 5"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Roy Gill</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Geoffrey Beevers (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Blore (Luke Sullieman)</dc:creator>
+        <dc:creator opf:role="nrt">Delroy Atkinson (Dav Christos / Therian Leader)</dc:creator>
+        <dc:creator opf:role="nrt">Emily Woodward (Adella Franz / Therian)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On a world where vicious beasts stalk ancient ruins, Professor Song teaches a student the finer points of archaeology. 
+
+But then she meets an incarnation of the Master who is desperate to survive. 
+
+And if they are going to escape this place alive, they all must work together.</dc:description>
+    </metadata>
+</package>

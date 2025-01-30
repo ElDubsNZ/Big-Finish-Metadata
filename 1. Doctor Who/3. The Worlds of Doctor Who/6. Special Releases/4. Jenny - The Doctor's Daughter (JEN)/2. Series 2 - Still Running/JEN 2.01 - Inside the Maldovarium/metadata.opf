@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Inside the Maldovarium</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-613-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jenny - The Doctor's Daughter - Series 2 - Still Running"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Adrian Poynton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Georgia Tennant (Jenny)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Biggerstaff (Noah)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Fisher-Becker (Dorium Maldovar)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Wildman (Mr Probos)</dc:creator>
+        <dc:creator opf:role="nrt">Sara Powell (Andros Fax / Bar Person)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Jenny and Noah find a priceless item up for auction at a disreputable venue - with an even less trustworthy owner. Dorium Maldovar might seem pleased to see them, but what's his real agenda? Is Jenny here by chance, or is someone spinning a web...?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Burrowed Time</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-028-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The New Adventures of Bernice Summerfield - Volume 5 - Buried Memories"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lani Woodward</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">David Warner (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Aikman (Young Anita)</dc:creator>
+        <dc:creator opf:role="nrt">Julia Deakin (Old Anita)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Lumsden (Professor Landren)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Centuries ago the Byrinthians were wiped out. Apart from one underground train which is still travelling the tunnels of this long-dead world. With a passenger on board.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Hollow King</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-775-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The New Counter Measures - Series 3"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Ian Potter</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Simon Williams (Group Captain Gilmore)</dc:creator>
+        <dc:creator opf:role="nrt">Pamela Salem (Rachel Jensen)</dc:creator>
+        <dc:creator opf:role="nrt">Karen Gledhill (Allison Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Ross (Sir Toby Kinsella)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Bentinck (Lord Cavall)</dc:creator>
+        <dc:creator opf:role="nrt">Jessica Regan (Patricia / Daisy)</dc:creator>
+        <dc:creator opf:role="nrt">Kate Russell-Smith (Cook / Nurse)</dc:creator>
+        <dc:creator opf:role="nrt">George Watkins (Bob)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>They say lights have been seen in the skies over Swammcombe. They say this is the place to spot flying saucers. Allison Williams is not so convinced. But maybe Allison Williams is wrong. When she witnesses a UFO launch from the top of a hill is it signs of alien activity... or something more sinister?
+
+Counter-Measures are looking into Open Band - the disciples of the so-called Swami of Swammcombe, Lord Cavall. They've been been monitoring Cavall since noticing a curious rise in psychiatric cases among his followers...
+
+How true are Cavall’s teachings? What happens during the elite ‘Visualisation’ sessions? And what does this all have to do with the King under the hill?</dc:description>
+    </metadata>
+</package>

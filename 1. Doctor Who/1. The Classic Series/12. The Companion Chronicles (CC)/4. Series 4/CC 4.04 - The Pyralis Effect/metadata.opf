@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Pyralis Effect</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-427-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 4"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">George Mann</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (Romana / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Jess Robinson (Suri / Cain / The Pyralis)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Long ago, the planet Pavonis IV was saved from certain destruction by the Doctor. Now it is dead, laid waste by environmental catastrophe, but a few survivors and their precious race bank survive on the starship Myriad. Their mission: to scour the universe for the fabled dimensionally transcendental obelisk in which their saviour travels, and persuade him to save their world again.
+
+As the TARDIS arrives, by chance, on the Myriad, the Doctor and Romana are just in time to see the crew achieve their goal. Or so they think… Death stalks the corridors of the ship, the artificial intelligence CAIN has lost control, and a force is about to be unleashed that threatens the entire galaxy.</dc:description>
+    </metadata>
+</package>

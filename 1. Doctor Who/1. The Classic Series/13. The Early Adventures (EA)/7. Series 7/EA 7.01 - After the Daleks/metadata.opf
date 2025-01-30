@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>After the Daleks</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-246-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Early Adventures - Series 7"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Roland Moore</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Carole Ann Ford (Susan Foreman)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Biggerstaff (David Campbell)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Briers (Jenny Chaplin)</dc:creator>
+        <dc:creator opf:role="nrt">Oli Higginson (Victor Chaplin)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Guy Lewis (Marcus Bray)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Dalek / Computer)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Dalek Invasion of Earth is over, but there's still so much left to do. Susan is trying to help rebuild society as best she can, but some people don't see it as a chance to restore what was lost. Some people see it as a chance to claim power for themselves. 
+
+It's not just human survivors that Susan has to worry about. Unbeknownst to her, a lone Dalek survives. A lone Dalek with a single purpose – to reclaim the Earth!</dc:description>
+    </metadata>
+</package>

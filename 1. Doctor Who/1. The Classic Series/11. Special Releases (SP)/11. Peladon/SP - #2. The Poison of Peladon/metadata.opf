@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Poison of Peladon</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-722-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - Peladon"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizzie Hopley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Deborah Findlay (Queen Thalira)</dc:creator>
+        <dc:creator opf:role="nrt">Aaron Neil (Gobran)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Goddard (Alpha Centauri)</dc:creator>
+        <dc:creator opf:role="nrt">Ariyon Bakare (Father Mendica)</dc:creator>
+        <dc:creator opf:role="nrt">Justin Salinger (Ambassador Ribble)</dc:creator>
+        <dc:creator opf:role="nrt">David Troughton (King Peladon)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>River Song has infiltrated the court of Queen Thalira in the guise of a high priestess. With rumours swirling that Peladon is on the brink of a republican uprising, River joins forces with her new best friend, Alpha Centauri, to get to the bottom of the mystery</dc:description>
+    </metadata>
+</package>

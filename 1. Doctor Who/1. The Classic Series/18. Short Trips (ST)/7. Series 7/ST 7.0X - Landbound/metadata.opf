@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Landbound</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 7"/>
+        <meta name="calibre:series_index" content="13"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Selim Ulug</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Nicholas Briggs (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>He was the captain of a ship once. Since being stripped of his authority, he is lost. Landbound. Then he meets a kindred spirit, a man who has also lost something.
+
+In a small seaside town, both Ronald Henderson and the Doctor want to move forward, but one of them must first come to terms with his past...</dc:description>
+    </metadata>
+</package>

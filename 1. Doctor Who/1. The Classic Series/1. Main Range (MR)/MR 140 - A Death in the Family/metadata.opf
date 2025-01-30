@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>A Death in the Family</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-499-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="140"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Steven Hall</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Olivier (Hex)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Stables (Evelyn)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Dickens (Captain Stillwell / Applin / Tour Guide)</dc:creator>
+        <dc:creator opf:role="nrt">John Dorney (Corporal / Novice)</dc:creator>
+        <dc:creator opf:role="nrt">Harriet Kershaw (Story Speaker / Ann the Van / Webster)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Reddington (Nobody No One)</dc:creator>
+        <dc:creator opf:role="nrt">Alison Thea-Skot (Ayl-San / Faber / Nurse)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"The future folds into the past.  The homeless hero has fallen.  Now begins the time of three tales: The Tale of the Herald, The Tale of the Hidden Woman and The Tale of the Final Speaker.  When the last tale is told, all the lights shall fail.  The world will end."
+
+21st century London: Nobody No One, the extra-dimensional Word Lord, is again running amok.  Only this time, he's unbeatable, and a terrible tragedy is about to unfold...</dc:description>
+    </metadata>
+</package>

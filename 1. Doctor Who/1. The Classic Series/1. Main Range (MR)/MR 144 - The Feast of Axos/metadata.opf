@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Feast of Axos</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-544-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="144"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mike Maddox</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Stables (Evelyn Smythe)</dc:creator>
+        <dc:creator opf:role="nrt">John Pickard (Thomas Brewster)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Campbell Irons / Svenni Nilson)</dc:creator>
+        <dc:creator opf:role="nrt">Andrée Bernard (Joanna Slade)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Mission Control Devesham)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Forbes (Craig Swanson)</dc:creator>
+        <dc:creator opf:role="nrt">Bernard Holley (Axos)</dc:creator>
+        <dc:creator opf:role="nrt">Chook Sibtain (David Brock)</dc:creator>
+        <dc:creator opf:role="nrt">Duncan Wisbey (Philippe Lefevre / Mission Control Geneva)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>“Axos calling Earth. Fuel system exhausted. Request immediate assistance.”
+
+Many years ago, the vast space parasite Axos attempted to suck the planet Earth of its energy. Now it’s all but forgotten – a dried-up husk, marooned in orbit, still stuck in the time loop it was placed in by Earth's defender, the Doctor.
+
+Forgotten, that is, except by space tourism billionaire Campbell Irons – who's hatched a plan to solve the world’s energy crisis by reviving Axos, and transmitting its power back to Earth. But the crew of the spaceship Windermere aren't alone aboard the parasite. The Doctor has returned, to correct an error of decades past...
+
+And Axos is waiting.</dc:description>
+    </metadata>
+</package>

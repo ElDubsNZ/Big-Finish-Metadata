@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>By Royal Appointment</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-401-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood One - Series 5 - I Hate Mondays"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tracy-Ann Oberman (Yvonne Hartman)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth David-Lloyd (Ianto Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Bentinck (Tommy Pierce)</dc:creator>
+        <dc:creator opf:role="nrt">Isabella Pappas (Poppy Greenleaf)</dc:creator>
+        <dc:creator opf:role="nrt">Shai Matheson (Light)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Abeysekera (Georgios Bardem)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Poppy Greenleaf finds herself appointed the Crown's royal liaison for Torchwood. What is Torchwood? Who is Yvonne Hartman? Why is the world ending? Poppy finds herself lost in a world of alien invasions, international espionage and intergalactic diplomacy.</dc:description>
+    </metadata>
+</package>

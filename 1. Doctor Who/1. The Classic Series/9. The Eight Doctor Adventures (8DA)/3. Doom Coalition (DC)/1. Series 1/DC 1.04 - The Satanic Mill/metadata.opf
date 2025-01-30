@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Satanic Mill</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-620-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Doom Coalition 1"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Edward Collier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Hattie Morahan (Helen Sinclair)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Bonnar (The Eleven)</dc:creator>
+        <dc:creator opf:role="nrt">Ewan Bailey (Father Locke / Orbs)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Bathurst (Padrac)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Cottle (Paine)</dc:creator>
+        <dc:creator opf:role="nrt">John Woodvine (Galileo Galilei)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Satanic Mill - a vast Victorian factory floating in the deep of space.
+
+As the Doctor closes in on his quarry, long-buried animosities come boiling to the surface on this ancient and powerful satellite, in a final confrontation that could have unimaginable consequences.
+
+And even that is only the beginning...</dc:description>
+    </metadata>
+</package>

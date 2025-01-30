@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Age of Revolution</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-563-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jago & Litefoot - Series 5"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Baxter (George Litefoot)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Ellie Higson)</dc:creator>
+        <dc:creator opf:role="nrt">Duncan Wisbey (Detective Sergeant Dave Sacker / Colonel Mandrake)</dc:creator>
+        <dc:creator opf:role="nrt">Raquel Cassidy (Guinevere Godiva)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Newall (Aubrey)</dc:creator>
+        <dc:creator opf:role="nrt">Ben Willbond (Timothy Vee)</dc:creator>
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Jago and Litefoot are back in London, but in the wrong century. Reunited with Ellie Higson, they settle into new lives and investigate new cases... but the past is coming back to haunt them.</dc:description>
+    </metadata>
+</package>

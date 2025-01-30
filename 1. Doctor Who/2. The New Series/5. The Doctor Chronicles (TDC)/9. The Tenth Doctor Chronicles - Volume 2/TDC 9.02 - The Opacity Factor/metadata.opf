@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Opacity Factor</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-014-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Tenth Doctor Chronicles - Volume 2"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Carl Rowens</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jacob Dudman (The Doctor / Narrator / Derek)</dc:creator>
+        <dc:creator opf:role="nrt">Thalissa Teixeira (Jenel Kilum'bu / Saggy)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The work that Director Jenel Kilum'bu and her team are doing at MoonCentre 7 could change the future. So when the Doctor somehow breaches the MoonCentre’s security, she’s very keen to be rid of him.
+
+Yet, the Director’s about to discover that getting rid of the Doctor isn’t going to be easy as she first thought.</dc:description>
+    </metadata>
+</package>

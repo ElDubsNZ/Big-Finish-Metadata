@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Jago & Litefoot Revival Act 1</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 7"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Trevor Baxter (Professor George Litefoot)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Tonight's lecture to the Club For Curious Scientific Men will be given by Professor George Litefoot, pathologist - assisted by his esteemed colleague Mr Henry Gordon Jago, theatrical impressario - who will recount a sequence of outlandish events in London and Greece, ruminate upon the nature of good fortune (or rather its absence), and provide a surprising account of a mercurial old friend. The lecture starts at 7:30 and will include an interval.</dc:description>
+    </metadata>
+</package>

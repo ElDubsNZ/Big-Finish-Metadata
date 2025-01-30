@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Three Monkeys</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-110-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="43"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Burn Gorman (Owen Harper)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Price (Andy Davidson)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Tweedale (Dennis)</dc:creator>
+        <dc:creator opf:role="nrt">Joanna Van Kampen (Chief Constable)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Andy Davidson's been ordered to watch over a local businessman. Everything's always gone right for him, and Andy's long wondered why. 
+
+Owen joins him on the stakeout. He knows something – the businessman's attracted Torchwood's attention, and tonight, the two of them are going to take him down. But will luck be on their side?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Memory Lane</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2006-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-179-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="88"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Westmaas (C'rizz)</dc:creator>
+        <dc:creator opf:role="nrt">Nina Baden-Semper (Mrs Braudy)</dc:creator>
+        <dc:creator opf:role="nrt">Sara Carver (Kim Kronotska)</dc:creator>
+        <dc:creator opf:role="nrt">Finlay Glen (Mawvik)</dc:creator>
+        <dc:creator opf:role="nrt">Neil Reidman (Tom Braudy)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Ross (Lest)</dc:creator>
+        <dc:creator opf:role="nrt">Neville Watchurst (Argot)</dc:creator>
+        <dc:creator opf:role="nrt">Anneke Wills (Lady Louisa Pollard)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>No summer can ever quite be as glorious as the ones you remember from when you were young, when a sunny afternoon seemed to last forever and all there was to do was ride your bike, eat ice-lollies and play with Lego. Tom Braudy is enjoying just such an afternoon when the TARDIS lands in his Nan's living room and interrupts her in the middle of the snooker.
+
+After they've apologised, the Doctor and his friends soon discover matters of far greater concern than the fact that their time machine is blocking Mrs Braudy's view of a thrilling century break. The street which Tom happily cycles up and down appears to have no beginning or end, and every single house on it is identical.
+
+Is this the future of suburbia, or something even more sinister? Why doesn't Tom look as young as he behaves? And can anybody remember which house the TARDIS is in?</dc:description>
+    </metadata>
+</package>

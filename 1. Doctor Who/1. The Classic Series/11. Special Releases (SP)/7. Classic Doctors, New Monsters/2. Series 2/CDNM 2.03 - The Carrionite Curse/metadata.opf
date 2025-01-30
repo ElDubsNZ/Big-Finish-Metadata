@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Carrionite Curse</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-427-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - Classic Doctors, New Monsters - Series 2"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Andrée Bernard (Mary Sissinghurst)</dc:creator>
+        <dc:creator opf:role="nrt">Adèle Anderson (Eileen Nelthorpe)</dc:creator>
+        <dc:creator opf:role="nrt">Maya Sondhi (Katy Bell)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Fenton-Stevens (Rev. Douglas Bell)</dc:creator>
+        <dc:creator opf:role="nrt">Adèle Anderson, Maya Sondhi[1] (Carrionites)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Katy Bell returns to her Midlands home to find strange goings-on at the buskers fair. A witch trial in the 1980s. A bonfire ready to be lit... 
+
+Luckily, a colourful visitor is already investigating, and the local vicar, Katy's dad, is versed in tales of the macabre. Terrifying forces are on the loose, and the town hall holds a secret. There is black magic in the Black Country, and the Doctor has the name of his enemy on the tip of his tongue... 
+
+Something wicked this way comes.</dc:description>
+    </metadata>
+</package>

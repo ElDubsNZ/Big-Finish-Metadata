@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Creed of the Kromon</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2004-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-036-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="53"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Philip Martin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Westmaas (C'rizz)</dc:creator>
+        <dc:creator opf:role="nrt">Brian Cosby (The Oroog)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Hills (L'da)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Hogarth (The Kromon)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Perring (The Kro'ka / The Kromon)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Interzone is a fearsome nether-world protecting a zone ruled by the Kromon. Theirs is an arid land of dust and dying trees. Across the landscape are spheres that look like giant anthills. The Doctor believes that within one of these structures lie the clues that will lead him to his lost TARDIS.
+
+The spheres are ruled by the insect-like Kromon who covet the TARDIS. When Charley is captured she is forced to metamorphosise into a hybrid-insect Queen and so to save her, the Doctor must barter his knowledge of space-travel technology, all the while knowing that he risks opening up all the realms of space to a rapacious race whose creed is not to create, only to plunder.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Kiss of Death</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-559-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="147"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Stephen Cole</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Strickson (Vislor Turlough)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Adams (Deela)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Kanch / The Morass)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Maloney (Rennol)</dc:creator>
+        <dc:creator opf:role="nrt">Lizzie Roper (Hoss)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS travellers take a break on the beach world of Vektris. Hot sun, cold drinks and all the time in the worlds. What could possibly go wrong?
+
+ A kidnapping, a spaceship heist and a desperate chase to a distant galaxy later, Turlough finds himself in a strange winter palace… along with a face from his past. The Doctor, Tegan and Nyssa, meanwhile, fight to escape its frozen catacombs, guarded over by a vast and deadly alien, The Morass.
+
+ But what connects Turlough to the ancient treasure hidden somewhere in the palace? And how far will he go to acquire it?</dc:description>
+    </metadata>
+</package>

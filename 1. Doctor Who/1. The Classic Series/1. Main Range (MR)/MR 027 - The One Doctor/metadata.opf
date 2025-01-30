@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The One Doctor</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2001-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-456-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="27"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Gareth Roberts</dc:creator>
+        <dc:creator opf:role="aut">Clayton Hickman</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Melanie Bush)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Biggins (Banto Zame)</dc:creator>
+        <dc:creator opf:role="nrt">Clare Buckfield (Sally-Anne Stubbins)</dc:creator>
+        <dc:creator opf:role="nrt">Adam Buxton (Assembler 1)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Fewell (Councillor Potikol / Assembler 2)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Goddard (The Questioner)</dc:creator>
+        <dc:creator opf:role="nrt">Matt Lucas (Cylinder Voice / The Jelloid)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Pegg (Citizen Sokkery / Mentos)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Wright (Guard)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the evil Skelloids launch an attack upon the seventeen worlds of the Generios system, its peace-loving inhabitants face total destruction.
+
+So it's fortunate that the famous traveller in time and space known only as the Doctor is in the area, and doubly lucky that, with the help of his pretty young assistant, Sally-Anne, he manages to defeat the deadly creatures and save the day.
+
+But now it looks as though the Doctor¹s luck has run out.
+
+Who is the mysterious, curly-haired stranger who insists on causing trouble? What role does the feisty redhead Melanie play in his scheme? And what have they to do with the sinister alien cylinder approaching Generios?
+
+One thing is certain: for the Doctor and Sally-Anne, there¹s deadly danger ahead...</dc:description>
+    </metadata>
+</package>

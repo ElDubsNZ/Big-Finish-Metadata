@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Creeping Death</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-763-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Tenth Doctor Adventures - Series 3"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Roy Gill</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Tennant (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Catherine Tate (Donna Noble)</dc:creator>
+        <dc:creator opf:role="nrt">Kieran Bew (Richard Cooper)</dc:creator>
+        <dc:creator opf:role="nrt">Lauren Cornelius (Ivy Clark)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Critchlow (Malcolm Wishart)</dc:creator>
+        <dc:creator opf:role="nrt">Helen Goldwyn (Alice Aiken / Fumifugium)</dc:creator>
+        <dc:creator opf:role="nrt">Theo Stevenson (Terry Hopkins)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>London, 1952, and a deadly smog envelops the capital.
+
+But something even more dangerous - and alien - is hiding within the mists.
+
+When the Doctor and Donna get lost in the fog, they find a motley group of Londoners trying to make their way home.
+
+Very soon, the stakes are raised, as death creeps along fume-choked streets, and not everyone will make it out alive...</dc:description>
+    </metadata>
+</package>

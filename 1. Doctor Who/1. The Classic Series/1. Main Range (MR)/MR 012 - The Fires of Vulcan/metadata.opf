@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Fires of Vulcan</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2000-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-402-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="12"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Steve Lyons</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Melanie Bush)</dc:creator>
+        <dc:creator opf:role="nrt">Gemma Bissix (Aglae)</dc:creator>
+        <dc:creator opf:role="nrt">Andy Coleman (Popidius Celsinus)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Curbishley (Tobernus / Roman Legionary)</dc:creator>
+        <dc:creator opf:role="nrt">Nicky Goldie (Valeria Hedone)</dc:creator>
+        <dc:creator opf:role="nrt">Karen Henson (Captain Muriel Frost)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Hollander (Eumachia)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Keetch (Professor Scalini)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Longworth (Priest)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Murranus)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Two thousand years ago, a volcanic eruption wiped the Roman city of Pompeii from the face of the Earth. It also buried the Doctor's TARDIS...
+
+Arriving in Pompeii one day before the disaster, the Doctor and Mel find themselves separated from their ship and entangled in local politics. As time runs out, they fight to escape from the shadow of Mount Vesuvius. But how can they succeed when history itself is working against them?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Sonny</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-541-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="59"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizzie Hopley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Kai Owen (Rhys Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Nerys Hughes (Brenda Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Kynman (Sonny)</dc:creator>
+        <dc:creator opf:role="nrt">Donna Berlin (Joy)</dc:creator>
+        <dc:creator opf:role="nrt">Shobu Kapoor (Priya)</dc:creator>
+        <dc:creator opf:role="nrt">Amerjit Deu (Prudeep)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Sonny is the answer to elderly care. Artificially intelligent robot carers placed in old peoples' homes that mimic the behaviour of their owners. 
+
+Only there are rumours that something is wrong with the Sonny units. That they're too clever. That they are learning too much. Rhys sends his mother into a home to find out. But what will it cost him?</dc:description>
+    </metadata>
+</package>

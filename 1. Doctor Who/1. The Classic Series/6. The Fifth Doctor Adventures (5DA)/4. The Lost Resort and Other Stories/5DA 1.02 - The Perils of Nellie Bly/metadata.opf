@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Perils of Nellie Bly</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-718-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fifth Doctor Adventures - Volume 3 - The Lost Resort and Other Stories"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Sarah Ward</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan)</dc:creator>
+        <dc:creator opf:role="nrt">George Watkins (Marc)</dc:creator>
+        <dc:creator opf:role="nrt">Sydney Feder (Nellie Bly)</dc:creator>
+        <dc:creator opf:role="nrt">Carlyss Peer (Marion Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Ryan Forde Iosco (Second Mate)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel O'Meara (The Growler)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the TARDIS crew arrive on the RMS Oceanic, they meet notorious journalist Nellie Bly on the final leg of her voyage to travel the world in less than eighty days. But with a saboteur on board, the Doctor and his friends must race to help Nellie reach her destination – and save her future.</dc:description>
+    </metadata>
+</package>

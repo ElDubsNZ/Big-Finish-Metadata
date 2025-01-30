@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Only Connect</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips Rarities - Series 3"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andy Lane</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Banks (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>James Willaker has been working late. He's tired. It's been a long day. All that awaits now is a taxi home before bed.
+
+Conversations with taxi drivers are a factor of London commutes, indeed of every city.
+
+They can't have any importance. They can't change the world. They can't affect the future.
+
+Can they?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Hollow Choir</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-407-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="87"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Malcolm Devlin, Helen Marshall</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Kai Owen (Rhys Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Armstrong (William)</dc:creator>
+        <dc:creator opf:role="nrt">Olivia Forrest (Lynn)</dc:creator>
+        <dc:creator opf:role="nrt">Cerith Flinn (Lucas)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>There's always been something in the caves. Over the years people have gone in and not come out. But that was a long time ago. They've been sealed for the best part of a century. 
+
+Eight hours ago, something changed. Three students somehow found their way in. Now time's running out to rescue them. Their one hope is a man called Rhys Williams. Because somehow, he has a map.</dc:description>
+    </metadata>
+</package>

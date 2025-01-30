@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Blood of the Daleks Part 1</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2007-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-255-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Series 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Steve Lyons</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sheridan Smith (Lucie Miller)</dc:creator>
+        <dc:creator opf:role="nrt">Hayley Atwell (Asha Gryvern / Martez)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Kenneth Cranham (Tom Cardwell)</dc:creator>
+        <dc:creator opf:role="nrt">Anita Dobson (Eileen Klint)</dc:creator>
+        <dc:creator opf:role="nrt">Gerry O'Toole (Lowell)</dc:creator>
+        <dc:creator opf:role="nrt">Katarina Olsson (The Headhunter / Computer)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"People of Red Rocket Rising, my fellow citizens. Our long night is over. I've been contacted by a benevolent people. They too have known great trials, but they have overcome them and made it their mission to help others do the same. They have offered us refuge, and passage to the nearest human worlds. They have the resources, and the patience and compassion, to evacuate every one of us. My fellow citizens, my friends, rescue is at hand!"
+
+Note: The adventure continues in Doctor Who: Blood of the Daleks Part 2</dc:description>
+    </metadata>
+</package>

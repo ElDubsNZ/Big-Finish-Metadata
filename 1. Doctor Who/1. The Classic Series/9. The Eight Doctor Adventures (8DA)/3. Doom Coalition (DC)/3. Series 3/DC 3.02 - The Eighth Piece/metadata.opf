@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Eighth Piece</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-622-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Doom Coalition 3"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Hattie Morahan (Helen Sinclair)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">John Shrapnel (Thomas Cromwell)</dc:creator>
+        <dc:creator opf:role="nrt">Kasia Koleczek (Apolena)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (Solvers / Abbot)</dc:creator>
+        <dc:creator opf:role="nrt">Emma D'Inverno (Rosalia)</dc:creator>
+        <dc:creator opf:role="nrt">Tim McMullan (Octavian)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Woodeson (The Clocksmith)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>15th Century Prague: in the castle dungeons, a prisoner raves about the end of the world. Outside, Liv Chenka seeks out the workshop of a strange Clockmaker to see what he is creating.
+
+England, 1538: Lord Thomas Cromwell finds his duties interrupted by otherworldly forces - clockwork soldiers, an unusual nun, and a mysterious scholar calling himself ‘the Doctor’. Perhaps the truth can be extracted in the torture chamber of London’s Bloody Tower?
+
+Rome, 2016: Helen Sinclair has an appointment with an enigmatic Professor, whose greatest work is almost complete. Only the Eighth Piece is missing...</dc:description>
+    </metadata>
+</package>

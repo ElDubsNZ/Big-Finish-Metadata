@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Moonrakers</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-290-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fifth Doctor Adventures - Volume 2 - Wicked Sisters"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Ciara Janson (Abby)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Doddington (Zara)</dc:creator>
+        <dc:creator opf:role="nrt">Anjli Mohindra (Captain Riya Nehru)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Stent)</dc:creator>
+        <dc:creator opf:role="nrt">Nicky Goldie (Polk)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Smoke Creatures)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Sontarans)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Life is hard for the early pioneers building the first settlements on the Moon. The laws of Earth don’t apply here, and there are tussles over limited resources vital to survival. Arriving on the Moon, the Doctor and Zara discover that an aggressive alien species lies in wait. Yet there’s something very strange about these particular Sontarans: they refuse to fight.</dc:description>
+    </metadata>
+</package>

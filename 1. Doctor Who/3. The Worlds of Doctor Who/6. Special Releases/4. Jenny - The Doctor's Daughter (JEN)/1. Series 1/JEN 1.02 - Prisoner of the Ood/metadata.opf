@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Prisoner of the Ood</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-239-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jenny - The Doctor's Daughter - Series 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Georgia Tennant (Jenny)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Biggerstaff (Noah)</dc:creator>
+        <dc:creator opf:role="nrt">Arabella Weir (Angie Glazebrook)</dc:creator>
+        <dc:creator opf:role="nrt">Olivia Darnley (Emily Cole)</dc:creator>
+        <dc:creator opf:role="nrt">Silas Carson (Ian Elledge / Ood Leader)</dc:creator>
+        <dc:creator opf:role="nrt">Rosalyn Landor (Vanessa Elledge)</dc:creator>
+        <dc:creator opf:role="nrt">John Dorney (John Macguire)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Valderon)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Moving into Leafield Crescent, Angie Glazebrook is surprised by an unexpected caller. But not half as surprised as Jenny, suddenly transported to a suburban close on twenty-first century Earth. 
+
+And that's nothing to the surprise of the neighbours when alien visitors start appearing. Visitors with tentacled mouths, carrying death-dealing orbs. The Ood have come for their prisoner...</dc:description>
+    </metadata>
+</package>

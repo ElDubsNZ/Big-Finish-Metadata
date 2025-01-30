@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Spinvasion</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-072-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Donna Noble - Kidnapped!"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Catherine Tate (Donna Noble)</dc:creator>
+        <dc:creator opf:role="nrt">Niky Wardley (Natalie)</dc:creator>
+        <dc:creator opf:role="nrt">Phil Cornwell (Parsnip)</dc:creator>
+        <dc:creator opf:role="nrt">Nisha Nayar (Coleridge)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Bentinck (Ganthak)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Collector Nine)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Donna and Nat have been stolen – along with the TARDIS - and they find themselves crash-landing on an alien world. 
+
+On the planet Valdacki a very successful invasion is already underway. And it's one that has the very best PR.</dc:description>
+    </metadata>
+</package>

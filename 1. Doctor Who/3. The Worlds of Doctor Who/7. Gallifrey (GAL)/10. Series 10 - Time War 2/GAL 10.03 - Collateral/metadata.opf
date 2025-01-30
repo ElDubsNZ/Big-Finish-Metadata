@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Collateral</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-561-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 10 - Time War 2"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lisa McMullin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Terrence Hardiman (Rassilon)</dc:creator>
+        <dc:creator opf:role="nrt">Pippa Bennett-Warner (Livia)</dc:creator>
+        <dc:creator opf:role="nrt">Silas Carson (The Sicari)</dc:creator>
+        <dc:creator opf:role="nrt">Samuel Clemens (Mantus)</dc:creator>
+        <dc:creator opf:role="nrt">Samuel Gosrani (Eris)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Khan (Dalia)</dc:creator>
+        <dc:creator opf:role="nrt">Carlyss Peer (Knyla)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>As the scavenging Sythes descend on Ysalus, Narvin discovers how far his people will go to protect their interests. 
+
+The universe is discovering that no place is safe from the fury of battle. 
+
+Every victory in the Time War comes at a price, and too often it is the innocent who will pay...</dc:description>
+    </metadata>
+</package>

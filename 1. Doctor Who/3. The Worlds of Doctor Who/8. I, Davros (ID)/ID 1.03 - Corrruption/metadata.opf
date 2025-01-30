@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Corrruption</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2006-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-233-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="I, Davros"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lance Parkin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Terry Molloy (Davros)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Beresford (Renna)</dc:creator>
+        <dc:creator opf:role="nrt">David Bickerstaff (Scientist Ral)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Councillor Valron)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Hogarth (Section Leader Fenn)</dc:creator>
+        <dc:creator opf:role="nrt">Carolyn Jones (Lady Calcula)</dc:creator>
+        <dc:creator opf:role="nrt">Katarina Olsson (Scientist Shan)</dc:creator>
+        <dc:creator opf:role="nrt">John Stahl (The Supremo)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"Logically, the war ends with one form of life in utter control of the world. All other life forms gone. That is the goal that is the only true victory!"
+
+Now established within the Science Elite, Davros and his team are pushing the boundaries of Kaled experimentation further and further forward.
+
+Access to Thal DNA spearheads an entirely new field of research for Davros, and as he becomes more and more intrigued by genetic mutations, others around him begin to fear him, his drive and his obsessive need for power.
+
+Meanwhile he must learn to cope with betrayal and political manoeuvrings that will leave him changed forever.</dc:description>
+    </metadata>
+</package>

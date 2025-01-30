@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Swan Song</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-561-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jago & Litefoot - Series 3"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Baxter (George Litefoot)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Abigail Hollick (Alice)</dc:creator>
+        <dc:creator opf:role="nrt">Hywel Morgan (Dan Hawkins)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Westfield (Steven)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Bretherton (Payne)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The New Regency Theatre is haunted and Jago, Litefoot and Leela witness the spirit of someone in a silver wheelchair floating over the stalls. This is the story of Alice — a young woman who had Swan Lake so cruelly taken from her...</dc:description>
+    </metadata>
+</package>

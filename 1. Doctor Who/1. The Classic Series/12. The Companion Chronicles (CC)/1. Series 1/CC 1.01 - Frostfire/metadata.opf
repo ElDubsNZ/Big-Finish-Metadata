@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Frostfire</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2007-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-263-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Maureen O'Brien (Vicki Pallister)</dc:creator>
+        <dc:creator opf:role="nrt">Keith Drinkel (The Cinder)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Vicki has a tale to tell. 
+
+But where does it start and when does it end? 
+
+Ancient Carthage. 1164 BC. 
+
+Lady Cressida has a secret. She keeps it deep in the cisterns below the Temple of Astarte with only one flame for warmth. And it must never get out. 
+
+Regency London, 1814 AD. 
+
+The First Doctor, Steven and Vicki go to the fair and meet the fiery Dragon, the novelist Miss Austen and the deadliest weather you ever did see. 
+
+But which comes first? 
+
+The Future or the Past? 
+
+The Phoenix or the Egg? 
+
+The Fire or the Frost? 
+
+Or will Time freeze over forever?</dc:description>
+    </metadata>
+</package>

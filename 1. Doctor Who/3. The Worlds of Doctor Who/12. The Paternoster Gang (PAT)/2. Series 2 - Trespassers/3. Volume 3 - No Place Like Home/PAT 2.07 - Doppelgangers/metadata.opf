@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Doppelgängers</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-121-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Paternoster Gang - Trespassers 3 - No Place Like Home"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Ken Bentley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Neve McIntosh (Madame Vastra)</dc:creator>
+        <dc:creator opf:role="nrt">Catrin Stewart (Jenny Flint)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Strax)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Zygon)</dc:creator>
+        <dc:creator opf:role="nrt">David Holt (Fonipodio)</dc:creator>
+        <dc:creator opf:role="nrt">Clive Hayward (Reg Adams)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>After being imprisoned by a shapeshifting foe, Jenny has escaped through the London sewers and returned to Paternoster Row. Meanwhile, her captor (now disguised as Doppel-Jenny) infiltrates Paternoster Row with murderous intent!</dc:description>
+    </metadata>
+</package>

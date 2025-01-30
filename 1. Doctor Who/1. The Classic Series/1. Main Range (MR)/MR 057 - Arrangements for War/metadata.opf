@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Arrangements For War</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2004-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-095-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="57"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Sutton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Stables (Evelyn)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Bretherton (Plenipotentiary Suskind)</dc:creator>
+        <dc:creator opf:role="nrt">Geoffrey Leesley (Paramount Minister Mortund)</dc:creator>
+        <dc:creator opf:role="nrt">Katarina Olsson (Princess Krisztina)</dc:creator>
+        <dc:creator opf:role="nrt">Lewis Rae (Corporal Reid)</dc:creator>
+        <dc:creator opf:role="nrt">Kraig Thornber (Commander Pokol)</dc:creator>
+        <dc:creator opf:role="nrt">Gabriel Woolf (Governor Rossiter)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Onboard the TARDIS, nerves are strained.
+
+After escaping the Forge and the murderous clutches of Nimrod, the Doctor and Evelyn have things to talk about. The Doctor's attitude towards death is a subject that these days is too close to Evelyn's heart, and eventually she demands to be set down somewhere where she can be free of him for a while.
+
+And so they come to Világ, where the Doctor's meddling lands him in the middle of a truly dangerous liaison and Evelyn meets a man who wants to change the course of her life forever.
+
+Love is everywhere. But then war is too.
+
+Is it time for Evelyn to leave the Doctor? Or is the choice about to be taken out of her hands? And who is to say what is the beginning and what is the end of love?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Young Winston</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-429-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Churchill Years - Volume 2"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Ian McNeice (Winston Churchill)</dc:creator>
+        <dc:creator opf:role="nrt">Neve McIntosh (Madame Vastra)</dc:creator>
+        <dc:creator opf:role="nrt">Iain Batchelor (Young Winston)</dc:creator>
+        <dc:creator opf:role="nrt">Melody Grove (Carmen/Housekeeper)</dc:creator>
+        <dc:creator opf:role="nrt">Owen Aaronovitch (Luis Ortega)</dc:creator>
+        <dc:creator opf:role="nrt">Leighton Pugh (Reggie/Jorge/Clerk)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>London, 1899. After spending time in war zones abroad, Winston Churchill considers a Parliamentary career. But a memento from his visit to Cuba, four years earlier, returns to haunt him. Across the city, the Great Detective has a mysterious caller, all the way from Havana. As ruthless mercenaries wield alien powers, young Winston and Madame Vastra learn they have a mutual friend - an eccentric young man, sporting a bowtie...</dc:description>
+    </metadata>
+</package>

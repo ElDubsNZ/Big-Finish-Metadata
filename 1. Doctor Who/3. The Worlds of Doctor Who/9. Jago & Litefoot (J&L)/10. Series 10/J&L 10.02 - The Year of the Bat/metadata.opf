@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Year of the Bat</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-360-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jago & Litefoot - Series 10"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Trevor Baxter (Professor George Litefoot)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Asquith (Inspector Quick)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Ellie)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Lowe (Young Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Blake Ritson (Young Litefoot)</dc:creator>
+        <dc:creator opf:role="nrt">Ewan Bailey (Sergeant Quick Senior)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy Wiles (Lilith Lovett)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When a strange package is delivered to Professor Litefoot, he has no idea of the far-reaching implications. Soon Litefoot and Jago find themselves enmeshed in a series of events that began thirty years ago — events their younger selves have already been caught up in...</dc:description>
+    </metadata>
+</package>

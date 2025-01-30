@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>9 to 5</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-529-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood One - Series 2 - Machines"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tracy Ann Oberman (Yvonne Hartman)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth David-Lloyd (Ianto Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Asher (Elaine)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Pegg (WOTAN)</dc:creator>
+        <dc:creator opf:role="nrt">Niky Wardley (Stacey)</dc:creator>
+        <dc:creator opf:role="nrt">Claire Wyatt (Tanya)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It's Monday morning. Stacey loves Mondays. Stacey loves every day. Stacey lives to work. She's a temp and she loves it. Only there's a man in the coffee queue who has a terrible warning for her. Stacey is going to die today.</dc:description>
+    </metadata>
+</package>

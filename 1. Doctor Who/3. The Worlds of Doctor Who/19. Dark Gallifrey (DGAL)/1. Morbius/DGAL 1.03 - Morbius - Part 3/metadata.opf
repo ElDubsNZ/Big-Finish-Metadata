@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Part 3</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-380-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Dark Gallifrey - Series 1 - Morbius"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Samuel West (Morbius / Interface / Morbius Beast)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Mina Anwar (Rolko)</dc:creator>
+        <dc:creator opf:role="nrt">Rachel Atkins (Captain Argento)</dc:creator>
+        <dc:creator opf:role="nrt">Justin Avoth (The Shimmering Man)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew French (Veritas)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Henfrey (Narrata)</dc:creator>
+        <dc:creator opf:role="nrt">Lara Lemon (Gilda)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Morbius has been brought back to life on the Isle of the Dead. But a desperate Captain Argento has called for help and received an unlikely ally. Here is a stranger who knows the tyrant of old and is the only one who can put his plans on ice. But perhaps even the Doctor cannot stop the threat of Dark Gallifrey...</dc:description>
+    </metadata>
+</package>

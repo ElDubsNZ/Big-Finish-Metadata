@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Demons of Red Lodge and Other Stories</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-538-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="142"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jason Arnopp</dc:creator>
+        <dc:creator opf:role="aut">Rick Briggs</dc:creator>
+        <dc:creator opf:role="aut">William Gallagher</dc:creator>
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Andrée Bernard (Erisi)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Brooker (Naloom / Professor Bromley)</dc:creator>
+        <dc:creator opf:role="nrt">John Dorney (Janson Hart / Villager / Pinfield / Yokel / Running Man / Carriage Driver)</dc:creator>
+        <dc:creator opf:role="nrt">James Fleet (Geoff Cooper / Martin Ashcroft)</dc:creator>
+        <dc:creator opf:role="nrt">Susan Kyd (Emily Cobham / Ivy Cobham / Governor Chaplin)</dc:creator>
+        <dc:creator opf:role="nrt">Joanna Munro (Mrs Maloney / Johanna Bourke / Carlotta)</dc:creator>
+        <dc:creator opf:role="nrt">Duncan Wisbey (Dask / Jabreth / Hobbling Pete / Judge / Villager)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>An anthology of four one-part stories featuring the Fifth Doctor and Nyssa.
+
+The Demons of Red Lodge by Jason Arnopp
+ A long, dark night in 17th century Suffolk for the TARDIS travellers – when they find something nasty outside the woodshed.
+
+The Entropy Composition by Rick Briggs
+ A lost prog rock symphony is unearthed from the vaults – with catastrophic consequences for the entire cosmos.
+
+Doing Time by William Gallagher
+ On the planet Folly, justice catches up with criminal mastermind 'The Doctor' – but can he endure a year in the jug?
+
+Special Features by John Dorney
+ At last, the cult 1970s horror anthology Doctor Demonic's Tales of Terror is set for release on DVD, complete with a commentary from director Martin Ashcroft, leading actors Sir Jack Merrivale and Johanna Bourke, plus the film's historical adviser – the mysterious 'Dr John Smith'!</dc:description>
+    </metadata>
+</package>

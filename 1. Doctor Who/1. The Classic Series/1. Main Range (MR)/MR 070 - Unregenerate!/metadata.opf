@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Unregenerate!</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2005-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-158-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="70"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David A McIntee</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Melanie Bush)</dc:creator>
+        <dc:creator opf:role="nrt">John Aston (Louis # 2)</dc:creator>
+        <dc:creator opf:role="nrt">Gail Clayton (Rigan)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Hemmings (Johannes Rausch)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Peter Jackson (Shokra)</dc:creator>
+        <dc:creator opf:role="nrt">Jennie Linden (Professor Klyst)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Longworth (The Cabbie)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Sandford (Louis)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In a run-down asylum, screams echo in the halls as mysterious creatures roam, terrorizing the staff. Patients complain of betrayal rather than illness, and no-one is quite what they seem.
+
+Mel knows that the Doctor is the best person to find the answers - but she is stranded on Earth, and the TARDIS has returned without him...
+
+Why does a medical facility need to be under armed guard? What procedures are the staff carrying out, and to what purpose? What is the price that must be paid for making an agreement with those who run the asylum?
+
+As the answers begin to be uncovered, the Doctor finds that the past may yet come back to haunt him...</dc:description>
+    </metadata>
+</package>

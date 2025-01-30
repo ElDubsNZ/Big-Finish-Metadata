@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Bleeding Heart</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-223-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Ninth Doctor Chronicles"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Cavan Scott</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Claire Wyatt (Adriana Jarsdel)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Narrator / Ninth Doctor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Galen is a place where people come to heal. The renowned 'planet of peace' seems the ideal venue for talks between two warring races. But when death disrupts the diplomacy, Cosmic Nine news reporter Adriana Jarsdel uncovers a different story. Luckily, someone is there to help. A battle-weary veteran from another war. The Doctor has come to Galen - but is he looking for peace or something else entirely?</dc:description>
+    </metadata>
+</package>

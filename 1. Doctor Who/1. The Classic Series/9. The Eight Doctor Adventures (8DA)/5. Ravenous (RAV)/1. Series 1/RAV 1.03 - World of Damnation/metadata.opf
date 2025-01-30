@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>World of Damnation</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-550-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Ravenous 1"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Hattie Morahan (Helen Sinclair)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Bonnar (The Eleven)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Rowe (The Kandyman)</dc:creator>
+        <dc:creator opf:role="nrt">Amerjit Deu (Governor)</dc:creator>
+        <dc:creator opf:role="nrt">Pippa Bennett-Warner (Ruzalla)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Condou (Crabhead / System / Jarl)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Goddard (Ludina Braskell)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Rykerzon is a maximum-security planetoid designed to hold the most dangerous criminals in the star system. The Governor plans to reform its inmates, with the help of the Kandyman. But two prisoners prove particularly troublesome: the alien fugitives known as the Eleven, and Miss Helen Sinclair.
+
+The Doctor and Liv have finally tracked down their friend - but are they too late?</dc:description>
+    </metadata>
+</package>

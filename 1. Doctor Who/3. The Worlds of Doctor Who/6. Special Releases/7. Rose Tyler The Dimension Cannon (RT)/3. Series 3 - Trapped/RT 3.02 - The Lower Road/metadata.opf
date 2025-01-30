@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Lower Road</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-907-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Rose Tyler - The Dimension Cannon - Series 3 - Trapped"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Billie Piper (Rose Tyler)</dc:creator>
+        <dc:creator opf:role="nrt">Em Thane (Danni)</dc:creator>
+        <dc:creator opf:role="nrt">Heather Coombs (Lara)</dc:creator>
+        <dc:creator opf:role="nrt">Cleo Sylvestre (Minton)</dc:creator>
+        <dc:creator opf:role="nrt">Chelsea Little (Lex)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Trekking the wastelands, Rose and Danni discover a community that seems to have made peace with the Anti-Life. But all groups have their secrets, and bargains come at a price.</dc:description>
+    </metadata>
+</package>

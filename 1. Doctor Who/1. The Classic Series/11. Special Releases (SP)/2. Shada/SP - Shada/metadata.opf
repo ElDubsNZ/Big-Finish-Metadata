@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Shada</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2003-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-039-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - Shada"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Douglas Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Biggerstaff (Chris Parsons)</dc:creator>
+        <dc:creator opf:role="nrt">Stuart Crossman (Constable)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Professor Caldera)</dc:creator>
+        <dc:creator opf:role="nrt">James Fox (Professor Chronotis)</dc:creator>
+        <dc:creator opf:role="nrt">Hannah Gordon (The Ship)</dc:creator>
+        <dc:creator opf:role="nrt">Susannah Harker (Clare Keightley)</dc:creator>
+        <dc:creator opf:role="nrt">Melvyn Hayes (Wilkin)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Pegg (Think Tank Voice)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Sachs (Skagra)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor has a spot of unfinished business. Reunited with his old friends Romana and K9, he answers a summons from Professor Chronotis, a retired Time Lord now living the academic life in a Cambridge college.
+
+But the Doctor isn’t the only visitor to Cambridge. Somewhere in the city is the sinister alien Skagra, who is intent on stealing an ancient and mysterious book brought to Earth by the Professor many years before.
+
+What is Skagra’s diabolical masterplan? And who or what is the mysterious Shada? To discover the truth, the Doctor and his friends must embark on a perilous journey that will take them from the cloisters of Cambridge to the farthest reaches of deep space, risking deadly encounters with a sentient spaceship, the monstrous Krargs, and an ancient Time Lord criminal called Salyavin. As the Doctor soon discovers, the fate of the universe hangs in the balance...
+
+This production is an extended, audio-only version of the animated serial that was originally broadcast on the Cult pages of the BBCi website.
+
+PLEASE NOTE: Due to rights restrictions, Big Finish are not able to offer a Download option for this release</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Scorched Earth</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-002-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="264"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Chris Chapman</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Greenwood (Flip Jackson)</dc:creator>
+        <dc:creator opf:role="nrt">Miranda Raison (Constance Clarke)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Black (Walter / Jurgen)</dc:creator>
+        <dc:creator opf:role="nrt">James Boswell (Harris / Klaus)</dc:creator>
+        <dc:creator opf:role="nrt">Philip DeLancy (Lucien / Max)</dc:creator>
+        <dc:creator opf:role="nrt">Katarina Olsson (Clementine)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>July 1944. The TARDIS materialises in a small village near Rouen, where celebrations are in full swing. A joyful France is in the midst of liberation as the local population welcome a battalion of Allied soldiers – along with a colourfully dressed Doctor and his two rather excited friends.
+
+But there are screams amidst the celebrations as an angry crowd dish out their brand of justice to one of their own that they have branded a traitor. While Constance and Flip find themselves on opposite sides of a war beyond a war, the Doctor has other concerns. The local community is used to the fires of battle, but a new type of blaze is burning – leaping from aircraft to aircraft, man to man – and this fire seems to be just as eager for revenge as the village mob.</dc:description>
+    </metadata>
+</package>

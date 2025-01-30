@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Basilisk</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-148-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Master! - Series 3 - Planet Doom"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Whitelock</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Eric Roberts (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Chase Masterson (Vienna Salvatori)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Whitmey (Phillips / Raptor 8)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Li (Mike Chaoxiang / Raptor 6)</dc:creator>
+        <dc:creator opf:role="nrt">Teri Ann Bobb-Baxter (Raptor 5 / Peterson)</dc:creator>
+        <dc:creator opf:role="nrt">Beverly Longhurst (Raptor 1 / Raptor 7 / Hub Computer)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Kay (Axos)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Vienna finds herself prisoner on a warship. Private contractors working with the military's scientific division want her to help them resurrect the Master. Why? Because they need a guide into the bowels of a nameless planet...and the Master is their man.</dc:description>
+    </metadata>
+</package>

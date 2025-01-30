@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Dream Team</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-171-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fifth Doctor Adventures - Volume 6 - The Dream Team"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizzie Hopley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Waterhouse (Adric)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>“Welcome to Concordium! The one-stop destination for elite and effective corporate bonding.”
+
+A protected wonder of space is being exploited for ‘company away days’ but when the Doctor, Tegan, Nyssa and Adric land to challenge the organisers, they fall into a web of perfectly tailored nightmares. As the Doctor confronts one of the most dangerous monsters in existence, one that uses your own mind against you while it feeds, his companions fall deeper into the trap and a nasty truth is revealed - you can die in dreams.</dc:description>
+    </metadata>
+</package>

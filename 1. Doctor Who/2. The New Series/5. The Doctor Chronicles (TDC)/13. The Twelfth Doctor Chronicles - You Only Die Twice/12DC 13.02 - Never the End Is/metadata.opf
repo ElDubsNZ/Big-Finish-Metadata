@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Never the End Is</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-016-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Twelfth Doctor Chronicles - Volume 3 - You Only Die Twice"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Ben Tedds</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jacob Dudman (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bhavnisha Parmar (Keira Sanstrom)</dc:creator>
+        <dc:creator opf:role="nrt">Jack Forsyth-Noble (Christoph Haizmann / Young Christoph)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Every day, pilgrims seek absolution at the Basilica of Mariazell. Like the painter who sees impossible things. Or the stranger who remembers people she’s never met. Or the Time Agents trapped in the town that time forgot.
+
+But Christoph Haizmann will have no absolution. Once, he made a deal, and at last the Devil has come to collect.</dc:description>
+    </metadata>
+</package>

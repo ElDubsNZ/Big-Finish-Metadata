@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Hall of the Ten Thousand</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 9"/>
+        <meta name="calibre:series_index" content="11"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jaine Fenn</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">India Fisher (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Ten Thousand represent everything the Doctor admires. Ingenuity, creativity and triumph of peace over war. So, naturally, he’s taken Charlotte Pollard to see them.
+
+However, their arrival isn’t quite the gallery visit they expected. Why is everything slowly falling apart? Why is the artist refusing to see them?
+
+But for Charley, there’s a question that’s far more urgent. Did that statue just move?</dc:description>
+    </metadata>
+</package>

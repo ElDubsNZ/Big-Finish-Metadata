@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Relative Dimensions</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-481-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Series 4"/>
+        <meta name="calibre:series_index" content="7"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sheridan Smith (Lucie Miller)</dc:creator>
+        <dc:creator opf:role="nrt">Carole Ann Ford (Susan Campbell)</dc:creator>
+        <dc:creator opf:role="nrt">Jake McGann (Alex Campbell)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Christmas is a time for family, they say – which is why the Doctor has invited his granddaughter Susan, and great grandson Alex for Christmas dinner in his time and space machine. But who, or what, is the spectre at their yuletide feast?
+
+Venturing deep into the dark heart of the TARDIS, Susan uncovers her past, Alex is told his future – and the Doctor finds himself caught in a deadly, dangerous present!</dc:description>
+    </metadata>
+</package>

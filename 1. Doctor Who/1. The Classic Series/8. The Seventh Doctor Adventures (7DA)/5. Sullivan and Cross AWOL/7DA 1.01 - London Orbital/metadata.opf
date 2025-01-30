@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>London Orbital</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-748-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Seventh Doctor Adventures - Silver and Ice"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (Harry Sullivan)</dc:creator>
+        <dc:creator opf:role="nrt">Eleanor Crooks (Naomi Cross)</dc:creator>
+        <dc:creator opf:role="nrt">Hywel Morgan (Keryth)</dc:creator>
+        <dc:creator opf:role="nrt">Youssef Kerkour (Agrandir)</dc:creator>
+        <dc:creator opf:role="nrt">Saffron Coomber (Elidir / Byrne)</dc:creator>
+        <dc:creator opf:role="nrt">Joshua Riley (Balmaris)</dc:creator>
+        <dc:creator opf:role="nrt">Mandy Weston (Sarya / Margolis)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Stafford (Harper / Lathrael / Receptionist 2)</dc:creator>
+        <dc:creator opf:role="nrt">Candida Gubbins (Nimriel / May / Receptionist 1)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Long ago, a massacre in a suburban house led to the young Harry Sullivan joining UNIT. But the murders were never solved. Years later, Harry and Naomi Cross investigate an oddity in the London Underground and uncover a whole different side to the capital.
+
+Creatures of myth are running amok across the city in a conflict going back decades. And somewhere in the shadows lurks a new incarnation of their old friend... the Doctor. And he's here to stop a war.</dc:description>
+    </metadata>
+</package>

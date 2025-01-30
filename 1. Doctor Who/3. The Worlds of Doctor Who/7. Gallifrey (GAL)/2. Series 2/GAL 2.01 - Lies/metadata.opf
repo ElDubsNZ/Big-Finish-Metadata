@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Lies</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2005-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-121-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 2"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Gary Russell</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (President Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">Mary Tamm (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Lynda Bellingham (Inquistor Prime Darkel)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Coodinator Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Andy Coleman (Andred)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Hallard (Castellan Wynter)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Littledale (The Archivist)</dc:creator>
+        <dc:creator opf:role="nrt">Brenda Longman (Pandora)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Cardinal Braxiatel)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>
+Some time has passed since the events of the Timonic Fusion Device threatened Romana's presidency with impeachment, and life has calmed down on Gallifrey. Well, apart from Romana's latest scheme, the opening up of Gallifrey's famed Academy to the students of alien races with the ability, or the potential, to harness temporal powers.
+
+ 
+
+Unfortunately, deep below the Capitol, Leela, confused and morose over the truth about her husband Andred, disturbs a malevolent power. Something from the Dark Days of Ancient Gallifrey.
+
+ 
+
+Something that wants to be reborn and will use any and every means that is at hand. Including the past of Gallifrey's incumbant President…
+
+ 
+
+THIS RELEASE IS NOW OUT OF PRINT ON CD.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Whatever Remains</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-803-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Paternoster Gang - Heritage 3"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Valentine</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Neve McIntosh (Madame Vastra)</dc:creator>
+        <dc:creator opf:role="nrt">Catrin Stewart (Jenny Flint)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Strax)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Fitch (Rodger Merripit / Sir Dudley Skelton)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Portal (Dr Poorgrass)</dc:creator>
+        <dc:creator opf:role="nrt">Annette Badland (Mrs Slinger / Batraxus)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Great Detective's latest case takes Vastra and friends to the Jurassic coast. A local landowner has vanished. The only clue – the footprints of a gigantic creature! 
+
+As Strax suffers the attentions of an amorous landlady, Jenny gains an admirer of her own. And Vastra discovers something buried deep...</dc:description>
+    </metadata>
+</package>

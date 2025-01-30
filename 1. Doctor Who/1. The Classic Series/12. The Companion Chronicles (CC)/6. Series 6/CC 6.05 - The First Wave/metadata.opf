@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The First Wave</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-584-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 6"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Purves (Steven Taylor)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Allen (Oliver Harper)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Vardan)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Mallinson (Halpin)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Caught in the inevitable path of its own history, the TARDIS arrives on the planetoid Grace Alone, where the Doctor, Steven and Oliver expect to face their fate. What they don’t expect to find is a massacred crew – and a race of alien invaders known as the Vardans.
+
+ When the Doctor is apparently killed, his companions attempt to survive against the odds. But those odds are narrowing. Their borrowed time has expired.</dc:description>
+    </metadata>
+</package>

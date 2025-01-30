@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Tactics of Defeat</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-487-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - The Second Doctor - Volume 2"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tony Jones</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Daphne Ashbrook (Captain Ruth Matheson)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Brenher (Deakin)</dc:creator>
+        <dc:creator opf:role="nrt">Wendy Padbury (Zoe Heriot)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In the rain-swept jungle of Belize, Captain Ruth Matheson and Zoe Heriot are both about to discover just what sacrifices they are prepared to make when faced with a seventeenth century threat that might just spell death for millions of innocent people. 
+
+Does the end justify the means? Sometimes winning feels like exactly like losing...</dc:description>
+    </metadata>
+</package>

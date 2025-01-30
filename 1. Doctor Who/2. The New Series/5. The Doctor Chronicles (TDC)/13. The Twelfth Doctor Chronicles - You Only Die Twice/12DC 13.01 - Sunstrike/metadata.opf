@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Sunstrike</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-016-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Twelfth Doctor Chronicles - Volume 3 - You Only Die Twice"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Georgia Cook</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jacob Dudman (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bhavnisha Parmar (Keira Sanstrom)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Daws (The Quatermaster)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>His clients have conquered millions of worlds. His weapons have ended billions of lives. But his private resort has the sort of security system that only trillions of credits can buy. Not even the Time Agency can bring the Quartermaster to justice.
+
+Which is why Keira’s enlisted a new recruit. The Doctor has faced many villains, but this time, he’ll have to become one…</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Evil One</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-293-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 3"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Geoffrey Beevers (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth Armstrong (Arthley / Salonu Prime)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Salonu / Andor / Auto-Announcer)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Keating (Calvert)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS lands in the cargo hold of luxury space cruiser the Moray Rose. The crew and passengers are missing. The agents of Inter-Galaxy Insurance are determined to find out what’s happened and the shadowy Interplanetary Police Inspector Efendi is showing a very particular interest.
+
+Caught up in all this, the Doctor and Leela find themselves facing a horde of metal mantis-like aliens. But throughout it all, Leela is haunted by terrible nightmares and the dawning realization that everything she knows about her life is a lie.</dc:description>
+    </metadata>
+</package>

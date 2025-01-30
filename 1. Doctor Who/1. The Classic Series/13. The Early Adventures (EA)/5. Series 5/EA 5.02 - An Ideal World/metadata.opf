@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>An Ideal World</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-962-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Early Adventures - Series 5"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Ian Potter</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Maureen O'Brien (Vicki / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Purves (Steven Taylor / The Doctor / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Elias)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Jordan (Heathcote)</dc:creator>
+        <dc:creator opf:role="nrt">Oliver Mason (Grant / Danuka)</dc:creator>
+        <dc:creator opf:role="nrt">Angela McHale (Kay / Christophe)</dc:creator>
+        <dc:creator opf:role="nrt">Carolyn Pickles (Traherne)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Stourton (Factotum / Fitzgerald / Samsara)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Light years from Earth, a vast human spaceship hangs in orbit over a cloudy alien planet. The crew have been travelling in cryosleep for many years, looking for a habitable world to settle, and have at last located one with potential.
+
+However, they’re not the only people to have arrived in this place. The TARDIS has landed on the planet’s surface. The Doctor, Steven and Vicki explore and quickly find themselves separated.
+
+But it isn’t merely the hostile environment and rogue terraforming drones they’ll have to deal with. Something else is living on this world. Something deadly and waiting to consume.
+
+It’s an ideal world. But ideal for whom?</dc:description>
+    </metadata>
+</package>

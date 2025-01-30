@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Devil's Hoofprints</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-569-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Third Doctor Adventures - Volume 8"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Valentine</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tim Treloar (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sadie Miller (Sarah Jane Smith)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (Brigadier Lethbridge-Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Kay (Chilton)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Daws (Sir Basil Hexworthy)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Griffiths (Reverend Mr Woolsgrove / Guard 1[u] / Guard 2[u])</dc:creator>
+        <dc:creator opf:role="nrt">Carolyn Seymour (Mrs Plymtree / Olive Plymtree / Technician / Mother[u])</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Icewalker)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Long ago, in Devon in 1855, a mysterious event occurred. Overnight, during a terrible blizzard, thousands of hoofprints appeared in the snow. The tracks led on for miles... and no-one ever identified who or what caused them.
+
+Many years later, the Doctor, Sarah and the Brigadier have come to Devon themselves, to visit a controversial scientific establishment in the wake of a mysterious death and rumours of strange occurrences in the vicinity.
+
+But things are just about to get much, much stranger. Because they’re about to uncover the origins of the Devil’s Hoofprints... but is this one mystery that should have remained unsolved?</dc:description>
+    </metadata>
+</package>

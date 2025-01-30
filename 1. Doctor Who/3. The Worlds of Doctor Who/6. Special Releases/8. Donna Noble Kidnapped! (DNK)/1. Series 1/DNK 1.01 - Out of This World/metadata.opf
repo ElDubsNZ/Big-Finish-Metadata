@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Out of this World</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-072-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Donna Noble - Kidnapped!"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jacqueline Rayner</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Catherine Tate (Donna Noble)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline King (Sylvia Noble)</dc:creator>
+        <dc:creator opf:role="nrt">Niky Wardley (Natalie)</dc:creator>
+        <dc:creator opf:role="nrt">Isla Blair (Marge)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Howell (Adrian)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Dennis)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Donna's home, but she's not quite herself. Sylvia has some ideas to bring her out of herself – involving an old friend, and speed-dating...
+
+As schoolgirl BFFs Donna and Natalie get reacquainted, a mysterious stranger dogs their steps. Is the Doctor keeping tabs on her, or is the truth far more sinister?</dc:description>
+    </metadata>
+</package>

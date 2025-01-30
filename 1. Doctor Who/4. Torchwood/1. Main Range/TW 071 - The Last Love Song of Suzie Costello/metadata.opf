@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Last Love Song of Suzie Costello</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-814-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="71"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Rafaella Marcus</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Indira Varma (Suzie Costello)</dc:creator>
+        <dc:creator opf:role="nrt">James Backway (Anwir)</dc:creator>
+        <dc:creator opf:role="nrt">Danielle Kassaraté (Orion)</dc:creator>
+        <dc:creator opf:role="nrt">Amanda Shodeko (Magda)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>An island has appeared in the North Atlantic Ocean. Suzie Costello comes to investigate and finds a crashed spaceship on the seabed. Inside the spaceship is a mystery. And also something Suzie has never dreamed of...</dc:description>
+    </metadata>
+</package>

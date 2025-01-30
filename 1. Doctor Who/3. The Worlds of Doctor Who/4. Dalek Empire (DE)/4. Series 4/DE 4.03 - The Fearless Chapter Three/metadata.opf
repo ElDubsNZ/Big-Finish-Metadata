@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Fearless Part 3</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2007-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-302-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Dalek Empire - Series 4"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Maureen O'Brien (Agnes Landen)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Mowat (Susan Mendes)</dc:creator>
+        <dc:creator opf:role="nrt">Noel Clarke (Salus Kade)</dc:creator>
+        <dc:creator opf:role="nrt">Oliver Mellor (Egan Fisk)</dc:creator>
+        <dc:creator opf:role="nrt">David Yip (Kennedy)</dc:creator>
+        <dc:creator opf:role="nrt">Ginita Jimenez (Lajitta)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Connolly (Kenzie / Tren / Radio Voice)</dc:creator>
+        <dc:creator opf:role="nrt">David Sax (Ernst Tanlee)</dc:creator>
+        <dc:creator opf:role="nrt">Esther Ruth Elliott (Ollander)</dc:creator>
+        <dc:creator opf:role="nrt">David Dobson (Avers)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On board the star cruiser Amorist, the outcome of the war with the Daleks hangs in the balance.
+
+Kade knows what he has to do, but has he been told the truth?</dc:description>
+    </metadata>
+</package>

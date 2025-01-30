@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Lion Hearts</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-548-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Doctor Begins - Series 1 - Forged in Fire"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lou Morgan</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jonathon Carley (The War Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Amy Downham (Lorinus)</dc:creator>
+        <dc:creator opf:role="nrt">Adèle Anderson (Commodore Tamasan)</dc:creator>
+        <dc:creator opf:role="nrt">Marilyn Nnadebe (Valetta)</dc:creator>
+        <dc:creator opf:role="nrt">John Dorney (Biroc / Vaspor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Seeking out Gallifrey's new warrior, Commodore Tamasan finds that the War Doctor has invited himself on a secret mission. The time-sensitive Tharils are in danger, and an old friend of the Doctor is trapped.
+
+But Biroc knows better than to trust either side in this war.</dc:description>
+    </metadata>
+</package>

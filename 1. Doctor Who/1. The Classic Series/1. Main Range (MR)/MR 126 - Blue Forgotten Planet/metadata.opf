@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Blue Forgotten Planet</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-414-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="126"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Andrée Bernard (Ellen Green)</dc:creator>
+        <dc:creator opf:role="nrt">Samuel Clemens (Sergeant James Atherton)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Courtney (Sir Alistair Lethbridge-Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">JJ Feild (David McCallister)</dc:creator>
+        <dc:creator opf:role="nrt">Russell Floyd (Garry Lendler)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Mallinson (Clive)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Maloney (Viryans / Alien)</dc:creator>
+        <dc:creator opf:role="nrt">Alec Newman (Ed Driscoll)</dc:creator>
+        <dc:creator opf:role="nrt">John Pickard (Thomas Brewster)</dc:creator>
+        <dc:creator opf:role="nrt">Jess Robinson (Mila)</dc:creator>
+        <dc:creator opf:role="nrt">Anneke Wills (Polly Wright)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>So, this is the blue planet you’ve forgotten about. But take another look. You helped us once. I know you can help us again.' 
+
+On Earth, civilization has ended and time is running out for the Doctor and Charlotte Pollard.
+
+Will the mysterious Viyrans really help?</dc:description>
+    </metadata>
+</package>

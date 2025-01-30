@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Corruptions</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-890-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Sixth Doctor Adventures - Purity Unbound"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mark Wright</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Melanie Bush / Corruption)</dc:creator>
+        <dc:creator opf:role="nrt">Ruth Madeley (Hebe Harrison)</dc:creator>
+        <dc:creator opf:role="nrt">Cherylee Houston (Elise Kaplan)</dc:creator>
+        <dc:creator opf:role="nrt">Imogen Stubbs (Purity)</dc:creator>
+        <dc:creator opf:role="nrt">Patricia England (Mrs Varley / Emerald Exerciser / Corruption / Quiz Machine Voice)</dc:creator>
+        <dc:creator opf:role="nrt">Brad Shaw (Mr Peabody / Mike / Arcade Machines / Corruption)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Melanie Bush is a popular part of the Pease Pottage village community, and her best friend Hebe runs the local café where Elise the florist often drops by. Elsewhere, the Doctor is trapped in a nightmarish realm - Pease Pottage Services - unable to cross the boundary of the motorway where shadowy creatures drift amid the traffic.
+
+Purity is watching, and if the Doctor attempts to rescue his friends... they will cease to exist.</dc:description>
+    </metadata>
+</package>

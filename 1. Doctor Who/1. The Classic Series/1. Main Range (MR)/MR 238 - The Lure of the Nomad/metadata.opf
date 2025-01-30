@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Lure of the Nomad</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-825-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="238"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matthew J Elliott</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">George Sear (Mathew Sharpe)</dc:creator>
+        <dc:creator opf:role="nrt">Anna Barry (Juniper Hartigan)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Christie (Captain Schumer)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Holness (Eric Drazen)</dc:creator>
+        <dc:creator opf:role="nrt">Dan March (Varian)</dc:creator>
+        <dc:creator opf:role="nrt">Susie Riddell (Esther Brak)</dc:creator>
+        <dc:creator opf:role="nrt">Ruth Sillers (Willoway)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>For thousands of years, it has drifted through space, unimpeded, forgotten, seemingly lifeless. Now, finally, it has been discovered.
+
+Responding to a distress call from the mysterious hulk, the Doctor and his companion, space pilot Mathew Sharpe, walk into a desperate situation. The multi-tentacled semibionic Makara were tasked with renovating the abandoned craft, but now they’ve begun murdering their employers.
+
+The Doctor soon realises that the Makara have been programmed to kill, but by whom, and for what reason? Finding out the truth will mean uncovering a secret that threatens the entire Universe.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>One for All</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-635-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Sixth Doctor Adventures - The Eleven"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizzie Hopley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Miranda Raison (Constance Clarke)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Bonnar (The Eleven)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Gaskell (Miskavel)</dc:creator>
+        <dc:creator opf:role="nrt">Eva Savage (Miss Daxel)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (Dr Varma)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The people of Molaruss are in two minds – quite literally! A world of duo-minds inside single bodies offers a unique opportunity to the Eleven, and his new wife, the mutant alien Miskavel. Meanwhile, the Doctor and Constance discover a derelict TARDIS, but are they walking into a trap?</dc:description>
+    </metadata>
+</package>

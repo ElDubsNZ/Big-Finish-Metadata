@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Point of Entry</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-449-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 1"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Barbara Clegg</dc:creator>
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Addis (Christopher Marlowe)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Brooker (Sir Francis Walsingham)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Connolly (Iguano / Captain Garland)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Mallinson (Jack)</dc:creator>
+        <dc:creator opf:role="nrt">Luis Soto (Don Lorenzo Velez)</dc:creator>
+        <dc:creator opf:role="nrt">Gemma Wardle (Alys)</dc:creator>
+        <dc:creator opf:role="nrt">Tam Williams (Tom)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Lost Stories: Adventures that were originally written for the Doctor Who television series but never made. Now available to hear for the first time…
+
+The 16th Century. Playwright Kit Marlowe is attempting to write Doctor Faustus when a darkness descends on his life, in the cadaverous form of a Spaniard called Velez. The monstrosity is in search of a stone blade that was brought from South America...
+
+After a near-disastrous collision with an asteroid in space, the TARDIS makes an emergency landing in Elizabethan England.
+
+These two events are connected. The Omnim are ready. And the point of entry approaches...</dc:description>
+    </metadata>
+</package>

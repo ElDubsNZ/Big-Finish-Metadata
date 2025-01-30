@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Behemoth</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-811-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="231"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Miranda Raison (Constance Clarke)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Greenwood (Flip Jackson)</dc:creator>
+        <dc:creator opf:role="nrt">Ben Arogundade (Gorembe)</dc:creator>
+        <dc:creator opf:role="nrt">Wayne Forester (Rev Mr Philip Naylor)</dc:creator>
+        <dc:creator opf:role="nrt">Diveen Henry (Sarah)</dc:creator>
+        <dc:creator opf:role="nrt">Liam McKenna (Titus Craven)</dc:creator>
+        <dc:creator opf:role="nrt">Georgina Moon (Mrs Middlemint)</dc:creator>
+        <dc:creator opf:role="nrt">Giles New (Captain Douwemout Van Der Meer / Nehemiah Hawnch)</dc:creator>
+        <dc:creator opf:role="nrt">Glynn Sweet (Sir Geoffrey Balsam)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Bath, 1756 – and a very dashing gentleman known only as the Doctor is newly arrived in town, accompanied by his lady friends Mrs Clarke and Mrs Ramon. He’s created a stir among the gentlefolk of Georgian high society – and a stir in the heart of merry widow Mrs Theodosia Middlemint, rumour has it.
+
+They are not the only strangers from abroad causing tongues to wag, however. The mysterious Lady Clara, come from Amsterdam in the company of the noble Captain Van Der Meer, has the whole of Bath agog. Who is she, really? What is she, really?
+
+But there’s something terrible beneath the veneer of Georgian gentility. As awful a horror as the Doctor has ever exposed, hidden inside Balsam’s Brassworks. Something that needs to be brought to light, for the sake of all humanity.</dc:description>
+    </metadata>
+</package>

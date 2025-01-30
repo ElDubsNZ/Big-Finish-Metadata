@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>All of Time and Space</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-912-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eleventh Doctor Chronicles - Volume 4 - All of Time and Space"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim "Ellery Quest" Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jacob Dudman (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Safiyya Ingar (Valarie Lockwood)</dc:creator>
+        <dc:creator opf:role="nrt">Leroy Bonsu (Ellery Quest / Alien Diner)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Hope (Mr Darling)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>As concepts for shows go, it’s a good one. An adventurer and his friend travelling through all of time and space, righting wrongs and defending those who can't defend themselves. Yet, as its creator is about to discover, there are those who'd rather this show never existed.
+
+What’s so dangerous about ‘Doctor Who’?</dc:description>
+    </metadata>
+</package>

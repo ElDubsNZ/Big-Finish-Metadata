@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Voyage to Venus</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-978-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Sixth Doctor Adventuers - Jago, Litefoot & The Sixth Doctor"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Baxter (Professor George Litefoot)</dc:creator>
+        <dc:creator opf:role="nrt">Juliet Aubrey (Velpina)</dc:creator>
+        <dc:creator opf:role="nrt">Catherine Harvey (Felina)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Norfolk (Ursina)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Ross (Vepaja / Thraskin)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Professor Litefoot and Henry Gordon Jago are accustomed to the murky fog of Victorian London and the palatable pints of half and half at the Red Tavern. They are not used to travelling through time and space with their old friend the Doctor.
+
+And now they find themselves whisked off to the planet Venus in the distant future, at a time when warrior women rule from a floating city in the clouds. There’s a mystery here, one that the Grand Empress Vulpina intends to keep secret. Even if it means destroying these visitors from the long-dead planet Earth...</dc:description>
+    </metadata>
+</package>

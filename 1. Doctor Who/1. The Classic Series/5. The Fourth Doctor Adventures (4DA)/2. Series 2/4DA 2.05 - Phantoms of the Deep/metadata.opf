@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Phantoms of the Deep</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-058-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 2"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Mary Tamm (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">John Albasiny (Chris Fleming)</dc:creator>
+        <dc:creator opf:role="nrt">Alice Krige (Dr Patricia Sawyer)</dc:creator>
+        <dc:creator opf:role="nrt">Gwilym Lee (Jack Hodges)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Norfolk (Terri McCulloch)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On their mission to explore the Mariana Trench at the very bottom of the ocean, the deepest and most inhospitable place on Earth, the crew of the deep sea vehicle Erebus make an unusual and startling discovery.
+
+A battered blue police box.
+
+As the Doctor, Romana and K9 join them on their journey, the submariners soon discover that the TARDIS is not the only unusual find lurking on the sea floor.
+
+Super-intelligent squid, long-lost submarines and their miraculous occupants are only the start of their troubles. The Goblins are coming. And they won't let anyone out alive.</dc:description>
+    </metadata>
+</package>

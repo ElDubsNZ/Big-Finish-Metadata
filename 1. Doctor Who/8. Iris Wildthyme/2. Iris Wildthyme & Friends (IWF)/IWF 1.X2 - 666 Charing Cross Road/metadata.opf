@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>666 Charing Cross Road</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Iris Wildthyme & Friends"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Magrs</dc:creator>
+
+        <!--Cast-->
+
+        <!-- Description -->
+        <dc:description>Shelley didn't expect her posh new boyfriend Daniel to be enthralled by the quintessence of evil. She's preoccupied with the surprise success of Bessie, the oddly lifelike centrepiece of her Manhattan museum show. Her great-aunt Liza is busy ordering spooky old books from the dusty vaults below Charing Cross Road, while her friend Jack prefers brand-new books and his brand-new lover. When a little leather book arrives, Liza finds it repellent, but doesn't realise it's stained with vampire blood - until too late. Its arcane magic brings Bessie to life, and gives Daniel unimaginable power. 
+
+As Daniel's supremacy grows, everyone's lives are infected. Soon the vicious vampire infestation rife in NYC threatens to spread to London - and only Bessie and her new friends can stop it...</dc:description>
+    </metadata>
+</package>

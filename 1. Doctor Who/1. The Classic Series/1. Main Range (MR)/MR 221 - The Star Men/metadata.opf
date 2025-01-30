@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Star Men</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-791-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="221"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andrew Smith</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Waterhouse (Adric)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Kris Dyer (Nomar / Vedrin / Surgical Robot / Pilot)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Computer)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Guinness (Rovus)</dc:creator>
+        <dc:creator opf:role="nrt">Sue Holderness (Kala Tace)</dc:creator>
+        <dc:creator opf:role="nrt">Damian Lynch (Fell / Lom)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Wu (Autumn Tace)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Astronomical navigation is a tricky business. To help Adric with his studies, the Doctor sets course for Gallius Ultima – a planet on the edge of the Milky Way, housing one of the most impressive observatories ever constructed.
+
+But the TARDIS arrives to find Gallius U in a state of emergency, tracking the return of the Explorer-class ship Johannes Kepler from its mission into the heart of the mysterious Large Magellanic Cloud. A mission that met with disaster…
+
+To find out what overtook the crew of the Johannes Kepler, the Doctor and his companions must journey into the heart of the Cloud… and beyond, into the darkness of another reality altogether. The universe of the Star Men.</dc:description>
+    </metadata>
+</package>

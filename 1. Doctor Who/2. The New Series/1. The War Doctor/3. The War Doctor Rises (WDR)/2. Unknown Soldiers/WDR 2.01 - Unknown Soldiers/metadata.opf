@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Unknown Soldiers</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-446-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Doctor Rises - Series 2 - Unknown Soldiers"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Timothy X Atack</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jonathon Carley (The War Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Isla Blair (Pars)</dc:creator>
+        <dc:creator opf:role="nrt">Phillipe Bosher (Regent Lunim Alius Rorg)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Kane (Bevvakk The Squirrn)</dc:creator>
+        <dc:creator opf:role="nrt">Adam Martyn (The Blind Bomb Maker)</dc:creator>
+        <dc:creator opf:role="nrt">Amanda Shodeko (Ormarelle)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew James Spooner (Og-One / Og-Two)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>This title was released in December 2024. It will be exclusively available to buy from the Big Finish website until 28 February 2025, and on general sale after this date.
+
+As the Time War rages across the cosmos, an unlikely crew of outcasts form a pact to end the conflict once and for all. Their target: a legendary warrior, whose assassination at a precise point in history will create a chain reaction that sets the whole universe free...</dc:description>
+    </metadata>
+</package>

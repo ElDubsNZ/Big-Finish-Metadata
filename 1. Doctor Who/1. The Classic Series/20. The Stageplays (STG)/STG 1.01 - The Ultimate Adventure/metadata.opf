@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Ultimate Adventure</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-373-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Stageplays"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Terrance Dicks</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Noel Sullivan (Jason)</dc:creator>
+        <dc:creator opf:role="nrt">Claire Huckle (Crystal)</dc:creator>
+        <dc:creator opf:role="nrt">David Banks (Karl)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks / Emperor Dalek / Cybermen)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Carlyle (The Envoy / Zog / Mercenary / Revolutionary Guard / Alien Insects)</dc:creator>
+        <dc:creator opf:role="nrt">Nadine Cox (Mrs T / Delilah)</dc:creator>
+        <dc:creator opf:role="nrt">Bryan Pilkington (MC / Bodyguard / Mercenary / Alien Insects)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A special audio adaptation of the Doctor Who stageplay from the 1980s.
+
+The Daleks have allied themselves with the Cybermen and a deadly band of mercenaries. The future of Earth depends upon a vital peace conference. And Mrs T knows that only one Time Lord can save the world.
+
+There are epic battles. There are betrayals. There is love, and there are even songs.
+
+Take your seat for... The Ultimate Adventure!</dc:description>
+    </metadata>
+</package>

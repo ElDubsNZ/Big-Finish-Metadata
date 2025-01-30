@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Conspiracy</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-916-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Llewellyn</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Barrowman (Captain Jack Harkness)</dc:creator>
+        <dc:creator opf:role="nrt">John Sessions (Wilson)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Ovens (Kate)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Bottomley (Sam)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Captain Jack Harkness has always had his suspicions about the Committee. And now Wilson is also talking about the Committee. Apparently the world really is under the control of alien lizards. That's what Wilson says. People have died, disasters have been staged, the suspicious have disappeared. 
+
+It's outrageous. 
+
+Only Jack knows that Wilson is right. The Committee has arrived.</dc:description>
+    </metadata>
+</package>

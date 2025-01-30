@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Desperate Measures</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-397-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 9 - Time War 1"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks / Dalek Time Strategist / Dalek Emperor)</dc:creator>
+        <dc:creator opf:role="nrt">Pippa Bennett-Warner (Livia)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Marc Davis (Trave)</dc:creator>
+        <dc:creator opf:role="nrt">Ebony Wong (Karla)</dc:creator>
+        <dc:creator opf:role="nrt">David Sibley (Valerian)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Dalek Emperor attacks a vital Time Lord outpost. Victory would be a devastating blow to Gallifrey. 
+
+Romana is caught in the machinations of a President who sees control slipping away. Is it time to bargain with the War Council, or perhaps to parlay with even more dangerous parties? 
+
+The Time War has barely begun, and for Gallifrey, desperate times are already here...</dc:description>
+    </metadata>
+</package>

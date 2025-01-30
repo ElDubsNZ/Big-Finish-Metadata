@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Interstitial / Feast of Fear</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-863-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="257"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Martyn Waites</dc:creator>
+        <dc:creator opf:role="aut">Carl Rowens</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">George Watkins (Marc)</dc:creator>
+        <dc:creator opf:role="nrt">Jeremy Ang Jones (Jennings)</dc:creator>
+        <dc:creator opf:role="nrt">Melissa Dean (Brianna)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Heenan (Armstrong)</dc:creator>
+        <dc:creator opf:role="nrt">Niamh McGrady (Shannon)</dc:creator>
+        <dc:creator opf:role="nrt">Deirdre Mullins (The Spae Wife)</dc:creator>
+        <dc:creator opf:role="nrt">Anna-Maria Nabirye (Kalu)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Yare (Lorcan)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Two 2-part stories featuring the Fifth Doctor, Nyssa, Tegan and Marc.
+
+Interstitial by Carl Rowens
+
+When the TARDIS is drawn off-course by temporal disruption, the Doctor and his companions discover a research facility conducting dangerous experiments. But how do you fight the future when time itself is being used as a weapon?
+
+Feast of Fear by Martyn Waites
+
+At the height of the Irish famine, a carnival travels the country bringing cheer to all they encounter. But it also brings something else along with them… and it already has the Doctor.</dc:description>
+    </metadata>
+</package>

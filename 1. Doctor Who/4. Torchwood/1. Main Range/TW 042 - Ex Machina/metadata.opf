@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Ex Machina</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-108-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="42"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alfie Shaw</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Gareth David-Lloyd (Ianto Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Aikman (Abigail Forehill)</dc:creator>
+        <dc:creator opf:role="nrt">Joshua Manning (The Absence)</dc:creator>
+        <dc:creator opf:role="nrt">Kerry Joy Stewart (Mrs Evans)</dc:creator>
+        <dc:creator opf:role="nrt">Misha Malcolm (Fran)</dc:creator>
+        <dc:creator opf:role="nrt">Jacob Dudman (Luke)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Ianto Jones is Torchwood. Ianto Jones is the defender of a deserted city, a lone crusader who keeps the empty streets safe. 
+
+One day he meets one of the few survivors. She needs his help – because she's being chased by a darkness. A darkness which says it loves her.</dc:description>
+    </metadata>
+</package>

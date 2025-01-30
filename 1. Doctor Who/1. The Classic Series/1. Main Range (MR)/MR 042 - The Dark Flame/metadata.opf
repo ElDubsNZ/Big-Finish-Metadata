@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Dark Flame</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2003-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-025-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="42"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Trevor Baxendale</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Longworth (Broke)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Praed (Professor Slyde)</dc:creator>
+        <dc:creator opf:role="nrt">Hannah Smith (Professor Lomas)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Westfield (Remnex)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Victor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A thousand years ago, the evil Cult of the Dark Flame infiltrated every star system in the galaxy. In the history books, the Cult is legendary, its despotic leader a terrible memory.
+
+But for some, the Dark Flame still burns. For some, its horrifying power is the ultimate goal. All that is required is for the right people to be in the wrong place and time.
+
+An archaeologist and his robot are on the poisonous world of Sorus Alpha, where they will uncover a hideous relic. The Doctor and Ace are on their way to the deep space research centre Orbos, where Professor Bernice Summerfield is soon to start the countdown to universal Armageddon.
+
+Four acolytes of Evil. Three mad scientists. Two companions. One Doctor.</dc:description>
+    </metadata>
+</package>

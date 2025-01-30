@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Army of Death</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-603-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="155"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jason Arnopp</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Julie Cox (Mary Shelley)</dc:creator>
+        <dc:creator opf:role="nrt">Mitch Benn (Commander Raynar / Karnex / Harmon / Skull / Journo)</dc:creator>
+        <dc:creator opf:role="nrt">Joanna Christie (Sherla / Baden / Tox / Computer)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Cooper (Hover-Sentries / Maddox / Stennan / Journo)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Guard)</dc:creator>
+        <dc:creator opf:role="nrt">David Harewood (John Vallan)</dc:creator>
+        <dc:creator opf:role="nrt">Carolyn Pickles (Meera Darone)</dc:creator>
+        <dc:creator opf:role="nrt">Eva Pope (Nia Brusk)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS brings the Doctor and Mary Shelley to the continent of Zelonia, on the frontier world Draxine – where, many moons ago, the twin citystates of Garrak and Stronghaven bore testament to mankind’s colonial spirit.
+
+That was before the sinister death cult of Garrak’s President Harmon took hold - and Garrak annihilated itself, utterly, in an apocalyptic explosion. Before the bones of Garrak’s dead came back to life, and its skeletal citizens began marching, marching, marching on Stronghaven.
+
+But what do they want, this army of death? And can anything stop them? In search of answers, the Doctor and Mary must journey into the dead heart of a dead city to face a terrifying adversary, whose ambitions transcend the stuff of life itself.</dc:description>
+    </metadata>
+</package>

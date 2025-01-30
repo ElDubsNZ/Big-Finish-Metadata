@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Machines Like Us</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-594-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Robots - Series 5"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Phil Mulryne</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Claire Rushbrook (Tula Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Lambie (Graf Kirran)</dc:creator>
+        <dc:creator opf:role="nrt">Finlay Robertson (Kador Arris)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (The Source)</dc:creator>
+        <dc:creator opf:role="nrt">Yasmin Mwanza (Rosama Volf / V557)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Kador Arris of the founding families used to work for the Company - but now he’s on the outside and demanding greater accountability. His populist plans are gaining momentum - but also gaining him enemies. A terrifying conspiracy is underway - and only Liv and Tula are in a position to stop it.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>If I Should Die Before I Wake</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-914-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - Classic Doctors, New Monsters - Series 3 - The Stuff of Nightmares"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard / Gorgon / the Fates / Sphinx)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Eighth Doctor and Charley are lost – in a labyrinth of monsters. And somewhere, lurking, are the Dream Crabs... 
+
+From the Sphinx to Gorgons, Cerberus and Pegasus, the Greek myths are alive and threatening the TARDIS duo with death at every turn. How long until their Fates unravel, and the truth is revealed?</dc:description>
+    </metadata>
+</package>

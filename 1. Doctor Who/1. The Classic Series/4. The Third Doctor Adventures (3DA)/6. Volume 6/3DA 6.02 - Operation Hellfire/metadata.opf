@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Operation Hellfire</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-160-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Third Doctor Adventures - Volume 6"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tim Treloar (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Katy Manning (Jo Grant)</dc:creator>
+        <dc:creator opf:role="nrt">Ian McNeice (Winston Churchill)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Clemens (Hegley)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Elstob (Wing Commander Douglas Quilter)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Goddard (Sally / Time Lady)</dc:creator>
+        <dc:creator opf:role="nrt">Terry Molloy (Sir Davenport Finch)</dc:creator>
+        <dc:creator opf:role="nrt">Jeany Spark (Daisy Chapel)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the Doctor accepts an invitation to an audience with a popular horror writer, he's expecting a rather dull evening. But he quickly senses the presence of another Gallifreyan nearby. The Time Lords have a mission for him.
+
+Soon the Doctor and Jo and themselves at the height of the Second World War in 1943. Caught up in a struggle involving occultist Nazis, the Prime Minister, top secret agencies and a mysteriously powerful amulet, they must distinguish friend from foe and avoid sacrifice upon the altar of evil.</dc:description>
+    </metadata>
+</package>

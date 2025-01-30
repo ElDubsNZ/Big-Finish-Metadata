@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Excise Men</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-146-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Diary of River Song - Series 12 - The Orphan Quartet"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lou Morgan</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Jade Matthew (Wenna Richards)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Elroy (The Agent)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Millson (Jory Hopkins)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Stafford (Martin)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Corgan / Joseph Tweedale (The Smugglers)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A smugglers' inn on the Cornish coast in the 18th Century is under attack. Never do a deal with the Excise Men.</dc:description>
+    </metadata>
+</package>

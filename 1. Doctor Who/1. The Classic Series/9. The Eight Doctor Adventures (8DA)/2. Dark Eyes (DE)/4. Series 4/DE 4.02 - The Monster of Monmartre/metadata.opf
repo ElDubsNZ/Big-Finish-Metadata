@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Monster of Montmartre</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-306-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Dark Eyes 4"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Dalek Time Controller, Dalek Time Strategists, other Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Rachael Stirling (Adelaine Dutemps)</dc:creator>
+        <dc:creator opf:role="nrt">Camilla Power (Mademoiselle)</dc:creator>
+        <dc:creator opf:role="nrt">Blake Ritson (Georges Legrand)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Wyndham (Christian Favreau/Thug/Waiter)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and Liv’s investigations bring them to Paris, where a monster stalks the streets.</dc:description>
+    </metadata>
+</package>

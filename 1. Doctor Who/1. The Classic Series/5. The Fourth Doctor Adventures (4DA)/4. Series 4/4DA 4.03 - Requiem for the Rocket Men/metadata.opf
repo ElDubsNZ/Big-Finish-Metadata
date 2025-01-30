@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Requiem for the Rocket Men</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-347-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 4"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">Geoffrey Beevers (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Frost (Shandar)</dc:creator>
+        <dc:creator opf:role="nrt">Damian Lynch (Marshall)</dc:creator>
+        <dc:creator opf:role="nrt">Olivia Poulet (Myrren)</dc:creator>
+        <dc:creator opf:role="nrt">Pat Ruins (Oskin)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Asteroid - notorious hideaway of the piratical Rocket Men. Hewn out of rock, surrounded by force-fields and hidden in the depths of the Fairhead Cluster, their base is undetectable, unescapable and impregnable.
+
+In need of allies, the Master has arranged to meet with Shandar, King of the Rocket Men. But the mercenaries have captured themselves a very special prisoner - his oldest enemy, the Doctor.
+
+What cunning scheme is the Doctor planning? How does it connect with Shandar's new robotic pet? And just what has happened to Leela? The Master will have to work the answers out if he wants to leave the asteroid... alive...</dc:description>
+    </metadata>
+</package>

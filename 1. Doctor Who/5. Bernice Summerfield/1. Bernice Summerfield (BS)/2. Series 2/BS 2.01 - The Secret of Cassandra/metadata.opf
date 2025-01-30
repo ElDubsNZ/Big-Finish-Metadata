@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Secret of Cassandra</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2000-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-411-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 2"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Bailey</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Curbishley (Sheen)</dc:creator>
+        <dc:creator opf:role="nrt">Sally Faulkner (General Hannah Brennan)</dc:creator>
+        <dc:creator opf:role="nrt">Helen Goldwyn (The Computer)</dc:creator>
+        <dc:creator opf:role="nrt">Lennox Greaves (Captain Damien Colley)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A vicious war between two nations is coming to a head, and the final movements are centred on the sailing ship Cassandra. Along with a very strange cargo, Cassandra carries Captain Colley, a man with his own sad burden, and the paranoid General Brennan, a woman convinced that her actions will end the war once and for all. Their grim mission goes entirely to plan, until the Cassandra gains an extra passenger ­ a shipwrecked archaeology professor by the name of Bernice Summerfield.
+
+Sensing something is very wrong aboard the ship, Bernice's snooping brings her close to a terrible truth. Soon, Bernice doesn't know who to trust, and she can no longer be sure if anyone is who they claim to be...</dc:description>
+    </metadata>
+</package>

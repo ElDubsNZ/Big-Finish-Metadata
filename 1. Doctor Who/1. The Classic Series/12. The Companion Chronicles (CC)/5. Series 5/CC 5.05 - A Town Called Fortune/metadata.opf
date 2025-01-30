@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>A Town Called Fortune</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-487-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 5"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Sutton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Maggie Stables (Evelyn Smythe)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Cordery (Sam)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>“Wanted dead or alive for the murder of… William Donovan!”
+
+Problems beset the Doctor and Evelyn Smythe as they travel by train to the Wild West town of Fortune. A young woman is investigating the murder of her father nine years earlier, and a wanted poster indicates that the Doctor is the killer!
+
+With the TARDIS lost to them and the law on their tail, can the travellers unravel the mystery – or will Rachel Ann Donovan take her revenge first?</dc:description>
+    </metadata>
+</package>

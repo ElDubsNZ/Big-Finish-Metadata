@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Warriors</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2004-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-086-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Dalek Empire - Series 3"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Tennant (Galanar)</dc:creator>
+        <dc:creator opf:role="nrt">William Gaunt (Selestru)</dc:creator>
+        <dc:creator opf:role="nrt">Ishia Bennison (Frey Saxton)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Elder (Siy Tarkov)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Mowat (Susan Mendes)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Rees (Kaymee Arnod)</dc:creator>
+        <dc:creator opf:role="nrt">Claudia Elmhirst (Elaria)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Forbes (Culver)</dc:creator>
+        <dc:creator opf:role="nrt">Oliver Hume (Carneill)</dc:creator>
+        <dc:creator opf:role="nrt">Greg Donaldson (Telligan)</dc:creator>
+        <dc:creator opf:role="nrt">Karen Henson (Saloran Hardew)</dc:creator>
+        <dc:creator opf:role="nrt">Dannie Carr (Morli)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Brooker (Bulis Mietok)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Wolff (Chauley)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Fugitives still at liberty! 
+
+Galanar and Elaria have now discovered that they were transformed into genetically augmented warriors over two thousand years ago. The Alternative Daleks responsible have long left our dimension. But now, Galanar and Elaria know that they were created to destroy the Daleks forever. but how can they do that when they are facing a Dalek execution squad? 
+
+The Graxis Wardens have penetrated deep into Dalek territory, without a hope of victory. 
+
+Meanwhile, Kaymee begins to discover the truth about the Daleks and the NFS Plague...</dc:description>
+    </metadata>
+</package>

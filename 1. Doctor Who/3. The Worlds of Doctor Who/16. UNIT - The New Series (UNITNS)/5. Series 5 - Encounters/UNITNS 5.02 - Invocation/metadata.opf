@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Invocation</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-967-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - The New Series - Series 5 - Encounters"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Roy Gill</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jemma Redgrave (Kate Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Ingrid Oliver (Osgood)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Captain Josh Carter)</dc:creator>
+        <dc:creator opf:role="nrt">Ramon Tikaram (Colonel Shindi)</dc:creator>
+        <dc:creator opf:role="nrt">Karina Fernandez (Phoebe Breckenridge)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Fleming (Alice Donelly)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Cottle (Ben Donelly)</dc:creator>
+        <dc:creator opf:role="nrt">David Jonsson (Corporal James Morley)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Satellite Voice)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It's Hallowe'en, and Josh finds himself at a party where phantoms are becoming all too real. Osgood is working late and hears a voice from the skies making strange incantations. The next day, Kate has gone missing in the Scottish Borders, and the team head north to investigate. Ghosts from the past are haunting UNIT, and now they threaten the whole world…</dc:description>
+    </metadata>
+</package>

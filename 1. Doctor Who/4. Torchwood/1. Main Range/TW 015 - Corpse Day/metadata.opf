@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Corpse Day</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-639-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="15"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Burn Gorman (Owen Harper)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Price (Andy Davidson)</dc:creator>
+        <dc:creator opf:role="nrt">Hannah Maddox (Angela)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Tregear (Jan)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Betts (Glynn)</dc:creator>
+        <dc:creator opf:role="nrt">Oliver Mason (Sonny)</dc:creator>
+        <dc:creator opf:role="nrt">Rhian Blundell (Marta)</dc:creator>
+        <dc:creator opf:role="nrt">Aly Cruickshank (Desk Sergeant)</dc:creator>
+        <dc:creator opf:role="nrt">Charlotte O'Leary (Waitress)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Glynn Lewis is just putting up a spice rack when there's a knock at the door. A knock that will bring a brutal end to his perfect family. 
+
+PC Andy is very excited. It's Corpse Day – the day when the local constabulary get help on dead cases from Torchwood. This year, he's volunteered to act as liaison, and he knows he's going to have a brilliant time. 
+
+For Dr Owen Harper, today's just like any other. There'll be bloodshed, screaming and murder. At the end of it all, he doesn't care. After all, life's just for the living, and he's long dead.</dc:description>
+    </metadata>
+</package>

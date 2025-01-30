@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Catfish</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-184-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Class - Series 3"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Kate Thorman</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Joanna McGibbon (Tanya)</dc:creator>
+        <dc:creator opf:role="nrt">Greg Austin (Charlie)</dc:creator>
+        <dc:creator opf:role="nrt">Fady Elsayed (Ram)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Hopkins (April)</dc:creator>
+        <dc:creator opf:role="nrt">Jordan Renzo (Matteusz)</dc:creator>
+        <dc:creator opf:role="nrt">Dervla Kirwan (Miss Quill)</dc:creator>
+        <dc:creator opf:role="nrt">Jacob Daniels (Paul)</dc:creator>
+        <dc:creator opf:role="nrt">Sakuntala Ramanee (Teacher)</dc:creator>
+        <dc:creator opf:role="nrt">Kate Morgan-Jones (Girl)</dc:creator>
+        <dc:creator opf:role="nrt">Ross Ford (Boy)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When a new student transfers to Coal Hill Academy, everyone goes out of their way to make him feel welcome, and Tanya is especially surprised by how much they have in common. Will she sacrifice her best friends for her very first boyfriend? </dc:description>
+    </metadata>
+</package>

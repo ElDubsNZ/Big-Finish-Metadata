@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Breaking Bubbles and Other Stories</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-329-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="188"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizbeth Myles</dc:creator>
+        <dc:creator opf:role="aut">Mark Ravenhill</dc:creator>
+        <dc:creator opf:role="aut">Una McCormack</dc:creator>
+        <dc:creator opf:role="aut">Nev Fountain</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Jemma Churchill (Safira Valtris / Dr Maria Backhouse)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Fountain (Young Trobe)</dc:creator>
+        <dc:creator opf:role="nrt">Johnny Gibbon (Michael)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Henfrey (Dr Petherbridge)</dc:creator>
+        <dc:creator opf:role="nrt">Jessica Knappett (Dr Ruth Horwitz)</dc:creator>
+        <dc:creator opf:role="nrt">Anjella MacKintosh (Standing / Olivia)</dc:creator>
+        <dc:creator opf:role="nrt">Allison McKenzie (Tondra / Dr Joan Dalton)</dc:creator>
+        <dc:creator opf:role="nrt">Phil Mulryne (Trobe / Warma)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Panting (Maylon / Geoff / Llangragen)</dc:creator>
+        <dc:creator opf:role="nrt">Andy Secombe (Laris /Akros / Policeman)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>An anthology of four tales on the theme of perception.
+
+Breaking Bubbles by LM Myles
+ The Doctor and Peri find themselves in the palatial gardens of the deposed Empress Safira Valtris where nothing is ever quite what it seems.
+
+Of Chaos Time The by Mark Ravenhill
+ Cast adrift in his own chronology, the Doctor must avert the consequences of a catastrophic experiment in using time as a weapon of war.
+
+An Eye For Murder by Una McCormack
+ The year is 1939, and a case of poison pen letters at St Ursula’s College threatens to change the course of the Second World War. Fortunately thriller writer Miss Sarah Perry is on hand to investigate...
+
+The Curious Incident of the Doctor in the Night-Time by Nev Fountain
+ Michael is a young boy who likes to solve mysteries, such as the mystery of the extra gnome, the mystery of the absent father, and the mystery of the strange man in yellow trousers at the bottom of the garden.</dc:description>
+    </metadata>
+</package>

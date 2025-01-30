@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Mists of Time</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-551-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 6"/>
+        <meta name="calibre:series_index" content="0.2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Katy Manning (Jo Grant)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Whipp (Newton Calder)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Many years ago, when she was travelling with the Doctor, Jo Grant visited Zayin Eight. Now, suddenly and inexplicably, she is back on that ravaged planet, and reunited with a human called Newton Calder. What happened to the missing members of Calder's team? What is the secret of the vast ruined city? The answers will lie in the dark and distant past of the Time Lords themselves...</dc:description>
+    </metadata>
+</package>

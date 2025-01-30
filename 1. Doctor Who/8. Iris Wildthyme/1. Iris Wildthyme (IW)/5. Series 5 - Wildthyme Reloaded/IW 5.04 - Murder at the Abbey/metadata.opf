@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Murder at the Abbey</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-778-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Iris Wildthyme - Series 5"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mark B. Oliver</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Katy Manning (Iris Wildthyme)</dc:creator>
+        <dc:creator opf:role="nrt">Geoffrey Breton (Captain Edwin Turner)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Hallard (Inspector Greenock)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Hilda)</dc:creator>
+        <dc:creator opf:role="nrt">Tracey Childs (Lady Fothergill)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Hayes (Chloe)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Longworth (Mr Cane)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Handcock (Albertson)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>After witnessing the death of one of their friends, Iris and Captain Turner turn sleuth to get to the bottom of things. But just who would want to commit such a beastly crime... and why? Wildthyme is on the case!</dc:description>
+    </metadata>
+</package>

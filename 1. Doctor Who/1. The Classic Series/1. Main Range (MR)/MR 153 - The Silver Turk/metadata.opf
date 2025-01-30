@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Silver Turk</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-601-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="153"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Julie Cox (Mary Shelley / Barkers)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth Armstrong (Dr Johan Drossel / Policeman / Barker / Punter)</dc:creator>
+        <dc:creator opf:role="nrt">Christian Brassington (Alfred Stahlbaum / Barkers)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Cybermen / Heinz / Barker)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Krauss / Waiter)</dc:creator>
+        <dc:creator opf:role="nrt">Gwilym Lee (Count Rolf Wittenmeier / Barkers)</dc:creator>
+        <dc:creator opf:role="nrt">David Schneider (Ernst Bratfisch)</dc:creator>
+        <dc:creator opf:role="nrt">Claire Wyatt (Countess Mitzi Wittenmeier / Hannalore / Empress / Punter)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Roll up! Roll up! To the great Viennese Exposition, where showman Stahlbaum will show you his most wonderful creation, the Silver Turk - a mechanical marvel that will not only play for you the fortepiano, the spinet and the flute, it will play you at the gaming table too!
+
+But when the Doctor brings his new travelling companion Mary Shelley to nineteenth-century Vienna, he soon identifies the incredible Turk as one of his deadliest enemies - a part-machine Cyberman.
+
+And that’s not even the worst of the horrors at large in the city…</dc:description>
+    </metadata>
+</package>

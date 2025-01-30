@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Peach Blossom Heights</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-817-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - The Sins of Captain Jack"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Llewellyn</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">James Marsters (Captain John Hart)</dc:creator>
+        <dc:creator opf:role="nrt">John Barrowman (Captain Jack Harkness)</dc:creator>
+        <dc:creator opf:role="nrt">Ayesha Antoine (Caitlin)</dc:creator>
+        <dc:creator opf:role="nrt">Robbie Jarvis (Trevor)</dc:creator>
+        <dc:creator opf:role="nrt">Dona Croll (Mother Janet)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Allen (The Mascots)</dc:creator>
+        <dc:creator opf:role="nrt">Wilf Scolding (Tom)</dc:creator>
+        <dc:creator opf:role="nrt">Serin Ibrahim (Cynthia)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Khan (Jillix)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Captains John and Jack find themselves stranded on a world that may be actual paradise - the weather is pleasant, the people are friendly, and the giant stuffed animals only come out at night. There's only one thing the world is missing. No-one has ever explained to any of the population about the birds and the bees. Which is unfortunate.</dc:description>
+    </metadata>
+</package>

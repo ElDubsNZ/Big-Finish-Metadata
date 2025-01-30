@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Little Doctors</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 5"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Philip Lawrence</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Frazer Hines (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS brings the Doctor, Jamie and Zoe to a sophisticated Earth colony. Olympos is a world of hi-tech cities, where the lives of the populace are controlled by an all-seeing, all-knowing super computer: Zeus. When the Doctor sees how the human inhabitants have been robbed of the more simple pleasures, he sets out to bring real life back to the colony. But his mental connection to Zeus has some unexpected consequences…</dc:description>
+    </metadata>
+</package>

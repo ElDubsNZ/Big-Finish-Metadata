@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Snow Blind</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2006-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-201-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Sarah Jane Smith - Series 2"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Bishop</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Elisabeth Sladen (Sarah Jane Smith)</dc:creator>
+        <dc:creator opf:role="nrt">Jeremy James (Josh Townsend)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Chadbon (Will Sullivan)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Gideon Munro)</dc:creator>
+        <dc:creator opf:role="nrt">Julia Righton (Morgane Kaditch)</dc:creator>
+        <dc:creator opf:role="nrt">Jack Galagher (Jack)</dc:creator>
+        <dc:creator opf:role="nrt">Shaun Ley (Newsreader)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline Pearce (The Keeper)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Greif (Sir Donald Wakefield)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Weinberg and David Gooderson (Other roles)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Sarah Jane Smith travels to Antarctica where her friend, Will, is part of a research team studying global warming. But someone at Nikita Base is a murderer and everybody has a guilty secret. When a massive storm severs all communications, the killer strikes and the truth is revealed. 
+
+Will anyone get off the ice alive?</dc:description>
+    </metadata>
+</package>

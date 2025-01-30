@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Wax Princess</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-357-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jago & Litefoot - Series 7"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Justin Richards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Trevor Baxter (Professor George Litefoot)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Asquith (Sergeant Quick)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Ellie Higson)</dc:creator>
+        <dc:creator opf:role="nrt">Adrian Rawlins (Inspector Abberline)</dc:creator>
+        <dc:creator opf:role="nrt">Patrick Drury (Tom Carlton)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Pope (Mr Rippon)</dc:creator>
+        <dc:creator opf:role="nrt">Lizzie Roper (Queen Victoria)</dc:creator>
+        <dc:creator opf:role="nrt">Flaminia Cinque (Patsy the Crone)</dc:creator>
+        <dc:creator opf:role="nrt">Jenna Russell, Sarah Lark & Cameron Blakely (The Scorchies)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Lark (Nancy Pettigrew)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The past has come back to haunt former chief inspector Abberline — Jack the Ripper has escaped from custody! 
+
+As the notorious killer strikes again in London, Jago and Litefoot are drawn into a web of intrigue. 
+
+One that will lead to the palace itself...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Isle on the Shore</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-946-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Diary of River Song - Series 11 - Friend of the Family"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Matt Addis (George Mortimer)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Bentinck (Older Henry Mortimer)</dc:creator>
+        <dc:creator opf:role="nrt">Isla Blair (Older Mary Mortimer)</dc:creator>
+        <dc:creator opf:role="nrt">James Camp (Thomas Mortimer)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Capp (Henry Mortimer)</dc:creator>
+        <dc:creator opf:role="nrt">Wendy Craig (Older Maddie Mortimer)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Elstob (Hugo)</dc:creator>
+        <dc:creator opf:role="nrt">Lillie Flynn (Maddie Mortimer)</dc:creator>
+        <dc:creator opf:role="nrt">Jack Holden (Harry Mortimer)</dc:creator>
+        <dc:creator opf:role="nrt">Phyllida Nash (Cook)</dc:creator>
+        <dc:creator opf:role="nrt">Ronak Patani (Vinay Siddiqui)</dc:creator>
+        <dc:creator opf:role="nrt">Vineeta Rishi (Carla Alcazar)</dc:creator>
+        <dc:creator opf:role="nrt">Jemima Rooper (Mary Mortimer)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>River Song decides to investigate a temporal anomaly after a Luna University expedition makes some odd discoveries in an old Earth house - pages of her own diary with an inscrutable riddle written across them.
+
+However, her investigation goes badly wrong when she is transported back into the past of the house and gets trapped within its grounds.
+
+The house is the home of the Mortimers and with a limited ability to travel back and forth in time across eighty years and multiple generations she finds herself witnessing key moments in their family history.
+
+If she wants to escape, the words in her diary are not the only riddle she has to solve. But not everyone in the house will survive what’s coming. And not everyone is on her side.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Shockwave</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-666-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Master - Series 4 - Anti-Genesis"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Derek Jacobi (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Gatiss (The Other Master)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Pippa Bennett-Warner (Livia/Alternative Livia)</dc:creator>
+        <dc:creator opf:role="nrt">Gavin Swift (Crazlus/Alternative Crazlus)</dc:creator>
+        <dc:creator opf:role="nrt">Franchi Webb (Lamarius)</dc:creator>
+        <dc:creator opf:role="nrt">Will Kirk (Uglen)</dc:creator>
+        <dc:creator opf:role="nrt">Zaraah Abrahams (Other Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Clifford (Pandak)</dc:creator>
+        <dc:creator opf:role="nrt">Jordan Renzo (First Berserker)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Harper (Second Berserker)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks/The Daleks/Dalek Time Strategist)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>With all known history threatened, the Daleks take desperate action to preserve their established legacy. When they cross dimensions to recruit an alternative incarnation of the Master, an uneasy alliance is formed... But can either side truly trust the other?</dc:description>
+    </metadata>
+</package>

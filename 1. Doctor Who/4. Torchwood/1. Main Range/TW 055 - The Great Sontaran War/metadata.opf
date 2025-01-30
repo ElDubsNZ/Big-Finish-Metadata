@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Great Sontaran War</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-533-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="55"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Gareth David-Lloyd (Ianto Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Major Kreg)</dc:creator>
+        <dc:creator opf:role="nrt">Kaye Brown (Mrs Betty Appleby)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Harrison (Mr Higgins)</dc:creator>
+        <dc:creator opf:role="nrt">Farshid Rokey (Jamal)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Great Sontaran War has raged across the cosmos for millennia and finally it is coming to the Earth. 
+
+Major Kreg has been dispatched to carry out a strategic assessment of the planet. He will learn about the dominant life form, decide what the world has to offer, and discover the ultimate value of the human race. 
+
+For Torchwood, there is only one place to put him. Welcome to the Mumbles Bay Caravan Park.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Sibling Rivalry</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-175-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Sixth Doctor Adventures - The Quin Dilemma"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Valentine</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Greenwood (Flip Ramon)</dc:creator>
+        <dc:creator opf:role="nrt">Miranda Raison (Constance Clarke)</dc:creator>
+        <dc:creator opf:role="nrt">Jonnie Broadbent (Clarent / Dellan)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Marshall Skurr / Commander Lurx / Corporal Kreng)</dc:creator>
+        <dc:creator opf:role="nrt">Susan Earnshaw (Empress Varia / General Treya / Geminusians)</dc:creator>
+        <dc:creator opf:role="nrt">Lara Lemon (Quins' computers)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor, Constance and Flip are stuck on an alien planet in the middle of a civil war. To make matters worse, the Sontarans have invaded. To make matters worse still, two of the dastardly quins - the volatile Clarent and the odious Dellan - are both on the scene... and the Doctor may not survive their furious competition.</dc:description>
+    </metadata>
+</package>

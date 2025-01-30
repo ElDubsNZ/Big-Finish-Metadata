@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Stuntman</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-589-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Tenth Doctor Adventures - Tenth Doctor, Classic Companions"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizzie Hopley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Tennant (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9 Mark II / Kent Novem)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa / Kasey-Ann Frost)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Glover (Dr Gommen / Gommen Machine)</dc:creator>
+        <dc:creator opf:role="nrt">Claire Wyatt (Sylvia Wren / Sister Sytron)</dc:creator>
+        <dc:creator opf:role="nrt">Kit Young (Sam Kraven)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and K9 enter a virtual world of a movie stuntman to help Nyssa escape a Time War criminal's scheme.</dc:description>
+    </metadata>
+</package>

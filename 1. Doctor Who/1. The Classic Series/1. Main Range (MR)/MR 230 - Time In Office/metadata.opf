@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Time in Office</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-809-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="230"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Sheri-An Davis (Castellan Lowri)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Hobbs (Arcantis)</dc:creator>
+        <dc:creator opf:role="nrt">Jenny Lee (Kasnegar)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Scragg (Crex)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Sutton (Scandrius)</dc:creator>
+        <dc:creator opf:role="nrt">Julie Teal (Chancellor Vorena)</dc:creator>
+        <dc:creator opf:role="nrt">George Watkins (Sugru / Fegax / Guard Captain)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor's adventures in time and space are over. The Time Lords have recalled him to Gallifrey – but what he faces on his home planet is worse than any trial. Following the disappearance of President Borusa, the High Council condemned him to the highest office - and he can't evade his responsibilities a nanosecond longer...
+
+So all hail the Lord High President! All hail President Doctor!
+
+Rassilon save him. This time, there's really no escape.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Vienna Experience</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-267-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Vienna - Series 2"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Chase Masterson (Vienna Salvatori)</dc:creator>
+        <dc:creator opf:role="nrt">Samantha Béart (Jexie Reagan)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Carrington (Carlos Van Meyer)</dc:creator>
+        <dc:creator opf:role="nrt">Regina Reagan (Kelsey)</dc:creator>
+        <dc:creator opf:role="nrt">Donna Berlin (Valentine)</dc:creator>
+        <dc:creator opf:role="nrt">John Schwab (Fortesque)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Ever wanted to experience the life of an assassin? Longed to feel the thrill of the hunt? Now is your chance to get beneath the skin of Vienna Salvatori. See what she sees. Hear what she hears. 
+
+And pray she never finds out.</dc:description>
+    </metadata>
+</package>

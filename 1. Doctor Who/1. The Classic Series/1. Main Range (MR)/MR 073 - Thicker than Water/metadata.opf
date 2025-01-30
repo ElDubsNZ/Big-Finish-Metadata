@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Thicker Than Water</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2005-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-159-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="73"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Sutton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Melanie Bush)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Stables (Evelyn)</dc:creator>
+        <dc:creator opf:role="nrt">Ann Bryson (Karnó)</dc:creator>
+        <dc:creator opf:role="nrt">Mat Dineen (Jenner)</dc:creator>
+        <dc:creator opf:role="nrt">James Parsons (TV Interviewer)</dc:creator>
+        <dc:creator opf:role="nrt">Rachel Pickup (Dr Sofia Rossiter)</dc:creator>
+        <dc:creator opf:role="nrt">Patrick Romer (Dr Andrew Szabó)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Watts (Dr Sebastian Lawrence)</dc:creator>
+        <dc:creator opf:role="nrt">Gabriel Woolf (Principal Triumvir Rossiter)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Three years after Világ was all but laid waste by the Killorans, the Doctor is back alongside a different companion. And a lot has changed.
+
+Now elected Principle Triumvir, head of a tripartite government, Rossiter is working to secure a peaceful future for the planet by researching the technology the Killorans left behind. But he has to contend with opposition from his daughter, Sofia, who heads a public campaign demanding the destruction of all alien artefacts.
+
+Politics has caused a rift between father and daughter, and as if that weren't enough, Sofia doesn't approve of her new step-mother either. Emotions soon boil over into violence, a violence that seems to have gripped the entire city.
+
+Friendships bind people close, but they say that blood is...</dc:description>
+    </metadata>
+</package>

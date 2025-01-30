@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Dalek War Chapter 2</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2003-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-019-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Dalek Empire - Series 2"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Gareth Thomas (Fleet Commander Kalendorf)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Mowat (Susan Mendes)</dc:creator>
+        <dc:creator opf:role="nrt">Mark McDonnell (Alby Brook)</dc:creator>
+        <dc:creator opf:role="nrt">Teresa Gallagher (Mirana)</dc:creator>
+        <dc:creator opf:role="nrt">Hannah Smith (The Mentor)</dc:creator>
+        <dc:creator opf:role="nrt">Karen Henson (Saloran Hardew)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Elder (Siy Tarkov)</dc:creator>
+        <dc:creator opf:role="nrt">Dannie Carr (Morli)</dc:creator>
+        <dc:creator opf:role="nrt">Jeremy James (Herrick)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Brooker (Marber / Drudger)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks / The Alliance Daleks / The Dalek Emperor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Two Dalek races are now locked in fearsome combat. The Mentor and her Daleks originate from an alternative universe and have pledged to fight alongside the humans and their allies. But where is the evil Dalek Emperor?
+
+The Dalek Supreme's forces have found Susan Mendes. Will she, Alby, Mirana and Morli be able to escape?
+
+Meanwhile, Kalendorf's forces seem to be winning the war in Earth's Solar System. But the Mentor's suspicions are growing...</dc:description>
+    </metadata>
+</package>

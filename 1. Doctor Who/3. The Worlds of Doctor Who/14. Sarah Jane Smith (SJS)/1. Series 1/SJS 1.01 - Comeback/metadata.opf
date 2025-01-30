@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Comeback</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2002-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-492-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Sarah Jane Smith - Series 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Terrance Dicks</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Elisabeth Sladen (Sarah Jane Smith)</dc:creator>
+        <dc:creator opf:role="nrt">Robin Bowerman (Harris)</dc:creator>
+        <dc:creator opf:role="nrt">Alistair Lock (Mr Venables)</dc:creator>
+        <dc:creator opf:role="nrt">Jeremy James (Josh Townsend)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Brenher (Bank Robber)</dc:creator>
+        <dc:creator opf:role="nrt">David John (Bank Robber)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Mr Hedges)</dc:creator>
+        <dc:creator opf:role="nrt">Sadie Miller (Natalie Redfern)</dc:creator>
+        <dc:creator opf:role="nrt">David Jackson (The Squire)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Sowerbutts (Reverend Gosforth)</dc:creator>
+        <dc:creator opf:role="nrt">Juliet Warner (Ellie Martin)</dc:creator>
+        <dc:creator opf:role="nrt">Patricia Leventon (Maude Fletcher)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>VILLAGERS MISSING IN POSSIBLE MOD COVER-UP 
+
+Six months after the last part of her undercover investigative TV series for Planet 3 Broadcasting went out, Sarah Jane Smith is running scared. Living under a false name, her true identity compromised, she has few friends and fewer clues as to her pursuers. Enter three people who will change her life – the mysterious Mr Harris, old friend Ellie Martin and a guardian angel in the shape of the roguish Josh. Now, all roads lead to the village of Cloots Coombe in Wiltshire. But will she find answers she needs there?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Marian Conspiracy</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2000-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-417-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jacqueline Rayner</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Stables (Evelyn Smythe)</dc:creator>
+        <dc:creator opf:role="nrt">Jo Castleton (Lady Sarah)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Francois de Noailles)</dc:creator>
+        <dc:creator opf:role="nrt">Jez Fielder (William Leaf)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Jackson (George Crow)</dc:creator>
+        <dc:creator opf:role="nrt">Alistair Lock (Royal Guard)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Pegg (Reverend Thomas)</dc:creator>
+        <dc:creator opf:role="nrt">Anah Ruddin (The Queen)</dc:creator>
+        <dc:creator opf:role="nrt">Gary Russell (John Wilson)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Tracking a nexus point in time, the Doctor meets Dr Evelyn Smythe, a history lecturer whose own history seems to be rapidly vanishing.
+
+The Doctor must travel back to Tudor times to stabilise the nexus and save Evelyn's life. But there he meets the Queen of England and use all his skills of diplomacy to avoid ending up on the headman's block...</dc:description>
+    </metadata>
+</package>

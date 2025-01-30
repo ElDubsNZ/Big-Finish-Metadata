@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Neverwhen</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-189-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Doctor - Series 2 - Infernal Devices"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Hurt (The War Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline Pearce (Cardinal Ollistra)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Bentinck (General Kallix)</dc:creator>
+        <dc:creator opf:role="nrt">Jaye Griffiths (Daylin)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Kay (Commander Thrakken)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Harding (Valis)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy Wiles (Commander Barnac)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On an isolated world ravaged by battle, time itself has become a weapon, laying waste to all who live and die there. Arms and technology are in a state of flux - and it seems that everlasting war is their only option.
+
+The arrival of one battered Type Forty TARDIS inside this nightmare offers hope to the combatants trapped within.
+
+But when he discovers the truth, the horrors of the Neverwhen will shock even the War Doctor...</dc:description>
+    </metadata>
+</package>

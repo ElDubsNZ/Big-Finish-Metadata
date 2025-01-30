@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Dalby Spook</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-752-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - What Lies Inside?"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Stewart Pringle</dc:creator>
+        <dc:creator opf:role="aut">Lauren Mooney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Walker (Liv)</dc:creator>
+        <dc:creator opf:role="nrt">Hattie Morahan (Helen Sinclair)</dc:creator>
+        <dc:creator opf:role="nrt">Felicity Cant (Voirrey Irving)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Earl (Jim Irving)</dc:creator>
+        <dc:creator opf:role="nrt">Phillip Jackson (Harry Price)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Myers (Mister Timms / Gef)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>After encountering Harry Price, the Doctor decides to solve an infamous case before the paranormal debunker can.
+
+But Liv and Helen are more concerned for the girl at the centre of events. What is really going on at the remote Isle of Man farmhouse? And who is Gef, the talking mongoose?</dc:description>
+    </metadata>
+</package>

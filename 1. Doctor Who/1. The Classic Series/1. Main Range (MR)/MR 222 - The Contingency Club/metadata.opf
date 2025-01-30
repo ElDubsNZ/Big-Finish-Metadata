@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Contingency Club</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-793-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="222"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Phil Mulryne</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Waterhouse (Adric)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Bentinck (Wakefield / Cabby / Stonegood)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Jackson (Mr Peabody)</dc:creator>
+        <dc:creator opf:role="nrt">Lorelei King (The Red Queen)</dc:creator>
+        <dc:creator opf:role="nrt">Olly McCauley (Edward the Knave)</dc:creator>
+        <dc:creator opf:role="nrt">Clive Merrison (George Augustus)</dc:creator>
+        <dc:creator opf:role="nrt">Alison Thea-Skot (Marjorie Stonegood / Computer)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>London, 1864 - where any gentleman befitting the title ‘gentleman’ belongs to a gentlemen’s club: The Reform, The Athenaeum, The Carlton, The Garrick… and, of course, The Contingency. Newly established in St James’, The Contingency has quickly become the most exclusive enclave in town. A refuge for men of politics, men of science, men of letters. A place to escape. A place to think. A place to be free.
+
+The first rule of the Contingency is to behave like a gentleman. The second is to pay no heed to its oddly identical servants. Or to the horror in its cellars. Or to the existence of the secret gallery on its upper floor… Rules that the Doctor, Adric, Nyssa and Tegan are all about to break.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>1001 Nights</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-050-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="168"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Emma Beeby</dc:creator>
+        <dc:creator opf:role="aut">Gordon Rennie</dc:creator>
+        <dc:creator opf:role="aut">Jonathan Barnes</dc:creator>
+        <dc:creator opf:role="aut">Catherine Harvey</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Oliver Coopersmith (Hill / Archie)</dc:creator>
+        <dc:creator opf:role="nrt">Kim Ismay (Lottie / Alien Nurse / Woman Stallholder)</dc:creator>
+        <dc:creator opf:role="nrt">Teddy Kempner (Nazar / Gantha / Prisoner)</dc:creator>
+        <dc:creator opf:role="nrt">Debbie Leigh-Simmons (Elizabeth Spinnaker / Bessie / Crying Woman)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Luscombe (Alien Psychiatrist / Balladeer)</dc:creator>
+        <dc:creator opf:role="nrt">Nadim Sawalha (Old Man)</dc:creator>
+        <dc:creator opf:role="nrt">Alexander Siddig (The Sultan)</dc:creator>
+        <dc:creator opf:role="nrt">Malcolm Tierney (Warder / Gantha)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A long time ago, two travellers came from far away...
+
+In the perfumed palace of an omnipotent Sultan, a girl must tell stories to keep the man she cares about from a cruel and horrible death. She spins tales of distant lands she has visited with a mysterious traveller, of fabulous creatures and fantastic adventures – and of a blue box that can travel in time and space.
+
+Meanwhile, in the dungeons below the throne room, there lurks a secret which will bring down the kingdom – perhaps even the universe.
+
+Can the Doctor and Nyssa escape from this never-ending story before the final chapter spells their end?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Zaltys</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-795-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="223"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matthew J Elliott</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Waterhouse (Adric)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Barrett (Perrault)</dc:creator>
+        <dc:creator opf:role="nrt">Niamh Cusack (Clarimonde)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Franks (Gevaudan)</dc:creator>
+        <dc:creator opf:role="nrt">Alix Wilton Regan (Lusca / Siobhan)</dc:creator>
+        <dc:creator opf:role="nrt">Rebecca Root (Sable)</dc:creator>
+        <dc:creator opf:role="nrt">Carol Sloman (Talia / Computer)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In the Vortex, the TARDIS comes under a form of psychic attack – resulting in the abductions of first Adric, then Tegan. Following their trail, the Doctor and Nyssa arrive under the lurid skies of the planet Zaltys, whose entire population has vanished in strange circumstances. Soon, they discover that Zaltys is now the target of treasure seekers, come to scavenge this so-called Planet of the Dead…
+
+Meanwhile, deep below the planet’s surface, Adric learns the earth-shattering reason why the people of Zaltys disappeared... and why they were wise to do so. And Tegan is, quite literally, in the dark – enduring interrogation by the mysterious Clarimonde. Any friend of the Doctor’s is Clarimonde’s enemy... because theirs is a blood feud!</dc:description>
+    </metadata>
+</package>

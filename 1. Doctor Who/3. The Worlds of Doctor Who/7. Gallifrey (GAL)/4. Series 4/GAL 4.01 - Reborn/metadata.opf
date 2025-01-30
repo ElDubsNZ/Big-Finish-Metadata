@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Reborn</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-556-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 4"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Gary Hopkins</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9 Mk II)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Douglas (Chancellor Dondequest)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Johnson (Technician Hester)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Keetch (Vansell)</dc:creator>
+        <dc:creator opf:role="nrt">Brian Miller (Surgeon-Master Rexus)</dc:creator>
+        <dc:creator opf:role="nrt">Lewis Rae (Commander Faradac)</dc:creator>
+        <dc:creator opf:role="nrt">Mary Tamm (Lady Romanadvoratrelundar)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Westmaas (Prime Usher Antonin)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Gallifrey survives... 
+
+Lady Romanadvoratrelundar has returned to her homeworld, seeking a cure for the Free Time virus that rages across the planet. 
+
+Leela of the Sevateem and her companion K9 are revered as heroes. Narvin is a traitor. And Braxiatel knows more than he's letting on. 
+
+Amidst all the confusion, the High Council of Time Lords is poised to take the planet into an all-consuming war against the cosmos. They're selling their secrets to the highest bidder, equipping the universe with temporal technology it should never have been allowed. 
+
+And Romana's son will lead them into battle...</dc:description>
+    </metadata>
+</package>

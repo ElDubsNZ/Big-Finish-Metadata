@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Shattered Hourglass</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 10"/>
+        <meta name="calibre:series_index" content="12"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Napton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Neve McIntosh (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Time Agency has been meddling with time ever since its inception. Of all the days in history, today is a day that will define the agency forever.
+
+Today is the day of their greatest achievement. Today is the day they removed an entire galaxy from the timeline.
+
+Today is the day the Doctor's shutting them down.</dc:description>
+    </metadata>
+</package>

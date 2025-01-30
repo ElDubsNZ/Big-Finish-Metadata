@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Jago & Litefoot Revival Act 2</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 7"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Trevor Baxter (Professor George Litefoot)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Fresh from another superlative season on the boards at the New Regency, we are this evening elated to welcome that master of melodrama, that sultan of story, that king of the cliffhanger Mr Henry Gordon Jago. Tonight, in his usual matchless and majestic manner, he will continue and conclude our captivating chronicle of fortune, change and revivification, with the indispensable assistance of that peerless pathologist, Professor George Litefoot.</dc:description>
+    </metadata>
+</package>

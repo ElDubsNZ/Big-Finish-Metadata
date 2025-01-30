@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Claws of Santa</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-443-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Iris Wildthyme - Series 2"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Cavan Scott, Mark Wright</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Katy Manning (Iris Wildthyme)</dc:creator>
+        <dc:creator opf:role="nrt">David Benson (Panda)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Westmaas (ST58)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Sowerbutts (Santa)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Douglas (Mary)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Handcock (Alfredo)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It's going to be a blue Christmas for Iris Wildthyme. Her best friend, Panda, is lost in time and space and the only festive cheer she can find is at the bottom of a glass. If that wasn't enough, this year's number one toy is trying to kill her! 
+
+From a futuristic planet-sized shopping mall to the frozen wastes of the North Pole, the search for Panda leads Iris to a fiendish plot that threatens to ruin Christmas for the entire multiverse. With only a jobsworth security droid to help, Iris turns to the one man who can save the season of goodwill – Saint Nick himself. There's just one snag; Santa Claus is a broken man...</dc:description>
+    </metadata>
+</package>

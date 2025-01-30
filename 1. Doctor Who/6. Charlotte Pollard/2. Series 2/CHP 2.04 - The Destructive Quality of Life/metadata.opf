@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Destructive Quality of Life</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-565-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Charlotte Pollard - Series 2"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Robert Buchan)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Rogue Viyran)</dc:creator>
+        <dc:creator opf:role="nrt">Deirdre Mullins (Naomi Davies)</dc:creator>
+        <dc:creator opf:role="nrt">Kieran Hodgson (Woking)</dc:creator>
+        <dc:creator opf:role="nrt">Ashley Kumar (Rab)</dc:creator>
+        <dc:creator opf:role="nrt">Pippa Haywood (Prime Minister)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (Gelrasian / Guard / Proto-Viyran)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Marooned on an alien world, a 'concentration camp' in Slough, messaging through space and time.</dc:description>
+    </metadata>
+</package>

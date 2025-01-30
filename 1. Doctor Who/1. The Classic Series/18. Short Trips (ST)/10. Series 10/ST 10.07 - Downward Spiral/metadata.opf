@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Downward Spiral</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 10"/>
+        <meta name="calibre:series_index" content="7"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alan Flanagan</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sarah Sutton (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Travelling through space on your own can be lonely. It’s why Siobhan Matthews’ ship has been installed with COMPANY, an AI that has stored personalities of Siobhan’s nearest and dearest. Someone to talk to when the silence is overwhelming.
+
+Siobhan has other guests today, which is impressive considering she didn’t let them onboard. They’re called the Doctor and Nyssa, but they’ve arrived at the worst possible time. Siobhan’s ship is spiralling towards something in the dark, and it’s hungry.</dc:description>
+    </metadata>
+</package>

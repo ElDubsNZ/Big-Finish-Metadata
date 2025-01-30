@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Animal</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-668-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 2"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andrew Cartmel</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Raine)</dc:creator>
+        <dc:creator opf:role="nrt">Angela Bruce (Brigadier Bambera)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Sgt. Achterberg)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Lewis (Scobie)</dc:creator>
+        <dc:creator opf:role="nrt">Dannielle Brent (Willa)</dc:creator>
+        <dc:creator opf:role="nrt">Amy Pemberton (Juno)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Mallinson (Percy)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Margrave University in 2001, and Raine Creevy is enjoying her first trip into the future. 
+
+For the Doctor, there are mysteries to solve: what are the alien creatures imprisoned in the science labs? And what are the true motives of the student Scobie and his followers? 
+
+With enemies on all sides, the Doctor teams up with his old friend Brigadier Bambera and the forces of UNIT in a battle for the future of the whole world.</dc:description>
+    </metadata>
+</package>

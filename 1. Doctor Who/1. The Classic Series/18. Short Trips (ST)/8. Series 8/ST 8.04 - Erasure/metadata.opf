@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Erasure</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 8"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Gary Russell</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Seán Carlsen (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Celestial Intervention Agency, a shadowy, unspoken of part of the Time Lord hierarchy. Beloved and loathed in equal measure by various Presidents and High Councils the millennias over. But they serve a very important function: they keep the time lines safe and clear - they do the darker, dirtier jobs that most Time Lords would prefer not to know even need doing.
+
+CIA Sub-Coordinator Narvin has always taken his oath to uphold the Worshipful Laws of Gallifrey very seriously. But when he is sent on a mission to investigate the planet Bellascon, even he hasn't reckoned with the force of nature that is the Fourth Doctor, who has - one might say - his own way of dealing with things, and his own views on people like Narvin. But somehow the two must overcome their instincts and work together to stop the web of time being erased forever...</dc:description>
+    </metadata>
+</package>

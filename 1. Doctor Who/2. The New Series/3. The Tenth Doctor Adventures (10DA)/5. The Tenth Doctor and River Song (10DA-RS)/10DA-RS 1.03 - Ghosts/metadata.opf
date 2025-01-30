@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Ghosts</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-331-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Tenth Doctor Adventures - The Tenth Doctor and River Song"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Tennant (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Mina Anwar (Betty)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Benjamin (Ziggy)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Bentinck (Alfie / Computer Voice)</dc:creator>
+        <dc:creator opf:role="nrt">Emma Swan (Dell)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>River and the Doctor meet on the most haunted planet in the galaxy. The Doctor’s not sure it’s an ideal date - until they discover a mystery.
+
+Something is wrong with the ghosts. Something might even be killing them...
+
+And as the Doctor and River investigate, the truth of what’s happening on the planet of ghosts may prove deadly for them both.</dc:description>
+    </metadata>
+</package>

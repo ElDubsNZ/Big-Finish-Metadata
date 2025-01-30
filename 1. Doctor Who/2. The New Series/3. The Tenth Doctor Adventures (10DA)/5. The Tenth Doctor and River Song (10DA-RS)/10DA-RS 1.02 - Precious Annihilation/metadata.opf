@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Precious Annihilation</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-329-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Tenth Doctor Adventures - The Tenth Doctor and River Song"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizzie Hopley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Tennant (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Jameson (Captain John Bickell / Joseph / Landlord)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Kay (Gerrard Pulman / Foreman)</dc:creator>
+        <dc:creator opf:role="nrt">Anjli Mohindra (Omara / Barmaid / Franny)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Sims (Abe Porter / Mr Chauncey / Pat)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When jewels become lethal in the London of 1912, both River and the Doctor turn up to find out why.
+
+A mystery takes them centuries into the past, and onto the high seas, where a superstitious crew edges towards mutiny.
+
+The star-crossed couple are about to find out that, while gemstones inspire jealousy, love can be the deadliest treasure of all...</dc:description>
+    </metadata>
+</package>

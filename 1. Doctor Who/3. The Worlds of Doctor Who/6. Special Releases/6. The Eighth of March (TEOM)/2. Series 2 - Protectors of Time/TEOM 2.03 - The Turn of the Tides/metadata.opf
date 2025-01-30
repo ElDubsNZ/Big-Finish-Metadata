@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Turn of the Tides</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-833-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth of March - Series 2 - Protectors of Time"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nina Millns</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Katy Manning (Jo Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Anjli Mohindra (Rani Chandra)</dc:creator>
+        <dc:creator opf:role="nrt">Jaye Griffiths (Jac)</dc:creator>
+        <dc:creator opf:role="nrt">Sheena Bhattessa (Rio)</dc:creator>
+        <dc:creator opf:role="nrt">Indigo Griffiths (Mellissa)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Stafford (Matasar / Rob Temby / Shayoon / Azworad Comrade)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In the footsteps of Sarah Jane Smith, Rani Chandra is investigating strange weather phenomena, calling on an old friend for help – Jo Jones! But UNIT is also on the case, led by science officer Jac. Soon all three women will be on a mission to the Moon...</dc:description>
+    </metadata>
+</package>

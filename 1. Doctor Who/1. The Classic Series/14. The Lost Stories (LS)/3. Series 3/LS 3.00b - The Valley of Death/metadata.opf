@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Valley of Death</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-608-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 3"/>
+        <meta name="calibre:series_index" content="0.2"/>
+
+        <!--Writers-->
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Carrington (Emissary Godrin/ Dr. Summersby/ Announcer)</dc:creator>
+        <dc:creator opf:role="nrt">Delia Lindsay (Overlord Saldor/ Newsreader)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Valerie Carlton)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Howell (Edward Perkins)</dc:creator>
+        <dc:creator opf:role="nrt">David Killick (Professor Cornelius Perkins)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Bremmer (General Hemmings/ Valcon/ Taxi Driver)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A century after his great-grandfather Cornelius vanished in the Amazon rainforest, Edward Perkins is journeying to the depths of the jungle to find out what became of his ancestor's lost expedition. Intrigued by what appears to be a description of a crashed spacecraft in the diaries of that first voyage, the Doctor and Leela join him on his quest. But when their plane runs into trouble and ends up crash landing, everyone gets more than they bargained for. 
+
+The jungle is filled with giant creatures and angry tribesmen, all ready to attack. But in the famed lost city of the Maygor tribe, something far, far worse is lurking. Something with an offer to make to mankind. Who are the Lurons and can they be trusted? Will the Doctor defeat the plans of the malevolent Godrin or will he become just another victim of the legendary Valley of Death?</dc:description>
+    </metadata>
+</package>

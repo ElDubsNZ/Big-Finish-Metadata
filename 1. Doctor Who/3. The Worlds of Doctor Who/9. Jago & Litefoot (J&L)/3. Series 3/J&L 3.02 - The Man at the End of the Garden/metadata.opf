@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Man at the End of the Garden</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-561-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jago & Litefoot - Series 3"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matthew Sweet</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Baxter (George Litefoot)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Ellie Higson)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Asquith (Sergeant Quick)</dc:creator>
+        <dc:creator opf:role="nrt">Eden Monteath (Clara)</dc:creator>
+        <dc:creator opf:role="nrt">Joanna Monro (Eleanor Naismith)</dc:creator>
+        <dc:creator opf:role="nrt">Joanna Bacon (Mrs Hitch)</dc:creator>
+        <dc:creator opf:role="nrt">Duncan Wisbey (The Little Man)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Strange things are happening in the Naismith household. Eleanor Naismith has vanished, and her daughter Clara is found in odd circumstances... What is the link to Eleanor's book, The Man At The End of the Garden?</dc:description>
+    </metadata>
+</package>

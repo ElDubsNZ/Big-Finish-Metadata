@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Hope</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-483-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="30"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Burn Gorman (Owen Harper)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Price (Andy Davidson)</dc:creator>
+        <dc:creator opf:role="nrt">Siân Phillips (Megwyn Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Nia Roberts (Sally)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Saynor (Colbourne)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Dalgleish (Reporter)</dc:creator>
+        <dc:creator opf:role="nrt">Kerry Joy Stewart (Ginny)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Megwyn Jones is one of the most hated women in Britain. She used to run a home for troubled children in an isolated part of Snowdonia called The Hope. For a long time there were rumours about what was happening there, and then one day it was realised that the children had gone missing. 
+
+Ever since, Megwyn's kept her peace. Is she innocent? Is she guilty? Where are the bodies? 
+
+The years have been long and hard on Megwyn and on the families of the children. But now Megwyn's dying, and she's agreed to go back to The Hope, to reveal the horrible secret she's kept all these years.</dc:description>
+    </metadata>
+</package>

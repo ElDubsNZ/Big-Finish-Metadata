@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Lease of Life</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-120-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="48"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Aaron Lamont</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Burn Gorman (Owen Harper)</dc:creator>
+        <dc:creator opf:role="nrt">Rosalie Craig (Ellie)</dc:creator>
+        <dc:creator opf:role="nrt">Luyanda Unati Lewis-Nyawo (Seren)</dc:creator>
+        <dc:creator opf:role="nrt">Angus Yellowlees (Nye)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>3 bed, 1 bath, shared house in a vibrant area with easy access to Cardiff city centre. Has a real lived-in feel. 
+
+Note to interested parties: There is a small spreading mould issue, and an investigation is being undertaken on site. Those worried are advised to contact the Council's Mould Expert, Dr Owen Harper.</dc:description>
+    </metadata>
+</package>

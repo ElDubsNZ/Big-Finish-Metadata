@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Mask of Tragedy</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-331-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="190"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Olivier (Hector)</dc:creator>
+        <dc:creator opf:role="nrt">Russell Bentley (Tyrgius / Slave Trader / Boy)</dc:creator>
+        <dc:creator opf:role="nrt">Alisdair Simpson (Cleon)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Treloar (Telephus / Cisyphus / Old Man)</dc:creator>
+        <dc:creator opf:role="nrt">Emily Tucker (Adonia / Lysistrata)</dc:creator>
+        <dc:creator opf:role="nrt">Samuel West (Aristophanes)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Athens, 421 BC. An ancient civilisation of philosophers and poets and the birthplace of theatre. The Doctor has decided to show Ace and Hector how it all began, with help from the great comedian Aristophanes.
+
+ But life in Athens is no laughing matter. There’s the ever-present threat of invasion from the Spartan horde. The plague that turns people into the walking dead. The slavery. The tyrannical rule of the paranoid, malicious Cleon and his network of informers. And the giant flying beetle with knives for wings that stalks the city streets at night.
+
+ What Athens needs is a hero. And who better to be a hero in ancient Greece than a man called Hector?</dc:description>
+    </metadata>
+</package>

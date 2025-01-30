@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Cars That Ate London</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-799-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Paternoster Gang - Heritage 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Neve McIntosh (Madame Vastra)</dc:creator>
+        <dc:creator opf:role="nrt">Catrin Stewart (Jenny Flint)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Strax)</dc:creator>
+        <dc:creator opf:role="nrt">Alan Cox (Fabian Solak)</dc:creator>
+        <dc:creator opf:role="nrt">Julia Hills (Madeline)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Lowe (Archie Flowers / The Power Station Worker / Market Trader)</dc:creator>
+        <dc:creator opf:role="nrt">Finlay Robertson (Inspector Cotton / Silas Beckett)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The advent of electric carriages on London's streets causes a stir – until they start careening out of control. Elsewhere, factory workers lose their senses, while a brand-new power plant suffers mysterious outages. 
+
+Genius industrialist Fabian Solak has a vision of the future – free from pollution, running on clean electricity. But Madame Vastra knows such ideas are ahead of their time...</dc:description>
+    </metadata>
+</package>

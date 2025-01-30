@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Ghost Wall</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-856-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Soho - Series 3 - The Unbegotten"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Samuel Barnett (Norton Folgate)</dc:creator>
+        <dc:creator opf:role="nrt">Dervla Kirwan (Lizbeth Hayhoe)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Price (Sergeant Andy Davidson)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Shire (Gideon Lyme)</dc:creator>
+        <dc:creator opf:role="nrt">Greg Austin (Armitage)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Clifford (The Man Who Wasn't)</dc:creator>
+        <dc:creator opf:role="nrt">Saffron Coomber (Mia)</dc:creator>
+        <dc:creator opf:role="nrt">Amy Beth Hayes (Helena)</dc:creator>
+        <dc:creator opf:role="nrt">Norah Lopez Holden (Tilly)</dc:creator>
+        <dc:creator opf:role="nrt">Ruth Lass (Mum)</dc:creator>
+        <dc:creator opf:role="nrt">Shai Matheson (Doctor Salt)</dc:creator>
+        <dc:creator opf:role="nrt">George Naylor (Cabbie)</dc:creator>
+        <dc:creator opf:role="nrt">Homer Todiwala (Goringe)</dc:creator>
+        <dc:creator opf:role="nrt">Milo Twomey (Reverend Brompton)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Norton Folgate ruins a carpet. Andy worries about a wall.</dc:description>
+    </metadata>
+</package>

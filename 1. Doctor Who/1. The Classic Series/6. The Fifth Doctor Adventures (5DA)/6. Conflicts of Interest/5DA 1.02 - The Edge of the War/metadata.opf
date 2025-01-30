@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Edge of the War</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-884-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fifth Doctor Adventures - Volume 4 - Conflicts of Interest"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Alistair Petrie (The Count)</dc:creator>
+        <dc:creator opf:role="nrt">Poppy Miller (Madame LaChappelle)</dc:creator>
+        <dc:creator opf:role="nrt">Matt Addis (Jean-Baptiste)</dc:creator>
+        <dc:creator opf:role="nrt">Phillipe Bosher (Armand Barbier)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>France in the summer of 1936. The village of Villy is in a state of contentment, tinged only slightly with unease. A kilometre away, construction is underway on a large underground fortification, part of the Maginot Line project which has seen the building of a series of defences against future invasion.
+
+A young artist has arrived in the village to paint the landscape. Her name is Nyssa and she has taken a room in the local inn, run in its owner’s absence by a young Australian woman called Tegan. But she's not the only newcomer. A detective called the Doctor has just got in from Paris. And he has quite a mystery to solve...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Curse of Lady Macbeth</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-344-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Ninth Doctor Adventures - Series 1 - Volume 3 - Lost Warriors"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizzie Hopley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Eccleston (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Howell (Macbeth / Siward)</dc:creator>
+        <dc:creator opf:role="nrt">Neve McIntosh (Gruach)</dc:creator>
+        <dc:creator opf:role="nrt">David Rintoul (Kinade / Priest / Bishop)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Goldie (Curstag / Lulach)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Service (Sorscha / "The Fuath")</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS is drawn to Scotland again – to the troubled Kingdom of Moray, and its Queen Gruach. Or, as the Doctor knows her better, Lady Macbeth. While some believe she is the cause of her people’s woes, she may yet become their saviour.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Queen of Rhodia</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-186-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Class - Series 4"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Blair Mowat</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Dervla Kirwan (Miss Quill)</dc:creator>
+        <dc:creator opf:role="nrt">Greg Austin (Charlie)</dc:creator>
+        <dc:creator opf:role="nrt">Fady Elsayed (Ram)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Hopkins (April)</dc:creator>
+        <dc:creator opf:role="nrt">Joanna McGibbon (Tanya)</dc:creator>
+        <dc:creator opf:role="nrt">Jordan Renzo (Matteusz)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Armstrong (Corporal Blood)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth Pierce (Interrogator)</dc:creator>
+        <dc:creator opf:role="nrt">Annes Elwy (Rebel)</dc:creator>
+        <dc:creator opf:role="nrt">Aled Bidder (Guard)</dc:creator>
+        <dc:creator opf:role="nrt">Blair Mowat (Auto-Pilot)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Quill wakes to find herself unexpectedly back on Rhodia - which is impossible - though not quite as impossible as the life that waits for her there. To save her future, Quill must turn her back on the past. But is this the end or a new beginning? </dc:description>
+    </metadata>
+</package>

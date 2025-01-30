@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Lady of Mercia</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-073-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="173"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Magrs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Strickson (Vislor Turlough)</dc:creator>
+        <dc:creator opf:role="nrt">Rachel Atkins (Queen Æthelfrid / Dr Angeline Duchamp)</dc:creator>
+        <dc:creator opf:role="nrt">Kieran Bew (Arthur Kettleson / Barry)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Critchlow (Earl of Wessex / Professor Fester)</dc:creator>
+        <dc:creator opf:role="nrt">Catherine Grose (Princess Ælfwynn / Molly Wright)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Howell (Professor John Bleak)</dc:creator>
+        <dc:creator opf:role="nrt">Abigail Thaw (Dr Philippa Stone)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS brings the Doctor, Tegan, Turlough and Nyssa to the University of Frodsham, close to where the warrior queen Æthelfrid fought a desperate and bloody rearguard action against the savage Danes. Over a thousand years later, in 1983, battle is still being raged, with student activists taking on savage funding cuts… and disrupting a conference about Æthelfrid convened by history professor John Bleak.
+
+Meanwhile, over in the Physics Department, Dr Philippa Stone is working night and day on a top-secret project – but can her theoretical time machine really be the solution to the university's problems?
+
+Present and past are about to collide – and the results, as the TARDIS crew is about to discover, will be far from academic!</dc:description>
+    </metadata>
+</package>

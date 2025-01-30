@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Mission to Magnus</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-445-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Philip Martin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Nabil Shaban (Sil)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Brorg / Vedikael / Grand Marshall / Ishka)</dc:creator>
+        <dc:creator opf:role="nrt">Susan Franklyn (Jarmaya / Tace)</dc:creator>
+        <dc:creator opf:role="nrt">James George (Skaarg / Jarga / Hussa)</dc:creator>
+        <dc:creator opf:role="nrt">Tina Jones (Ulema / Soma)</dc:creator>
+        <dc:creator opf:role="nrt">Malcolm Rennie (Anzor)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Steed (Madamme Rana Zandusia)</dc:creator>
+        <dc:creator opf:role="nrt">William Townsend (Vion)</dc:creator>
+        <dc:creator opf:role="nrt">Callum Witney Mills (Asam)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Lost Stories: Adventures that were originally written for the Doctor Who television series but never made. Now available to hear for the first time…
+
+The Doctor and Peri face enemies at every turn on the planet Magnus. There's the Time Lord bully Anzor, who made the Doctor's life hell during his time at the Academy. There's also Rana Zandusia, the matriarchal ruler of the planet, who seeks to prise the secret of time travel from these alien visitors.
+  
+Also on Magnus is the slug-like Sil, still bitter from his defeat on the planet Varos and seeking to make his fortune from the most potentially destructive ends. And, deep within the planet, there is something else. Another old enemy of the Doctor's. And the future is looking decidedly colder...</dc:description>
+    </metadata>
+</package>

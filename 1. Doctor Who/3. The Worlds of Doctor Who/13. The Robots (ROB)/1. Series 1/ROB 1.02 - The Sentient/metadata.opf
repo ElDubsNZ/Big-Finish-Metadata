@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Sentient</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-038-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Robots - Series 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Whitelock</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Claire Rushbrook (Tula Chenka / SV57)</dc:creator>
+        <dc:creator opf:role="nrt">Jaye Griffiths (Til Rork)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Goode (Kelov)</dc:creator>
+        <dc:creator opf:role="nrt">Venice Van Someren (Vissey)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (SV90 / V76 / Security VOC)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy Wiles (V88 / V19 / Virtual AI)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Vissey is a young child - the sort of perfect young girl any parents would want to adopt. She is also artificial, and she sees the world in a very different way to humans.</dc:description>
+    </metadata>
+</package>

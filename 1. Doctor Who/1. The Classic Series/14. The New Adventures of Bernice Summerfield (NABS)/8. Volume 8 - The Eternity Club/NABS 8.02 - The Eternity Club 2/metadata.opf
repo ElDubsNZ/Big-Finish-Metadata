@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Eternity Club 2</dc:title>
+        <dc:publisher></dc:publisher>
+        <dc:date>2024-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-395-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The New Adventures of Bernice Summerfield - Volume 8 - The Eternity Club"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Nickolas Grace (Secretary Pym)</dc:creator>
+        <dc:creator opf:role="nrt">Niamh Cusack (The Oldest)</dc:creator>
+        <dc:creator opf:role="nrt">Naana Agyei-Ampadu (Grizella)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Elroy (Derek)</dc:creator>
+        <dc:creator opf:role="nrt">Victoria Gee (The Suspension of Geren)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Kane (312)</dc:creator>
+        <dc:creator opf:role="nrt">Shai Matheson (Professor Altazar)</dc:creator>
+        <dc:creator opf:role="nrt">Dianne Pilkington (Nurse)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Starll)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Welcome to The Eternity Club, where a warm welcome awaits the universe's greatest explorers. A place of mystery, intrigue and creeping danger...
+
+8.3 Rhubarb
+A small argument between a Sontaran and a Draconian escalates into an interstellar war. Who is manipulating events and can Bernice Summerfield avert disaster?
+
+8.4 Please Retain Your Ticket for the Cloakroom
+A threat emerges from deep inside the hidden depths of the Eternity Club. Professor Summerfield and Secretary Pym must voyage into the unknown.</dc:description>
+    </metadata>
+</package>

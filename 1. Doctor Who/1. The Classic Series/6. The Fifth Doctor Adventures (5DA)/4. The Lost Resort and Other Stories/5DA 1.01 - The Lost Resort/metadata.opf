@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Lost Resort</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-718-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fifth Doctor Adventures - Volume 3 - The Lost Resort and Other Stories"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">AK Benedict</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">George Watkins (Marc)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Waterhouse (Adric)</dc:creator>
+        <dc:creator opf:role="nrt">Julia Sandiford (Fabrico)</dc:creator>
+        <dc:creator opf:role="nrt">Anna Barry (Aether)</dc:creator>
+        <dc:creator opf:role="nrt">Alibe Parsons (Nora)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (Franco / Luchino)</dc:creator>
+        <dc:creator opf:role="nrt">Chandrika Chevli (Sylvie)</dc:creator>
+        <dc:creator opf:role="nrt">Clare Louise Connolly (Thad)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Reunited with his companions, the Doctor’s plans to travel home to Gallifrey are cast aside when the TARDIS materialises on the Soresia: a planetoid with an unusual temporal atmosphere, home to the Welkin Sanatorium; seemingly an ideal place to recuperate. But the patients – like the Sanatorium – are mere shadows of their former selves. Decay has taken hold... yet their secrets remain as strong and healthy as ever.</dc:description>
+    </metadata>
+</package>

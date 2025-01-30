@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Wrath of the Ice Warriors</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-736-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Second Doctor Adventures - Beyond War Games"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andrew Smith</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Michael Troughton (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (Brigadier Lethbridge-Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Katy Manning (Zelanda)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Goldie (Sheena Flynn)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Elstob (Skaar / Tam Walsh / Dougie)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Idnal / Ice Warriors)</dc:creator>
+        <dc:creator opf:role="nrt">Emma Noakes (Raven)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Plunged into the middle of a desperate mission by his new masters, the Doctor is delighted to be reunited with Brigadier Lethbridge-Stewart of UNIT near Cape Wrath, Scotland. The Doctor’s arrival coincides with the sighting of black cylinders in the sky and an attack on a trawler by a ‘creature o’ the sea.’
+
+The Doctor quickly realises he is dealing with Ice Warriors and investigates with the help of the Brigadier and local crofter Sheena Flynn. With a space fleet lurking in the vicinity of Jupiter, the Doctor believes the Martians are planning a new invasion of Earth – but who is the true enemy?
+
+Battle lines are drawn and the Doctor races against time to prevent Earth being caught in the crossfire.</dc:description>
+    </metadata>
+</package>

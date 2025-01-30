@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Son of the Dragon</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2007-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-181-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="99"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Steve Lyons</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Caroline Morris (Erimem)</dc:creator>
+        <dc:creator opf:role="nrt">Clare Calbraith (Maria)</dc:creator>
+        <dc:creator opf:role="nrt">Douglas Hodge (Radu / Krench / Joseph Dobrin)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Lloyd (Ayfer)</dc:creator>
+        <dc:creator opf:role="nrt">Barry McCarthy (John Dobrin / Arab Soldier / Dracula's Guard)</dc:creator>
+        <dc:creator opf:role="nrt">James Purefoy (Dracula)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Gatekeeper / Impaled Peasant / Soldiers / Passerby)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>I am Prince Vlad III - son of Vlad the Great, and sovereign and ruler of Ungro-Walachia and the duchies of Amlas and Fagaras.
+
+But since my father's murder, I have had another name.
+
+I am Dracula.</dc:description>
+    </metadata>
+</package>

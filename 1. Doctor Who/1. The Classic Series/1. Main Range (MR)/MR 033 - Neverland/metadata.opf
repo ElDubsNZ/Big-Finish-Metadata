@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Neverland</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2002-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-462-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="33"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Boyce (Taris)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Hallard (Matrix voice)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Keetch (Co-ordinator Vansell)</dc:creator>
+        <dc:creator opf:role="nrt">Holly King (Levith)</dc:creator>
+        <dc:creator opf:role="nrt">Alistair Lock (Emperor)</dc:creator>
+        <dc:creator opf:role="nrt">Mark McDonnell (Rorvan)</dc:creator>
+        <dc:creator opf:role="nrt">Lee Moone (Under-Cardinal)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Rigby (Matrix voice)</dc:creator>
+        <dc:creator opf:role="nrt">Dot Smith (Matrix voice)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Trapani (Kurst)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Web of Time is stretched to breaking. History is leaking like a sieve. In the Citadel of Gallifrey, the Time Lords fear the end of everything that is, everything that was... everything that will be.
+
+The Doctor holds the Time Lords' only hope - but exactly what lengths will the Celestial Intervention Agency go to in their efforts to retrieve something important from within his TARDIS? What has caused Imperiatrix Romanadvoratrelundar to declare war on the rest of creation? And can an old nursery rhyme about a monster called Zagreus really be coming true?
+
+The answers can only be found outside the bounds of the universe itself, in a place that history forgot. In the wastegrounds of eternity. In the Neverland.</dc:description>
+    </metadata>
+</package>

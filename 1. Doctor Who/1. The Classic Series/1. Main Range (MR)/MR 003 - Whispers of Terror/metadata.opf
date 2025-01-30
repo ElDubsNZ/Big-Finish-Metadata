@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Whispers of Terror</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>1999-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-068-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Justin Richards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Stefan Boje (Hans Stengard)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Beth Pernell)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Brenher (Visteen Krane)</dc:creator>
+        <dc:creator opf:role="nrt">Hylton Collins (Goff Fotherill / Computer Voice)</dc:creator>
+        <dc:creator opf:role="nrt">Rebecca Jenkins (Amber Dent / Cat Computer)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Miles (Museum Curator Gantman)</dc:creator>
+        <dc:creator opf:role="nrt">Nick Scovell (Detective Berkeley)</dc:creator>
+        <dc:creator opf:role="nrt">Harvey Summers (Radio Announcer)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Trotman (Miles Napton)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and Peri find themselves in the Museum of Aural Antiquities, where every sound is stored for posterity - from the speeches of Visteen Krane to security service wire taps and interrogation tapes. But they also find an intruder, mysteriously changed recordings, and a dead body.
+
+Before long the Doctor realises that there is more going on than a simple break-in or murder. How can he defeat a creature that is made of pure sound?</dc:description>
+    </metadata>
+</package>

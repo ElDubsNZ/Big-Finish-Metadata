@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Emerald Tiger</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-627-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="159"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Barnaby Edwards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Strickson (Vislor Turlough)</dc:creator>
+        <dc:creator opf:role="nrt">Benedict Briggs (The Forster Boy)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Cooper (Colonel Burroughs / Kimball)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Dastor (Professor Naryan)</dc:creator>
+        <dc:creator opf:role="nrt">Vincent Ebrahim (Shardul Khan / Announcer / Train Guard)</dc:creator>
+        <dc:creator opf:role="nrt">Gwilym Lee (Djahn / Lord Edgar Forster)</dc:creator>
+        <dc:creator opf:role="nrt">Cherie Lunghi (Lady Adela Forster)</dc:creator>
+        <dc:creator opf:role="nrt">Vineeta Rishi (Dawon)</dc:creator>
+        <dc:creator opf:role="nrt">Neil Stacy (Major Cyril Haggard)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Tiger, tiger, burning bright
+ In the forests of the night
+
+ Calcutta, 1926. The Doctor and his companions join an expedition to locate the fabled emerald tiger – a legendary marvel shrouded in myth and mystery. They must journey to an unexplored lost world filled with wonder and wickedness.
+
+ But at the centre of this terra incognita, something is stirring. Something with emerald eyes, diamond-sharp claws and a heart of darkness.</dc:description>
+    </metadata>
+</package>

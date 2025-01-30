@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>A Spoonful of Mayhem</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-672-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Missy - Series 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Roy Gill</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Michelle Gomez (Missy)</dc:creator>
+        <dc:creator opf:role="nrt">Oliver Clement (Oliver Davis)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Kingston (Lucy Davis)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Slater (Montague Davis / Moses Walker / Coachman)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Mr Cosmo / Park Keeper / Old Man / Sphinx)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Djinn / Housemaid)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In a spot of bother in Victorian London, Missy is forced to take on governess duties. 
+
+But she has another scheme in mind, and her charges are simply in the way. She's going to have to teach the children some rather harsh lessons about getting what you want. 
+
+And there will be tears before bedtime.</dc:description>
+    </metadata>
+</package>

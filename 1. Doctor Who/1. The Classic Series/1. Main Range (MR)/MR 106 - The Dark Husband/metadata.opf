@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Dark Husband</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-315-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="106"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Quantick</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Olivier (Hex)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Connolly (Bard / Ri Computer / Snot Monster)</dc:creator>
+        <dc:creator opf:role="nrt">Benny Dawb (Tuin)</dc:creator>
+        <dc:creator opf:role="nrt">Andy B Newb (Irit)</dc:creator>
+        <dc:creator opf:role="nrt">Katarina Olsson (Bard / Ri Computer)</dc:creator>
+        <dc:creator opf:role="nrt">Danny Webb (Ori)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"This whole wedding is like making a nuclear bomb with half the instructions missing!"
+
+A week-long respite from a prolonged and bloody war, the Festival of the Twin Moons of Tuin makes Glastonbury look like a church fete... or so the brochure says. The Doctor and Ace are looking for rest and recreation. Hex is looking for the beer tent. But eternal enemies the ginger-haired Ri and the coot-bald Ir are plotting to turn their Festival truce to their own advantage. Only the Dark Husband might stop the celebrations turning to horror... but who is the Dark Husband? And what terror awaits him on his wedding night?
+
+If anyone knows any just cause or impediment... speak now. The lives of billions depend on it.</dc:description>
+    </metadata>
+</package>

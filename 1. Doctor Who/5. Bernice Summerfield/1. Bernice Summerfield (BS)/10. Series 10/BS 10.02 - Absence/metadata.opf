@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Absence</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-421-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 10"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Daniel O'Mahony</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Thomas Grant (Peter Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Rachael Elizabeth (Cindy)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Littledale (Lamarque Aslinedes)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Thornley (Aaron Keep)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Cluster worlds are one of the great mysteries of space travel – planet-sized objects that have spontaneously fused together from the detritus, junk and flotsam left behind by both human and alien space travellers. The archaeologist who solves the mystery will become rich and famous overnight.
+
+Professor Bernice Summerfield just wants to leave.
+
+Bernice and her son Peter are stranded on Absence, a cluster object that has been settled by a cartel operating beyond human space. It’s an artificial world where everything is at a premium and nothing comes without a price. For the wealthy few who can afford it there is the relative freedom of the world beyond the sterile cartel domes, but Bernice is almost penniless.
+
+The reclusive entrepreneur Lamarque Aslanides is leading a mission to explore the largely uncharted interior of Absence. For Bernice it will mean a long and painful period of separation from her son - but the money will pay for their passage off this world.
+
+As the expedition descends into madness and death, they discover that they are not the only ones interested in the mysteries at the heart of the cluster. Then when Peter’s life is placed in danger, Bernice is powerless to help.</dc:description>
+    </metadata>
+</package>

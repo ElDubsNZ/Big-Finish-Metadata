@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Infamy of the Zaross</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-369-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Tenth Doctor Adventures - Series 2"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Tennant (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Billie Piper (Rose Tyler)</dc:creator>
+        <dc:creator opf:role="nrt">Camille Coduri (Jackie Tyler)</dc:creator>
+        <dc:creator opf:role="nrt">George Asprey (Leader)</dc:creator>
+        <dc:creator opf:role="nrt">Rosie Cavaliero (Marge Ellmore)</dc:creator>
+        <dc:creator opf:role="nrt">Guy Henry (Ikron)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Lilly (Jess Ellmore)</dc:creator>
+        <dc:creator opf:role="nrt">George Watkins (Tanan / Steve)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When Jackie Tyler takes a trip to visit her old friend Marge in Norwich, she finds her holiday immediately interrupted in the worst way possible - an alien invasion! The infamous Zaross have come to take over the Earth.
+
+Or have they? After Jackie calls in the Doctor and Rose to deal with the menace, it soon becomes clear that this is a very unusual invasion indeed.
+
+The Doctor is about to uncover one of the most heinous crimes in the history of the galaxy. And if he can't stop it an awful lot of people are going to die.</dc:description>
+    </metadata>
+</package>

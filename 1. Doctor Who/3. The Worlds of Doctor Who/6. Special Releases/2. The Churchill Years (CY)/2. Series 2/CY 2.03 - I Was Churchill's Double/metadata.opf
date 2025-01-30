@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>I Was Churchill's Double</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-429-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Churchill Years - Volume 2"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Ian McNeice (Winston Churchill)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Elstob (Kaiser Wilhelm III/John Logie Baird)</dc:creator>
+        <dc:creator opf:role="nrt">Emily Woodward (Louisa)</dc:creator>
+        <dc:creator opf:role="nrt">Hywel Morgan (Von Moltke)</dc:creator>
+        <dc:creator opf:role="nrt">Roberta Taylor (Maid)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Alexandra Palace, 1942. Strange television signals show a paranoid Churchill urging on the resistance in German-occupied Britain. A man in a battered leather jacket makes a guest appearance. The broadcasts come from another world, one where the country is now part of the Kaiser’s Empire. Of course, the Doctor is involved, and while Churchill claims to understand the notion of 'alternative histories', he never expected to be part of one.</dc:description>
+    </metadata>
+</package>

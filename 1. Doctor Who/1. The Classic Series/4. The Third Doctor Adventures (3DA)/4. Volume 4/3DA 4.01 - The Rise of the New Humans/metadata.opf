@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Rise of the New Humans</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-501-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Third Doctor Adventures - Volume 4"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tim Treloar (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Katy Manning (Jo Grant)</dc:creator>
+        <dc:creator opf:role="nrt">Rufus Hound (The Monk)</dc:creator>
+        <dc:creator opf:role="nrt">Mina Anwar  (Dr Kurdi)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Sims (Chief Orderly / Wilde / Jumper)</dc:creator>
+        <dc:creator opf:role="nrt">Clare Corbett (Harriet / Woman / Radio Technician)</dc:creator>
+        <dc:creator opf:role="nrt">Silas Hawkins (Francis / Morgue Attendant / Patient / Orderly)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When a man dies after falling from the top floor of a multi-storey car park, the Doctor and Jo wonder why it should be of interest to UNIT. Then they see the protuberances on the man’s back… As he fell, he tried to grow wings.
+
+Looking into the man’s past leads the Doctor and Jo to a remote private hospital where the staff aren’t as helpful as they could be, and the Chief Administrator is unavailable to meet with them.
+
+Breaking into some restricted wards, the Doctor notes the presence of alien and futuristic technology. The whole thing bears the unmistakable hallmarks of one of his own people’s interference, one of his old foes. Except not perhaps the one he might have imagined.
+
+The Monk is back. And this time his meddling may have gone too far.</dc:description>
+    </metadata>
+</package>

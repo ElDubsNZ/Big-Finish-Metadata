@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Exit Strategy</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-115-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Doctor Begins - Series 6 - Enemy Mine"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jonathon Carley (The War Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Paul McGann (The Eighth Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Ajjaz Awad (Case)</dc:creator>
+        <dc:creator opf:role="nrt">Adèle Anderson (Tamasan)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Veklin)</dc:creator>
+        <dc:creator opf:role="nrt">David Monteith (The Nurse)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Case is with the Daleks - but the Emperor is yet to be convinced of her effectiveness as a weapon. The Dalek Time Strategist will not give up and takes Case to a secret facility for readjustment. The War Doctor will not give up on Case either. He hopes she can still be rescued. But he is not the man he was - and he may not be the man to save her...</dc:description>
+    </metadata>
+</package>

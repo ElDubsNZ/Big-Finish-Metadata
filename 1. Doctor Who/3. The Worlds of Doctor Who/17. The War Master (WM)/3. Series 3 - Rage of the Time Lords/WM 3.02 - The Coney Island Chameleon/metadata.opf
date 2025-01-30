@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Coney Island Chameleon</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-664-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Master - Series 3 - Rage of the Time Lords"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Llewellyn</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Derek Jacobi (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Youssef Kerkour (Giuseppe Sabatini)</dc:creator>
+        <dc:creator opf:role="nrt">Taj Atwal (Esther)</dc:creator>
+        <dc:creator opf:role="nrt">Ryan Forde Iosco (Fletcher)</dc:creator>
+        <dc:creator opf:role="nrt">Anjela Lauren Smith (Genevieve)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the carnival arrives on Coney Island, it brings with it the most incredible specimens that New York will ever see. Unfortunately for the acts, not all eyes on them are friendly. Enigmatic businessman TS Mereath has taken a shine to the Coney Island Chameleon, for example... and he will seemingly stop at nothing to acquire her.</dc:description>
+    </metadata>
+</package>

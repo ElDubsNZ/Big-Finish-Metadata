@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Reflect</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-413-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="90.2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Joseph Lidster</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sophie Aldred (Dorothy McShane)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Clayton (Mr Colchester)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Whispers)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"I will live in the past, the present, and the future. The spirits of all three shall strive within me." 
+
+Christmas is a time for ghost stories, everyone knows that. But it is also a time to reflect on the past, consider the present and muse on where we might be in the future. 
+
+Dorothy McShane and St John Colchester-Price have gathered to tell each other - and you at home - four stories of horror and hope, of spirits and sadness. 
+
+It's the longest night of the year. And the lady in green waits...</dc:description>
+    </metadata>
+</package>

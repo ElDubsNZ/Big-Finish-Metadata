@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Signs and Wonders</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-332-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="191"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Olivier (Hector)</dc:creator>
+        <dc:creator opf:role="nrt">Warren Brown (Rufus Stone / To'Koth)</dc:creator>
+        <dc:creator opf:role="nrt">Jemma Churchill (Praska)</dc:creator>
+        <dc:creator opf:role="nrt">Rory Keenan (Captain Gormley)</dc:creator>
+        <dc:creator opf:role="nrt">Jessica Martin (Reverend Janet Green)</dc:creator>
+        <dc:creator opf:role="nrt">Amy Pemberton (Sally Morgan)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The end of the world is nigh. That’s what everybody is seeing in their nightmares. That's why they are congregating in Liverpool for the party to end all parties, hosted by Rufus Stone, a celebrity turned doomsday prophet. He claims he’s the only one who can save them when the day of judgement comes. Because he’s on the side of the angels.
+
+The Doctor, Ace and Hector arrive to find the city in the grip of apocalypse fever. There are lights in the sky, earthquakes and power cuts. The Doctor is determined to investigate, while Ace is more concerned about finding a way of restoring Hector’s lost memories.
+
+Meanwhile, in the river Mersey, hideous, slug-like creatures are stirring...</dc:description>
+    </metadata>
+</package>

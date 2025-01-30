@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Cobwebs</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-472-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="136"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Strickson (Vislor Turlough)</dc:creator>
+        <dc:creator opf:role="nrt">Raymond Coulthard (Loki / Edgar / Hawks)</dc:creator>
+        <dc:creator opf:role="nrt">Helen Griffin (Director Cardell / Ship's Computer)</dc:creator>
+        <dc:creator opf:role="nrt">Charlotte Lucas (Bio Technician Valis / Echelon)</dc:creator>
+        <dc:creator opf:role="nrt">Adrian Lukis (Enforcement Office Bragg)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>“You know what cobwebs mean. Spiders…”
+
+In search of a cure for a sickness that’s so far claimed six billion lives, scientist Nyssa arrives at an abandoned gene-tech facility on the toxic planet Helheim. ‘Hellhole’, more like.
+
+ Nyssa’s not alone. The TARDIS has also been drawn to the Helheim base – and in its cobweb-coated corridors, she soon runs into the Doctor, Tegan and Turlough, her travelling companions of half a century past. But who, or what, has engineered this strange reunion? The Black Guardian, perhaps?
+
+ The answer’s here, in the dark. With the Cractids. In the cobwebs.</dc:description>
+    </metadata>
+</package>

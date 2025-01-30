@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Year of the Pig</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2006-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-175-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="90"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matthew Sweet</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Adjoa Andoh (Nurse Albertine)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Brooke (Toby the Sapient Pig)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Keating (Inspector Chardalot)</dc:creator>
+        <dc:creator opf:role="nrt">Maureen O'Brien (Miss Alice Bultitude)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Ostend, 1913. War is coming. A war in which millions will die. And the guest in suite 139 of the Hotel Palace Thermae knows it. Which is odd, considering he has trotters, a snout and a lovely curly tail.
+
+Toby the Sapient Pig is a swine on the run. Two peculiar strangers have been hunting him across Europe. The first, Miss Alice Bultitude, is an Englishwoman and collector of obscure theatrical ephemera. The second, Inspector Alphonse Chardalot, is a celebrated member of the detective police - the man who brought the trunk murderess of St Germain to justice.
+
+This was supposed to be a reading week for the Doctor and Peri. Now they must do battle with a villain who wants to wipe every last human from the face of the earth - once he's had just another dish of truffles. And maybe a valedictory glass of fizzy lemonade.</dc:description>
+    </metadata>
+</package>

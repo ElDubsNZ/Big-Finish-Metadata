@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Trouble with Drax</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-737-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 5"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9 / Cabot)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Grunthar / Street Cleaner)</dc:creator>
+        <dc:creator opf:role="nrt">Ray Brooks (Drax)</dc:creator>
+        <dc:creator opf:role="nrt">John Challis (Rosser)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Fraser (Charles Kirkland / Shopkeeper)</dc:creator>
+        <dc:creator opf:role="nrt">Miranda Raison (Inspector Fleur McCormick)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Shopkeeper 2)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Altrazar. The temporal Atlantis, a place lost to time. Believed by many to be a myth, it has long been the perfect location for the rich and powerful to hide away their most dangerous secrets.
+
+Until now.
+
+Because the somewhat crooked, not exactly honest, wheeler-dealer cockney Time Lord known as Drax has found a map that leads to its location. And, at the behest of a manipulative businessman, he's going to use it.
+
+When the TARDIS is dragged out of the space-time vortex, its crew aren't best pleased to see the Doctor's old school friend, even less when he pressgangs them into joining a raid on the most secure safe-house in history. However, with Romana and K9 held hostage, the Doctor has little choice but to agree. With Drax in tow, he heads for the planet.
+
+Which is where the trouble starts...</dc:description>
+    </metadata>
+</package>

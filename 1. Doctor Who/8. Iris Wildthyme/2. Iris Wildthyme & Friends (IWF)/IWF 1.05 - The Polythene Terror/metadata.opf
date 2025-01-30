@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Polythene Terror</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Iris Wildthyme & Friends"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Magrs</dc:creator>
+
+        <!--Cast-->
+
+        <!-- Description -->
+        <dc:description>EXILED by her own mysterious people to Earth in 1976, IRIS WILDTHYME and her best friend PANDA are soon embroiled in a terrifying adventure involving RUBBISH MEN! 
+
+The STREETS of London are filled with DEADLY GARBAGE! Government Ministers are going out of their MINDS! TV Professors are proposing crazy ideas! MIDA SLIKE of the Ministry of Incursions and Ontological Wonders (MIAOW!) is called in, and soon her very best people are assembling to investigate the mysteries of THE CHASM… 
+
+But how can a Transtemporal Adventuress with a knackered double decker, a furious Panda and an absolutely shocking HANGOVER even begin to cope with what looks like a downright HORRIBLE PALAVER?</dc:description>
+    </metadata>
+</package>

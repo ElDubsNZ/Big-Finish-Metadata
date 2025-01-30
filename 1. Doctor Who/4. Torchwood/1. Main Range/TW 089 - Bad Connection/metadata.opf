@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Bad Connection</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-411-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="89"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Aaron Lamont</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Indira Varma (Suzie Costello)</dc:creator>
+        <dc:creator opf:role="nrt">Jason Watkins (Emlyn Crook)</dc:creator>
+        <dc:creator opf:role="nrt">Ulrika Butt, Alex Hewitt, Arthur Hughes, Rhys Jennings, Bharti Patel, Rameet Rauli, Matthew Woodyatt (The Passersby)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A lonely man is walking past a telephone box when he notices it's ringing. On the other end of the line is a woman telling him he’s in terrible danger. 
+
+Will someone finally listen to Suzie Costello? And will she save Emlyn Crook?</dc:description>
+    </metadata>
+</package>

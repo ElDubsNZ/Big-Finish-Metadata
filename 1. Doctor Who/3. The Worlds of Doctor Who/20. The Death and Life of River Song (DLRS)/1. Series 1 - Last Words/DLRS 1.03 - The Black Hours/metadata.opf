@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Black Hours</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-460-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Death and Life of River Song - Series 1 - Last Words"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Valentine</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Booker (Harmony / Dr Kantia Jordsand / The Librarian)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Boulton (Reverend Horlock / Destroying Angel)</dc:creator>
+        <dc:creator opf:role="nrt">Jacob Daniels (Dastur Tausend / Bunker Computer)</dc:creator>
+        <dc:creator opf:role="nrt">Christine Kavanagh (Guardian Angel / Vira)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (Technician Dune / Agent 1)</dc:creator>
+        <dc:creator opf:role="nrt">Shogo Miyakita (Major Streit)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Parker (Samael Avner / Sam Spendlove)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew James Spooner (Dr Erno Balthazar / Mr Bartholomew)</dc:creator>
+        <dc:creator opf:role="nrt">Issy Van Randwyck (Lady Mary Wembridge / Lotophage Computer)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Whitelock (Lazar / Agent 2)</dc:creator>
+        <dc:creator opf:role="nrt">Greg Wise (Garrison Clay)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Zubairi (Peevy / Com-Tech 2)</dc:creator>
+
+        <!-- Description -->
+        <dc:description></dc:description>
+    </metadata>
+</package>

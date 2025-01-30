@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Vaults of Osiris</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-540-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The New Adventures of Bernice Summerfield - Volume 2 - The Triumph of Sutekh"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Justin Richards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Diveen Henry (Alozza)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Vasha)</dc:creator>
+        <dc:creator opf:role="nrt">Guy Adams (Graull)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Egypt in 2015 is an unsettled place. The trade in stolen antiquities is a murky one, and it's about to get a whole lot worse, as an ancient and terrible force enters the market.</dc:description>
+    </metadata>
+</package>

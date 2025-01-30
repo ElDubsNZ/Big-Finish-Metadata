@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Institute of Forgotten Souls</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-181-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Seventh Doctor Adventures - The Doctor and Carnacki"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Carnacki)</dc:creator>
+        <dc:creator opf:role="nrt">Alan Cox (Sergeant Winston Price)</dc:creator>
+        <dc:creator opf:role="nrt">Rebecca Crinnion (Joyce Harrison / The Actuary)</dc:creator>
+        <dc:creator opf:role="nrt">Ewan Thomson (Club Member / Fur-Beasts)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In the heart of England in 1936 there lies a home for wounded men. It is a strange, shadowed place, full of secrets. 
+
+Terrible beasts prowl the grounds, as if guarding something dreadful. Inmates are disappearing, picked off one by one, while a singular resident - a certain, now retired ghost finder - bravely staves off the darkness. 
+
+Yet tonight is the night when it's all going to end. For tonight is the night when the Doctor comes to call...</dc:description>
+    </metadata>
+</package>

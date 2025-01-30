@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Doctor's Tale</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-337-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Early Adventures - Series 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">William Russell (Ian Chesterton / The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Maureen O'Brien (Vicki / Barbara Wright / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth Armstrong (Geoffrey Chaucer / The Bishop / Jud Hacker)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Kloska (Sir Robert de Wensley / King Henry IV / Adam / Tom Chaucer)</dc:creator>
+        <dc:creator opf:role="nrt">Alice Haig (Isabella)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Thomas Arundel / Abbot William)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>England, 1400. Winter. Blood in the snow. Henry IV has usurped the throne, and deposed King Richard II languishes in Pomfret Castle. 
+
+Meanwhile the Doctor and his companions preside over New Year revels at Sonning Palace. 
+
+But Sonning is a prison, treachery is in the air and murderous Archbishop Thomas Arundel will stop at nothing to crush the rebellion. 
+
+As the Doctor and Barbara take the road to Canterbury, Vicki finds a royal friend and Ian is dragged into a dark web of conspiracy at whose heart sits that teller of tales, Geoffrey Chaucer.</dc:description>
+    </metadata>
+</package>

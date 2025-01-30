@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Last of the Cybermen</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-459-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="199"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Frazer Hines (Jamie McCrimmon)</dc:creator>
+        <dc:creator opf:role="nrt">Wendy Padbury (Zoe Heriot)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Lanky / Cybermen / Planner / Super-Controller / Cyberleader)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Farrell (Captain Frank)</dc:creator>
+        <dc:creator opf:role="nrt">Kieran Hodgson (Findel)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Liemann (Zennox)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It's been ten years since the final assault on Telos, the last act of the Great Cyber War. Thanks to the Glittergun, humanity prevailed – and the half-machine Cybermen were utterly obliterated.
+
+Out on the furthest fringes of the galaxy, however, they left their mark - in the form of a giant Cyber-head, hundreds of feet high. A monument? A memorial? A tomb? The Doctor, the Cybermen's most indefatigable adversary, sets out to investigate... but he fails to return to his TARDIS. Leaving the Ship, his two companions - brave Highlander Jamie MacCrimmon, and super-intelligent Zoe Heriot - find a stranger in the Doctor's place. A stranger in a coat of many colours, who insists that he's the Doctor - transposed in time and space with one of his former selves...
+
+But why here? Why now? Has the universe really seen the last of the Cybermen..?</dc:description>
+    </metadata>
+</package>

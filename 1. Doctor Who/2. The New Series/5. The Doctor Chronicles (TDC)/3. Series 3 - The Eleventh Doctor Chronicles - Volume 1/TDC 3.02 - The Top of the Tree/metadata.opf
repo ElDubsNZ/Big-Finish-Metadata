@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Top of the Tree</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-227-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eleventh Doctor Chronicles - Volume 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jacob Dudman (The Narrator / The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Danny Horn (Kazran Sardick)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On one of their annual jaunts, young Kazran Sardick and the Doctor find themselves in trouble when the TARDIS is tangled in the branches of a very strange, very large tree.
+
+They emerge into a habitat where myriad species fight for survival: an ecosystem of deadly flora and fauna, along with a tribe of primitive humans.
+
+This is a mystery which can only be solved by climbing. But what will they find at the top of the tree?</dc:description>
+    </metadata>
+</package>

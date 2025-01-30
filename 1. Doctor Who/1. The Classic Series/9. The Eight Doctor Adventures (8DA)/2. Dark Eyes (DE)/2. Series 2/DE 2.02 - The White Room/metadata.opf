@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The White Room</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-304-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Dark Eyes 2"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Ruth Bradley (Molly O'Sullivan)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Brooker (Dr Herbert Goring/The Viyrans)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Radcliffe (David Walker)</dc:creator>
+        <dc:creator opf:role="nrt">Brian Shelley (Tommy Dooley/Harrison/Future Viyran)</dc:creator>
+        <dc:creator opf:role="nrt">Adrian MacKinder (Master Zachrey)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Knott (Sean Casey)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Molly O'Sullivan is still trying to help people, but now she is back in London, staying in Baker Street.
+
+But there are dangerous forces abroad. Where are the young deserters disappearing to? Who are the Huntsmen? And what is really going on at the Blackwell Convalescent Home?
+
+Perhaps the mysterious 'Surgeon General' has the answers. To find out, the Doctor must tackle an old and baffling enemy.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Time of the Intelligence</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-090-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The New Counter Measures - Series 2"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andy Frankham-Allen</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Simon Williams (Group Captain Gilmore)</dc:creator>
+        <dc:creator opf:role="nrt">Pamela Salem (Rachel Jensen)</dc:creator>
+        <dc:creator opf:role="nrt">Karen Gledhill (Allison Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Ross (Sir Toby Kinsella)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Diveney (Doctor Norma Vine)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Bentinck (Edward Travers / Great Intelligence)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Anson (Reece Goff / Jacob)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A strange voice is interrupting TV broadcasts across the capital, and bear-like creatures are raiding factories, stealing equipment and killing guards. The Great Intelligence and his army of Yeti have returned. And there’s only one team that can stop them.
+
+Familiar with their foe, Sir Toby calls on the help of Edward Travers to defeat the menace. But without the Doctor to help them, can the Intelligence ever be stopped?</dc:description>
+    </metadata>
+</package>

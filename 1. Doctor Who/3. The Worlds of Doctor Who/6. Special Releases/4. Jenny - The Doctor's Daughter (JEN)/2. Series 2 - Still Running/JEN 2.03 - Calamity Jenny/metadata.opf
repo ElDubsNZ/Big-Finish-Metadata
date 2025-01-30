@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Calamity Jenny</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-613-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jenny - The Doctor's Daughter - Series 2 - Still Running"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Georgia Tennant (Jenny)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Biggerstaff (Noah)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Brandon (Narrator / Train Driver)</dc:creator>
+        <dc:creator opf:role="nrt">Jana Carpenter (Marion "Momma" Stokes)</dc:creator>
+        <dc:creator opf:role="nrt">James Goode (Sherriff Sparrow / Virgil)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When Noah and Jenny mosey on into the Old West, it's surely a coincidence that Jenny looks exactly like the town's most notorious outlaw. But as they'll discover, anyone who crosses 'Calamity Jenny' suffers an unlucky fate – and it's usually fatal.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Toos and Poul</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-040-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Robots - Series 2"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andrew Smith</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Pamela Salem (Lish Toos)</dc:creator>
+        <dc:creator opf:role="nrt">David Collings (Ander Poul)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Conningham (V11 / Kaden Olson)</dc:creator>
+        <dc:creator opf:role="nrt">Satnam Bhogal (Jaybel Tyrus / Prospector)</dc:creator>
+        <dc:creator opf:role="nrt">Indra Ové (Tayna Vandermoy)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When a murder takes place in an isolated outpost, there’s only one man who can look into the crime. Investigator Poul, newly reunited with his Sandminer colleague Toos. But can he over-come his fears and prejudices and solve the case?</dc:description>
+    </metadata>
+</package>

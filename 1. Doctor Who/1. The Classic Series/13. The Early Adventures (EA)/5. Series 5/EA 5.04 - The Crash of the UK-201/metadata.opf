@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Crash of the UK-201</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-966-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Early Adventures - Series 5"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Maureen O'Brien (Vicki / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Purves (Steven Taylor / The Doctor / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Jemma Churchill (Carmen Scheffler)</dc:creator>
+        <dc:creator opf:role="nrt">David Cooke (additional voices)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Fewell (Jeran Dalton)</dc:creator>
+        <dc:creator opf:role="nrt">Arthur Hughes (Lieutenant Thorpe)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Lumsden (Newton Pallister)</dc:creator>
+        <dc:creator opf:role="nrt">Carol Starks (Captain Odessa Grey)</dc:creator>
+        <dc:creator opf:role="nrt">Eve Webster (Carla / Maria Dalton)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>You can’t change the past, every time traveller knows that. What’s done is done and cannot be unwritten. But what if it isn’t the past any more? What if it’s now the present?
+
+The spaceship called the UK-201 was intended to fly to the Earth colony of Astra. But it never made it. Crashing on the planet Dido, a tragic chain of events was set in motion leading to the death of almost all of its crew and a massacre of the indigenous population.
+
+The only survivor of these events was a young girl called Vicki. Rescued by the time traveller known as the Doctor, she’s been travelling in his ship for some time.
+
+So when she suddenly wakes up in her cabin on the UK-201 again, without her friends, a few days before the accident, she’s faced with a stark choice... Can she stop the crash from happening? And if she can, should she?</dc:description>
+    </metadata>
+</package>

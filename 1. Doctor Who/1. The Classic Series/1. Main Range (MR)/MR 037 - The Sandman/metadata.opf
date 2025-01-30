@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Sandman</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2002-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-476-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="37"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon A Forward</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Stables (Evelyn Smythe)</dc:creator>
+        <dc:creator opf:role="nrt">Robin Bowerman (Mordecan)</dc:creator>
+        <dc:creator opf:role="nrt">Stephanie Colburn (Nintaru)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Donovan (Orchestrator Shol)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Hogg (General Voshkar)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Wharton (Commander Brel)</dc:creator>
+        <dc:creator opf:role="nrt">Anneke Wills (Director Nrosha)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Clutch is a fleet in constant motion, ships jostling for position, in an endless migration between the stars. For the Galyari, forbidden by an ancient curse from settling on a world ever again, the Clutch is home. But the curse travels with them!
+
+The Sandman, a figure of myth and folklore, preys on the young and old alike. He lurks in the shadows and it is death to look upon him.
+
+All too soon after the TARDIS arrives, it is evident that the Doctor and the Galyari share a dark history, and Evelyn is shocked to discover that, on the Clutch, it is her friend who is the monster.
+
+The Sandman, according to the tales, also goes by the name of the Doctor!</dc:description>
+    </metadata>
+</package>

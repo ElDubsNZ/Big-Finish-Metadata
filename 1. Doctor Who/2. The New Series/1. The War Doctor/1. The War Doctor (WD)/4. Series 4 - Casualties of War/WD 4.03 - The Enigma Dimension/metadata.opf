@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Enigma Dimension</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-193-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Doctor - Series 4 - Casualties of War"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Hurt (The War Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline Pearce (Cardinal Ollistra)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Alan David (Kanteer)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Lintok)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Dalek Time Strategist / The Daleks / Assault Team Leader)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Dalek Time Strategist has a new plan to ensure final victory in the Time War. As its forces gather for a huge assault on the enemy, ahead of the fleet something hovers above the planet of the Time Lords. And on Gallifrey itself, shadows move among the Cloisters. The Time Lords face a threat alien to their entire universe. To save their world, the War Doctor and his allies must enter the Enigma Dimension...</dc:description>
+    </metadata>
+</package>

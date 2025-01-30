@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Warlock's Cross</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-837-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="244"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Steve Lyons</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Tracey Childs (Klein)</dc:creator>
+        <dc:creator opf:role="nrt">Russ Bain (Lieutenant Colonel Lewis Price)</dc:creator>
+        <dc:creator opf:role="nrt">Genevieve Gaunt (Linda Maxwell)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Gibson (Colonel McKenna)</dc:creator>
+        <dc:creator opf:role="nrt">Blake Harrison (Daniel Hopkins)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Milligan (Gregory Lord)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It’s time the truth was told. About UNIT. About the Cybermen invasion. About the so-called ‘Doctor’. About what happened all those years ago, at Warlock’s Cross. About the man they keep locked up in a cage, in a secret prison…
+
+It’s time. Because UNIT scientific adviser Elizabeth Klein is going to help ensure the truth is brought to light.
+
+Today’s the day… that UNIT falls.
+
+[Please note: this story is the third in a series of linked stories featuring UNIT and Daniel Hopkins, beginning with The Helliax Rift and continuing with Hour of the Cybermen.]</dc:description>
+    </metadata>
+</package>

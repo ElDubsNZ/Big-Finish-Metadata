@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Museum of Curiosities</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-360-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jago & Litefoot - Series 10"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Justin Richards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Trevor Baxter (Professor George Litefoot)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Asquith (Inspector Quick)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Ellie Higson)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Hadoke (Carruthers Summerton)</dc:creator>
+        <dc:creator opf:role="nrt">David Warner (Luke Betterman)</dc:creator>
+        <dc:creator opf:role="nrt">Ewan Bailey (Galbraith/Cooper/Roberts)</dc:creator>
+        <dc:creator opf:role="nrt">Geoffrey Beevers (The Master)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>At last Carruthers Summerton – the greatest admirer of Jago and Litefoot and their would-be biographer – gets to accompany his heroes on an investigation. But amongst the bizarre murders and strange clues lies a much deeper and far more dangerous mystery. Unsure who they can trust, Jago and Litefoot will find out the truth at the Museum of Curiosities...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Ribos Inheritance</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-746-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Seventh Doctor Adventures - Silver and Ice"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Mel)</dc:creator>
+        <dc:creator opf:role="nrt">David Rintoul (Garron)</dc:creator>
+        <dc:creator opf:role="nrt">Homer Todiwala (King Kari)</dc:creator>
+        <dc:creator opf:role="nrt">Vivienne Rochester (Sandarr)</dc:creator>
+        <dc:creator opf:role="nrt">Issy Van Randwyck (The Seeker / Baladin Smith / Computer Voice)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Bazely (The Duke of Hishtar)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and Mel arrive expecting Suntime on Ribos, but find a world still shrouded in snow and ice - but it’s not just the climate that’s gone awry... As forces plot against the young King, a soothsayer predicts doom. And out in the wilds, the Doctor finds wily conman Garron caught up in events on Ribos once again.</dc:description>
+    </metadata>
+</package>

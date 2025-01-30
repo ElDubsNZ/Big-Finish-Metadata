@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Final Beginning</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-736-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Second Doctor Adventures - Beyond War Games"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mark Wright</dc:creator>
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+        <dc:creator opf:role="aut">Andrew Smith</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Michael Troughton (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Emma Noakes (Raven)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Treloar (Silas / The Third Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Anna-Maria Nabirye (Catrona)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Celestine / The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (Brigadier Lethbridge-Stewart)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Believing he has escaped exile - and a change to his appearance - by the Time Lords, the Doctor finds himself lost on a snowy, alien world. He is not alone – prospectors Catrona and Silas are stranded on this nightmare planet, but without his TARDIS, the Doctor is powerless to help them.
+
+Seeking answers – and freedom – the Doctor’s hopes and suspicions are aroused when a crashed TARDIS is discovered in the snow. Are Catrona and Silas as innocent as they seem? And who is Raven, the young woman who watches from afar?
+
+Long buried secrets are about to be revealed in this icy wasteland, and the Doctor discovers that every end has a terrifying new beginning…</dc:description>
+    </metadata>
+</package>

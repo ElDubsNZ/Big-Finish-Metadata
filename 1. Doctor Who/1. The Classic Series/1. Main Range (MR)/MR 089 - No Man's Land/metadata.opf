@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>No Man's Land</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2006-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-178-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="89"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Martin Day</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Olivier (Hex)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Adams (Private Dixon)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Cochrane (Lieutenant-Colonel Brook)</dc:creator>
+        <dc:creator opf:role="nrt">Rob Dixon (Sergeant Wood)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Hayles (Lance-Corporal Burridge)</dc:creator>
+        <dc:creator opf:role="nrt">Oliver Mellor (Private Taylor)</dc:creator>
+        <dc:creator opf:role="nrt">Rupert Wickham (Captain Dudgeon)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It is 1917 and the Doctor, Hex and Ace find themselves in a military hospital in northern France. But the terrifying, relentless brutality of the Great War that wages only a few miles away is the least of their concerns.
+
+The travellers become metaphysical detectives when the Doctor receives orders to investigate a murder. A murder that has yet to be committed...
+
+Who will be the victim? Who will be the murderer? What is the real purpose of the Hate Room? Can the Doctor solve the mystery before the simmering hate and anger at Charnage hospital erupts into a frenzy of violence?</dc:description>
+    </metadata>
+</package>

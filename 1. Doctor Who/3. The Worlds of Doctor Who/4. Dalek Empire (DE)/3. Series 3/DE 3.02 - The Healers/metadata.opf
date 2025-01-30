@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Healers</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2004-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-083-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Dalek Empire - Series 3"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Tennant (Galanar)</dc:creator>
+        <dc:creator opf:role="nrt">William Gaunt (Georgi Selestru)</dc:creator>
+        <dc:creator opf:role="nrt">Ishia Bennison (Frey Saxton)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Elder (Siy Tarkov)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Mowat (Susan Mendes / The Dalek Supreme)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Rees (Kaymee Arnod)</dc:creator>
+        <dc:creator opf:role="nrt">Claudia Elmhirst (Amur Tarkov)</dc:creator>
+        <dc:creator opf:role="nrt">Octavia Walters (Japrice)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Forbes (Dan Culver)</dc:creator>
+        <dc:creator opf:role="nrt">Oliver Hume (Provost Carneill)</dc:creator>
+        <dc:creator opf:role="nrt">Dot Smith (Mivas)</dc:creator>
+        <dc:creator opf:role="nrt">Greg Donaldson (Telligan)</dc:creator>
+        <dc:creator opf:role="nrt">Jeremy James (Sergic)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Jackson (Seth)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Wolff (Chauley)</dc:creator>
+        <dc:creator opf:role="nrt">David Sax (Crewman Antani)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Siy Tarkov must convince a doubting Galactic Union that a Dalek invasion is imminent. 
+
+Agent Galanar is on a covert mission to find definitive proof of the menace of the Daleks. But the Border Worlds are being ravaged by a deadly plague infection. An infection the Daleks are offering to cure. 
+
+Meanwhile, the Graxis Wardens' ecological paradise is about to be torn apart... 
+
+"Allow me to introduce to you representatives of the Dalek Empire..."</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>He Who Wins</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-666-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Master - Series 4 - Anti-Genesis"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Derek Jacobi (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Gatiss (The Other Master)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Pippa Bennett-Warner (Livia)</dc:creator>
+        <dc:creator opf:role="nrt">Gavin Swift (Crazlus)</dc:creator>
+        <dc:creator opf:role="nrt">Ben Crystal (Soogasor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks/The Daleks/Dalek Time Strategist)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Master has achieved an ultimate victory. But at what cost?</dc:description>
+    </metadata>
+</package>

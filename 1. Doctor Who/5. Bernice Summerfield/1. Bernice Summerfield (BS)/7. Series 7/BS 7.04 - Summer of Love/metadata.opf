@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Summer of Love</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2006-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-128-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 7"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Fewell (Jason Kane)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Faulkner (Bev Tarrant)</dc:creator>
+        <dc:creator opf:role="nrt">Karen Baldwin (Girl in the Crowd)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Lidster (Minko)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Myers (Adrian Wall)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Stevens (Doggles)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Joseph)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Wolfe (Hass)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It was the best of times, it was the worst of times.
+
+It was the hottest summer on record and the last summer before the war.
+
+It was the one time Bernice Summerfield had a use for her otherwise useless boyfriend. But Jason Kane is away on the far side of the galaxy.
+
+The Braxiatel Collection has always been an odd place to live. A perfect replica of the Palace of Versailles, stuck on a smallish planetoid, hanging in a much disputed sort of space. The weather's all over the place, the neighbours gathering armaments…
+
+And now everyone's s******* like rabbits.
+
+Everyone except for Bernice.</dc:description>
+    </metadata>
+</package>

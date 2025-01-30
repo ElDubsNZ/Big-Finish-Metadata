@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Dead Media</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 9"/>
+        <meta name="calibre:series_index" content="9"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Richards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jacob Dudman (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Like everyone else in 2017, the Doctor is doing a podcast. Named the ‘People of St Lukes’, the podcast is about the everyday lives of students at the university. Only, with the Doctor involved, the everyday is dangerous and extraordinary.
+
+Something’s lurking in the A/V department, something that is trapped in old equipment… as the Doctor quickly discovers, outdated technology does have a role in the modern world.
+
+That role? Ending it.</dc:description>
+    </metadata>
+</package>

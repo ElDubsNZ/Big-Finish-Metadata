@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Winter for the Adept</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2000-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-072-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="10"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andrew Cartmel</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Andy Coleman (Commodore)</dc:creator>
+        <dc:creator opf:role="nrt">Hannah Dickinson (Mlle Maupassant)</dc:creator>
+        <dc:creator opf:role="nrt">Sally Faulkner (Miss Tremayne)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Peril Bellamy)</dc:creator>
+        <dc:creator opf:role="nrt">Nicky Goldie (Empress)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Jurasik (Lt Peter Sandoz)</dc:creator>
+        <dc:creator opf:role="nrt">Liz Sutherland (Alison Speers)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Webber (Harding Wellman)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When a teleportation accident goes badly wrong, Nyssa finds herself stranded on the freezing slopes of the Swiss Alps in 1963. But is it mere coincidence that she finds shelter in a snowbound school haunted by a malevolent poltergeist?
+
+ When the Doctor arrives, Nyssa and the other inhabitants of the school soon discover that the ghost is merely part of a darker, deeper and more deadly game involving rogue psi talents and something else... something not of this Earth.</dc:description>
+    </metadata>
+</package>

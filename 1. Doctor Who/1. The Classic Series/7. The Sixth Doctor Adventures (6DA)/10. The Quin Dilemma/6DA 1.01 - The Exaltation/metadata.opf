@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Exaltation</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-175-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Sixth Doctor Adventures - The Quin Dilemma"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jacqueline Rayner</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Melanie Bush)</dc:creator>
+        <dc:creator opf:role="nrt">Carrie Quinlan (Zeta)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Dunn (King Otho)</dc:creator>
+        <dc:creator opf:role="nrt">Jonnie Broadbent (Alonza / Byron / Clarent / Dellan / Ervis)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Hints of a temporal anomaly bring the Doctor and Mel to Arunopal on the day King Otho steps down as ruler. But Otho has a dilemma - which of his five sons should succeed to the throne? He has a deadly game in mind to solve the problem - and the target is a certain Time Lord...</dc:description>
+    </metadata>
+</package>

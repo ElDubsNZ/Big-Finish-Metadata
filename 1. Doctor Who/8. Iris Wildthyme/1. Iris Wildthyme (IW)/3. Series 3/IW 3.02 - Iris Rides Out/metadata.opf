@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Iris Rides Out</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-631-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Iris Wildthyme - Series 3"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Katy Manning (Iris Wildthyme)</dc:creator>
+        <dc:creator opf:role="nrt">David Benson (Panda)</dc:creator>
+        <dc:creator opf:role="nrt">Marcus Hutton (Thomas Carnacki)</dc:creator>
+        <dc:creator opf:role="nrt">Roger Parrott (Sir Donald Marshall)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Handcock (Hog Lord)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"Back foul harpy! Denizen of the lower levels!" 
+
+Thomas Carnacki, the famed Edwardian Ghost Finder, faces his most terrifying challenge yet. Not only must he rid Mocata Grange of hideous apparitions and rampaging pig-monsters, he must also avoid the advances of that hellcat Iris Wildthyme. Will any of them get through the night alive?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Tomb Ship</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-312-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="186"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Gordon Rennie</dc:creator>
+        <dc:creator opf:role="aut">Emma Beeby</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Amy Ewbank (Jhanni)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Forbes (Heff)</dc:creator>
+        <dc:creator opf:role="nrt">James Hayward (Hisko)</dc:creator>
+        <dc:creator opf:role="nrt">Francesca Hunt (additional voices)</dc:creator>
+        <dc:creator opf:role="nrt">Eve Karpf (Virna)</dc:creator>
+        <dc:creator opf:role="nrt">Phil Mulryne (Rek / Hologram-Fresco voices)</dc:creator>
+        <dc:creator opf:role="nrt">Ben Porter (Murs)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS brings the Doctor and Nyssa to a vast pyramid, floating in space. A tomb ship – the last resting place of the God-King of the Arrit, an incredibly advanced and incredibly ancient civilisation, long since extinct.
+
+They’re not alone, however. Another old dynasty walks its twisted, trap-ridden passages – a family of tomb raiders led by a fanatical matriarch, whose many sons and daughters have been tutored in tales of the God-King’s lost treasure.
+
+But those who seek the God-King will find death in their shadow. Death from below. Death from above. Death moving them back and forward, turning their own hearts against them.
+
+Because only the dead will survive.</dc:description>
+    </metadata>
+</package>

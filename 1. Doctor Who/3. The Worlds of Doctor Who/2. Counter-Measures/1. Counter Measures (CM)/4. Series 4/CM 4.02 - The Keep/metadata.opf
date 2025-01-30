@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Keep</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-377-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Counter Measures - Series 4"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Ken Bentley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Simon Williams (Group Captain Gilmore)</dc:creator>
+        <dc:creator opf:role="nrt">Pamela Salem (Rachel Jensen)</dc:creator>
+        <dc:creator opf:role="nrt">Karen Gledhill (Allison Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Ross (Sir Toby Kinsella)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Pope (Templeton)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Hope (William Heaton)</dc:creator>
+        <dc:creator opf:role="nrt">Dominic Rowan (Sergeant West / Shurik Barkov)</dc:creator>
+        <dc:creator opf:role="nrt">Adrian Lukis (Professor Jeffery Burridge)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>For many years Sir Toby has used the Keep — the most secure and secret prison in England — to hide away incredibly dangerous threats to the country. But now two prisoners are attempting to escape — and they're not the only ones. </dc:description>
+    </metadata>
+</package>

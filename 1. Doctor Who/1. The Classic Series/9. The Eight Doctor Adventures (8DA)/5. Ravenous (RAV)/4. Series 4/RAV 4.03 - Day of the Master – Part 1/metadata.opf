@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Day of the Master - Part 1</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-556-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Ravenous 4"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Walker (Liv)</dc:creator>
+        <dc:creator opf:role="nrt">Hattie Morahan (Helen)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Bonnar (The Eleven)</dc:creator>
+        <dc:creator opf:role="nrt">Eric Roberts, Derek Jacobi and Geoffrey Beevers (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Michelle Gomez (Missy)</dc:creator>
+        <dc:creator opf:role="nrt">George Asprey (Ravenous 1 / Kolstani 1)</dc:creator>
+        <dc:creator opf:role="nrt">Susie Emmett (Ravenous 2 / Kolstani 2 / Valcon)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Whitelock (Artron / Cadrin)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor investigates a mystery in the vortex, Liv follows the trail of their enemy, and Helen searches for a god. Everywhere they go there is a Master or Mistress, but is the Doctor’s oldest enemy there to hinder them, or to help? With the TARDIS crew scattered and lost, only a miracle can save the universe. And for that to happen someone is going to have to die.</dc:description>
+    </metadata>
+</package>

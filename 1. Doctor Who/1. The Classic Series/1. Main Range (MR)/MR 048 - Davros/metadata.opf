@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Davros</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2003-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-030-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="48"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lance Parkin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Terry Molloy (Davros)</dc:creator>
+        <dc:creator opf:role="nrt">Wendy Padbury (Lorraine Baynes)</dc:creator>
+        <dc:creator opf:role="nrt">Bernard Horsfall (Arnold Baynes)</dc:creator>
+        <dc:creator opf:role="nrt">David Bickerstaff (Scientist Ral)</dc:creator>
+        <dc:creator opf:role="nrt">Eddie De Oliveira (Willis)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Faulkner (Kaled Medic)</dc:creator>
+        <dc:creator opf:role="nrt">Karl Hansen (Kaled Medic)</dc:creator>
+        <dc:creator opf:role="nrt">Katarina Olsson (Shan)</dc:creator>
+        <dc:creator opf:role="nrt">Ruth Sillers (Kimberley Todd)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Westfield (Pilot)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"TAI stock has shot up by over fifteen per cent on news that galaxy-famous scientist Davros, controversial creator of the Daleks, has been hired to work on unspecified technological projects."
+
+Davros has been given the chance to redeem himself.
+
+Humanity stands on the verge of a new era, but it needs the help of the galaxy's greatest-ever scientist. But Davros is dead... isn't he?
+
+From the bunkers and shelters of ancient Skaro to the gleaming Domes of the Future Earth Empire, Davros has always been a man of destiny. Now he's working for mankind's benefit. But how much do we really know about Davros?
+
+Has Davros really turned over a new leaf? The Doctor certainly doesn't think so. But is the Doctor always right?</dc:description>
+    </metadata>
+</package>

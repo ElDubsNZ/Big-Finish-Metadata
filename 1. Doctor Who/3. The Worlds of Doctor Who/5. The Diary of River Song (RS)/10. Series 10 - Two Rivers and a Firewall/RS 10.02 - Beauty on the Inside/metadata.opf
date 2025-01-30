@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Beauty on the Inside</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-728-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Diary of River Song - Series 10 - Two Rivers and a Firewall"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizzie Hopley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Abi Harris (Fama Helosta / Princess Tremagi / Sooban)</dc:creator>
+        <dc:creator opf:role="nrt">Susan Hingley (Queen Tremagi / Sheena Wang)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Harper (Lazari Helosta / Horgee / King Tremagi)</dc:creator>
+        <dc:creator opf:role="nrt">Christian Edwards (Guard / Prince Tremagi / Auctioneer)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It would seem to be a perfectly ordinary painting of a forgettable royal family - so why did a biochemist smuggle it out of a closed colony at the cost of her own life? River is determined to find out.</dc:description>
+    </metadata>
+</package>

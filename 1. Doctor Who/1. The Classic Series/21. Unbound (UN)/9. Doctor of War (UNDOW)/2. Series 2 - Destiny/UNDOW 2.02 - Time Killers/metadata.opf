@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Time Killers</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-845-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Doctor of War - Series 2 - Destiny"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizzie Hopley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Warrior)</dc:creator>
+        <dc:creator opf:role="nrt">Geoffrey Beevers (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Lara Lemon (Horol / Coraine / Young Otia)</dc:creator>
+        <dc:creator opf:role="nrt">Nichola McAuliffe (Otia / Guide)</dc:creator>
+        <dc:creator opf:role="nrt">Akshay Khanna (Riffort)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Arriving on Marinus in search of a temporal weapon, the Warrior and the Master are confronted by a place where time literally is money. As the Master finds himself in changed circumstances, the Warrior finds himself with a deadly decision to make. </dc:description>
+    </metadata>
+</package>

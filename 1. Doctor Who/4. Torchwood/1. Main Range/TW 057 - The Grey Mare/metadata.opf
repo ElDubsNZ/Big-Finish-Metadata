@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Grey Mare</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-537-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="57"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Stewart Pringle & Lauren Mooney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Gareth David-Lloyd (Ianto Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Rhian Morgan (Mrs Watkins)</dc:creator>
+        <dc:creator opf:role="nrt">Duncan Wisbey (Jim)</dc:creator>
+        <dc:creator opf:role="nrt">Sion Daniel Young (Daniel)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"Listen. Mari Lwyd. White as moonlight. Rattle-bagged and broken backed. Steed of winter who the pale men carry. 
+
+"Who are those that squire you? Slow and ceaseless, yard by yard, house by house, and door by door." 
+
+The Mari Lwyd is a fine Welsh Christmas Tradition - the skeleton of a horse roams the streets, begging to be let in for food and warmth. Once she knocks, only the most cunning can send her away. 
+
+Ianto Jones has come to a remote village for a quiet Christmas. But the Mari Lwyd has come knocking. And she's real.</dc:description>
+    </metadata>
+</package>

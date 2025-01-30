@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Kingdom of the Blind</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2005-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-131-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 6"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jacqueline Rayner</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Clayton (44)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Fewell (Jason Kane)</dc:creator>
+        <dc:creator opf:role="nrt">Caroline Morris (26)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Unwin (Monoids)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Jason Kane thought things had been going so well with ex-wife Bernice Summerfield, until she went sleepwalking, stole Brax's shuttle (causing Jason grievous bodily harm in the process), and then abandoned her on-off lover to the mercy of a horde of mute and unfriendly aliens.
+
+Although Benny - waking to find herself marooned on a strange planet dressed only in her nightie, with strange voices in her head and a bunch of one-eyed monsters threatening to cut out her tongue - would probably argue that her day was even worse, thank you very much.
+
+But Benny does seem to have stumbled across the last resting place of a legendary civilisation, so it's not all bad. Well, assuming she and Jason can survive - intact - long enough to tell anyone about it...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Inquiry</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2004-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-090-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 1"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Justin Richards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (President Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">Lynda Bellingham (Inquisitor Darkel)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Coodinator Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Andy Coleman (Commander Torvald)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Dick (Servitor)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Hogarth (Glower)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Littledale (Archivist)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Mansfield (Glower's Technician)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Cardinal Braxiatel)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>President Romana has been called to account for her actions. But the only evidence that she has responded to a real and present danger has disappeared. To clear her good name she is dependent on the testimony of the very people who want to see her publically humiliated and her power removed.
+
+While Leela tries to discover truths of her own, Romana is forced into an uneasy truce with her rivals at the CIA. But at least she can be sure the inquiry will be handled in a fair and proper manner. Or can she? When the investigation itself triggers danger and time is quite literally running out for all of Gallifrey's power and knowledge, just who can Romana trust?</dc:description>
+    </metadata>
+</package>

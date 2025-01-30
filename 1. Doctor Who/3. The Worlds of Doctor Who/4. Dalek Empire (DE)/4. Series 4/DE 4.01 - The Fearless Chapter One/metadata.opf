@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Fearless Part 1</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2007-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-300-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Dalek Empire - Series 4"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Maureen O'Brien (Agnes Landen)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Mowat (Susan Mendes)</dc:creator>
+        <dc:creator opf:role="nrt">John Schwab (Lt Carlisle)</dc:creator>
+        <dc:creator opf:role="nrt">Noel Clarke (Salus Kade)</dc:creator>
+        <dc:creator opf:role="nrt">Oliver Mellor (Egan Fisk)</dc:creator>
+        <dc:creator opf:role="nrt">David Yip (Kennedy)</dc:creator>
+        <dc:creator opf:role="nrt">Ginita Jimenez (Lajitta)</dc:creator>
+        <dc:creator opf:role="nrt">Colin Spaull (Colonel Baxter)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Brooker (General Croft / Shuttle Pilot)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Connolly (Computer / Pilot / Aide)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Mallinson (Gaz)</dc:creator>
+        <dc:creator opf:role="nrt">Esther Ruth Elliott (Flight Control)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Daleks are conquering our galaxy. Nothing can stop them. But Commander Agnes Landen has an idea.
+
+On the outer planet Talis Minor, Salus Kade is struggling to keep his colony alive. The last thing he needs is a war to fight.</dc:description>
+    </metadata>
+</package>

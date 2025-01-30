@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Ruthven Inheritance</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-512-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jago & Litefoot - Series 2"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andy Lane</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Baxter (George Litefoot)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Ellie Higson)</dc:creator>
+        <dc:creator opf:role="nrt">Duncan Wisbey (Doctor Ormond Sacker)</dc:creator>
+        <dc:creator opf:role="nrt">David Collings (Gabriel Sanders)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Williams (Lord Ruthven)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The pathology skills of Professor Litefoot and Dr Sacker are called upon by Lord Ruthven, who asks them to catalogue a cache of bones beneath his country estate. And so begins the endgame... as a plan long laid come to its glorious fruition.</dc:description>
+    </metadata>
+</package>

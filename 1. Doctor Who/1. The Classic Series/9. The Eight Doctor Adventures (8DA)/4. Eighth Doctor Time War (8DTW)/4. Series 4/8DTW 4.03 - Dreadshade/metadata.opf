@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Dreadshade</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-387-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Time War - Volume 4"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lisa McMullin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Rakhee Thakrar (Bliss)</dc:creator>
+        <dc:creator opf:role="nrt">Ken Bones (The General)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Jarman (Rasmus)</dc:creator>
+        <dc:creator opf:role="nrt">Julia McKenzie (The Twelve)</dc:creator>
+        <dc:creator opf:role="nrt">Suzanne Procter (Tubor / Dreadshade)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Time Lords, including the General and the Twelve, adjust to life after the Time War, until the Doctor and Bliss return with a warning.</dc:description>
+    </metadata>
+</package>

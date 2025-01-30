@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Minuet in Hell</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2001-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-405-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="19"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Gary Russell</dc:creator>
+        <dc:creator opf:role="aut">Alan W Lear</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Gideon Crane)</dc:creator>
+        <dc:creator opf:role="nrt">Hylton Collins (Orderly)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Courtney (Brigadier Lethbridge-Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Morgan Deare (Senator Waldo Pickering)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Scott)</dc:creator>
+        <dc:creator opf:role="nrt">Helen Goldwyn (Becky Lee Kowalczyck)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Jezek (Brigham Elisha Dashwood III)</dc:creator>
+        <dc:creator opf:role="nrt">Alistair Lock (Guard)</dc:creator>
+        <dc:creator opf:role="nrt">Maureen Oakeley (Dr Dale Pargeter)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The 21st century has just begun, and Malebolgia is enjoying its status as the newest state in America. After his successful involvement with Scotland's devolution, Brigadier Alistair Gordon Lethbridge-Stewart has been invited over to Malebolgia to offer some of his experiences and expertise.
+
+There he encounters the charismatic Brigham Elisha Dashwood III, an evangelical statesman running for Governor who may not be quite as clean-cut and wholesome as he makes out. One of Dashwood's other roles in society is as patron of a new medical institute, concentrating on curing the ills of the human mind. One of the patients there interests the Brigadier - someone who claims he travels through space and time in something called a TARDIS.
+
+Charley, however, has more than a few problems of her own. Amnesiac, she is working as a hostess at the local chapter of the Hell Fire Club, populated by local dignitaries who have summoned forth the demon Marchosias. And the leader of the Club? None other than Dashwood, who seems determined to achieve congressional power by the most malevolent means at his disposal...</dc:description>
+    </metadata>
+</package>

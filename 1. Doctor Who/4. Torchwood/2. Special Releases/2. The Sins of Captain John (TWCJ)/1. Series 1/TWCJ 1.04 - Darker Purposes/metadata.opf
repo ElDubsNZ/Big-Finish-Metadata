@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Darker Purposes</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-817-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - The Sins of Captain Jack"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">David Llewellyn</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">James Marsters (Captain John Hart)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Khan (Jillix)</dc:creator>
+        <dc:creator opf:role="nrt">Rosie Baker (Ilsa Vargosh)</dc:creator>
+        <dc:creator opf:role="nrt">Rick Yale (Darius Vargosh)</dc:creator>
+        <dc:creator opf:role="nrt">David Sibley (Uther Vargosh)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Jacobs-Morgan (Chester)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Allen (Celebrante)</dc:creator>
+        <dc:creator opf:role="nrt">Kathryn Drysdale (Maisie)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Doddington (Baroness Ha-ha)</dc:creator>
+        <dc:creator opf:role="nrt">John Barrowman (Captain Jack Harkness)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Captain John arrives at the funeral of one of the galaxy's richest men. He died without making a will, and his heirs have some very creative ideas about how this can be put to rights involving murder, necromancy and seduction. Sadly, Captain John is only too happy to oblige.</dc:description>
+    </metadata>
+</package>

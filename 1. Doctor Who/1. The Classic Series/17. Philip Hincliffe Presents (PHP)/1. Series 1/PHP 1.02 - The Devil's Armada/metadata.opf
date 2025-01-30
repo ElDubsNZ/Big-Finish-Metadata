@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Devil's Armada</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-363-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Philip Hinchcliffe Presents - Series 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Newall (William Redcliffe)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Carrington (Sir Robert Harney)</dc:creator>
+        <dc:creator opf:role="nrt">Alix Dunmore (Anne Harney)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Jameson (Nicholas Harney)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Mistress Pincham/Lady Jane Mountville)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Bretherton (The Vituperon)</dc:creator>
+        <dc:creator opf:role="nrt">Ben Porter (Father D'Arcy)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Bentinck (Ned Bones/Lord Burghley)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS lands in Sissenden Village in the sixteenth century. Catholic priests are hunted, so-called witches are drowned in the ducking stool, and in the shadows the Vituperon are watching... and waiting...</dc:description>
+    </metadata>
+</package>

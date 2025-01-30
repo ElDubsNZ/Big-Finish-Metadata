@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Kraken's Lament</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-598-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 12 - Epoch"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mark Wright</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Ayesha Antoine (Ruth)</dc:creator>
+        <dc:creator opf:role="nrt">Marcus Hutton (Leonidas)</dc:creator>
+        <dc:creator opf:role="nrt">David Ames (Jack)</dc:creator>
+        <dc:creator opf:role="nrt">Miles Richardson (Irving Braxiatel)</dc:creator>
+        <dc:creator opf:role="nrt">John Ainsworth (Robot)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy Brabin (The Queen)</dc:creator>
+        <dc:creator opf:role="nrt">Prentis Hancock (Craisus)</dc:creator>
+        <dc:creator opf:role="nrt">Scott Handcock (Guard Captain / Cavemen)</dc:creator>
+        <dc:creator opf:role="nrt">Graeme Henderson (Constable)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Johnson (Darion)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Mallinson (Driver)</dc:creator>
+        <dc:creator opf:role="nrt">John Montgomery (Acanthus / Heskith)</dc:creator>
+        <dc:creator opf:role="nrt">Rebecca Newman (Helena)</dc:creator>
+        <dc:creator opf:role="nrt">John Stahl (Poseidon)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Thompson (The Epoch)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Turner (Urchin)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Wright (Shopper)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>“Gather round, wretched peoples of Atlantis, for Acanthus the Talesmith has a story to tell! A story of adventure, of courage, of a Winged Goddess searching for truth and sanctuary in a friendless city... 
+
+On the streets of this fair city, the Goddess searches for a path to the child of two worlds, but finds instead only questions and danger. Be astonished as she defies the rage of the dreaded Kraken! Wonder as she sups with the tragic Queen in her carved stone palace, high above the city! Marvel at her bravery as she gazes deep into the Further Beyond!
+
+Come one, come all and listen! Listen to Acanthus the Talesmith and let him amaze you with his story... the story of Professor Bernice Summerfield and the Kraken’s Lament!”</dc:description>
+    </metadata>
+</package>

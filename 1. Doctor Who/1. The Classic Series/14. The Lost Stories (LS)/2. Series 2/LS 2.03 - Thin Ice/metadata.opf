@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Thin Ice</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-668-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 2"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Ricky Groves (Markus Creevy)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Lt. Raina Kerenskaya / Sezhyr)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Hhessh)</dc:creator>
+        <dc:creator opf:role="nrt">John Albasiny (Major Maxim Alexandrovitch Felnikov)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Lambert (Adjudicator / Glarva)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Yevgeni / Yasha Lemayev)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Moscow 1967. The Doctor and Ace have arrived behind the Iron Curtain, and the Soviet Union is seeking a new weapon that will give it mastery in the Cold War. 
+
+What is the secret of the Martian relics? As the legendary War Lord Sezhyr returns to life, the Doctor is faced with some of his oldest and deadliest enemies. 
+
+The fate of Earth – and the future of Ace – are now intertwined...</dc:description>
+    </metadata>
+</package>

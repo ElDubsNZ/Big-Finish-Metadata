@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>High Spirits</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-778-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Iris Wildthyme - Series 5"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Cavan Scott</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Katy Manning (Iris Wildthyme)</dc:creator>
+        <dc:creator opf:role="nrt">Geoffrey Breton (Captain Edwin Turner)</dc:creator>
+        <dc:creator opf:role="nrt">Lizzie Hopley (Shelley)</dc:creator>
+        <dc:creator opf:role="nrt">David Blackwell (Zane)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When Iris lands the bus on the infamous Garden in the Clouds, she and Captain Turner are expecting a world of peace and tranquility. Instead, they arrive on a world plagued by hauntings, where the ghosts want to lay them to rest.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Recorded Time</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-578-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="150.1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Catherine Harvey</dc:creator>
+        <dc:creator opf:role="aut">Richard Dinnick</dc:creator>
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+        <dc:creator opf:role="aut">Philip Lawrence</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Bretherton (Scrivener / Heathcliff)</dc:creator>
+        <dc:creator opf:role="nrt">Raquel Cassidy (Inquiza / Destiny Gray)</dc:creator>
+        <dc:creator opf:role="nrt">James George (Barond / Greg Stone)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Jameson (Arnie McAllister)</dc:creator>
+        <dc:creator opf:role="nrt">Rosanna Miles (Marjorie / Volsci / Tilly)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Molyneux (Anne Boleyn / Volsci)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Shearer (Henry VIII / Cranton)</dc:creator>
+        <dc:creator opf:role="nrt">Joan Walker (Centuria / Ship)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS travellers find themselves at the court of Henry VIII, where the tragic Anne Boleyn will soon be discarded by her King in favour of the lovely Perpugilliam Brown. Or so it is written…</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Final Act</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-563-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jago & Litefoot - Series 5"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Justin Richards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Benjamin (Henry Gordon Jago)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Baxter (George Litefoot)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Ellie Higson)</dc:creator>
+        <dc:creator opf:role="nrt">Duncan Wisbey (Detective Sergeant Dave Sacker/Magnus Greel)</dc:creator>
+        <dc:creator opf:role="nrt">Raquel Cassidy (Guinevere Godiva)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Newall (Aubrey)</dc:creator>
+        <dc:creator opf:role="nrt">Alice Carter (Singer)</dc:creator>
+        <dc:creator opf:role="nrt">Geoffrey Whitehead (The Colonel)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It's the night of Jago's biggest show - but he isn't quite prepared for the special guest star... as the curtain falls, can Jago and Litefoot find their way home?</dc:description>
+    </metadata>
+</package>

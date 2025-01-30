@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Inheritance</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-910-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eleventh Doctor Chronicles - Volume 3 - Geronimo"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alfie Shaw</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jacob Dudman (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Safiyya Ingar (Valarie Lockwood / Computer)</dc:creator>
+        <dc:creator opf:role="nrt">Mandi Symonds (Patricia Lockwood)</dc:creator>
+        <dc:creator opf:role="nrt">Lara Lemon (Arabella Hendricks)</dc:creator>
+        <dc:creator opf:role="nrt">Wayne Forester (Daniel Simpson / Security / Patient)</dc:creator>
+        <dc:creator opf:role="nrt">Jasmin Hinds (Simone Simpson / Receptionist / Stranger)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>For Patricia and Valarie Lockwood, it was to be an evening like any other. Dinner with a few friends, a chance to unwind and forget the horrors of the world. However, their plans are disrupted by the arrival of a mysterious stranger. A man who brings tragedy in his wake.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Coda - The Final Act</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-090-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Once and Future"/>
+        <meta name="calibre:series_index" content="8"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jo Martin (The Fugitive Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathon Carley (The War Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Khan (Shalvar)</dc:creator>
+        <dc:creator opf:role="nrt">Chase Masterson (Vienna Salvatori)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Reed (Various Voices)</dc:creator>
+        <dc:creator opf:role="nrt">Imogen Stubbs (Queen Elizabeth)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>This title was released in November 2024. It will be exclusively available to buy from the Big Finish website until 31 January 2025, and on general sale after this date.
+
+The Time War.
+
+Dealing with the repercussions of degeneration, the Doctor has a limited window of time to evade capture, recruit old allies, wage a war, and find out what's really going on.
+
+A warrior is being hunted by a mysterious stranger in a TARDIS. A rogue agent has been assigned a mission to eliminate a dangerous foe. This is a fight between a war criminal and a fugitive. A fight between Doctors.</dc:description>
+    </metadata>
+</package>

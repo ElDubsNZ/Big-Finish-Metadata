@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Devil's Footprints</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 8"/>
+        <meta name="calibre:series_index" content="12"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Penelope Faith</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Bonnie Langford (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor's old friend, the reverend HT Ellacombe, has been out of touch for too long. But when the Doctor goes to find him, he and Mel discover something else entirely: unidentifiable footprints in the snow around the Victorian village where he lives.
+
+The villagers are terrified that the very Devil walks their lands in the wintry nights, but with the Doctor distracted by finding his friend, it seems it’s up to Mel to do the snooping around in an attempt to uncover the truth...</dc:description>
+    </metadata>
+</package>

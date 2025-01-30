@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Daleks! Genesis of Terror</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-821-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 7"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Terry Nation</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sadie Miller (Sarah Jane Smith)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (Harry Sullivan)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Bankolé (Time Lord / General Grainer)</dc:creator>
+        <dc:creator opf:role="nrt">Samuel Clemens (Nyder)</dc:creator>
+        <dc:creator opf:role="nrt">Alasdair Hankinson (Ravon / Kaled Leader)</dc:creator>
+        <dc:creator opf:role="nrt">Terry Molloy (Davros)</dc:creator>
+        <dc:creator opf:role="nrt">James Phoon (Kaled Boy / Operator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In a paved garden outside time, the Doctor is presented with an awful prophecy: the conquest of all time by the Daleks. To prevent this terrible fate, the Time Lords have decided on a radical course — to weaponise time themselves, and destroy the Daleks before they were ever created. And they want the Doctor to carry out this extraordinary task!
+
+Soon, he and his companions Sarah and Harry are on the battle-ravaged planet Skaro, where a war has been raging for centuries. The war is now waged by teenagers using the last surviving weapons. Everything is desperate. But the Kaled’s chief scientist has a new weapon that he thinks might just change everything…</dc:description>
+    </metadata>
+</package>

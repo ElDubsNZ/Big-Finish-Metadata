@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Iterations of I</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-340-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fifth Doctor Adventures - Volume 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Waterhouse (Adric)</dc:creator>
+        <dc:creator opf:role="nrt">Sinead Keenan (Aoife Dineen)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Radcliffe (Jerome Khan)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Macklin (Robert DeValley)</dc:creator>
+        <dc:creator opf:role="nrt">Teddy Kempner (Donal Dineen)</dc:creator>
+        <dc:creator opf:role="nrt">Allison McKenzie (Imogen Frazer)</dc:creator>
+        <dc:creator opf:role="nrt">John Dorney (Martin Tuck)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The house on Fleming's Island had been left to rot. Ever since a strange and unexplained death soon after it was built, and plagued with troubling rumours about what lurked there, it remained empty and ignored for decades until the Cult moved in. As twenty people filled its many rooms, the eerie building seemed to be getting a new lease of life.
+
+But now it is empty again. The cult found something in its corridors... and then vanished.
+
+Trapped on the island one dark night, the Doctor, Tegan, Nyssa and Adric look into the building's mysteries, its stories of madness and death. Their only chance is to understand what terrible thing has been disturbed here... before it consumes them utterly.</dc:description>
+    </metadata>
+</package>

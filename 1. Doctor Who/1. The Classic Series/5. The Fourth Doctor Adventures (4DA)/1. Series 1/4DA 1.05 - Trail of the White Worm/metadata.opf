@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Trail of the White Worm</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2012-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-616-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 1"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Geoffrey Beevers (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Cochrane (Colonel Spindleton)</dc:creator>
+        <dc:creator opf:role="nrt">Rachael Stirling (Demesne Furze)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Carswell / Mercenary)</dc:creator>
+        <dc:creator opf:role="nrt">Becci Gemmell (Julie)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Field (John)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The legend dates back to Roman times, at least: a great White Worm, as wide as a man, slithers out of the rocks of the Dark Peak Gap to take animals, sometimes even children, for its food.
+
+When the Doctor and Leela arrive in the wilds of Derbyshire, only to get caught up in the hunt for a missing girl, they soon discover that the legend of the Worm is very much alive - even now, in 1979.
+
+Worse still, it seems that the Doctor isn't the only renegade Time Lord on the trail of this deadly and mysterious Worm…</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>What Have I Done?</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-819-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lives of Captain Jack - Series 2"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Barrowman (Captain Jack Harkness)</dc:creator>
+        <dc:creator opf:role="nrt">Atilla Akinci (Ata)</dc:creator>
+        <dc:creator opf:role="nrt">Ché Francis (Ottoman medic)</dc:creator>
+        <dc:creator opf:role="nrt">Rhys Isaac-Jones / Jonny Glynn (Allied soldiers)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On the battlefields of World War I, something is hunting in the trenches. Jack must try and save the life of a wounded soldier.</dc:description>
+    </metadata>
+</package>

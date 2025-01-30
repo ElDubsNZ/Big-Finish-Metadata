@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Sentinels of the New Dawn</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-508-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 5"/>
+        <meta name="calibre:series_index" content="10"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Finch</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Caroline John (Liz Shaw)</dc:creator>
+        <dc:creator opf:role="nrt">Duncan Wisbey (Richard Beauregard)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Some time after leaving UNIT, Liz Shaw calls the Doctor to Cambridge University, where scientists are experimenting with time dilation. A device hurls them to the year 2014, and a meeting with Richard Beauregard, heir to the Beauregard estate.
+
+But there’s something rotten at the core of this family… The seeds of a political movement that believes in a new world order.
+
+The Sentinels of the New Dawn are stirring. And their malign influence will be felt for centuries to come…</dc:description>
+    </metadata>
+</package>

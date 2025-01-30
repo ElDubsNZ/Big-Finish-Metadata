@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Imperiatrix</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2005-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-125-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Gallifrey - Series 2"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Stewart Sheargold</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lalla Ward (President Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">Lynda Bellingham (Candidate Darkel)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Gold Usher)</dc:creator>
+        <dc:creator opf:role="nrt">Seán Carlsen (Coodinator Narvin)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Cuckson (Commander Hallan)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Hogarth (Nekkistani Ambassador)</dc:creator>
+        <dc:creator opf:role="nrt">Jenny Livsey (Student Galadina)</dc:creator>
+        <dc:creator opf:role="nrt">Robin Sebastian (Commander Antimon)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Westmaas (Nekkistani Emperor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Free Time influence in the Capital is spreading, while Darkel has played her hand and opposition to Romana's policies from without and within is growing. When the bombs start going off, the President of Gallifrey decides enough is enough.
+
+While Leela and K9 race to track down the terrorist to avoid more bloodshed, Romana enters into a risky bargain for control with a dangerous, influential figure from her past. But she soon discovers that the answer to her problems lies in the future. A future she has already witnessed. And one she has been trying to avoid.
+
+Someone desperately wants this future and will stop at nothing to make it occur. Even if it means leading Romana and Gallifrey to war...
+
+This release includes a bonus hour of content featuring The Making of Gallifrey documentary which goes behind-the-scenes and includes interviews with the cast and crew of the series.
+
+**THIS CD IS NOW OUT OF PRINT**</dc:description>
+    </metadata>
+</package>

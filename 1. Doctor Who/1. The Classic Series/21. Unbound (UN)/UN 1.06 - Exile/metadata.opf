@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Exile</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2003-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-015-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Unbound"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Arabella Weir (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Previous Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Brooker (Time Lord 1)</dc:creator>
+        <dc:creator opf:role="nrt">Graham Duff (Mr Baggit)</dc:creator>
+        <dc:creator opf:role="nrt">Hannah Forbes (Cherrie)</dc:creator>
+        <dc:creator opf:role="nrt">Jeremy King (Cheese)</dc:creator>
+        <dc:creator opf:role="nrt">David Tennant (Time Lord 2)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>What if... the Doctor had escaped the justice of the Time Lords? 
+
+"They want to punish me for being me!" 
+
+All the Doctor has to do to avoid being caught by the Time Lords is work in a supermarket and go to the pub. It's a cunning plan - certainly far less dangerous than fighting the dreaded Quarks and all those other alien fiends.
+
+But just when everything seemed mundane and safe, alien transmissions, exploding poison gas, Princess Anne and wobbly trolleys burst onto the scene to ruin everything. It's a crisis! A fiendish alien plot! And the Doctor must use all the resources at her disposal to defeat it.
+
+She'll probably need to have a large vodka first, though.</dc:description>
+    </metadata>
+</package>

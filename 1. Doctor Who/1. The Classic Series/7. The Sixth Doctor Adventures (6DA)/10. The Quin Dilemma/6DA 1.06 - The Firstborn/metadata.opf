@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Firstborn</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-175-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Sixth Doctor Adventures - The Quin Dilemma"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jacqueline Rayner</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri / Peri)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Mel)</dc:creator>
+        <dc:creator opf:role="nrt">Miranda Raison (Constance)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Greenwood (Flip)</dc:creator>
+        <dc:creator opf:role="nrt">Jonnie Broadbent (Alonza / Byron / Clarent / Dellan / Ervis)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Dunn (Otho)</dc:creator>
+        <dc:creator opf:role="nrt">Carrie Quinlan (Zeta / Nan)</dc:creator>
+        <dc:creator opf:role="nrt">Nikki Kelly (Madge)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Labey (Herbert)</dc:creator>
+        <dc:creator opf:role="nrt">David Monteath (Herald)</dc:creator>
+        <dc:creator opf:role="nrt">Lara Lemon (Quins' computers)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Quins have succeeded in their quest - a little too well. Multiple Doctors congregate on Arunopal, bringing with them a terrible threat to reality…</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Dark Universe</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-869-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="260"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Bonnar (The Eleven )</dc:creator>
+        <dc:creator opf:role="nrt">Carolyn Pickles (Cardinal Ollistra)</dc:creator>
+        <dc:creator opf:role="nrt">Owen Aaronovitch (Gabriel)</dc:creator>
+        <dc:creator opf:role="nrt">Damian Lynch (Rasmus)</dc:creator>
+        <dc:creator opf:role="nrt">Glen McCready (Tribe Leader)</dc:creator>
+        <dc:creator opf:role="nrt">Lin Sagovsky (Dark Citizen)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Eleven has a plan. A grand plan. An appalling plan. A plan that endangers all life in the cosmos.
+
+With Ace working for the enemy, the Doctor must rely on scheming Time Lord Cardinal Ollistra for help. The stage is set for an epic confrontation.
+
+Because the Doctor has a plan to stop the Eleven. A grand plan. An appalling plan. A plan that endangers all life in the cosmos.
+
+Whichever one of them wins, the Dark Universe won’t want to lose...</dc:description>
+    </metadata>
+</package>

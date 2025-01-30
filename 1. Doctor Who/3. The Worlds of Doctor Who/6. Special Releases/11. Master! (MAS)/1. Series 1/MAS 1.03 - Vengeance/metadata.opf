@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Vengeance</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-317-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Master! - Series 1"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Eric Roberts (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Chase Masterson (Vienna Salvatori)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Aikman (Lila Kreeg)</dc:creator>
+        <dc:creator opf:role="nrt">Alistair Petrie (Magnus Drake)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew James Spooner (Artie)</dc:creator>
+        <dc:creator opf:role="nrt">Susan Hingley (Li Zhao)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Daleks are returning. Their plan, long in the making, is complete. Earth will be theirs once more. 
+
+But someone stands against them. Someone with his own reasons for revenge – and Vienna and Lila are caught in the crossfire. Because Earth's greatest hope against the Daleks lies with the Master.</dc:description>
+    </metadata>
+</package>

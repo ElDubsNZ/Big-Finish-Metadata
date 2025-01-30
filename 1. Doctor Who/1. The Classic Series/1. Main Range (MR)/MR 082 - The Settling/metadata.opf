@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Settling</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2006-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-171-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="82"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Olivier (Hex)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Brooker (Colonel Sinnot)</dc:creator>
+        <dc:creator opf:role="nrt">Clare Cathcart (Mary)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Guerrier (Jenkins)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Lee (Fitzgerald)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Mansfield (Roberts)</dc:creator>
+        <dc:creator opf:role="nrt">Clive Mantle (Oliver Cromwell)</dc:creator>
+        <dc:creator opf:role="nrt">Roger Parrott (Dr Goddard)</dc:creator>
+        <dc:creator opf:role="nrt">Alan Ruscoe (Chidley Coote)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Turner)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Note to Sir Arthur Aston, governor of the town of Drogheda, 10 September 1649.
+
+"Sir, Having brought the army belonging to the Parliament of England before this place, to reduce it to obedience, to the end effusion of blood may be prevented, I thought fit to summon you to deliver the same into my hands to their use.
+
+If this be refused, you will have no cause to blame me.
+
+I expect your answer and rest your servant.
+
+O. Cromwell."</dc:description>
+    </metadata>
+</package>

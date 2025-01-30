@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Three's a Crowd</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2005-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-144-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="69"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Colin Brake</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Caroline Morris (Erimem)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Beresford (Bellip)</dc:creator>
+        <dc:creator opf:role="nrt">Sara Carver (Khellian Queen)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Gauntlett (General Makra'Thon)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Hogarth (Laroq)</dc:creator>
+        <dc:creator opf:role="nrt">Charles Pemberton (Butler)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Unwin (Vidler)</dc:creator>
+        <dc:creator opf:role="nrt">Deborah Watling (Auntie)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On an almost lifeless planet in a remote star system, Earth Colony Phoenix is struggling to survive. The colonists, utterly dependent on transmat technology and unable to leave the security of their Habitat Domes, have developed severe agoraphobia... not to mention an inability to deal with visitors...
+
+The TARDIS crew arrive on an apparently abandoned space station in orbit above the planet and soon discover that they and the remaining colonists are in the gravest danger. To survive, the Doctor, Peri and Erimen must uncover the colony’s darkest secrets before it is too late.
+
+Something inhuman is stalking the Colony… and it’s hungry!</dc:description>
+    </metadata>
+</package>

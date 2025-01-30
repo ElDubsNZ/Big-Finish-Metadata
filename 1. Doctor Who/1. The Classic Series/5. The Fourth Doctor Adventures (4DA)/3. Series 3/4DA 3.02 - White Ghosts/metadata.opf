@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>White Ghosts</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-291-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 3"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Virginia Hey (Bengel)</dc:creator>
+        <dc:creator opf:role="nrt">Gbemisola Ikumelo (Morandi)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Candell / Harvester)</dc:creator>
+        <dc:creator opf:role="nrt">Bethan Walker (Aranda)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A close encounter with a stray missile leads the Doctor to materialise his TARDIS on a planet that hangs in the dark at the edge of the known universe. A planet so dark that it exists in near-permanent night. A planet that enjoys just a single day’s light once every thousand years…
+
+Exactly what happens on the planet in its rare daylight hours – that’s what a geographical survey headed by Senior Tutor Bengel is stationed here to establish. They, the Doctor and Leela are about to discover that when daylight comes, the White Ghosts rise…
+
+So don’t be afraid of the dark. The cover of night is a mercy.</dc:description>
+    </metadata>
+</package>

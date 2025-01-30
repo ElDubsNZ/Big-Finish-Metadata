@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Worlds Beyond</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-457-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 13"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Khan</dc:creator>
+        <dc:creator opf:role="aut">Tom Salinsky</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (Harry Sullivan)</dc:creator>
+        <dc:creator opf:role="nrt">Eleanor Crooks (Naomi Cross)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Howell (Alan Turing / Low Case Cicerone)</dc:creator>
+        <dc:creator opf:role="nrt">Oscar Pearce (Cicerone #1 / Man)</dc:creator>
+        <dc:creator opf:role="nrt">Amaka Okafor (Abby / Cicerone #2 / Woman)</dc:creator>
+        <dc:creator opf:role="nrt">David Shaw-Parker (Donald / Cicerone #3)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor, Harry and Naomi have arrived on a luxury resort world where custom-made holidays are provided for every visitor. Their minds are scanned and their ideal getaway is planned.
+
+Naomi gets an activity break by the sea, Harry explores a crumbling ruin and the Doctor ends up playing chess with Alan Turing.
+
+All seems idyllic... but every paradise must have a snake... mustn't it?</dc:description>
+    </metadata>
+</package>

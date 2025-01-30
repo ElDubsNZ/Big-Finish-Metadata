@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Memories of a Tyrant</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-855-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="253"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Roland Moore</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Connolly (Kennedy)</dc:creator>
+        <dc:creator opf:role="nrt">Caleb Frederick (Offram)</dc:creator>
+        <dc:creator opf:role="nrt">John Green (Otwoe)</dc:creator>
+        <dc:creator opf:role="nrt">Diane Keen (Varish)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Mydell (Garius Moro)</dc:creator>
+        <dc:creator opf:role="nrt">Charlotte Strevens (Naras)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (Grisk / Venorg)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>What if you’d committed a truly dreadful crime but couldn’t remember?
+
+The Doctor takes Peri to the Memory Farm – a state of the art space station where hidden memories can be harvested and analysed. To their surprise, they find the station in lock-down and all its resources dedicated to probing the memories of an elderly man. Garius Moro may, or may not, have been responsible for the deaths of billions of people many years ago, but he simply can’t remember.
+
+The assembled representatives of two opposing factions, each with their own agenda, anxiously wait for the truth to be unlocked from Moro’s mind. But when a memory does eventually surface, everyone is surprised to learn that it is of Peri...</dc:description>
+    </metadata>
+</package>

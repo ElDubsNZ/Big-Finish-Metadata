@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Crimes of Thomas Brewster</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-543-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="143"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Maggie Stables (Evelyn Smythe)</dc:creator>
+        <dc:creator opf:role="nrt">John Pickard (Thomas Brewster)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Guard at Baker Street Station)</dc:creator>
+        <dc:creator opf:role="nrt">Helen Goldwyn (Terravores / Announcer at Great Portland Street)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Greenwood (Flip Jackson)</dc:creator>
+        <dc:creator opf:role="nrt">Anna Hope (DI Patricia Menzies)</dc:creator>
+        <dc:creator opf:role="nrt">Ashley Kumar (Jared)</dc:creator>
+        <dc:creator opf:role="nrt">David Troughton (Raymond Gallagher)</dc:creator>
+        <dc:creator opf:role="nrt">Duncan Wisbey (Sergeant Bradshaw / Mick / Neville Perkins / Guard at St Katherine's Dock / Newspaper Vendor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Sent down south to assist the Metropolitan Police in their efforts to investigate the gangland kingpin known only as 'the Doctor', Detective-Inspector Patricia Menzies finds herself up to her neck in laser-armed robot mosquitoes, gun-running criminal overlords, vanishing Tube trains... and not one, but two Doctors.
+
+Meanwhile, the real Doctor and his academic assistant Professor Evelyn Smythe have become ensnared in the machinations of an old acquaintance – time-travelling Victorian guttersnipe Thomas Brewster. But what's Brewster's connection to the rapacious robot Terravores? And can anyone contain the gathering swarm?</dc:description>
+    </metadata>
+</package>

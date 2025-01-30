@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Haunting of Thomas Brewster</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-316-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="107"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">John Pickard (Thomas Brewster)</dc:creator>
+        <dc:creator opf:role="nrt">Leslie Ash (Mother / Judy / Lillian / Meg / Young Thomas)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Cooper (Shanks / Toby / Hartwright / Guard)</dc:creator>
+        <dc:creator opf:role="nrt">Christian Coulson (Robert McIntosh / Victor)</dc:creator>
+        <dc:creator opf:role="nrt">Barry McCarthy (Creek)</dc:creator>
+        <dc:creator opf:role="nrt">Sid Mitchell (Pickens)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Thomas Brewster is haunted by the ghost of his drowned mother. But she is not the only apparition to disturb his dreams. Every few years, he is visited by a mysterious blue box...
+
+Helped by his new assistant, the young Scots scientist Robert McIntosh, the Doctor struggles to unravel the twisted knot of temporal implausibilities which bind the TARDIS to Thomas Brewster. Meanwhile, lost in the stews of Victorian London, Nyssa must face a host of spectral creatures gathering in the fog.</dc:description>
+    </metadata>
+</package>

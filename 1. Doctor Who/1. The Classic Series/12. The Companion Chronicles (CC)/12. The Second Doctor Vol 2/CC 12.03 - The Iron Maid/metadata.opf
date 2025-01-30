@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Iron Maid</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-487-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - The Second Doctor - Volume 2"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Pritchard</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Wendy Padbury (Zoe Heriot / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Frazer Hines (Jamie McCrimmon / The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jo Woodcock (Marie)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>“I saw a wheel up in the heavens – a wheel of fire and swords... And I saw a heap of armour that was waiting for a Maid to put it on. I feared that it was meant for me, but a voice said otherwise – that another Maid was coming and she would save our country from its enemies...” 
+
+The TARDIS has arrived in France in the fourteenth century - a time of devastation and despair. In an empty church beside a crowded graveyard, Zoe meets a woman who claims to see a dreadful future waiting for the world.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Masquerade of Death</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2005-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-075-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 5"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Stewart Sheargold</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Joyce Gibbs (The Spinster)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Myers (Adrian Wall)</dc:creator>
+        <dc:creator opf:role="nrt">Sunny Ormonde (The Queen)</dc:creator>
+        <dc:creator opf:role="nrt">Robin Sebastian (The Player)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Good evening, Ladies and Gentlemen, and welcome to another in our exciting series of adventures with the witty, irreverent and courageous heroine, Professor Bernice Summerfield.
+
+In tonight's story our daring adventuress and her sidekick, Adrian, find themselves imprisoned in a crumbling palace in the Prison Season of Spring, replete with an imperious queen and prissy but rather sweet AI gaoler.
+
+How did they arrive? And why doesn't anyone know who the famous Bernice Summerfield is?
+
+Before too long there is murder ­ as there always is ­ and Benny is accused. Who might possibly be setting her up for a fall? Could it be The Player, a mysterious figure of rhyme and chaos? And why is everybody so obsessed with his plays?
+
+Benny may find that her only way out of this prison is to play along with the fiction. But is there someone behind the scenes manipulating her strings? Could she end up a mere ‘costume' in someone's disturbing game of dress-ups? After all her adventures, could this be the final episode?</dc:description>
+    </metadata>
+</package>

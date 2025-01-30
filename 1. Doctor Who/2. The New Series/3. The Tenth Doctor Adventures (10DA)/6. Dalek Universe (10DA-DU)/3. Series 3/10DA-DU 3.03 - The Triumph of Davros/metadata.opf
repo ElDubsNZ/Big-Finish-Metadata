@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Triumph of Davros</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-360-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Tenth Doctor Adventures - Dalek Universe 3"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Tennant (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Anya Kingdom)</dc:creator>
+        <dc:creator opf:role="nrt">Terry Molloy (Davros)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Ajjaz Awad (Vilsa / Jeska / Dranta)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Millson (Colonel Keelan)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Sims (The First Movellan)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Returning to a familiar planet, with Movellan and Dalek warships floating in the sky above, the stakes for the time-travellers are higher than ever.
+
+The mistakes of the Doctor’s past are coming back to haunt him. Alliances are made and broken. And the course of the war is about to turn.
+
+The Doctor can’t stop what’s coming. But maybe, just maybe... he may be able to save his friends.</dc:description>
+    </metadata>
+</package>

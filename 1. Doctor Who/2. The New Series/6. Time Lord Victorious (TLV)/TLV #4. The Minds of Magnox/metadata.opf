@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Minds of Magnox</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Time Lord Victorious"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Darren Jones</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jacob Dudman (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A brand new standalone adventure for the Tenth Doctor, which also forms part of the Time Lord Victorious story arc, read by Jacob Dudman.
+
+The Doctor travels with Brian, the Ood assassin, to the planet Magnox, one of the greatest receptacles of knowledge the universe will ever know. The Doctor needs to ask a vital question, but the answer is Grade 1 Classified! In order to gain an audience with the Minds of Magnox themselves he must take a dangerous test. Is he smart enough to get through?
+
+Meanwhile, Brian gets involved with the criminal fraternity and is given a job: to assassinate the Minds of Magnox. However, others also have the planet within their sights... </dc:description>
+    </metadata>
+</package>

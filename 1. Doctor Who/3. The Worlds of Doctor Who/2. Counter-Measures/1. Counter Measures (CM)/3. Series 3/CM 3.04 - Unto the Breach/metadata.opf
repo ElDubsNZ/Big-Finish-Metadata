@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Unto the Breach</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-322-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Counter Measures - Series 3"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Simon Williams (Group Captain Ian Gilmore)</dc:creator>
+        <dc:creator opf:role="nrt">Pamela Salem (Rachel Jensen)</dc:creator>
+        <dc:creator opf:role="nrt">Karen Gledhill (Allison Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Ross (Sir Toby Kinsella)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Pope (Templeton)</dc:creator>
+        <dc:creator opf:role="nrt">George Layton (Stefan Lehne)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Longworth (Klaus Werner / East German soldier)</dc:creator>
+        <dc:creator opf:role="nrt">Anjella Mackintosh (Maria Jager)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When footage emerges of an alien creature held in the Eastern Bloc, the team goes undercover to find it. </dc:description>
+    </metadata>
+</package>

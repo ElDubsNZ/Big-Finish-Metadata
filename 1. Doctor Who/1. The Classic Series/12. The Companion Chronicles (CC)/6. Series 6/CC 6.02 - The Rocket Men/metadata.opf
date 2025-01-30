@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Rocket Men</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-581-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 6"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">William Russell (Ian Chesterton)</dc:creator>
+        <dc:creator opf:role="nrt">Gus Brown (Ashman)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS has landed on Platform Five, a floating city in the sky of the planet Jobis, and for a time the Doctor, Ian, Barbara and Vicki get the chance to enjoy this idyllic place.
+
+And then the Rocket Men arrive, led by the sadistic Ashman.
+
+When the only other option to certain death is suicide, Ian Chesterton takes the gamble of his life...</dc:description>
+    </metadata>
+</package>

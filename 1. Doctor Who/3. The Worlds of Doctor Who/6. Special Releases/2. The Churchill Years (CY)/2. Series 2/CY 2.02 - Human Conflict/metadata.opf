@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Human Conflict</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-429-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Churchill Years - Volume 2"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Iain McLaughlin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Ian McNeice (Winston Churchill)</dc:creator>
+        <dc:creator opf:role="nrt">Gyuri Sarossy (Lt Fleming)</dc:creator>
+        <dc:creator opf:role="nrt">Bethan Walker (Bragnar)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Connolly)</dc:creator>
+        <dc:creator opf:role="nrt">Ken Bradshaw (Colonel Fischer)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>1941. The Prime Minister has much on his mind as London reels from the Blitz. When a daring mission to discover Nazi secrets bears unexpected results, Churchill heads north to retrieve technology that could win the war. But an old ally is set against his intent. Weary from his own people’s conflict, the Doctor knows that some weapons should never enter the field of human conflict.</dc:description>
+    </metadata>
+</package>

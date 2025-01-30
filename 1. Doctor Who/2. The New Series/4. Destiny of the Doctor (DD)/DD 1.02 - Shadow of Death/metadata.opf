@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Shadow of Death</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-47131-168-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Destiny of the Doctor"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Frazer Hines (Jamie McCrimmon)</dc:creator>
+        <dc:creator opf:role="nrt">Evie Dawnay (Sophie Topolovic)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Following an emergency landing, the TARDIS arrives on a remote world orbiting a peculiar star – a pulsar which exerts an enormous gravitational force, strong enough to warp time.
+
+On further exploration the Doctor and his friends, Jamie and Zoe, discover a human outpost on the planet surface, inhabited by scientists who are there to study an ancient city. The city is apparently abandoned, but the scientists are at a loss to explain what happened to its sophisticated alien architects.
+
+The Doctor discovers that something dark, silent and deadly is also present on the world - and it is slowly closing in on the human intruders...</dc:description>
+    </metadata>
+</package>

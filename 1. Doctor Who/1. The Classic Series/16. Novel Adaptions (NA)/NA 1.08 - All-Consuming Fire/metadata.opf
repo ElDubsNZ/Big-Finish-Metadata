@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>All-Consuming Fire</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-699-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Novel Adaptations"/>
+        <meta name="calibre:series_index" content="8"/>
+
+        <!--Writers-->
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Sherlock Holmes)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Earl (Doctor John Watson)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Fraser (Sherringford Holmes)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony May (Baron Maupertuis)</dc:creator>
+        <dc:creator opf:role="nrt">Aaron Neil (Tir Ram)</dc:creator>
+        <dc:creator opf:role="nrt">Samantha Béart (Mrs Prendersly / Azazoth)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Griffiths (Ambrose)</dc:creator>
+        <dc:creator opf:role="nrt">Guy Adams (K'Tcar'ch)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Library of St. John the Beheaded contains the most dangerous books in all creation so when some of them are stolen who else should the Vatican call but Sherlock Holmes? 
+
+Immediately, one of the possible suspects seems more suspicious than others. He has no traceable background, refuses to give straight answers and hides behind a pseudonym. However, Holmes and his loyal friend Watson soon realise this suspect is also their greatest hope: war is brewing and an Old God is rising, to save humanity they need the Doctor as much as he needs them.</dc:description>
+    </metadata>
+</package>

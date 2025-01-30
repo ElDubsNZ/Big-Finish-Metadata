@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Old Soldiers</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2007-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-292-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 2"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Swallow</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Nicholas Courtney (Brigadier Lethbridge-Stewart / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Longworth (Konrad / Schrader)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Old soldiers, comrades in arms - the Brigadier saw many fall during his years with UNIT, but perhaps none more tragically than those at Kreigskind. Called to help when a friend falls ill, how can Lethbridge-Stewart fight an enemy that can breach every defence?</dc:description>
+    </metadata>
+</package>

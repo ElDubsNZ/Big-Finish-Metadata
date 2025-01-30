@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Highest Science</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-366-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Novel Adaptations"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Gareth Roberts</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">James Baxter (Rodomonte)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Bell (Fakrid / Jinka)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Brocklebank (Sheldukher)</dc:creator>
+        <dc:creator opf:role="nrt">Sinead Keenan (Rosheen)</dc:creator>
+        <dc:creator opf:role="nrt">Rehanna McDonald (Hazel)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Ovens (The Cell)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Highest Science. The pinnacle of knowledge and a terrible weapon. A legend – nothing more.
+
+Sheldukher. The most wanted criminal in the galaxy. Evil to the core and hungry for power, whatever the cost.
+
+The Chelonians. A vast military power, pledged to eradicate human parasites wherever they are found.
+
+The Doctor. An ancient and wise Time Lord tracking a temporal fluctuation that endangers the universe itself.
+
+Some things should never meet, but as Professor Summerfield is about to discover, the universe is full of coincidences.</dc:description>
+    </metadata>
+</package>

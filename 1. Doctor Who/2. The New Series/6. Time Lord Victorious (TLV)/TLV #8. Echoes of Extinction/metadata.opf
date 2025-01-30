@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Echoes of Extinction</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Time Lord Victorious"/>
+        <meta name="calibre:series_index" content="8"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alfie Shaw</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">David Tennant (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Burn Gorman (The Network)</dc:creator>
+        <dc:creator opf:role="nrt">Kathryn Drysdale (Jasmine)</dc:creator>
+        <dc:creator opf:role="nrt">Arthur Darvill (Cooke)</dc:creator>
+        <dc:creator opf:role="nrt">Mina Anwar (Joshi)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Clayton (Edwards)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Critchlow (General)</dc:creator>
+        <dc:creator opf:role="nrt">Jack DeVos (Orrivian)</dc:creator>
+        <dc:creator opf:role="nrt">Jacob Dudman (Guard)</dc:creator>
+        <dc:creator opf:role="nrt">Melanie Stevens (Orrivian)</dc:creator>
+        <dc:creator opf:role="nrt">Inès de Clercq (Frye)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Trapped, a haunted monster waits to consume new victims. It needs help. It needs a doctor. Unfortunately, it also needs to kill whoever it meets. Thrust into immediate danger, and on the back-foot, it will take all of the Doctor’s ingenuity to triumph.
+
+Two interlinked adventures. Two Doctors. One foe.</dc:description>
+    </metadata>
+</package>

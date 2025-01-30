@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Bernice Summerfield and the Criminal Code</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-462-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 4"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Hayes (Gatlin)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and Bernice Summerfield are on the planet Shanquis, where the Doctor is trying to negotiate a peace settlement between this world and the neighbouring world of Esoria. The Doctor should be in his element, in an arena where the fighting is done with words, not weapons.
+
+Yet after days of talks, the situation is getting worse. The planets are on a war footing and the Doctor cannot break the deadlock. He'd planned to join Bernice at an archaeology conference on the planet, but she ends up going on her own in an effort to distract herself from the increasingly dismal situation.
+
+Whilst there, Bernice learns of the Shanquin 'forbidden language', which it is illegal to read, speak or even think. As Bernice pursues the root of this obscure, archaic law, she finds herself obstructed and threatened - and realises that her investigations may have given her the only hope of stopping this war...</dc:description>
+    </metadata>
+</package>

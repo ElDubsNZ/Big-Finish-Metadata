@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Lady in the Lake</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-493-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Diary of River Song - Series 3"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nev Fountain</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Conningham (Kevin / Rindle)</dc:creator>
+        <dc:creator opf:role="nrt">Julia Hills (Sharon / Rindle)</dc:creator>
+        <dc:creator opf:role="nrt">David Seddon (Mr Quisling / Tarn 2)</dc:creator>
+        <dc:creator opf:role="nrt">Leighton Pugh (Lake 2 / Dave / Tarn)</dc:creator>
+        <dc:creator opf:role="nrt">Sophia Carr-Gomm (Lily)</dc:creator>
+        <dc:creator opf:role="nrt">Rosanna Miles (Maid)</dc:creator>
+        <dc:creator opf:role="nrt">Joanna Horton (Brooke)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On Terminus Prime, clients choose their own means of demise. Something exciting, meaningful, or heroic to end it all. 
+
+But when River discovers that there are repeat customers, she knows something more is going on. 
+
+She begins to uncover a cult with worrying abilities. Its members can apparently cheat death, and that’s not all they have in common with River...</dc:description>
+    </metadata>
+</package>

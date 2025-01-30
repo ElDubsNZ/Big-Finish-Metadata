@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Seas of Titan</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-760-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Ninth Doctor Adventures - Series 2 - Volume 3 - Hidden Depths"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizbeth Myles</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Eccleston (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sasha Behar (Diana Hendry)</dc:creator>
+        <dc:creator opf:role="nrt">Yasmin Mwanza (Rachel Bates / Taroth)</dc:creator>
+        <dc:creator opf:role="nrt">Ferdy Roberts (Soloman Read)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Mirtar / Sea Devils)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Out on Saturn's moon, Titan, an outpost all-but-forgotten by Earth struggles on against the odds.
+
+As the Doctor joins explorers deep in the methane seas, they discover a hidden civilisation. But will the Sea Devils prove to be the colony’s salvation or its final destruction?</dc:description>
+    </metadata>
+</package>

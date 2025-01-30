@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Kings of Infinite Space</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-503-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Diary of River Song - Series 4"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Donald McLeary</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song / Android River Song)</dc:creator>
+        <dc:creator opf:role="nrt">George Asprey (Melak)</dc:creator>
+        <dc:creator opf:role="nrt">Adele Lynch (Gammarae)</dc:creator>
+        <dc:creator opf:role="nrt">Josh Bolt (Spod)</dc:creator>
+        <dc:creator opf:role="nrt">Ewan Bailey (Discordia computer / Evotech Kronin / Wendell / Rattus / Cab / Karsus Prime)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Asbury (Dante)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>With the Discordia on their tail, River and her friends run for their lives across time and space. But when your opponent can twist cause and effect to ensure victory at every turn, then escape may well be impossible.</dc:description>
+    </metadata>
+</package>

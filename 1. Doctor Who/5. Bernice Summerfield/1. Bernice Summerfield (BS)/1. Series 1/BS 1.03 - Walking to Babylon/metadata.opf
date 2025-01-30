@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Walking to Babylon</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>1998-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-419-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 1"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Kate Orman</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Elisabeth Sladen (Ninan-ashtammu)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Fewell (Jason Kane)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Canini (Babylonian Child)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (John Lafayette)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Fairs (WiRgo!xue)</dc:creator>
+        <dc:creator opf:role="nrt">Anthony Keetch (!Ci!ci-tel)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Morell (Miriam)</dc:creator>
+        <dc:creator opf:role="nrt">Steven Wickham (The Drone)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>THE TIME RING TRILOGY: PART 1 
+
+"I'm scared of letting all these people down. At least if I get blown up as well, they can say I died heroically. Assuming I ever existed at all."
+
+The People are one of the most technologically advanced races in the Universe - except in the area of time travel. Professor Bernice Summerfield has a time ring. So does her ex-husband Jason Kane. Trouble is, they're their wedding rings, and they won't work unless they're together.
+
+Benny is surprised when Jason turns up to visit her at St Oscar's, especially when she discovers that he has brought one of the People with him. She should have guessed that her good-for-nothing ex wasn't just interested in her company...
+
+Using the time rings, two People create a Time Path and travel back to ancient Babylon, taking an unwilling Jason with them. Benny has just 48 hours to find them and rescue her errant husband, before the People back in the 26th century send a singularity bomb to destroy the Path - and Babylon.
+
+But someone else has discovered the Path and walked to Babylon - Edwardian time-sensitive John Lafayette. And Benny discovers her mission has a complication that she never dreamed of - romance.</dc:description>
+    </metadata>
+</package>

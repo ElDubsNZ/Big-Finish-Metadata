@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Abyss</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-554-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Doctor Begins - Series 4 - He Who Fights With Monsters"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Valentine</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jonathon Carley (The War Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Le Prevost (The Barber-Surgeon)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Kershaw (Narthex)</dc:creator>
+        <dc:creator opf:role="nrt">Jason Merrells (Dalek Hunter-Killer)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor journeys towards his target through the ravages of the Time War, the trail leading him back into his own personal history. With the Daleks close behind and the mysterious Barber-Surgeon anticipating his every move, he comes to suspect that this is one mission he won't be coming back from.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Genesis Chamber</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-454-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Philip Hinchcliffe Presents - Series 2"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (DeRosa Janz)</dc:creator>
+        <dc:creator opf:role="nrt">Hannah Genesius (Ana Janz)</dc:creator>
+        <dc:creator opf:role="nrt">Jemma Churchill (Farla Janz/Inscape)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Li (Grillo Clavik)</dc:creator>
+        <dc:creator opf:role="nrt">Vernon Dobtcheff (Jorenzo Zorn)</dc:creator>
+        <dc:creator opf:role="nrt">Arthur Hughes (Shown)</dc:creator>
+        <dc:creator opf:role="nrt">Gyuri Sarossy (Volor)</dc:creator>
+        <dc:creator opf:role="nrt">Elliot Chapman (Dack/Loyyo)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Philip Hinchcliffe, acclaimed producer of Doctor Who (1975-77) returns to tell new stories for the Fourth Doctor and Leela. 
+
+The TARDIS has landed on a human colony world. In the city, where the inhabitants rely on advanced technology to create their children, a marriage is due to take place. But not everyone supports it, and a crash might just prevent it for good. 
+
+In the commune outside live the savages, shunned and detested by the city folk. But they have recently been visited by a man, charismatic and handsome, who may yet be their saviour - or their doom. 
+
+Two different sides, ready for conflict. But neither realises that a third force threatens their very existence...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>More Than This</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-926-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="6"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Eve Myles (Gwen Cooper)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Nichols (Roger Pugh)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Price (Andy Davidson)</dc:creator>
+        <dc:creator opf:role="nrt">Guy Adams (Coachman)</dc:creator>
+        <dc:creator opf:role="nrt">Russell T Davies (Mr Pugh's Secretary)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Gwen Cooper has triumphed against impossible odds before, but now she's finally met her match: Roger Pugh, Planning Officer for Cardiff City Council. 
+
+Mr Pugh doesn't believe the world needs Torchwood. Gwen sets out to prove him wrong. For Mr Pugh, it's a day that'll change his life. If he can survive it.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Dark</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-609-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Graceless - Series 2"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Ciara Janson (Abby)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Doddington (Zara)</dc:creator>
+        <dc:creator opf:role="nrt">Susan Brown (Joy)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Kloska (Maldon)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"When you're together, you two can do anything." 
+
+Wherever Abby and Zara have ended up this time, their powers no longer work. 
+
+It's dark and cold and there are no stars. Frequent sand storms threaten to cut the girls to pieces. But they are not alone... 
+
+On a planet at the end of the universe, someone they never thought they would see again has been patiently waiting.</dc:description>
+    </metadata>
+</package>

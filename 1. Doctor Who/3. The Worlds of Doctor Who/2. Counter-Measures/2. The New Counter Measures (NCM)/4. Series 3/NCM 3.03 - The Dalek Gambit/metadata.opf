@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Dalek Gambit</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-036-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The New Counter Measures - Series 3"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Roland Moore</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Simon Williams (Group Captain Gilmore)</dc:creator>
+        <dc:creator opf:role="nrt">Pamela Salem (Rachel Jensen)</dc:creator>
+        <dc:creator opf:role="nrt">Karen Gledhill (Allison Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Ross (Sir Toby Kinsella)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Cyril Nri (Maurice Vallan)</dc:creator>
+        <dc:creator opf:role="nrt">Carolyn Seymour (Lady Suzanne Clare)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>After the Movellan attack, the Counter-Measures team discover that key scientists who helped the Movellans are being murdered. Rachel Jensen realises that the Daleks are behind it.
+
+Soon the team finds itself in the middle of a desperate war between Daleks and Movellans. As casualties mount, the Daleks plan to explode a bomb to wipe out the Movellans. Unfortunately, it will also destroy all life on Earth.
+
+Rachel finds herself struggling to diffuse the bomb as the clock ticks down. The stakes are high and this time not everyone will make it out alive...</dc:description>
+    </metadata>
+</package>

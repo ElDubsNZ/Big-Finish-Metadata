@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Cuddlesome</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fifth Doctor Adventures - Specials"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nigel Fairs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Newsreader)</dc:creator>
+        <dc:creator opf:role="nrt">Kate Brown (Miranda Evenden / Cuddlesomes / Dr Cooper)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Noble (John Dixon / New Cuddlesomes)</dc:creator>
+        <dc:creator opf:role="nrt">Roberta Taylor (Angela Wisher)</dc:creator>
+        <dc:creator opf:role="nrt">David Troughton (The Tinghus)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy West (Ronald Turvey)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Do you remember the Eighties? The Rubik's cube... Duran Duran... deelyboppers... and the Cuddlesomes: pink vampire hamsters, the must-have toy of 23 Christmases ago.
+
+For so long now, the Cuddlesomes have been forgotten, lying in attics and junk shops. But now they're waking up. And they want to give us all a cuddle. A long, slow, deadly cuddle...
+
+Landing in an England gripped by a strange new plague, the Doctor is soon on the Cuddlesomes' trail. But the toys are just part of a twisted plan to wipe out a whole generation...</dc:description>
+    </metadata>
+</package>

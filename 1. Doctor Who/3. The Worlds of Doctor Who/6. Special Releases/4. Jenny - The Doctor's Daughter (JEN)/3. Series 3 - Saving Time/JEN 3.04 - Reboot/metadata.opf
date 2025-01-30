@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Reboot</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-458-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Jenny - The Doctor's Daughter - Series 3 - Saving Time"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizzie Hopley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Georgia Tennant (Jenny)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Biggerstaff (Noah)</dc:creator>
+        <dc:creator opf:role="nrt">Anna Lundberg (Jexabel Glyce)</dc:creator>
+        <dc:creator opf:role="nrt">Imogen Daines (Nidhi Chand)</dc:creator>
+        <dc:creator opf:role="nrt">George Naylor (Dr Shah / Vinay / Pod Voice / Guard 2 / Waiter)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Jenny and Noah finally face their new nemesis: Jexabel Glyce - the Richest Woman in the Universe. With Noah a prisoner, Jenny is trapped on an Earth owned by the Glyce brand, where everyone is encouraged to raise virtual children instead of the real thing.
+
+Jenny faces her greatest challenge yet: saving the universe, while taking care of her Glyce-Kidz!</dc:description>
+    </metadata>
+</package>

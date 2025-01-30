@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>I Am The Master</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 8"/>
+        <meta name="calibre:series_index" content="10"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Geoffrey Beevers</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Geoffrey Beevers (The Master)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>There is a message for you. It comes from a long way, from a dying world. No, not a dying world. A killed world. And the message is from the killer.
+
+Please attend carefully. The message that follows is vital to your future...
+
+However much longer that may be.</dc:description>
+    </metadata>
+</package>

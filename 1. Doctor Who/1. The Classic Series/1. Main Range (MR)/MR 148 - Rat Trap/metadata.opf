@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Rat Trap</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2011-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-560-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="148"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tony Lee</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Strickson (Vislor Turlough)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Clifford Andrews)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Dickens (Matthew / Andrew Dickens)</dc:creator>
+        <dc:creator opf:role="nrt">Terry Molloy (Dr Wallace)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Norfolk (Caitlin Jones)</dc:creator>
+        <dc:creator opf:role="nrt">David Seymour (Kevin)</dc:creator>
+        <dc:creator opf:role="nrt">Alison Thea-Skot (Sally Lucas)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>1983: as the country goes to the polls, two ‘Urban Explorers’, together with a freelance journalist, break into the long-defunct Cadogan Tunnels, once a secret wartime facility… and later, so rumour has it, the site of an experimental laboratory with a nasty sideline in vivisection.
+
+ What they find, in its twisting underground corridors, is something the most cynical conspiracy theorist could never have imagined: a highly-evolved society of questing, intelligent creatures, living right under humanity’s nose for decades.
+
+ But there’s no way out of the tunnels – as the Doctor, Nyssa, Tegan and Turlough are about to discover when the TARDIS brings them, too, into the complex. It’s a rat trap – and they’ve all been caught!</dc:description>
+    </metadata>
+</package>

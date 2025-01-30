@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Time Reef</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-322-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="113"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">John Pickard (Thomas Brewster)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Biggerstaff (The Ruhk / Eumachus / Mr Plester / Richard)</dc:creator>
+        <dc:creator opf:role="nrt">Rebecca Callard (Ruhk / Connie)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Vuyoki / Ruhk / Taz / Sophie / Mum / Answer Machine)</dc:creator>
+        <dc:creator opf:role="nrt">Sean Connolly (Coris / Mr Phyton / Lucor / Trev / Taxi Driver / Newspaper Seller)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Farrell (Gammades / Phil / Newsreader)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Time Reef
+
+A curse on this damned reef - and curse the Doctor who brought us here!
+
+Drawn by the siren call of a distress beacon, the TARDIS crash-lands on an uncharted time reef. However, the Doctor, Nyssa and Brewster are not the only mariners marooned on this barren rock. Commander Gammades and his crew of returning war heroes have been similarly shipwrecked, as has the beautiful but mysterious Lady Vuyoki.
+
+But there's something else here, too. A thing of darkness which crawls blindly across the surface of the reef hunting for prey: the Ruhk.
+
+A Perfect World (a one-part story) by Jonathan Morris:
+
+Who wouldn't want a perfect world? Thomas Brewster for one.</dc:description>
+    </metadata>
+</package>

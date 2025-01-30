@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Smashed</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-698-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="32"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Eve Myles (Gwen Cooper)</dc:creator>
+        <dc:creator opf:role="nrt">Omar Austin (Martyn)</dc:creator>
+        <dc:creator opf:role="nrt">Helen Griffin (Rhian)</dc:creator>
+        <dc:creator opf:role="nrt">Dick Bradnum (Drillpak Manager)</dc:creator>
+        <dc:creator opf:role="nrt">Kezrena James (Elwyn)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Glynteg was never much of a place. Since the refinery's shut down there's been nothing much going on – no jobs, no money, more pubs than buses. One of those sad Welsh towns where there's little to do but drink. 
+
+Then the frakking company came and there was a brief spark of hope – maybe there'd be some jobs, at least. But that fizzled out. Instead the people started falling ill. 
+
+Gwen Cooper's come to Glynteg to find out what's happening. Something ancient has woken up beneath the ground and will do whatever it can to protect itself. The Hunters have been unleashed. And there's only one way to stay safe.</dc:description>
+    </metadata>
+</package>

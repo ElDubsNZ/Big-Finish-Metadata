@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Eternity Cage</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-191-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Doctor - Series 3 - Agents of Chaos"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Andrew Smith</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Hurt (The War Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline Pearce (Cardinal Ollistra)</dc:creator>
+        <dc:creator opf:role="nrt">Honeysuckle Weeks (Heleyna)</dc:creator>
+        <dc:creator opf:role="nrt">Josh Bolt (Kalan)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Fesk / Sontarans)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew French (Muren)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Vassarian)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Dalek Time Strategist / The Daleks)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Sontarans are the ultimate warriors - so they believe - and the Time War the ultimate conflict. Denied that glory by Skaro and Gallifrey alike, General Fesk of the Eighth Sontaran Battle Fleet employs a dangerous strategy to draw both sides to the planet Rovidia and prove his forces worthy...
+
+Meanwhile, the War Doctor leads a rescue mission, aided by Rovidian street-urchin Kalan. Neither Daleks nor Time Lords expect the Sontarans to be so fearsome a foe until they uncover the secret of the Eternity Cage.</dc:description>
+    </metadata>
+</package>

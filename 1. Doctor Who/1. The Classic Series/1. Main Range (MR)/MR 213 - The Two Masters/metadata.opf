@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Two Masters</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-887-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="213"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Geoffrey Beevers (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Russ Bain (Blore / Baron Jarvill)</dc:creator>
+        <dc:creator opf:role="nrt">Lauren Crace (Jemima)</dc:creator>
+        <dc:creator opf:role="nrt">Neil Edmond (Salron / Gorlan / Time Lord)</dc:creator>
+        <dc:creator opf:role="nrt">James Garnon (Sebastian / Gorian)</dc:creator>
+        <dc:creator opf:role="nrt">Esther Hall (Tazmeena / Bauza / Mum)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Macqueen (The Master)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The future is dying. All over the universe, gaps are beginning to appear. From the space lanes terrorised by the rag-tag remnants of the once-mighty Rocket Men, to the empire of the Gorlans, stricken by a terrible civil war. Gaps in space/time, portents of the end of everything.
+
+Only three beings might prevent it. The Doctor, a renegade Time Lord from Gallifrey. The Master, another renegade Time Lord from Gallifrey. And another Master, yet another renegade Time Lord from Gallifrey.
+
+One Doctor. Two Masters. What could possibly go wrong?</dc:description>
+    </metadata>
+</package>

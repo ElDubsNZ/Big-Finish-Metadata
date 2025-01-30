@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Rulers of the Universe</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-942-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Diary of River Song - Series 1"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Alexander Vlahos (Bertie Potts)</dc:creator>
+        <dc:creator opf:role="nrt">Imogen Stubbs (Isabella Clerkwell)</dc:creator>
+        <dc:creator opf:role="nrt">Aaron Neil (Sanukuma Master)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>As shocking secrets are exposed, and a grand plan for the universe is revealed, River decides it's time she took control of events once and for all. 
+
+Out in deep space, a clandestine society faces off with an ancient and powerful alien force — but, for River, there's an added complication. 
+
+The Eighth Doctor has been caught in the middle, and she must make sure her future husband can arrive at his own destiny with all his memories — not to mention his lives — intact...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Artist at the End of Time</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-078-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Once and Future"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Georgia Tennant (Jenny)</dc:creator>
+        <dc:creator opf:role="nrt">Colin Baker (The Curator / The Sixth Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Abi Harris (Roboguide)</dc:creator>
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Seventh Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Noonan (The First Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">John Telfer (Floom)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Treloar (The Third Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Troughton (The Second Doctor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Suffering the effects of degeneration, the Doctor heads towards the end of the universe in search of answers. Instead, he finds his daughter - Jenny - and an Artist whose works appear to mark the end of every world they touch.
+
+The Doctor stabilises into his Fifth form to join forces with Jenny and the Curator to solve the mystery of the Final Gallery and the art it has collected.</dc:description>
+    </metadata>
+</package>

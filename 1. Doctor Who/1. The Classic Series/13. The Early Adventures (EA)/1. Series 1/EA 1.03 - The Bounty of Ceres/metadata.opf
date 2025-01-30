@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Bounty of Ceres</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-338-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Early Adventures - Series 1"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Ian Potter</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Purves (Steven Taylor/Narrator/The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Maureen O'Brien (Vicki/Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Hope (Moreland)</dc:creator>
+        <dc:creator opf:role="nrt">Julia Hills (Qureshi)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Forbes (Thorn)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Computer)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Ceres. A tiny, unforgiving ball of ice and rock hanging between Mars and Jupiter. It's no place to live, and it takes a special kind of person to work there. 
+
+The crew of the Cobalt Corporation mining base know exactly how deadly the world outside their complex is, but the danger isn't just outside anymore. The systems they rely on to keep them safe are failing and the planet is breaking in. 
+
+When the TARDIS strands Steven, Vicki and the Doctor on the base, they have to fight a foe they can barely comprehend to survive.</dc:description>
+    </metadata>
+</package>

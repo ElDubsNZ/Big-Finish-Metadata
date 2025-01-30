@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Absolute Power</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-899-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="219"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jamie Anderson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Miranda Raison (Constance Clarke)</dc:creator>
+        <dc:creator opf:role="nrt">Jenny Bede (Florrie / Medical Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Neil Edmond (Professor Aryan Wyke / Mine Worker)</dc:creator>
+        <dc:creator opf:role="nrt">Esther Hall (Pheenan)</dc:creator>
+        <dc:creator opf:role="nrt">Gary Martin (Kohrbal)</dc:creator>
+        <dc:creator opf:role="nrt">Arian Nik (Ammar Elkady)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Reynolds (Lyam Yce)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Two thousand years ago, all civilisation on the planet Teymah was wiped out in an AELE – an Anomalous Extinction Level Event. Now, the galactic entrepreneur Lyam Yce hopes, at last, to learn the reason why the ancient Teymahrians went extinct – by funding a huge archaeological dig.
+
+While the Doctor probes a strange sphere found by Yce's diggers, his companion, former Bletchley Park cryptographer Constance Clarke, agrees to help translate symbols written in the lost ancient language of the Teymahrians. And soon, they'll learn that ancient Teymah's secrets were best left buried deep beneath its shifting sands...</dc:description>
+    </metadata>
+</package>

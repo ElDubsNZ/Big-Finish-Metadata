@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>This Sporting Life</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 6"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Una McCormack</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Purves (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the Doctor, Steven, and Dodo arrive in London in March 1966, World Cup fever is already underway. But disaster has struck: the trophy has been stolen, and the police are at a loss as to who could have taken it. When someone shoves part of the trophy into Steven’s hands, the travellers become embroiled in the case...</dc:description>
+    </metadata>
+</package>

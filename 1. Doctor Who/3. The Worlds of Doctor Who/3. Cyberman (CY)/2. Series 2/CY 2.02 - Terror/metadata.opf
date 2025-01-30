@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Terror</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-059-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Cyberman - Series 2"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Swallow</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Mark McDonnell (Liam Barnaby)</dc:creator>
+        <dc:creator opf:role="nrt">Hannah Smith (Samantha Thorn)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Paul Hunt)</dc:creator>
+        <dc:creator opf:role="nrt">Jo Castleton (Hazel Trahn)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Brooker (Yan)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Dickens (Milo Taggart)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Hadoke (Louis Richter)</dc:creator>
+        <dc:creator opf:role="nrt">Martin Trent (Merced)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Hallard (Chessman)</dc:creator>
+        <dc:creator opf:role="nrt">Jess Robinson (Janice Webb)</dc:creator>
+        <dc:creator opf:role="nrt">Steve Hansell (Dane)</dc:creator>
+        <dc:creator opf:role="nrt">Stuart Crossman (The News)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Cybermen / The Cyber-Planner)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A secret war is raging; a war with no soldiers — only casualties... 
+
+Two species — one organic, one synthetic — face their greatest challenge to their existence: the cold logic and ancient power of the Cybermen. Earth lies trapped between oppression and destruction, and the future is shrouded in darkness. Plans are drawn and choices are made; but the hidden truth that lurks in the shadows may be more terrible than anyone could imagine...</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Paradox Planet</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-731-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 5"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9 / Machina)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Valchak)</dc:creator>
+        <dc:creator opf:role="nrt">Emma Campbell-Jones (Shola)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Chadbon (Embery)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Panting (Fyrax)</dc:creator>
+        <dc:creator opf:role="nrt">Bryan Pilkington (Lostar)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Rees (Tyrus)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Rouse (Drang)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Medea)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Whilst travelling in the vortex, the TARDIS is struck by an advanced war machine - a Time Tank! Losing Romana, the Doctor and K9 pursue the Tank to Aoris, a world quite literally at war with itself.
+
+Soldiers from the future are attacking the past of their own planet - gathering resources and stealing endangered species. But the past is not without weapons of its own - leaving deadly devices ready to trigger many years ahead after their enemies have been born.
+
+Trapped at opposite ends of a temporal war, the Time Lords have two time zones to save. But who is in the right, and who in the wrong? And when history itself is against you, can anybody actually win?</dc:description>
+    </metadata>
+</package>

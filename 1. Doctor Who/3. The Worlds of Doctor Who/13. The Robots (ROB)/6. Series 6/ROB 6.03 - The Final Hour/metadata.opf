@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Final Hour</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-596-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Robots - Series 6"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Matt Fitton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Nicola Walker (Liv Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Claire Rushbrook (Tula Chenka)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (Vash Sorkov / SV77)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Lambie (Graf Kirran / Deep Blue)</dc:creator>
+        <dc:creator opf:role="nrt">Tracy Wiles (SV94 / Jadia)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Stafford (Reporter / V224)</dc:creator>
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Liv Chenka’s time on Kaldor is almost at an end. The Company seems more powerful than ever. There’s unrest on the streets, the people are scared. And Tula is in trouble with her boss...But there are those who stand against the Company. Those with a new vision of the future for Kaldor and its Robots. An intricate plan is in motion - the Chenka sisters are about to spend their final hour on the planet.</dc:description>
+    </metadata>
+</package>

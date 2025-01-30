@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Metamorphosis</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-459-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 13"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lisa McMullin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Eleanor Crooks (Naomi Cross)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (Harry Sullivan)</dc:creator>
+        <dc:creator opf:role="nrt">Geoffrey Beevers (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Lydia West (Cahlo)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Padro)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The people of the planet Jaxus are vanishing. When the Doctor and his friends land, Naomi is snatched away by a mysterious fog and taken to a prison run by a very old foe of the Doctor's. The Master is here and he has, as ever, a sinister scheme underway... but neither Naomi nor Harry know who he is... Can the Doctor stop his plans and rescue the prisoners? Or will his companions inadvertently aid his enemy's plans?</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Dreams of Avarice</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 11"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Ronni Ancona (Thana)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Dixon (Detective Inspector Alan Probert)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Elstob (Drones / Aide / Sergeant)</dc:creator>
+        <dc:creator opf:role="nrt">John Heffernan (The Nine)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Nine isn't your average robber. A ferociously intelligent and murderous kleptomaniac Time Lord with regenerative dissonance, he’s a far more dangerous adversary than most security details are used to. So it’s useful that the Doctor is on hand to stop him.
+
+This time more than ever - as the Nine is about to pull off the greatest heist of his criminal career. Though could the consequences be far worse than the crime?</dc:description>
+    </metadata>
+</package>

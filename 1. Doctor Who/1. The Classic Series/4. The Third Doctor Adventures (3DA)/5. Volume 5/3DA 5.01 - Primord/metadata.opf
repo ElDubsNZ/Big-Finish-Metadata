@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Primord</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-795-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Third Doctor Adventures - Volume 5"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tim Treloar (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Katy Manning (Jo Grant)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (Brigadier Lethbridge-Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Daisy Ashford (Liz Shaw)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Troughton (General Sharp)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Wincott (Captain Hall)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Jameson (Private Callahan / Primords / Soldiers)</dc:creator>
+        <dc:creator opf:role="nrt">Bethan Dixon Bate (Lady Madeleine Rose / Barmaid)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Prisoners are escaping from incarceration all around the country and UNIT have been called in to aid in the search. But the Doctor is unwilling to agree to the Brigadier’s request for help as he and Jo have opted to take a holiday – they’re going to visit his old assistant Liz Shaw, now working in Cambridge University.
+
+But, unfortunately for Jo, the Doctor can’t relax for very long. Soon the Time Lord and his friends are facing an old enemy – creatures they’d long since thought they’d put to ground.
+
+The Primords have returned – and this time the danger may strike very close to home.</dc:description>
+    </metadata>
+</package>

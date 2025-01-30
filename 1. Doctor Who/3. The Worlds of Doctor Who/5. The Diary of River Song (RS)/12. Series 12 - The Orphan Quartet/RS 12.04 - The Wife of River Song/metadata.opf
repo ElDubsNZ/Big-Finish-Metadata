@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Wife of River Song</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-146-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Diary of River Song - Series 12 - The Orphan Quartet"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizzie Hopley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Nina Toussaint-White (Brooke)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah-Jane Potts (Jane)</dc:creator>
+        <dc:creator opf:role="nrt">Jay Perry (Marshall / Marshall's Voice Box)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Stafford (Captain Hillier)</dc:creator>
+        <dc:creator opf:role="nrt">Jade Matthew (Team Member)</dc:creator>
+        <dc:creator opf:role="nrt">Carol Royle (Nav Com)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Millson (Co-Pilot)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>River Song is on an expedition seeking the Hive. Her sister is trapped in the ruins of the Hive. River Song is on honeymoon. Three realities meet.</dc:description>
+    </metadata>
+</package>

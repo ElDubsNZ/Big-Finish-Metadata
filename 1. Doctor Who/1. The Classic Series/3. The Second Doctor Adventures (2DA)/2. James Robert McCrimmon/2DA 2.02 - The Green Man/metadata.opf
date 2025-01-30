@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Green Man</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-878-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Second Doctor Adventures - James Robert McCrimmon"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul F Verhoeven</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Michael Troughton (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Frazer Hines (Jamie McCrimmon)</dc:creator>
+        <dc:creator opf:role="nrt">Emma Noakes (Raven)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Havers (Overseer Fuller)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (The Green Man / Beltraxian / Patient / Small Robot)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Perched hundreds of miles above the forest canopy of Florestus Prime, The Grove rehabilitation centre promises to help the staggeringly rich of the galaxy cheat death. When a reunited Doctor and Jamie are despatched by Raven to investigate the disappearance of a Time Lord, they are greeted by Chief of Medicine, Overseer Fuller.
+
+Watching from his room at The Grove, an incapacitated Doctor helplessly observes the facility from afar. Who is the lone patient waving from across the courtyard? Why is Overseer Fuller doing rounds late at night when the Grove appears to have no other patients? And what precisely does Raven know about the 'Green Man'?</dc:description>
+    </metadata>
+</package>

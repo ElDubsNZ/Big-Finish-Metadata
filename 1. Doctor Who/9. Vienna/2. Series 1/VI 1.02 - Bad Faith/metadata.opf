@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Bad Faith</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-267-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Vienna - Series 1"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nev Fountain</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Chase Masterson (Vienna Salvatori)</dc:creator>
+        <dc:creator opf:role="nrt">Frazer Hines (Bax Spendlove)</dc:creator>
+        <dc:creator opf:role="nrt">Rachel Atkins (Kendra Spendlove)</dc:creator>
+        <dc:creator opf:role="nrt">Mike Grady (Parsival / Kreyfin)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Vienna Salvatori has seen the light. 
+
+Time was, if you lost everything, at least you still had your faith – but not any more. Faith stealing is the latest commodity to light up the criminal underworld – extract somebody's faith and sell it to the highest bidder. 
+
+On the trail of a faith stealing ring, Vienna Salvatori comes into the orbit of the charismatic Bax Spendlove, spiritual leader of the Church of New Wonderment, a breakaway sect of the Church of Old Wonderment. Bax has an important mission for his latest convert – and Vienna is a willing disciple. 
+
+But when Bax’s followers start to be murdered, it seems Vienna isn’t the only killer keeping the faith…</dc:description>
+    </metadata>
+</package>

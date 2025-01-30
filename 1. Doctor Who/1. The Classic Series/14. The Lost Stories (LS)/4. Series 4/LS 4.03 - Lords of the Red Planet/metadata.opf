@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Lords of the Red Planet</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-097-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Lost Stories - Series 4"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Brian Hayles</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Frazer Hines (Jamie McCrimmon)</dc:creator>
+        <dc:creator opf:role="nrt">Wendy Padbury (Zoe Heriot)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Aslor / Risor / The Ice Warriors)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Hayes (Veltreena)</dc:creator>
+        <dc:creator opf:role="nrt">Abigail Thaw (Zaadur)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Troughton (Quendril)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS crew land on Mars, home of the Ice Warriors, far back in its history. The Doctor is convinced it's much too early for them to meet their frozen foes.. but the Doctor is wrong.
+
+Far below the surface of the planet an evil scheme is in motion. A scientist works night and day at the command of an insane despot. A despot intent on creating a terrifyingly familiar army. 
+
+What exactly does Zaadur plan? What dark secret lies at the heart of the Gandoran mines? How far will the Doctor go to save his friends? In the deepest caves, the true Lords of the Red Planet are ready to emerge... Can anyone possibly survive their birth?</dc:description>
+    </metadata>
+</package>

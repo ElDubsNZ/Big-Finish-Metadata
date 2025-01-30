@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Martian Invasion of Planetoid 50</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-084-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Once and Future"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Tennant (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Michelle Gomez (Missy)</dc:creator>
+        <dc:creator opf:role="nrt">Neve McIntosh (Madame Vastra)</dc:creator>
+        <dc:creator opf:role="nrt">Dan Starkey (Strax)</dc:creator>
+        <dc:creator opf:role="nrt">Catrin Stewart (Jenny Flint)</dc:creator>
+        <dc:creator opf:role="nrt">Hannah Genesius (Jessamy Moore)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Noonan (The First Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Treloar (The Third Doctor)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The First Doctor arrives in Victorian London amid a Martian invasion. But he discovers all is not what it seems when Missy appears...
+
+Soon, the Doctor is propelled into a future incarnation - the Tenth - but he is not alone in battling Missy and her Martian invaders. The Paternoster Gang - Madame Vastra, Jenny Flint and Strax - are also here to assist. But can they offer the Doctor any help in solving his own degeneration mystery?</dc:description>
+    </metadata>
+</package>

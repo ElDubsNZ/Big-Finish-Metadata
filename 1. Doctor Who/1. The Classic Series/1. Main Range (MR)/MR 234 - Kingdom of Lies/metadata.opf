@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Kingdom of Lies</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-817-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="234"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Khan</dc:creator>
+        <dc:creator opf:role="aut">Tom Salinsky</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Waterhouse (Adric)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Bentinck (Lord Crozion)</dc:creator>
+        <dc:creator opf:role="nrt">Richenda Carey (Lady Crozion)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Firth (Sebastian Duke of Cardenas)</dc:creator>
+        <dc:creator opf:role="nrt">Piotr Hatherer (Tomek)</dc:creator>
+        <dc:creator opf:role="nrt">Patsy Kensit (The Scorpion)</dc:creator>
+        <dc:creator opf:role="nrt">Charlotte Lucas (Duchess Miranda)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Smith (additional voices)</dc:creator>
+        <dc:creator opf:role="nrt">Harriet Thorpe (Amelia)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On the planet Cicero Prime, the kingdom of Cardenas is divided, with the whole population forced to swear allegiance to either the effete Duke or the fiery, hard-edged Duchess. This is a situation both parties have grown tired of. What use is half a kingdom when, thanks to a carefully engineered murder, you could have it all?
+
+Surely, neither of them would be rash enough to summon the deadly off-world assassin The Scorpion to help with their problem? And surely, this terrifying figure wouldn’t arrive wearing a long cream coat and striped trousers...?</dc:description>
+    </metadata>
+</package>

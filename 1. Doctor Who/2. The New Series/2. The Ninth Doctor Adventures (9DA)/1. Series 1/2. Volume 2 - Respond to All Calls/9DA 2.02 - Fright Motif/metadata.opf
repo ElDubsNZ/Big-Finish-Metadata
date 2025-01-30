@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Fright Motif</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-342-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Ninth Doctor Adventures - Series 1 - Volume 2 - Respond to All Calls"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Christopher Eccleston (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Damian Lynch (Artie Berger)</dc:creator>
+        <dc:creator opf:role="nrt">Adrian Schiller (Maurice Le Bon)</dc:creator>
+        <dc:creator opf:role="nrt">Gemma Whelan (Zazie Vincent)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In post-War Paris, musician Artie Berger has lost his mojo, but gained a predator - something that seeps through the cracks of dissonance to devour the unwary.
+
+Luckily for Artie, the Doctor is here. Unluckily for everyone, he needs bait to trap a monster...</dc:description>
+    </metadata>
+</package>

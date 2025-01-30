@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Suckers</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-798-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="64"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alexander Stewart</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Naoko Mori (Toshiko Sato)</dc:creator>
+        <dc:creator opf:role="nrt">Linda Armstrong (Felicia Haynes)</dc:creator>
+        <dc:creator opf:role="nrt">Emma Kaler (Shireen Afzal)</dc:creator>
+        <dc:creator opf:role="nrt">Dylan Jones (Steffan Blayney)</dc:creator>
+        <dc:creator opf:role="nrt">Nick Asbury (Ivan)</dc:creator>
+        <dc:creator opf:role="nrt">Sara McGaughey (Ms Jubilee Pizza)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Shireen's not exactly enjoying being sectioned, but she's been in worse places. That psychiatric unit in Brecon was a right dump. This one's alright, though. There's table tennis, art therapy and they even get to do a bit of gardening. 
+
+There's only one problem. Shireen's roommate. Toshiko - she's a total space cadet, convinced the unit is overrun by aliens. Yeah, right.</dc:description>
+    </metadata>
+</package>

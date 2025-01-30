@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Foreshadowing</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 5"/>
+        <meta name="calibre:series_index" content="8"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Julian Richards</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">India Fisher (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A young lieutenant is sent to interrogate two strangers who were apprehended whilst intruding at a secure RAF base. The man seems strangely familiar, could pass for Lord Byron, and says he’s an alien; meanwhile, his female friend is apparently from 1930. As the lieutenant tries to find out what they’re doing on his base, something connects them with a strange incident earlier in the day: stories of a giant insect...
+
+An Eighth Doctor and Charlotte Pollard story.</dc:description>
+    </metadata>
+</package>

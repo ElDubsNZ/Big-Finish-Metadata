@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Survivor</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-664-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The War Master - Series 3 - Rage of the Time Lords"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Derek Jacobi (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Katherine Pearce (Alice Pritchard)</dc:creator>
+        <dc:creator opf:role="nrt">Mina Anwar (Valerie Pritchard)</dc:creator>
+        <dc:creator opf:role="nrt">Taj Atwal (Esther)</dc:creator>
+        <dc:creator opf:role="nrt">Su Douglas (Lady Raleigh)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Clayton (Hale)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>At the height of the Second World War on the planet Earth, Alice Pritchard wants for nothing more than the fighting to stop, and to do her bit for King and Country. But when the village priest offers her guidance, her life will change in ways she could never imagine.</dc:description>
+    </metadata>
+</package>

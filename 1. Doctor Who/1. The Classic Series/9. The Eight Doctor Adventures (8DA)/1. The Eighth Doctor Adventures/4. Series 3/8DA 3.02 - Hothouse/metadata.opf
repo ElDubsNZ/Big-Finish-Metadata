@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Hothouse</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-394-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Series 3"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sheridan Smith (Lucie Miller)</dc:creator>
+        <dc:creator opf:role="nrt">Lysette Anthony (Hazel Bright)</dc:creator>
+        <dc:creator opf:role="nrt">Stuart Crossman (Stefan Radek / Mark)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Newsreader)</dc:creator>
+        <dc:creator opf:role="nrt">Nigel Planer (Alex Marlow)</dc:creator>
+        <dc:creator opf:role="nrt">Adna Sablyich (Christina Ondrak)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Somewhere in the south of England stands the Hothouse. Five vast, state-of-the-art biodomes, all steel and glass. Inside, rock star turned environmental activist Alex Marlow has a plan to save the world from climate change. By any means necessary...
+
+There's something growing inside the Hothouse. Something that could turn back humanity's tide. A voracious alien vegetable called the Krynoid. The Doctor's going to have to stop it. Stop Marlow. Stop Marlow's fanatical acolyte, Lucie Miller...
+
+Save the world. By any means necessary.</dc:description>
+    </metadata>
+</package>

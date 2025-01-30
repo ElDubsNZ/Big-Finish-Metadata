@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Trials of a Time Lord</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2024-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-177-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Sixth Doctor Adventures - The Trials of a Time Lord"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Rochana Patel</dc:creator>
+        <dc:creator opf:role="aut">Katherine Armitage</dc:creator>
+        <dc:creator opf:role="aut">Stewart Pring</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Melanie Bush)</dc:creator>
+        <dc:creator opf:role="nrt">David Banks (Cyber Leader)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Cybermen / Cyber-Lieutenant)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (Sticklefen / Stunrib)</dc:creator>
+        <dc:creator opf:role="nrt">Aruhan Galieva (Tiffany Jenkins / Marjie)</dc:creator>
+        <dc:creator opf:role="nrt">Holly Jackson Walters (Val / Vurglemere)</dc:creator>
+        <dc:creator opf:role="nrt">Samuel James (Grobolosh / Chaz)</dc:creator>
+        <dc:creator opf:role="nrt">Rufus Jones (Brot Zirkussen)</dc:creator>
+        <dc:creator opf:role="nrt">Terry Molloy (Davros)</dc:creator>
+        <dc:creator opf:role="nrt">George Naylor (Voss Nim)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Sixth Doctor's fortieth anniversary celebrations continue, courtesy of LudoSphere Incorporated, with the greatest adventure ever streamed...
+
+Responding to a distress call from an old friend, the Doctor and Mel find themselves in 'Cyberia', a prison camp run by an even older foe. But this time, the Cyber Leader's machinations are just the tip of one very sinister iceberg, one that will test the Doctor to his very limit, and beyond...
+
+We hope you're hiding behind the sofa, because 'The Trials of a Time Lord' are about to begin!</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Kaleidoscope</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-740-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Third Doctor Adventures - Volume 10 - Kaleidoscope"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Alan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tim Treloar (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sadie Miller (Sarah Jane Smith)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (Brigadier Lethbridge-Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Naylor (Harry Sullivan)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Elstob (Sergeant Major Roach / Air Commodore Hurley / Norwegian Radar Controller / Nanobots)</dc:creator>
+        <dc:creator opf:role="nrt">Gerran Howell (Kaleidoscope)</dc:creator>
+        <dc:creator opf:role="nrt">Jasmin Hinds (Jenny Nettles / Lieutenant Kuznetsova)</dc:creator>
+        <dc:creator opf:role="nrt">Imogen Church (WRAF Controller)</dc:creator>
+        <dc:creator opf:role="nrt">Helen Goldwyn (Daphne Green)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Noonan (Solokov / Keeth Hazel / Fairford / Phantom Pilot / Nanobots)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>His name is Kaleidoscope. He claims to have travelled halfway across the universe to warn all humankind that it stands on the brink of extinction. And a certain tenacious young journalist has got an exclusive interview with this alien messiah...
+
+But it’s not Sarah Jane Smith who’s got the out-of-this-world scoop - it’s her rival, the unscrupulous Jenny Nettles. Sarah's busy helping the Doctor and UNIT work out if Kaleidoscope is for real or a fake when RAF Phantoms scramble to intercept an unidentified something homing in on a top-secret missile base.
+
+It seems like Kaleidoscope’s apocalyptic predictions might all be about to come true.</dc:description>
+    </metadata>
+</package>

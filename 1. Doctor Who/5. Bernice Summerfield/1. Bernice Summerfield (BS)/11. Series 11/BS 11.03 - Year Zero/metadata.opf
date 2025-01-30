@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Year Zero</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-528-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Bernice Summerfield - Series 11"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Clements</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Lisa Bowerman (Bernice Summerfield)</dc:creator>
+        <dc:creator opf:role="nrt">Evie Dawnay (Pallis)</dc:creator>
+        <dc:creator opf:role="nrt">Maria McErlane (Matka)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Porter (Gormune)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Planet Raster, Year 54: Professor Bernice Summerfield is arrested on suspicion of Archaeology. She immediately admits that she is a Historian: is she a dangerous revolutionary, or simply mad? Inquisitors have an hour to decide, before she is terminated to prevent the spread of the contagion.
+
+If she can ever return home, Bernice Summerfield must first discover where and when she really is. And that means illegal investigations into the past… into whatever happened at the beginning… in Year Zero.</dc:description>
+    </metadata>
+</package>

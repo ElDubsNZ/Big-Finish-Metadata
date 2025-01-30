@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>War Against the Laan</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-056-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 2"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Mary Tamm (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">Hayley Atwell (President Sheridan Moorkurk)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Bob Caveer)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Earth Tower)</dc:creator>
+        <dc:creator opf:role="nrt">John Dorney (Security Man / Spaceship Captain)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Fraser (Tallister)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Hadoke (Mr Dorrick)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (The Laan)</dc:creator>
+        <dc:creator opf:role="nrt">David Warner (Cuthbert)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Just a taste of Armageddon, Romana. It’s what happens when acquisitive minds are left unencumbered by conscience.'
+
+The Doctor, Romana and newly elected President Sheridan Moorkurk take on the all-consuming powers of business tycoon Cuthbert and his vast Conglomerate. But the situation goes beyond a struggle for political power. Cuthbert is intent on revenge on creatures he feels have attacked his interests. But when his revenge looks like leading to inter-species war, the Doctor knows the stakes couldn't be higher.
+
+The Laan are on the move. Is it too late to prevent the destruction of all life on Earth?</dc:description>
+    </metadata>
+</package>

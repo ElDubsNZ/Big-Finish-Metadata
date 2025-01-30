@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Exxilons</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-345-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 4"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">Daisy Dunlop (Trexa)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline King (Calura)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Ross (Gethal)</dc:creator>
+        <dc:creator opf:role="nrt">Tim Treloar (Ergu / Tarl)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Planet E9874 supports a developing civilisation known as the Tarl. The peaceful, technologically advanced Locoyuns are helping the Tarl develop rudimentary technology. What could be more innocent than that?
+
+When the Doctor, Leela and K9 arrive, they find the delicate balance in the relationship between the two cultures reaching an unexpected crisis point. The spears are flying and the threat of all-out war is in the air.
+
+The Doctor must use all his guile to tread a careful path with Tarl leader Ergu, while Leela and K9 discover an ancient power of unimaginable strength which threatens to tear the minds out of its victims.</dc:description>
+    </metadata>
+</package>

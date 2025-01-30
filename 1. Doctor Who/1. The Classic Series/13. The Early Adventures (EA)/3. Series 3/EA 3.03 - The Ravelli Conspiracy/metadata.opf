@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Ravelli Conspiracy</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-380-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Early Adventures - Series 3"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Khan</dc:creator>
+        <dc:creator opf:role="aut">Tom Salinsky</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Maureen O'Brien (Vicki)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Purves (Steven Taylor / The Doctor / Narrator)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Ballard (Guilliano de Medici)</dc:creator>
+        <dc:creator opf:role="nrt">Joe Bor (Guard Captain)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Frost (Niccolo Machiavelli)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Hands (Pope Leo X)</dc:creator>
+        <dc:creator opf:role="nrt">Olivia Poulet (Carla)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the TARDIS lands in a house in Florence, Italy in 1514, it isn't long before the guards of Guiliano de Medici arrest Steven and Vicki. To rescue them, the Doctor has to employ the help of the house's owner - one Niccolo Machiavelli. But can he be completely trusted?
+
+Guiliano confesses to his brother Pope Leo X that he has angered the wealthy family of Ravelli and believes the newcomers may be part of an assassination plot. But when the Doctor arrives an already tricky situation starts to spiral out of control.
+
+As the city rings with plot and counter-plot, betrayal and lies abound. The Doctor and his friends must use all their ingenuity if they're not to be swept away by history.
+
+This conspiracy is about to get complicated...</dc:description>
+    </metadata>
+</package>

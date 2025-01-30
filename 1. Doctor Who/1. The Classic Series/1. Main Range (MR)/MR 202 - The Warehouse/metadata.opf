@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Warehouse</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-543-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="202"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mike Tucker</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Melanie Bush)</dc:creator>
+        <dc:creator opf:role="nrt">Anna Bentinck (Jean / Computer)</dc:creator>
+        <dc:creator opf:role="nrt">Clare Buckfield (Ann / Darl)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Edwards (Reef)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Franks (Supervisor)</dc:creator>
+        <dc:creator opf:role="nrt">Dillie Keane (Lydek)</dc:creator>
+        <dc:creator opf:role="nrt">Barry McCarthy (Fred / Terminal)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor and Mel land in what appears to be an orbiting warehouse, a delivery facility with a dangerously erratic computer.
+
+Whilst Mel is helping with repairs, the Doctor begins to realise that not everything in the warehouse is as it seems. Why do no goods ever seem to leave the shelves? Why are the staff so obsessed with the stocktake? And who is the mysterious Supervisor?
+
+On the planet below, the Doctor discovers that the computer might be the least of their problems – and that they should be more concerned with the spacestation's mould and vermin...</dc:description>
+    </metadata>
+</package>

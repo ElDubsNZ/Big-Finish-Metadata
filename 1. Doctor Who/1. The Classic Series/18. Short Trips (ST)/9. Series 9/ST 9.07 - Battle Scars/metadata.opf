@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Battle Scars</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Short Trips - Volume 9"/>
+        <meta name="calibre:series_index" content="7"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Selim Ulug</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Nicholas Briggs (Narrator)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Nightmarish memories of the Boer War. Crippling debts. An unconscious stranger in the garden. Arthur Daniels is beset with problems. Little does he know that his proposed solution could be the biggest problem of them all: a voyage to America aboard the RMS Titanic.</dc:description>
+    </metadata>
+</package>

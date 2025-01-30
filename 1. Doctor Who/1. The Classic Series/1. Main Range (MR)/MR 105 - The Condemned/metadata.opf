@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Condemned</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2008-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-314-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="105"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Aintree (DCI Turnbull / Goon / Guy in Gym)</dc:creator>
+        <dc:creator opf:role="nrt">William Ash (Sam)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah De Freitas (Maxine)</dc:creator>
+        <dc:creator opf:role="nrt">James George (Slater)</dc:creator>
+        <dc:creator opf:role="nrt">Lennox Greaves (Dr Joseph Aldrich)</dc:creator>
+        <dc:creator opf:role="nrt">Steve Hansell (PC Blackstock / Guy in Gym)</dc:creator>
+        <dc:creator opf:role="nrt">Anna Hope (DI Patricia Menzies)</dc:creator>
+        <dc:creator opf:role="nrt">Diana Morrison (Antonia Bailey / Jane)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"Dr John Smith – you’re under arrest. You do not have to say anything, but it may harm your defence if you do not mention when questioned something which you later rely on in court..." 
+
+Manchester, 2008. The TARDIS lands inside a run-down tower block, beside a dead body – which leads to some awkward questions when the Doctor is found there by the police. Made the prime suspect, how can the Doctor prove to the no-nonsense DI Patricia Menzies that this is not the open-and-shut case it seems, and that she’s actually investigating the death of an alien?
+
+Higher up in Ackley House, a girl named Maxine watches the Doctor being taken away in a squad car. Someone wants her to find out what happened in that room, and isn’t going to be happy if she doesn’t come up with the goods. But she’s got hold of someone who knows – someone very important to the Doctor.
+
+A deadly conspiracy is at work – one whose effects will be felt far beyond the walls of Ackley House…</dc:description>
+    </metadata>
+</package>

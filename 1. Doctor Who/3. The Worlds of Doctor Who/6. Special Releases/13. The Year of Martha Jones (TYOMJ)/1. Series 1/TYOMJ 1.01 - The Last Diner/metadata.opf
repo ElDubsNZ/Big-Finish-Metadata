@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Last Diner</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-242-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Year of Martha Jones"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Freema Agyeman (Martha Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Adjoa Andoh (Francine Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Serin Ibrahim (Holly)</dc:creator>
+        <dc:creator opf:role="nrt">Marina Sirtis (Karen)</dc:creator>
+        <dc:creator opf:role="nrt">Ewart James Walters (Tucker)</dc:creator>
+        <dc:creator opf:role="nrt">Clare Louise Connolly (Toclafane)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Martha arrives on the west coast of the US and finds an old friend waiting to make contact. 
+
+A desperate group gathers for her stories. But when Francine arrives, escaped from the Valiant, she isn't so keen to hear about the Doctor...</dc:description>
+    </metadata>
+</package>

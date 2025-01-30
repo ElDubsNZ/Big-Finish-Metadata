@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Capture the Chronovore!</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-783-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Master! - Series 2 - Nemesis Express"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lizbeth Myles</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Eric Roberts (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Chase Masterson (Vienna Salvatori)</dc:creator>
+        <dc:creator opf:role="nrt">Teri Ann Bobb-Baxter (Passion)</dc:creator>
+        <dc:creator opf:role="nrt">Michelle Asante (Princess Natalia)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Boulton (Mr Chule)</dc:creator>
+        <dc:creator opf:role="nrt">Justin Salinger (Dr Miroy / Hunt-Master)</dc:creator>
+        <dc:creator opf:role="nrt">Anna Savva (Commodore Blixen)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Vienna and Passion pursue the Master, but to find out what he's up to they must find a way through the ship's classier compartments.
+
+With their weapons confiscated and champagne on ice, they're invited to join an exclusive shooting party, hunting the Vortex's great game - Chronovores! - and the Master is most definitely dressed for the occasion.</dc:description>
+    </metadata>
+</package>

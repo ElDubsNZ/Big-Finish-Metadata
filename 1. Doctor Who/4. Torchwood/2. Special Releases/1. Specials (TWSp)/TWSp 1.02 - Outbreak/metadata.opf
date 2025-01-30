@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Outbreak</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-760-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Specials"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">John Barrowman (Captain Jack Harkness)</dc:creator>
+        <dc:creator opf:role="nrt">Gareth David-Lloyd (Ianto Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Eve Myles (Gwen Cooper)</dc:creator>
+        <dc:creator opf:role="nrt">Kai Owen (Rhys Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Price (PC Andy Davidson)</dc:creator>
+        <dc:creator opf:role="nrt">Marilyn Le Conte (Frances Godalming)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Ludders (Luke Palmer)</dc:creator>
+        <dc:creator opf:role="nrt">Samuel Barnett (Norton Folgate)</dc:creator>
+        <dc:creator opf:role="nrt">Melanie Stevens (Dr. Larsen)</dc:creator>
+        <dc:creator opf:role="nrt">Sara Lloyd (Emilia Martin)</dc:creator>
+        <dc:creator opf:role="nrt">Steffan Rhodri (Minister)</dc:creator>
+        <dc:creator opf:role="nrt">Ruth Lloyd (Paramedic)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Gravelle (Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Rhys Ap Trefor (Road Block Captain)</dc:creator>
+        <dc:creator opf:role="nrt">Keiron Self (Bernie)</dc:creator>
+        <dc:creator opf:role="nrt">Samuel Harris (Young Man)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Incubation - Prodromal - Invasion 
+
+A medical trial's gone terribly wrong, and one of the test subjects is loose on the streets of Cardiff. Within hours a virus is raging out of control and the bodies start piling up. 
+
+The Government scrambles to control the outbreak, but isn't too keen on anyone finding out the dark history of the virus. Captain Jack Harkness has encountered the infection before and knows that something alien is hiding inside it. 
+
+With the city sealed off and murderous mobs rampaging through the streets, Torchwood has to save something even more important than the human race.</dc:description>
+    </metadata>
+</package>

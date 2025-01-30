@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Lovecraft Invasion</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-004-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="265"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Valentine</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Greenwood (Flip Jackson)</dc:creator>
+        <dc:creator opf:role="nrt">Miranda Raison (Constance Clarke)</dc:creator>
+        <dc:creator opf:role="nrt">Robyn Holdaway (Calypso Jonze)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Andrew Hume (Nyarlathotep / Cthulu)</dc:creator>
+        <dc:creator opf:role="nrt">Alan Marriott (Howard Phillips Lovecraft / Randolph Carter)</dc:creator>
+        <dc:creator opf:role="nrt">David Menkin (Shoggoth / Wilbur / Armitage)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Doctor, Constance and Flip join forces with 51st-century bounty hunter, Calypso Jonze, to hunt down the Somnifax: a weaponised mind-parasite capable of turning its host's nightmares into physical reality. Chasing it through the time vortex to Providence, Rhode Island in 1937, they arrive too late to stop it from latching onto a local author of weird fiction... Howard Phillips Lovecraft.
+
+With time running out before Lovecraft's monstrous pantheon breaks free and destroys the world, the Doctor must enter Lovecraft's mind to fight the psychic invader from within.
+
+Can he and Flip overcome the eldritch horrors of the Cthulhu Mythos? And will Constance and Calypso survive babysitting the infamously xenophobic Old Gentleman of Providence himself?</dc:description>
+    </metadata>
+</package>

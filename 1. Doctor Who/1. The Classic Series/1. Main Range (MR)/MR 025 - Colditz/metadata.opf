@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Colditz</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2001-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-90365-447-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="25"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Steve Lyons</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Tracey Childs (Elizabeth Klein)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Longworth (Hauptmann Julius Schäfer)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Rae (Timothy Wilkins)</dc:creator>
+        <dc:creator opf:role="nrt">David Tennant (Feldwebel Kurtz)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Young (Flying Officer Bill Gower)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>October 1944: As World War II draws towards its conclusion, a Nazi defeat begins to seem almost inevitable. But that might be about to change...
+
+Two intruders are captured in the grounds of Colditz Castle, the most secure POW camp in Germany. At first, the guards think they're dealing with British spies. But the strangers arrived in an advanced travelling machine, the like of which they've never seen before.
+
+With this TARDIS in their hands, the Third Reich might triumph after all.</dc:description>
+    </metadata>
+</package>

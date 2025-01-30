@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Sync</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-477-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="27"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lisa McMullin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Indira Varma (Susie Costello)</dc:creator>
+        <dc:creator opf:role="nrt">Annette Badland (Margaret Blaine)</dc:creator>
+        <dc:creator opf:role="nrt">Raj Ghatak (The Pilot)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Torchwood vs Monsters! 
+
+Margaret Blaine is the Mayor of Cardiff. She's also an alien who'll do anything to get off the planet Earth. When a spaceship crashes outside Cardiff, it seems like the answer to her prayers. But she's not the only person at crash site. 
+
+Suzie Costello works for Torchwood, but strictly to her own agenda. When a spaceship crashes outside Cardiff, it seems like the answer to her prayers. But she's not the only person at the crash site. 
+
+Bonded by an alien device, Margaret and Suzie find themselves on the run from Torchwood, the police, and six warp missiles that'll destroy them, Cardiff, and most of the Western Hemisphere.</dc:description>
+    </metadata>
+</package>

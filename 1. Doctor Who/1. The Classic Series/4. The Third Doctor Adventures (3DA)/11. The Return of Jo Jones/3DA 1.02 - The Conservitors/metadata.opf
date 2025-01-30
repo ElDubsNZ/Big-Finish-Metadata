@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Conservitors</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-880-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Third Doctor Adventures - Volume 11 - The Return of Jo Jones"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut"></dc:creator>
+        <dc:creator opf:role="aut">Felicia Barker</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tim Treloar (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Katy Manning (Jo Jones)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Copley (Wendell)</dc:creator>
+        <dc:creator opf:role="nrt">LJ Parkinson (Laire)</dc:creator>
+        <dc:creator opf:role="nrt">Poppy Miller (Vykane)</dc:creator>
+        <dc:creator opf:role="nrt">Gary Turner (Maldon)</dc:creator>
+        <dc:creator opf:role="nrt">David O'Mahony (Petroz / Conservitors)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On the planet Viltris in the 49th Century, a regime obsessed with statistical analysis of risk has created a force of robots to protect its citizens. But when Jo Jones arrives with the Doctor on her first space-time voyage for decades, she discovers that long-held grudges from a past conflict are about to bubble over into outright rebellion.</dc:description>
+    </metadata>
+</package>

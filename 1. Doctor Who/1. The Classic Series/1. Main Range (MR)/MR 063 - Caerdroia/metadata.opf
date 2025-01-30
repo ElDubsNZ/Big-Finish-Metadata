@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Caerdroia</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2004-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-104-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="63"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lloyd Rose</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Westmaas (C'rizz)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Perring (The Kro'ka)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Self-exiled to a new universe, separated from his TARDIS, opposed and manipulated by the Divergence and their agent the Kro'ka, the Doctor has been struggling to work out the nature of the cosmic game in which he's an unwilling pawn. Now, at last, he has a chance to find the answer ­ and regain the TARDIS!
+
+Threatened and desperate, the Kro'ka abandons his behind-the-scenes machinations to confront the Doctor directly. But will both of them lose their way in the maze of the strange world in which they find themselves? A world in which a clock may have a cuckoo but no hands, a labyrinth imprisoning a paradox, and a Garden of Curiosities reveals something the Doctor has never seen before.
+
+As the Doctor faces these challenges, Charley and C'rizz provide valuable help. But with the TARDIS itself at stake, the Doctor reaches deep inside himself to find some surprising new allies...</dc:description>
+    </metadata>
+</package>

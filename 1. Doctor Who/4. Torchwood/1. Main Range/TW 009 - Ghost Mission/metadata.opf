@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Ghost Mission</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-211-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Torchwood - Monthly Range"/>
+        <meta name="calibre:series_index" content="9"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Price (Sergeant Andy Davidson)</dc:creator>
+        <dc:creator opf:role="nrt">Samuel Barnett (Norton Folgate)</dc:creator>
+        <dc:creator opf:role="nrt">David Warner (OAP)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Bowerman (Quite Anxious Shopper)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Doddington and Aaron Neil (The Graces)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Sergeant Andy Davidson has always wanted to join Torchwood. And now he finally gets his chance. 
+
+Under the strict observation of his Torchwood Assessor, Andy sets out to prove he's got what it takes. When a chemical spill turns out to have serious consequences, when monsters roam the Bay, and when an ancient entity awakes, Andy decides he could do with a helping hand. The problem is his Torchwood Assessor doesn't have any hands. Norton Folgate is a ghost.</dc:description>
+    </metadata>
+</package>

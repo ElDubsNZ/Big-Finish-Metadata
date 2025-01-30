@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Psychic Circus</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-871-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="261"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Stephen Wyatt</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">James Dreyfus (The Master)</dc:creator>
+        <dc:creator opf:role="nrt">Sioned Jones (Morgana / Minister)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Jury (Kingpin)</dc:creator>
+        <dc:creator opf:role="nrt">Anna Leong Brophy (Juniper / Ragnarok God 2)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Reddington (Chief Clown)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew James Spooner (Panpipe / Whydini / Ragnarok God)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Lots of fun for the family, at the Greatest Show in the Galaxy!
+
+When a junkmail robot invades the TARDIS, the Doctor gets led down an unnervingly familiar path.
+
+Meanwhile, space beatniks Kingpin and Juniper Berry just want to hitch rides and busk – until a greater purpose calls.
+
+The Doctor’s past and Kingpin’s future are entangled by malevolent forces. The Psychic Circus is just beginning: it may lack clowns, but it already has a Master...</dc:description>
+    </metadata>
+</package>

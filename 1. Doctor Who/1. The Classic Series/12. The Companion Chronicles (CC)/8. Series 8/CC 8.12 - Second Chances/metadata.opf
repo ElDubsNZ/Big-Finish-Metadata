@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Second Chances</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-094-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 8"/>
+        <meta name="calibre:series_index" content="12"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Wendy Padbury (Zoe Heriot)</dc:creator>
+        <dc:creator opf:role="nrt">Emily Pithon (Kym)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>From time to time, everybody makes mistakes. Everybody has things from their past they'd like to undo, but nobody gets a second chance. What's done is done and we can't change that.
+
+Zoe Heriot's mistakes have led her to imprisonment at the hands of the Company. But when news reports trigger memories of the Doctor, Jamie and an appalling threat, she begins to sense a way out. An opportunity for redemption opens up to anyone willing to take it.
+
+Nobody can alter what's been done. Nobody gets a second chance.
+
+Or do they?</dc:description>
+    </metadata>
+</package>

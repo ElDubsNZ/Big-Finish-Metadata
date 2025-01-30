@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Antillia the Lost</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 12"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Phil Mulryne</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Nerys Hughes (Margaret Hopwood)</dc:creator>
+        <dc:creator opf:role="nrt">Keziah Joseph (Freya Brett)</dc:creator>
+        <dc:creator opf:role="nrt">Richard Lumsden (Dr Vance)</dc:creator>
+        <dc:creator opf:role="nrt">Anjli Mohindra (Theodora Markway)</dc:creator>
+        <dc:creator opf:role="nrt">Adrian Rawlins (Gilman Hari)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Wincott (Sanderson Craske / The Voice)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Antillia. A place of mystery. A manufactured island in space, lost to time. But now it’s finally been found.
+
+The Doctor and his friends arrive on Antillia at the same time as an expeditionary party, delighted to solve one of the great mysteries of history. But they may have found more than they bargained for.
+
+Some things are better off lost.</dc:description>
+    </metadata>
+</package>

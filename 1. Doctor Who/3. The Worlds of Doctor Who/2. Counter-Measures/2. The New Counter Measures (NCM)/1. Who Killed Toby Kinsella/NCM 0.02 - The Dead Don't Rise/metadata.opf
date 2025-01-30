@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Dead Don't Rise</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-201-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The New Counter Measures - Specials"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Ken Bentley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Simon Williams (Group Captain Gilmore)</dc:creator>
+        <dc:creator opf:role="nrt">Pamela Salem (Rachel Jensen)</dc:creator>
+        <dc:creator opf:role="nrt">Karen Gledhill (Allison Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Ross (Sir Toby Kinsella)</dc:creator>
+        <dc:creator opf:role="nrt">Raad Rawi (Prince Hassan Al-Nadyr)</dc:creator>
+        <dc:creator opf:role="nrt">Justin Avoth (Mikhail)</dc:creator>
+        <dc:creator opf:role="nrt">Belinda Stewart-Wilson (Overton)</dc:creator>
+        <dc:creator opf:role="nrt">Jot Davies (Avery)</dc:creator>
+        <dc:creator opf:role="nrt">Alan Cox (Fanshawe)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It’s Christmas 1973. Nearly ten years have elapsed since the Counter-Measures group vanished. Only one of the remaining members is officially alive. But that is about to change.
+
+When Sir Toby is killed by an enigmatic assailant, his friends fly in from around the globe to attend the funeral where they discover that the truth of their colleague’s murder lies hidden in his past.
+
+A dangerous killer is out for revenge. A terrible assassination is planned. When ghosts walk the street, there’s only one team you need. </dc:description>
+    </metadata>
+</package>

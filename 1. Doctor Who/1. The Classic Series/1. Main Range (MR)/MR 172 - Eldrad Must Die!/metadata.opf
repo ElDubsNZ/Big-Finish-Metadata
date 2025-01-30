@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Eldrad Must Die!</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-072-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="172"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sutton (Nyssa)</dc:creator>
+        <dc:creator opf:role="nrt">Janet Fielding (Tegan Jovanka)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Strickson (Vislor Turlough)</dc:creator>
+        <dc:creator opf:role="nrt">Nancy Carroll (Mulkris)</dc:creator>
+        <dc:creator opf:role="nrt">Jessica Claire (Kate Sherrin / Waitress)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Field (Jim / Lt Parker / Rocco)</dc:creator>
+        <dc:creator opf:role="nrt">Brian Protheroe (Bob Gell / Captain O'Brien)</dc:creator>
+        <dc:creator opf:role="nrt">Stephen Thorne (Eldrad)</dc:creator>
+        <dc:creator opf:role="nrt">Pip Torrens (Charlie Gibbs)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>"A Doctor, curse his name, threw me down among the dead… but I endure. I am Eldrad… and I must live!
+
+A nuclear icebreaker, foundering in Arctic waters. Seabirds washed up in the fishing resort of Ambermouth, their wings encrusted with crystals. A shining artefact of uncertain provenance, up for sale on an auction site.
+
+All of these things are linked, as the Doctor, Nyssa, Tegan and Turlough are about to discover. Linked to the rebirth of a genocidal tyrant, presumed dead many years ago…
+
+For the sake of the planets Earth and Kastria alike… Eldrad must die!</dc:description>
+    </metadata>
+</package>

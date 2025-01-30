@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Harvest of the Krotons</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-146-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Diary of River Song - Series 12 - The Orphan Quartet"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Camille Coduri (Jackie Tyler)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Fletcher (Harmony Dubois)</dc:creator>
+        <dc:creator opf:role="nrt">Jay Perry (Brylan)</dc:creator>
+        <dc:creator opf:role="nrt">Joseph Millson (Yoga Teacher)</dc:creator>
+        <dc:creator opf:role="nrt">Jade Matthew (Lynne)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Stafford (Chosen One)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah-Jane Potts (Host)</dc:creator>
+        <dc:creator opf:role="nrt">Irvine Iqbal (Host 2)</dc:creator>
+        <dc:creator opf:role="nrt">Derek Elroy (Caller)</dc:creator>
+        <dc:creator opf:role="nrt">Carol Royle (The Weather Forcaster)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Krotons)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>What are the Krotons? Why are they running a health spa? Jackie Tyler and River Song investigate, because everyone needs a direction point.</dc:description>
+    </metadata>
+</package>

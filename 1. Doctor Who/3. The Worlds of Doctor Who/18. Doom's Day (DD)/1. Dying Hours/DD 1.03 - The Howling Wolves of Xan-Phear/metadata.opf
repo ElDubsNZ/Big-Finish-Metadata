@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Howling Wolves of Xan-Phear</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-137-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Doom's Day - Dying Hours"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Clark</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sooz Kempner (Doom)</dc:creator>
+        <dc:creator opf:role="nrt">Becky Wright (Terri)</dc:creator>
+        <dc:creator opf:role="nrt">Rebecca Crankshaw (Jeppra)</dc:creator>
+        <dc:creator opf:role="nrt">Tam Williams (Lan-Say)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Chu'Lac)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Edgley Bond (Fettzer)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>A warring world of wolves. Doom’s target turns out to be the puppeteer of the warring Xan: a Silent. But what if she’s already completed her mission? How will she know? What if this wasn’t even her mission in the first place? No time to waste. The countdown is on.</dc:description>
+    </metadata>
+</package>

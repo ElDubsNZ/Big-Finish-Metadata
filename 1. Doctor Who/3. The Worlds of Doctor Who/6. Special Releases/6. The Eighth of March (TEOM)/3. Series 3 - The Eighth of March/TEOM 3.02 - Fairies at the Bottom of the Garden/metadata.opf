@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Fairies at the Bottom of the Garden</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-974-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth of March - Series 3 - Strange Chemistry"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Karissa Hamilton-Bannis</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Michelle Gomez (Missy)</dc:creator>
+        <dc:creator opf:role="nrt">Caitlin Blackwood (Amelia Pond)</dc:creator>
+        <dc:creator opf:role="nrt">John Rayment (Conor)</dc:creator>
+        <dc:creator opf:role="nrt">Jennifer Tyler (Fran / Laura / Will O'Wisp 1 / Assassin Leader)</dc:creator>
+        <dc:creator opf:role="nrt">Homer Todiwala (Derek / Ride Operator / Dr Millner)</dc:creator>
+        <dc:creator opf:role="nrt">Abi Harris (Mrs Walters / Fortune Teller / Mother / Will O'Wisp 2)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Young Amelia Pond is used to getting into trouble. After another fight at school, she is sent back to counselling. But her new therapist is rather unconventional... 
+
+Because Missy is also in trouble. Stuck on Earth, she's targeted one of the Doctor's best friends to get his attention - but her timing's off. Amy's TARDIS encounters lie years in her past and future, but there's something strange in her garden now. As Missy sets her sights on young Pond, the fairies may be her only hope!</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Shield of the Jötunn</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2015-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-551-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="206"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Ian Edginton</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Miranda Raison (Constance Clarke)</dc:creator>
+        <dc:creator opf:role="nrt">James Caroll Jordan (Major Vincent Da Costa / Herger)</dc:creator>
+        <dc:creator opf:role="nrt">Ryan Forde Iosco (Bryce / Talessh)</dc:creator>
+        <dc:creator opf:role="nrt">Nell Mooney (Professor Lisa Zetterling)</dc:creator>
+        <dc:creator opf:role="nrt">Michael J Shannon (Dr Hugo Macht)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>2029 AD. In the desert of Arizona, billionaire philanthropist Dr Hugo Macht is trying to save the world from climate change. But his great project to "scrub the sky clean" with nanoatomic machines grinds to an unexpected halt when his diggers break into something unexpected: a Viking burial barrow containing eight corpses, a mysterious shield, an even more mysterious inscription... and a yet more mysterious traveller in time and space, known only as the Doctor.
+
+And that's not even the strangest part of Dr Macht's day. Soon, it'll begin to snow. Soon, the Doctor and his Girl Friday, Mrs Constance Clarke, will come face-to-face with an ancient horror in the blizzard. A Frost Giant, in need of a new body. In need of flesh...</dc:description>
+    </metadata>
+</package>

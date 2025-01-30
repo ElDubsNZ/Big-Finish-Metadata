@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Annihilators</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-738-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Third Doctor Adventures - Volume 9 - The Annihilators"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nicholas Briggs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tim Treloar (Third Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Daisy Ashford (Liz Shaw)</dc:creator>
+        <dc:creator opf:role="nrt">Jon Culshaw (Brigadier Lethbridge-Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Troughton (Second Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Frazer Hines (Jamie McCrimmon)</dc:creator>
+        <dc:creator opf:role="nrt">Karen Archer (DCI Denise Walker)</dc:creator>
+        <dc:creator opf:role="nrt">Daon Broni (Sergeant Al Sinclair)</dc:creator>
+        <dc:creator opf:role="nrt">Sam Stafford (Private Pritchard / Corporal Snell)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Elstob (Grestrenor Leader / DC Staniton / Dr Daniels / Sergeant Major Roach)</dc:creator>
+        <dc:creator opf:role="nrt">Bethan Walker (Grestrenor Sub-Leader / Dr Jane Broadbelt)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>There’s something in the water at Lewgate Docks. Something strange, and green, and deadly. Summoned to the North of England by a mystery informer, the Brigadier finds his investigations hampered at every turn by the local police. Just what are they trying to hide?
+
+While the Doctor uncovers sinister goings-on in the city morgue, Liz attracts the attention of something unearthly. But with Time running out, quite literally, the Doctor, Liz and UNIT aren’t the only ones to find themselves targeted by a world-shattering alien menace…
+
+...because they’ve got a previous Doctor and his best friend Jamie in their sights, too!</dc:description>
+    </metadata>
+</package>

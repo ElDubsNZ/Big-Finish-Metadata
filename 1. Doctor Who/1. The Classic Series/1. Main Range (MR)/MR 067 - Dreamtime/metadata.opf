@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Dreamtime</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2005-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-136-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="67"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon A Forward</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Philip Olivier (Hex)</dc:creator>
+        <dc:creator opf:role="nrt">Tamzin Green (Trade Negotiator Vresha)</dc:creator>
+        <dc:creator opf:role="nrt">Jef Higgins (Coordinator Whitten)</dc:creator>
+        <dc:creator opf:role="nrt">Brigid Lohrey (Dream Commando Wahn)</dc:creator>
+        <dc:creator opf:role="nrt">Josephine Mackerras (Leanne Toomey)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Peisley (Dream Commando Mulyan)</dc:creator>
+        <dc:creator opf:role="nrt">Steffan Rhodri (Commander Korshal)</dc:creator>
+        <dc:creator opf:role="nrt">John Scoles (Baiame)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The Dreamtime is living Time. The Dreaming is living myth.
+
+A city travels the stars, inhabited by stone ghosts. At its heart, an ancient remembrance of Earth. Mythical creatures stalk the streets and alien visitors have come in search of trade. But there is nothing to trade. There is only fear. And death. And the stone ghosts.
+
+For Hex's first trip in the TARDIS, it's about the strangest place he could have imagined. Weird and very far from wonderful. Adjustment to his new life could prove tough. But he will have to adjust and do more, just to stay alive, and Ace will have to be his guide through this lost city of shadows and predatory dreams. And the Doctor is the first to go missing.
+
+The Doctor has crossed into the Dreamtime.</dc:description>
+    </metadata>
+</package>

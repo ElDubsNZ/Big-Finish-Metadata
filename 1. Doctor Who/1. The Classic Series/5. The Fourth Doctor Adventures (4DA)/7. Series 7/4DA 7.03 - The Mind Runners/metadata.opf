@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Mind Runners</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2018-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 7"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">Robert Duncan (Krayl / Sternwood / Eldren)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Lark (Jacinta)</dc:creator>
+        <dc:creator opf:role="nrt">Andy Secombe (Cloten / Shift)</dc:creator>
+        <dc:creator opf:role="nrt">Josette Simon (Taraneh)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Wyndham (Raph)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>It used to be fun, Mind Running. Hopping into the heads of total strangers to see what they saw, feel what they felt. But one by one the Mind Runners are dying in a wave of suicides. And no-one on the planet Chaldera knows why.
+
+The Doctor, Leela and K9 arrive in the city that covers all of this dying world as it prepares to evacuate its people, and they immediately find themselves involved in a mystery. Who or what is responsible for the wave of death? Is it the motorised cult known as the Digitals? The enigmatic Mr Shift?
+
+Or did all the victims attempt to run the Night Mind, the demonic consciousness of legend that is so twisted and evil that it drives mad all who touch it?
+
+The TARDIS crew are about to find out.</dc:description>
+    </metadata>
+</package>

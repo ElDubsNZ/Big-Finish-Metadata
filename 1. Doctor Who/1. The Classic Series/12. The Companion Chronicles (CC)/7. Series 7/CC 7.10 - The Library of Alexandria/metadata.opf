@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Library of Alexandria</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-084-8</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 7"/>
+        <meta name="calibre:series_index" content="10"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Simon Guerrier</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">William Russell (Ian Chesterton)</dc:creator>
+        <dc:creator opf:role="nrt">Susan Franklyn (Hypatia)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The port of Alexandria, 5th Century AD.
+
+The Doctor, Ian, Susan and Barbara have taken a break from their travels, and are enjoying a few weeks in the sunshine – and the chance to appreciate the magnificent Library of Alexandria.
+
+Ian also takes the chance to enjoy friendship with the philosopher Hypatia - but things here will not last forever.
+
+The time travellers know that the library will soon be lost to history.
+
+What they are about to discover is the terrifying reason why...</dc:description>
+    </metadata>
+</package>

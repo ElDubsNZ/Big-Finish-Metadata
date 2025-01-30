@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Girl in a Bubble</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2023-08-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-890-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Sixth Doctor Adventures - Purity Unbound"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jacqueline Rayner</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Bonnie Langford (Melanie Bush)</dc:creator>
+        <dc:creator opf:role="nrt">Ruth Madeley (Hebe Harrison)</dc:creator>
+        <dc:creator opf:role="nrt">Toby Hadoke (Ron)</dc:creator>
+        <dc:creator opf:role="nrt">Cherylee Houston (Elise Kaplan)</dc:creator>
+        <dc:creator opf:role="nrt">Kacey Ainsworth (Beryl)</dc:creator>
+        <dc:creator opf:role="nrt">Barnaby Eaton-Jones (Mick / Fred)</dc:creator>
+        <dc:creator opf:role="nrt">Imogen Stubbs (Purity)</dc:creator>
+        <dc:creator opf:role="nrt">Connie Farrow (Young Hebe)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS arrives in Hebe’s flat but it’s not how the Doctor and Mel remember it - and neither is Hebe! In Purity's new timeline, Hebe Harrison lives in a grand penthouse with armed guards and a live-in factotum - Ron! - and if she ever leaves her sanctuary the world will end.
+
+Are these strangers the ones who have been sending her messages? And can this reality be undone without losing Hebe forever?</dc:description>
+    </metadata>
+</package>

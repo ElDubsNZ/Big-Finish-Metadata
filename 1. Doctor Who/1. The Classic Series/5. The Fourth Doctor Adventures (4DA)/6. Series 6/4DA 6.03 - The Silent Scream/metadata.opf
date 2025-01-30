@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Silent Scream</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2017-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-713-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 6"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">James Goss</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">John Banks (Cab Driver / Director)</dc:creator>
+        <dc:creator opf:role="nrt">Andrée Bernard (Lulu Hammerstein)</dc:creator>
+        <dc:creator opf:role="nrt">Alec Newman (Dr Julius)</dc:creator>
+        <dc:creator opf:role="nrt">Pamela Salem (Lorretta Waldorf)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Slavin (Nelly)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On the set of a busy Hollywood movie in the late 1920s, a damsel is in distress! As cameras roll, she opens her mouth to scream and... nothing comes out. Nothing at all. It's happened again.
+
+The Doctor, Romana and K9 have arrived in a terrified Tinseltown. A new film is being made and several stars of the silent screen are viewing it as a potential comeback... but it may prove a poisoned chalice. Actors are vanishing and strange creatures stalk the streets.
+
+Something evil is lurking behind the scenery. Can the Doctor stop it when he doesn't have a voice?
+
+It's time for his close-up.</dc:description>
+    </metadata>
+</package>

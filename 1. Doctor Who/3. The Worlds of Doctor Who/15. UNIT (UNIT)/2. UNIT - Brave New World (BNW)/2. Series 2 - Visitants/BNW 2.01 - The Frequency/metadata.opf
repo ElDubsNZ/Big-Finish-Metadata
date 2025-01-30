@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Frequency</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-854-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - Brave New World - Series 2 - Visitants"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tajinder Singh Hayer</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Angela Bruce (Brigadier Winifred Bambera)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Jordan (Sergeant Jean-Paul Savarin)</dc:creator>
+        <dc:creator opf:role="nrt">Yemisi Oyinloye (Dr Louise Rix)</dc:creator>
+        <dc:creator opf:role="nrt">David Menkin (Colonel Alexander Hagen)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Griffin (Captain Carmen McClean)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>UNIT has been invited to take part in the testing of a top-secret US Air Force project designed to make military groups function better as a team: the 'Hoplite Frequency'. However, the implications of this powerful mind-altering technology make Sergeant Savarin uncomfortable. Will Bambera heed the misgivings of her loyal Number Two, or take the charismatic Colonel Hagen up on his offer and choose to embrace the Frequency?</dc:description>
+    </metadata>
+</package>

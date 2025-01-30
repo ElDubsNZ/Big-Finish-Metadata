@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Scaredy Cat</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2005-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-160-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="78"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Will Shindler</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">India Fisher (Charlotte Pollard)</dc:creator>
+        <dc:creator opf:role="nrt">Conrad Westmaas (C'rizz)</dc:creator>
+        <dc:creator opf:role="nrt">Linda Bartram (Galayna)</dc:creator>
+        <dc:creator opf:role="nrt">Rosalind Blessed (Niah)</dc:creator>
+        <dc:creator opf:role="nrt">Arthur Bostrom (Arken)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Chance (Flood)</dc:creator>
+        <dc:creator opf:role="nrt">Stuart McLaren (Bronik)</dc:creator>
+        <dc:creator opf:role="nrt">Ellis Pike (Eldrin)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Yaranaa - it means literally, the soul of the vengeful - those whose lives have been cut short early and died with empty hearts
+
+Millennia ago, the people of the planet Caludaar pledged never to set foot on their sister planet Endarra. But what secrets does the planet hold? There are laws even the Doctor won't break. And while C'rizz learns that some tragedies can't be averted, Charley must decide who the enemy actually is.
+
+For death walks on Endarra, and this time she won't be denied.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Scapegoat</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2009-07-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-397-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth Doctor Adventures - Series 3"/>
+        <meta name="calibre:series_index" content="5"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Pat Mills</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sheridan Smith (Lucie Miller)</dc:creator>
+        <dc:creator opf:role="nrt">Samantha Bond (Mother Baroque)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Captain / Baroks)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Chalmers (Helene / Baroks)</dc:creator>
+        <dc:creator opf:role="nrt">Christopher Fairbank (Doc Baroque / Ticket Tout)</dc:creator>
+        <dc:creator opf:role="nrt">Thorston Manderlay (Leutnant)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Rhys (Max Paul / Roger)</dc:creator>
+        <dc:creator opf:role="nrt">Clifford Rose (Major Treptow)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Willkommen, bienvenue, welcome to the Theatre des Baroque!
+
+Oh, but if you think you’ve seen and heard all that Paris by night has to offer... the exotic sights of Le Moulin Rouge, perhaps, or the horror tricks of Le Grand Guignol... if you think nothing could cause your mouth to dry and your heart to pound... you're wrong.
+
+Ladies and gentlemen, mesdames et messieurs – not forgetting our honoured guests from the Gestapo – tonight, it is my privilege to present to you the star of the Theatre des Baroque! A man who has died on stage nearly ten thousand times! The Most Assassinated Man in the World… Max Paul!
+
+And joining him, in a playlet we call 'The Executioner's Son' – from Blackpool, England: the enchanting Lucie Miller!
+
+Ah, la belle Lucie. She's got no idea what she's let herself in for. Heh. Should you feel faint, or nauseous – never fear. Tonight, we have a Doctor in the house!
+
+Just pray he lasts ’til the interval...</dc:description>
+    </metadata>
+</package>

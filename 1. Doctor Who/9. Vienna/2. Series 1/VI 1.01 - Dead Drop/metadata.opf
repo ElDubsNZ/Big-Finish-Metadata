@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Dead Drop</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2014-02-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-267-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Vienna - Series 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Mark Wright</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Chase Masterson (Vienna Salvatori)</dc:creator>
+        <dc:creator opf:role="nrt">James Hayward (Ensign Roaig)</dc:creator>
+        <dc:creator opf:role="nrt">Alisdair Simpson (Admiral Salaron)</dc:creator>
+        <dc:creator opf:role="nrt">Alison Thea-Skot (Lt Paley / Jamela K'lynn)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Dwarfed by the burning star of the Hyspero system, two devastating battle fleets face each other across the stars. On one side, the Dyarid Primary Vanguard, commanded by Admiral Salaron aboard the starship Custodian. On the other, a Chtzin battle cluster. 
+
+Bounty hunter Vienna Salvatori's latest assignment brings her aboard the Custodian – but completing her mission and earning some poldaks is the easy bit. When all hell breaks loose with the Chtzin and the Custodian is left crippled and plunging towards the sun, a simple assignment turns into a battle for survival for the galaxy's deadliest assassin.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Last Line of Defence</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-12-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-854-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - Brave New World - Series 2 - Visitants"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Valentine</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Angela Bruce (Brigadier Winifred Bambera)</dc:creator>
+        <dc:creator opf:role="nrt">Alex Jordan (Sergeant Jean-Paul Savarin)</dc:creator>
+        <dc:creator opf:role="nrt">Yemisi Oyinloye (Dr Louise Rix)</dc:creator>
+        <dc:creator opf:role="nrt">Liz Sutherland-Lim (Dame Lydia Kingsley)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Abeysekera (Colonel Birch)</dc:creator>
+        <dc:creator opf:role="nrt">Lesley Ewen (The Omniarch)</dc:creator>
+        <dc:creator opf:role="nrt">Chandrika Chevli (President Esperanza)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Blore (UNIT Trooper)</dc:creator>
+        <dc:creator opf:role="nrt">David Menkin (Delegate)</dc:creator>
+        <dc:creator opf:role="nrt">Jason Forbes (Zeta Hydran 1)</dc:creator>
+        <dc:creator opf:role="nrt">Nathaniel Curtis (Zeta Hydran 2)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>With the civil war in Valge Maja threatening to spark an even greater conflict, Bambera is put in charge of security at a secret Millennium Eve peace conference to settle the matter. But as all of Earth's leaders gather to debate the future of humanity, dark forces have conspired to ensure that this meeting will usher in a terrifying New World Order - and with the clock ticking, who can possibly stand in their way?</dc:description>
+    </metadata>
+</package>

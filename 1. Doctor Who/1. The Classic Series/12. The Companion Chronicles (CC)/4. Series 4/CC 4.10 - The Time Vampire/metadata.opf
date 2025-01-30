@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Time Vampire</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-05-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-466-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - Series 4"/>
+        <meta name="calibre:series_index" content="10"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Nigel Fairs</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9 / Holland)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Leela, in her last moments of life, recalls a long-forgotten memory: a time in the TARDIS. The Doctor is worried that K9's increasingly bizarre behaviour might become dangerous. He decides to make a new model, little knowing that the fate of all three time travellers has long since been decided.
+
+As Leela recalls the chilling connection between K9's ‘illness’, the Z-nai and the haunted sea fort in which the TARDIS lands, she prepares for her final journey: into the land of her ancestors, the Afterlife.</dc:description>
+    </metadata>
+</package>

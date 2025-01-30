@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Purgatory 12</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fourth Doctor Adventures - Series 9"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Marc Platt</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Lalla Ward (Romana)</dc:creator>
+        <dc:creator opf:role="nrt">Matthew Waterhouse (Adric)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">Amy Downham (Scraya / Pips)</dc:creator>
+        <dc:creator opf:role="nrt">Liam Fox (Mang / Wunshooz)</dc:creator>
+        <dc:creator opf:role="nrt">Nimmy March (Colonel Aesillor Zyre)</dc:creator>
+        <dc:creator opf:role="nrt">George Watkins (Crimsson)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Still searching for a way out of E-Space, the TARDIS crew land on an isolated space rock... and immediately find it drawn towards a nearby asteroid.
+
+The asteroid has air and gravity unequal to its size and is strewn with the wrecks of spaceships. Veins and pools of rust are everywhere.
+
+Stuck on the asteroid away from his friends, Adric discovers that it’s a penal colony housing a gang of alien convicts - but resources are low, and they’re starting to starve.
+
+But escaping the prisoners is only the first part of the traveller’s troubles. Because there’s a sinister presence at the heart of the asteroid... and it won’t release them quite as easily.</dc:description>
+    </metadata>
+</package>

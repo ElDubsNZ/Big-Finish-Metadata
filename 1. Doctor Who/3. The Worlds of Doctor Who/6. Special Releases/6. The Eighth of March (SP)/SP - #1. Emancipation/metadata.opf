@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Emancipation</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2019-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-793-9</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Eighth of March - Series 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lisa McMullin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Alex Kingston (River Song)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Lucy Pickles (The Hanovari / Receptionist / Kitchen Maid)</dc:creator>
+        <dc:creator opf:role="nrt">Julie Teal (The Royal Magnificat)</dc:creator>
+        <dc:creator opf:role="nrt">Catherine Skinner (Princess Myrahla / Myrahla 2)</dc:creator>
+        <dc:creator opf:role="nrt">Lewis Rae (The Compere / Waiter / Chef / Magnificat's Guard)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When River Song crashes a Galactic Heritage convention, posing as the wrong Time Lord, Leela is sent by Gallifrey to investigate.
+
+But before the canapés are cold and the champagne becomes warm, they find themselves embroiled in a royal kidnapping.</dc:description>
+    </metadata>
+</package>

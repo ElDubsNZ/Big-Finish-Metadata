@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Architects of History</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2010-03-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-435-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="132"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Steve Lyons</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Tracey Childs (Elizabeth Klein)</dc:creator>
+        <dc:creator opf:role="nrt">Lenora Crichlow (Rachel Cooper)</dc:creator>
+        <dc:creator opf:role="nrt">David Dobson (Pilot / Selachian)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Hayles (Sam Kirke)</dc:creator>
+        <dc:creator opf:role="nrt">Rachel Laurence (Feldwebel / Computer Voice)</dc:creator>
+        <dc:creator opf:role="nrt">Lloyd McGuire (Generalleutenant Tendexter)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Parker (Major Richter)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Porter (Selachian Leader)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The year is 2044. Earth is enjoying a Golden Age of peace, prosperity and technological advancement… but somebody is plotting to destroy all that. The Selachians, shark-like alien monsters, launch a crippling attack on Earth’s Moonbase, using deadly weapons from the future.
+
+Help is at hand. A police telephone box appears in a Moonbase hangar. A time-travelling hero has returned in the hour of Earth’s greatest need. Now, Elizabeth Klein must fight to save not only the Galactic Reich but Time itself from the mysterious prisoner who has orchestrated these fateful events... the Doctor.</dc:description>
+    </metadata>
+</package>

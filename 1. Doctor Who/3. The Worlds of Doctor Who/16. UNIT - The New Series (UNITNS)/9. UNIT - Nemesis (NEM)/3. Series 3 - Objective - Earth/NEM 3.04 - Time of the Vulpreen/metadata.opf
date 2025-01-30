@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Time of the Vulpreen</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2022-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-627-7</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="UNIT - Nemesis - Series 3 - Objective - Earth"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Roland Moore</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jemma Redgrave (Kate Stewart)</dc:creator>
+        <dc:creator opf:role="nrt">Ingrid Oliver (Osgood)</dc:creator>
+        <dc:creator opf:role="nrt">James Joyce (Josh Carter)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Bonnar (The Eleven)</dc:creator>
+        <dc:creator opf:role="nrt">Chris Lew Kum Hoi (Jimmy Tan)</dc:creator>
+        <dc:creator opf:role="nrt">Daniel Easton (Daniel Hoyer / Vulpreen Deputy)</dc:creator>
+        <dc:creator opf:role="nrt">Alisdair Simpson (Varliss)</dc:creator>
+        <dc:creator opf:role="nrt">Eleanor Crooks (Naomi Cross)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>UNIT coordinates a worldwide response to the arrival of Vulpreen Arches around the globe. Troops stand ready to face the invaders. 
+
+Kate Stewart and Osgood form an uneasy alliance with the Eleven to destroy the time fields that protect each Arch and which are being used as a devastating weapon by the Vulpreen. But when the invasion starts, the odds may be stacked too heavily against them...</dc:description>
+    </metadata>
+</package>

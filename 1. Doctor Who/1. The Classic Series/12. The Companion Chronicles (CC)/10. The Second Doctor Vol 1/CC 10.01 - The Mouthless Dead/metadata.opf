@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Mouthless Dead</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-06-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-014-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Companion Chronicles - The Second Doctor - Volume 1"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Pritchard</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Frazer Hines (The Doctor / Jamie)</dc:creator>
+        <dc:creator opf:role="nrt">Anneke Wills (Polly / Frances)</dc:creator>
+        <dc:creator opf:role="nrt">Elliot Chapman (Ben / The Signalman)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS arrives in 1920s England, the Doctor, Jamie, Ben and Polly finding themselves in a wintry dusk beside a railway line. The station nearby appears deserted, but there are figures watching from the shadows, all of them waiting for a dead man's train...</dc:description>
+    </metadata>
+</package>

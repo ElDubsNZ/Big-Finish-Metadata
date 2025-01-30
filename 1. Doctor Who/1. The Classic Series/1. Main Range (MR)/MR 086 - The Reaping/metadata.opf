@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Reaping</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2006-09-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-196-1</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="86"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Joseph Lidster</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Colin Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Nicola Bryant (Peri Brown)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Cybermen)</dc:creator>
+        <dc:creator opf:role="nrt">Denise Bryer (Mrs Van Gysegham)</dc:creator>
+        <dc:creator opf:role="nrt">Claudia Christian (Janine Foster)</dc:creator>
+        <dc:creator opf:role="nrt">Allison Karayanes (Natalie Hamilton)</dc:creator>
+        <dc:creator opf:role="nrt">Jeremy Lindsay-Taylor (Nate Chambers)</dc:creator>
+        <dc:creator opf:role="nrt">Stuart Milligan (Anthony Chambers)</dc:creator>
+        <dc:creator opf:role="nrt">Jane Perry (Katherine Chambers)</dc:creator>
+        <dc:creator opf:role="nrt">Vincent Pirillo (Daniel Woods)</dc:creator>
+        <dc:creator opf:role="nrt">John Schwab (Lt Doyle)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On the morning of 9 May 1984, Peri woke up. She was expecting to spend the day relaxing in Lanzarote and, that evening, leave her mother and stepfather to go travelling with some guys she'd only just met.
+
+But things don't always go as expected ­ as her friends and family discover when, four months later, she returns home having travelled further than anyone could have imagined.
+
+Meanwhile, her friend, Katherine Chambers, mourns her father and Peri finds herself meeting some other familiar faces.</dc:description>
+    </metadata>
+</package>

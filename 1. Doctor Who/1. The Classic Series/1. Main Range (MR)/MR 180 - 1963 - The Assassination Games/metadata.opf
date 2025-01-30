@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>1963 - The Assassination Games</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2013-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-080-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="180"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Aldred (Ace)</dc:creator>
+        <dc:creator opf:role="nrt">Oliver Cotton (Sir Gideon Vale / Handler)</dc:creator>
+        <dc:creator opf:role="nrt">Karen Gledhill (Allison Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Gerald Kyd (Martin Regan / Sir Robert DeVere / Mulryne)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Ross (Sir Toby Kinsella)</dc:creator>
+        <dc:creator opf:role="nrt">Pamela Salem (Rachel Jensen)</dc:creator>
+        <dc:creator opf:role="nrt">Gemma Saunders (Eleanor Vale / Amanda Caulfield)</dc:creator>
+        <dc:creator opf:role="nrt">Alisdair Simpson (Sir Francis White / Ritchie)</dc:creator>
+        <dc:creator opf:role="nrt">Simon Williams (Ian Gilmore)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>London. The end of November, 1963. A time of change. The old guard are being swept away by the white heat of technology. Political scandals are the talk of the town. Britain tries to maintain its international role; fanatics assassinate charismatic politicians and Group Captain Ian Gilmore is trying to get his fledgling Counter-Measures unit off the ground.
+
+When his life is saved by a familiar umbrella-bearing figure, he knows something terrible is going on. Whilst Rachel investigates an enigmatic millionaire and Allison goes undercover in an extremist organisation, Gilmore discovers a sinister plot with roots a century old.
+
+The Doctor and Ace are back in town. A new dawn is coming. It's time for everyone... to see the Light.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Movellan Manoeuvre</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2020-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-034-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The New Counter Measures - Series 3"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">John Dorney</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Simon Williams (Group Captain Gilmore)</dc:creator>
+        <dc:creator opf:role="nrt">Pamela Salem (Rachel Jensen)</dc:creator>
+        <dc:creator opf:role="nrt">Karen Gledhill (Allison Williams)</dc:creator>
+        <dc:creator opf:role="nrt">Hugh Ross (Sir Toby Kinsella)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (Soldier)</dc:creator>
+        <dc:creator opf:role="nrt">Cyril Nri (Maurice Vallan)</dc:creator>
+        <dc:creator opf:role="nrt">Carolyn Seymour (Lady Suzanne Clare)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Arch-foe of the Intrusion Counter-Measures Group, Lady Suzanne Clare – glamorous international arms dealer specialising in alien tech – is back. And she's branched out.
+
+She's now moved into technology and is rolling out a device designed to help out with chores around the house. As the launch date looms, Rachel Jensen and her team are determined to find out what she’s really up to and stop her.
+
+What do these devices actually do? What exactly is her latest plan? And what exactly does it all have to do with an insidious alien menace?
+
+It’s time for a home invasion.</dc:description>
+    </metadata>
+</package>

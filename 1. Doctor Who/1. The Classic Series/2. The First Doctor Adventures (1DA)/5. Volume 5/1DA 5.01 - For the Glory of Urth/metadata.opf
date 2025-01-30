@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>For the Glory of Urth</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2021-04-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-158-6</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The First Doctor Adventures - Volume 5"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Guy Adams</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">David Bradley (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Claudia Grant (Susan)</dc:creator>
+        <dc:creator opf:role="nrt">Jamie Glover (Ian Chesterton)</dc:creator>
+        <dc:creator opf:role="nrt">Jemma Powell (Barbara Wright)</dc:creator>
+        <dc:creator opf:role="nrt">Susie Emmett (Sissy Cruciatu)</dc:creator>
+        <dc:creator opf:role="nrt">Amanda Hurwitz (Mummy Martial / Computer Voice)</dc:creator>
+        <dc:creator opf:role="nrt">Phil Mulryne (Brubble Medicius / Guard 2)</dc:creator>
+        <dc:creator opf:role="nrt">Phyllida Nash (Brooskin)</dc:creator>
+        <dc:creator opf:role="nrt">Clive Wood (Daddy Dominus / Clubwell / Guard 1)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>The TARDIS has barely landed in an alien sewer when a distant scream sends Susan racing to give aid, and the crew split up.
+
+Trying to reunite, the travellers find themselves in something resembling a monastery led by a man half-way between an Abbot and a warlord. They discover that they are in Urth, a barbaric place clinging on to its former glory.
+
+It's somewhere its populace are never allowed to leave, somewhere keeping many secrets from its people.
+
+And today those secrets will be revealed...</dc:description>
+    </metadata>
+</package>

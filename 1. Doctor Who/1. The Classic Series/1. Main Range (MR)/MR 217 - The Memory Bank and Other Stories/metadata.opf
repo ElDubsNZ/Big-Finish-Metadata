@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Memory Bank and Other Stories</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2016-10-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78178-895-0</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Monthly Adventures"/>
+        <meta name="calibre:series_index" content="217"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Chris Chapman</dc:creator>
+        <dc:creator opf:role="aut">Paul Magrs</dc:creator>
+        <dc:creator opf:role="aut">Eddie Robson</dc:creator>
+        <dc:creator opf:role="aut">Ian Potter</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Peter Davison (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Mark Strickson (Vislor Turlough)</dc:creator>
+        <dc:creator opf:role="nrt">Kae Alexander (Waywalker)</dc:creator>
+        <dc:creator opf:role="nrt">Ian Brooker (Archivist / Computer / Elder)</dc:creator>
+        <dc:creator opf:role="nrt">Suzann McLean (Max / Autumn Voice)</dc:creator>
+        <dc:creator opf:role="nrt">Sarah Sweeney (Diamon / Lara Jensen)</dc:creator>
+        <dc:creator opf:role="nrt">Mandi Symonds (Alitha / Inspector Jill Sveinsbottir)</dc:creator>
+        <dc:creator opf:role="nrt">Duncan Wisbey (Grayling Frimlish / Shiri / Zounds)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Four new adventures featuring the Fifth Doctor and Turlough!
+
+The Memory Bank by Chris Chapman 
+
+The Doctor and Turlough arrive on a planet where to be forgotten is to cease to exist. But the Forgotten leave a gap in the world – and that’s where the monsters are hiding.
+
+The Last Fairy Tale by Paul Magrs 
+
+Deep in the heart of old Europe, the village of Vadhoc awaits the coming of a mythical teller of magical tales – but not all such stories end happily, the TARDIS travellers discover.
+
+Repeat Offender by Eddie Robson 
+
+The Doctor has tracked the deadly Bratanian Shroud to 22nd century Reykjavík – where he’s about to become the victim of a serial criminal. Again. 
+
+The Becoming by Ian Potter 
+
+A young woman climbs a perilous mountain in search of her destiny. The Doctor and Turlough save her from the monsters on her trail – but what awaits them in the Cavern of Becoming is stranger, even, than the ravening Hungerers outside.</dc:description>
+    </metadata>
+</package>
