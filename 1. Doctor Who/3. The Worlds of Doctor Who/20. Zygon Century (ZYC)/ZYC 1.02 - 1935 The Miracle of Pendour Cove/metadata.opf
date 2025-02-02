@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>1935: The Miracle of Pendour Cove</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2025-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-608-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Zygon Century - Series 1 - Infiltration"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lauren Mooney</dc:creator>
+        <dc:creator opf:role="aut">Stewart Pringle</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Patricia Allison (Edith Walker)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Russell (Vorvoren)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Troughton (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Kymberley Cochrane (Elowen Trewella / Zytar)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Forbes (Father Felix Cromwell)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Keeble (Vernon)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Kiteley (Archie)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Lilly (Harriet / Jorost)</dc:creator>
+        <dc:creator opf:role="nrt">Joshua Manning (Caldwell)</dc:creator>
+        <dc:creator opf:role="nrt">Joanna Monro (Krozon)</dc:creator>
+        <dc:creator opf:role="nrt">James Northcote (Freddie Trewella)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Palfrey (Mrs Maloney)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Pegg (Professor Vennix)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Rigby (Herbert Scott)</dc:creator>
+        <dc:creator opf:role="nrt">Roger Ringrose (Dawson)</dc:creator>
+        <dc:creator opf:role="nrt">Pip Torrens (Thomas Browne)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Freddie Trewella has found a mermaid, beautiful and strange, washed ashore in a Cornish bay. He names her Vorvoren, and she comforts him in his harsh life of servitude to a zealot father.
+
+As they grow together, Vorvoren shows Freddie her secret power, to change her appearance into anything she desires. But Freddie has secrets of his own, terrible secrets, and soon Vorvoren's great adventure among the humans becomes a nightmarish fight for survival...</dc:description>
+    </metadata>
+</package>

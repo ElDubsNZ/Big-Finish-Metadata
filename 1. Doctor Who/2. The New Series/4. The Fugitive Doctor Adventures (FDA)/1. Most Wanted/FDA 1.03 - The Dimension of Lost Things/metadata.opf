@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Dimension of Lost Things</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2025-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-935-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fugitive Doctor - Series 1 - Most Wanted"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Lisa McMullin</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jo Martin (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Alice Krige (Cosmogon)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Leah Harvey (Fade)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline King (Baba Yaga)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Myers (Spectral Horseman)</dc:creator>
+        <dc:creator opf:role="nrt">Nneka Okoye (Athelia)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Panting (Spectral Horseman)</dc:creator>
+        <dc:creator opf:role="nrt">Penelope Rawlins (Toshka)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Shad (Vasilisa)</dc:creator>
+        <dc:creator opf:role="nrt">Becky Wright (Milana)</dc:creator>
+        <dc:creator opf:role="nrt">Matt Wycliffe (Sandy Irvine)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Fleeing Cosmo through the Vortex, the TARDIS gets sucked down a temporal plughole, and the Doctor emerges into a weird landscape. Finding other lost souls in the form of mountaineer George Mallory and scavenger Athelia, the Doctor soon stumbles across another, more surprising denizen of this strange dimension - herself!
+
+With Cosmo still in pursuit and memory-stealing winds threatening to wipe her mind for good, the Doctor senses a complex trap in action. But whose trap is it, and how can she possibly escape?</dc:description>
+    </metadata>
+</package>

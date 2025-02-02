@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Living Darkness</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date></dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-584-2</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The First Doctor Adventures - Volume 9 - The Living Darkness"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jacqueline Rayner</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Stephen Noonan (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Purves (Steven Taylor)</dc:creator>
+        <dc:creator opf:role="nrt">Lauren Cornelius (Dodo Chaplet)</dc:creator>
+        <dc:creator opf:role="nrt">Jack Ayres (Qyz)</dc:creator>
+        <dc:creator opf:role="nrt">Daon Broni (Mish)</dc:creator>
+        <dc:creator opf:role="nrt">Trevor Littledale (Compuvac)</dc:creator>
+        <dc:creator opf:role="nrt">Dido Miles (Arva)</dc:creator>
+        <dc:creator opf:role="nrt">Helen Phillips (Nanny)</dc:creator>
+        <dc:creator opf:role="nrt">Laura Rollins (Umbriel)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Steven Taylor thought he'd left a life of adventure behind when he said goodbye to the Doctor and forged his future as the leader of a world. But decades later, when a broken and grieving Steven awakes aboard a mysterious spacecraft, terror is close at hand.
+
+What is the purpose of the ship's voyage and why has it collected a random group from different points in time and space? What sinister presence lurks within the darkness that smothers its corridors? And can Steven really trust the new arrival claiming to be the Doctor...?</dc:description>
+    </metadata>
+</package>

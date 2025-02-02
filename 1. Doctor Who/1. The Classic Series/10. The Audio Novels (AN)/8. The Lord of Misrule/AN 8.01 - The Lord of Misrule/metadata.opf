@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Lord of Misrule</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2025-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">n/a</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Audio Novels"/>
+        <meta name="calibre:series_index" content="7"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Paul Morris</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jon Culshaw (Narrator) </dc:creator>
+
+        <!-- Description -->
+        <dc:description>
+
+In 1901, something strange haunts the streets of London. A mysterious carriage appears from nowhere and seems to spirit away the unwary. But to where?
+
+When Romana is taken by the carriage, the Doctor teams up with that other redoubtable pair, Jago and Litefoot, to find her. Their investigations lead them to discover an alien plot that could alter history.
+
+And before the Doctor can stop it, he must first save his friend...</dc:description>
+    </metadata>
+</package>

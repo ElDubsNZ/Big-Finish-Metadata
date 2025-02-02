@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>1901: The Unknowing Mirror</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2025-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-608-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Zygon Century - Series 1 - Infiltration"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Jonathan Barnes</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Patricia Allison (Edith Walker)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Russell (Vorvoren)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Troughton (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Kymberley Cochrane (Elowen Trewella / Zytar)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Forbes (Father Felix Cromwell)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Keeble (Vernon)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Kiteley (Archie)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Lilly (Harriet / Jorost)</dc:creator>
+        <dc:creator opf:role="nrt">Joshua Manning (Caldwell)</dc:creator>
+        <dc:creator opf:role="nrt">Joanna Monro (Krozon)</dc:creator>
+        <dc:creator opf:role="nrt">James Northcote (Freddie Trewella)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Palfrey (Mrs Maloney)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Pegg (Professor Vennix)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Rigby (Herbert Scott)</dc:creator>
+        <dc:creator opf:role="nrt">Roger Ringrose (Dawson)</dc:creator>
+        <dc:creator opf:role="nrt">Pip Torrens (Thomas Browne)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In Edwardian London, that scandalous investigator of occult phenomena, Mr Herbert Scott, and his associate, Father Felix Cromwell, are confronted by a case of possession.
+
+A young woman, suffering from unusually vivid dreams, seems also to exhibit signs of a completely separate personality. Another being is speaking through her, a being which claims not to be from Earth at all, a being which calls itself... Zygon.</dc:description>
+    </metadata>
+</package>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Fast Times</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2025-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-935-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fugitive Doctor - Series 1 - Most Wanted"/>
+        <meta name="calibre:series_index" content="1"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Robert Valentine</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jo Martin (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Alice Krige (Cosmogon)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Leah Harvey (Fade)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline King (Baba Yaga)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Myers (Spectral Horseman)</dc:creator>
+        <dc:creator opf:role="nrt">Nneka Okoye (Athelia)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Panting (Spectral Horseman)</dc:creator>
+        <dc:creator opf:role="nrt">Penelope Rawlins (Toshka)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Shad (Vasilisa)</dc:creator>
+        <dc:creator opf:role="nrt">Becky Wright (Milana)</dc:creator>
+        <dc:creator opf:role="nrt">Matt Wycliffe (Sandy Irvine)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>When the mysterious Division tries to arrest their equally mysterious agent, the Doctor, she evades capture and heads out in search of answers... but trouble is never far behind.
+
+Captured by bounty hunters and imprisoned in a maximum-security hulk ship, the Doctor is about to learn that there's no time to stand still when you're a fugitive. And times are about to get very fast indeed.</dc:description>
+    </metadata>
+</package>

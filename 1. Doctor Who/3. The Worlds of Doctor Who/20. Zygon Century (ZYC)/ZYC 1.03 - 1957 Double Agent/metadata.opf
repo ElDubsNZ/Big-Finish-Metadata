@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Doulbe Agent</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2025-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-608-5</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="Zygon Century - Series 1 - Infiltration"/>
+        <meta name="calibre:series_index" content="3"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Trevor Baxendale</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Patricia Allison (Edith Walker)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Russell (Vorvoren)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Troughton (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Kymberley Cochrane (Elowen Trewella / Zytar)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Forbes (Father Felix Cromwell)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Keeble (Vernon)</dc:creator>
+        <dc:creator opf:role="nrt">Tom Kiteley (Archie)</dc:creator>
+        <dc:creator opf:role="nrt">Beth Lilly (Harriet / Jorost)</dc:creator>
+        <dc:creator opf:role="nrt">Joshua Manning (Caldwell)</dc:creator>
+        <dc:creator opf:role="nrt">Joanna Monro (Krozon)</dc:creator>
+        <dc:creator opf:role="nrt">James Northcote (Freddie Trewella)</dc:creator>
+        <dc:creator opf:role="nrt">Lisa Palfrey (Mrs Maloney)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Pegg (Professor Vennix)</dc:creator>
+        <dc:creator opf:role="nrt">Jonathan Rigby (Herbert Scott)</dc:creator>
+        <dc:creator opf:role="nrt">Roger Ringrose (Dawson)</dc:creator>
+        <dc:creator opf:role="nrt">Pip Torrens (Thomas Browne)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>In an England gripped by Cold War paranoia, wounded MI5 operative Caldwell is itching to rejoin the fray abroad.
+
+So why are the service sending him to a remote Cornish island? Can the future of the world really be at stake? Will he be able to complete his mission without falling foul of the hideous monsters stalking the caves? And who exactly is the island's other new arrival: an operative of quite a different kind, known only as the Doctor?</dc:description>
+    </metadata>
+</package>

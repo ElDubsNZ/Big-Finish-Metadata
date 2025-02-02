@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>Five Hundred Ways to Leave Your Lover</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2025-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-647-4</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Classic Series - Special Releases - Classic Doctors, New Monsters - Series 5 - Faithful Friends"/>
+        <meta name="calibre:series_index" content="4"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Tim Foley</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Tom Baker (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sylvester McCoy (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Paul McGann (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Michael Troughton (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Sara Griffiths (Ray)</dc:creator>
+        <dc:creator opf:role="nrt">Frazer Hines (Jamie McCrimmon)</dc:creator>
+        <dc:creator opf:role="nrt">Louise Jameson (Leela)</dc:creator>
+        <dc:creator opf:role="nrt">Wendy Padbury (Zoe Heriot)</dc:creator>
+        <dc:creator opf:role="nrt">Timothy Bentinck (The Monks)</dc:creator>
+        <dc:creator opf:role="nrt">David Carlyle (Colonel Mant)</dc:creator>
+        <dc:creator opf:role="nrt">Charlie Condou (Chris)</dc:creator>
+        <dc:creator opf:role="nrt">Jason Forbes (Darnley / Soldier 2)</dc:creator>
+        <dc:creator opf:role="nrt">Amber Grappy (Helier / Mutation / Soldier 3)</dc:creator>
+        <dc:creator opf:role="nrt">Peter Guinness (Garzan)</dc:creator>
+        <dc:creator opf:role="nrt">Sheila Hancock (Catherine Peacock / Captain)</dc:creator>
+        <dc:creator opf:role="nrt">Andrew Hayden-Smith (Mark)</dc:creator>
+        <dc:creator opf:role="nrt">Kiziana Jean-Louis (Green / Soldier / Computer)</dc:creator>
+        <dc:creator opf:role="nrt">Selina Jones (Kira)</dc:creator>
+        <dc:creator opf:role="nrt">John Leeson (K9)</dc:creator>
+        <dc:creator opf:role="nrt">Miriam Margolyes (Soothsayer)</dc:creator>
+        <dc:creator opf:role="nrt">Colin McFarlane (John Sloan)</dc:creator>
+        <dc:creator opf:role="nrt">George Naylor (Heppet / Lupari Guards /Krillitane)</dc:creator>
+        <dc:creator opf:role="nrt">Gil Sidaway (Krillitane)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>Chris is on a date. But it isn't working out. Perhaps he'll end it over dinner. Or on a cruise. Or in a lunar spa. But who are these figures in red? And why are they so invested in his relationship?
+
+All of reality might be at stake, and the Monks will pursue Chris wherever he goes - but as long as he manages to break up with his boyfriend, the Doctor, everything might be saved...</dc:description>
+    </metadata>
+</package>

@@ -6,7 +6,7 @@
 [System.Type]::GetType('System.AppContextSwitches').GetField('_blockLongPaths', [System.Reflection.BindingFlags]::Static -bor [System.Reflection.BindingFlags]::NonPublic).SetValue($null, 0)
 
 # Define the root directory to start the search
-$rootDirectory = "\\dubNAS\Documents\Big Finish Test\Big Finish\1. Doctor Who"
+$rootDirectory = Read-Host "Enter the full path to the directory you want to use"
 
 # Get all files in the root directory and its subdirectories
 $files = Get-ChildItem -Path $rootDirectory -Recurse -File

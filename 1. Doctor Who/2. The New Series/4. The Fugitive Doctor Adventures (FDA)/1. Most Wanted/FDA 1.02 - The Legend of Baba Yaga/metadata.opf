@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <!--Details-->
+        <dc:title>The Legend of Baba Yaga</dc:title>
+        <dc:publisher>Big Finish Productions</dc:publisher>
+        <dc:date>2025-01-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-935-3</dc:identifier>
+
+        <!-- Series -->
+        <meta name="calibre:series" content="The Fugitive Doctor - Series 1 - Most Wanted"/>
+        <meta name="calibre:series_index" content="2"/>
+
+        <!--Writers-->
+        <dc:creator opf:role="aut">Rochana Patel</dc:creator>
+
+        <!--Cast-->
+        <dc:creator opf:role="nrt">Jo Martin (The Doctor)</dc:creator>
+        <dc:creator opf:role="nrt">Alice Krige (Cosmogon)</dc:creator>
+        <dc:creator opf:role="nrt">Nicholas Briggs (The Daleks)</dc:creator>
+        <dc:creator opf:role="nrt">Leah Harvey (Fade)</dc:creator>
+        <dc:creator opf:role="nrt">Jacqueline King (Baba Yaga)</dc:creator>
+        <dc:creator opf:role="nrt">Harry Myers (Spectral Horseman)</dc:creator>
+        <dc:creator opf:role="nrt">Nneka Okoye (Athelia)</dc:creator>
+        <dc:creator opf:role="nrt">Paul Panting (Spectral Horseman)</dc:creator>
+        <dc:creator opf:role="nrt">Penelope Rawlins (Toshka)</dc:creator>
+        <dc:creator opf:role="nrt">Sophie Shad (Vasilisa)</dc:creator>
+        <dc:creator opf:role="nrt">Becky Wright (Milana)</dc:creator>
+        <dc:creator opf:role="nrt">Matt Wycliffe (Sandy Irvine)</dc:creator>
+
+        <!-- Description -->
+        <dc:description>On the run from the Time Lords and in serious need of help, the Doctor heads for 17th-century Russia in search of the legendary witch of Slavic folklore... Baba Yaga.
+
+But while trying to gain assistance from this powerful entity, the Doctor finds herself embroiled in events from the most famous of Baba Yaga’s tales when she tries to help a beautiful young woman called Vasilisa retrieve a burning ember to save her family from the bitter Russian winter.
+
+What is real? What is fantasy? And will the Doctor be able to tell the difference in time?</dc:description>
+    </metadata>
+</package>
