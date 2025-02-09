@@ -8,7 +8,7 @@
         <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>
 
         <!-- Series -->
-        <meta name="calibre:series" content="Iris Wildthyme & Friends"/>
+        <meta name="calibre:series" content="Iris Wildthyme &amp; Friends"/>
         <meta name="calibre:series_index" content="3"/>
 
         <!--Writers-->

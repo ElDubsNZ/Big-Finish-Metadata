@@ -4,8 +4,8 @@
         <!--Details-->
         <dc:title>Animal</dc:title>
         <dc:publisher>Big Finish Productions</dc:publisher>
-        <dc:date>2018-11-01</dc:date>
-        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-668-0</dc:identifier>
+        <dc:date>ZZZ No match</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">ZZZ No match</dc:identifier>
 
         <!-- Series -->
         <meta name="calibre:series" content="The Lost Stories - Series 2"/>

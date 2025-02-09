@@ -2,7 +2,7 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
         <!--Details-->
-        <dc:title>The Jago & Litefoot Revival Act 2</dc:title>
+        <dc:title>The Jago &amp; Litefoot Revival Act 2</dc:title>
         <dc:publisher>Big Finish Productions</dc:publisher>
         <dc:date>2017-04-01</dc:date>
         <dc:identifier id="BookId" opf:scheme="ISBN"></dc:identifier>

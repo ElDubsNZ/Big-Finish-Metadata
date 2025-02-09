@@ -2,7 +2,7 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
         <!--Details-->
-        <dc:title>Fate & Fatality</dc:title>
+        <dc:title>Fate &amp; Fatality</dc:title>
         <dc:publisher>Big Finish Productions</dc:publisher>
         <dc:date>2024-08-01</dc:date>
         <dc:identifier id="BookId" opf:scheme="ISBN">978-1-80240-460-9</dc:identifier>

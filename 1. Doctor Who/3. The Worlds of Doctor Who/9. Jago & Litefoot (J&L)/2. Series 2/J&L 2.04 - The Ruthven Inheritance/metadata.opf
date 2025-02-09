@@ -8,7 +8,7 @@
         <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-512-9</dc:identifier>
 
         <!-- Series -->
-        <meta name="calibre:series" content="Jago & Litefoot - Series 2"/>
+        <meta name="calibre:series" content="Jago &amp; Litefoot - Series 2"/>
         <meta name="calibre:series_index" content="4"/>
 
         <!--Writers-->

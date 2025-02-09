@@ -8,7 +8,7 @@
         <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-205-6</dc:identifier>
 
         <!-- Series -->
-        <meta name="calibre:series" content="Jago & Litefoot - Series 11"/>
+        <meta name="calibre:series" content="Jago &amp; Litefoot - Series 11"/>
         <meta name="calibre:series_index" content="3"/>
 
         <!--Writers-->

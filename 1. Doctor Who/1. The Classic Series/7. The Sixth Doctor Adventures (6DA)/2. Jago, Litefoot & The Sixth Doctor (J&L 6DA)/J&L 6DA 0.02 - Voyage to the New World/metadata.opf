@@ -8,7 +8,7 @@
         <dc:identifier id="BookId" opf:scheme="ISBN">978-1-84435-979-0</dc:identifier>
 
         <!-- Series -->
-        <meta name="calibre:series" content="The Sixth Doctor Adventuers - Jago, Litefoot & The Sixth Doctor"/>
+        <meta name="calibre:series" content="The Sixth Doctor Adventuers - Jago, Litefoot &amp; The Sixth Doctor"/>
         <meta name="calibre:series_index" content="2"/>
 
         <!--Writers-->

@@ -8,7 +8,7 @@
         <dc:identifier id="BookId" opf:scheme="ISBN">978-1-83868-617-8</dc:identifier>
 
         <!-- Series -->
-        <meta name="calibre:series" content="The New Adventures of Bernice Summerfield - Volume 7 - Blood & Steel"/>
+        <meta name="calibre:series" content="The New Adventures of Bernice Summerfield - Volume 7 - Blood &amp; Steel"/>
         <meta name="calibre:series_index" content="2"/>
 
         <!--Writers-->

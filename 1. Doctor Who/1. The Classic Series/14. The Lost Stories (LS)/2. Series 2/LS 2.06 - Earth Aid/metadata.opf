@@ -4,8 +4,8 @@
         <!--Details-->
         <dc:title>Earth Aid</dc:title>
         <dc:publisher>Big Finish Productions</dc:publisher>
-        <dc:date>2018-11-01</dc:date>
-        <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78703-668-0</dc:identifier>
+        <dc:date>2003-11-01</dc:date>
+        <dc:identifier id="BookId" opf:scheme="ISBN">n/a</dc:identifier>
 
         <!-- Series -->
         <meta name="calibre:series" content="The Lost Stories - Series 2"/>

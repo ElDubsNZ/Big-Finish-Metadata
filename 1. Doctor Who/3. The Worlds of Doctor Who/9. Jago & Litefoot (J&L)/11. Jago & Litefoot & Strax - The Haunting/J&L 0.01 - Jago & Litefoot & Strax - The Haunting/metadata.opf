@@ -8,7 +8,7 @@
         <dc:identifier id="BookId" opf:scheme="ISBN">978-1-78575-061-8</dc:identifier>
 
         <!-- Series -->
-        <meta name="calibre:series" content="Jago & Litefoot & Strax"/>
+        <meta name="calibre:series" content="Jago &amp; Litefoot &amp; Strax"/>
         <meta name="calibre:series_index" content="1"/>
 
         <!--Writers-->
@@ -24,6 +24,6 @@
         <dc:creator opf:role="nrt">Carolyn Seymour (Mrs Multravers)</dc:creator>
 
         <!-- Description -->
-        <dc:description>Strax, the Sontaran butler to Victorian investigator Vastra and her wife Jenny, suffers a disorienting attack and mistakes Jago & Litefoot for Jenny and Vastra and moves into Litefoot's home. Together, they are on the trail of a creature that is stealing brains, which may or may not be linked to a haunted house in London...</dc:description>
+        <dc:description>Strax, the Sontaran butler to Victorian investigator Vastra and her wife Jenny, suffers a disorienting attack and mistakes Jago &amp; Litefoot for Jenny and Vastra and moves into Litefoot's home. Together, they are on the trail of a creature that is stealing brains, which may or may not be linked to a haunted house in London...</dc:description>
     </metadata>
 </package>
